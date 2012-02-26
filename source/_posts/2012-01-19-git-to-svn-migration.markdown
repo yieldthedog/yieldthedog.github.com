@@ -158,6 +158,14 @@ a shared excel file, which tracked our progress. We created a shell script that 
 - playgrounds suck
 ----------IDEAS-----------
 
+Parallel to the repositories migration we had to train our users on how to master the new tool chain. We knew that we had to provide both command line and gui tutorials, as most of our user base was used to TortoiseSVN. We knew that Git was fundamentally different to SVN, but to our users it was just another VCS. The knowledge base of the users was quite different, so we had to be careful to not leave anybody behind and to not bore others on the other hand.
+
+What we came up with were three training sessions:
+
+- @TODO
+- @TODO
+- @TODO
+
 #Conclusion
 ----------IDEAS-----------
 - same same but different or was it worth the effort?
