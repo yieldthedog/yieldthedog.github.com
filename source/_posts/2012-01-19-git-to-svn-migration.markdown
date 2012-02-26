@@ -114,7 +114,14 @@ git svn clone --authors-prog=author.rb [subversion url]
 
 ##Ignores
 
-Next step is to define standard git ignores for projects and to migrate the existing svn ignores over to git ignores. The [Github gitignore project](https://github.com/github/gitignore), which we disected, combined, stripped,… until we had a default gitignore file. With these two commands we added the defaults and extracted the subversion ignores into a gitignore file:
+Next step is to define standard git ignores for projects and
+to migrate the existing svn ignores over to git ignores. We
+got a lot of help from the [Github gitignore
+project](https://github.com/github/gitignore), which we
+disected, combined, stripped,… until we had a default
+gitignore file. With these two commands we added the
+defaults and extracted the subversion ignores into a
+gitignore file:
 
 {% codeblock lang:bash %}
 # generate gitignore file
@@ -126,7 +133,23 @@ git add .gitignore
 git commit -m'added gitignores'
 {% endcodeblock %}
 
+##Wrong file structure
 
+The last point was not to be easily resolved. Some SVN
+Repositories had a standard layout (trunk, branches, tags),
+others just had all code in the root folder without the
+standard layout. In most cases we were not interested in
+migrating branches and tags, because those were seldom used.
+So it came down to having a trunk or not.
+
+If there is a trunk present you can tell git to use this as
+the root directory with `--trunk=trunk`.
+
+##Wrapping things up
+
+Now that we had everything in place, we could start the
+migration. Communication paths were installed via email and
+a shared excel file, which tracked our progress. We created a shell script that automated most of the steps listed above. Still the migration had to be down partly manualy, which was tedious work.
 
 #Migrate your users
 ----------IDEAS-----------
