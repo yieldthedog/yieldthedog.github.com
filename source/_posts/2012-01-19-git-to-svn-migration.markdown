@@ -12,36 +12,39 @@ categories:
 
 
 ##Starting point
-----------IDEAS-----------
-- migrate to what? DVCS for sure, but which?
-  -> git, bazar, mercurial => why git
-- Statistics: How many projects, users
-- git knowledge of users
-- OS mix: windows / mac / Linux
-- user mix: command line geeks and gui freaks
-----------IDEAS-----------
+    ----------IDEAS-----------
+    - migrate to what? DVCS for sure, but which?
+      -> git, bazar, mercurial => why git
+    - Statistics: How many projects, users
+    - git knowledge of users
+    - OS mix: windows / mac / Linux
+    - user mix: command line geeks and gui freaks
+    ----------IDEAS-----------
 
 ##Git server setup
-----------IDEAS-----------
-- setups we considered
-  * gitosis
-  * gitolite
-  * gitorious
-- how to configure and adapt gitorious
-----------IDEAS-----------
+    ----------IDEAS-----------
+    - setups we considered
+      * gitosis
+      * gitolite
+      * gitorious
+    - how to configure and adapt gitorious
+    ----------IDEAS-----------
 
 
 ##Migration process 
-----------IDEAS-----------
-- not possible to do all at once, only incremental steps
-- why it's easier to include the history
-- what is possible to automate?
-- branches, tags?
-- different svn layouts (trunk, branches, tags vs multiple projects in one trunk)
-- scripts we used
-- svn:ignore -> gitignore + github/gitignore
-  * different setup for .NET, PHP, Ruby, HTML
-----------IDEAS-----------
+    ----------IDEAS-----------
+    - not possible to do all at once, only incremental steps
+    - why it's easier to include the history
+    - what is possible to automate?
+    - branches, tags?
+    - different svn layouts (trunk, branches, tags vs multiple projects in one trunk)
+    - scripts we used
+    - svn:ignore -> gitignore + github/gitignore
+      * different setup for .NET, PHP, Ruby, HTML
+    ----------IDEAS-----------
+    ----------Missing---------
+    - downloadable shell scripts
+    ----------Missing---------
 
 Because our code base is that large, a migration over the
 weekend was not possible. It had to be done in chunks. First
@@ -152,11 +155,11 @@ migration. Communication paths were installed via email and
 a shared excel file, which tracked our progress. We created a shell script that automated most of the steps listed above. Still the migration had to be down partly manualy, which was tedious work.
 
 #Migrate your users
-----------IDEAS-----------
-- gui tools needed
-- small incremental steps
-- playgrounds suck
-----------IDEAS-----------
+    ----------IDEAS-----------
+    - gui tools needed
+    - small incremental steps
+    - playgrounds suck
+    ----------IDEAS-----------
 
 Parallel to the repositories migration we had to train our users on how to master the new tool chain. We knew that we had to provide both command line and gui tutorials, as most of our user base was used to TortoiseSVN. We knew that Git was fundamentally different to SVN, but to our users it was just another VCS. The knowledge base of the users was quite different, so we had to be careful to not leave anybody behind and to not bore others on the other hand.
 
@@ -167,11 +170,33 @@ What we came up with were three training sessions:
 - @TODO
 
 #Conclusion
-----------IDEAS-----------
-- same same but different or was it worth the effort?
-- are things better or worse?
-- what is missing now?
-- external collaboration
-----------IDEAS-----------
+    ----------IDEAS-----------
+    - same same but different or was it worth the effort?
+    - are things better or worse?
+    - what is missing now?
+    - external collaboration
+    - Stats
+      7 Jahre
+      14 GB Daten
+      83 User
+      86 Projekte
+      405 Repositories
+      30103 Commits
+      586756 Files
+      Viele viele LOCs
+    ----------IDEAS-----------
 
+After everything was done, we had a little time to
+contemplate and dig for some statistics. We migrated 7 years
+of versioned code, 14 GB of data, 83 Users, 86 projects with
+a total of 86 repositories.  30103 Commits were moved to
+Git, 586756 files, and many many lines of code.
 
+##Was it worth the effort?
+
+Hopefully time will prove us right. Surely we get some good feedback, but especially for non technical people the learning curve is a bit steep:
+
+> - Did you push your changes?
+> - Sure. I pressed the commit button.
+
+On the other hand people were using feature branches from day one, the started exploring advanced features by them selfs. Of course they sometimes f***ed up. Who cares? Shit happens everyday and there are less unresolvable problems with Git, than there were with SVN.
