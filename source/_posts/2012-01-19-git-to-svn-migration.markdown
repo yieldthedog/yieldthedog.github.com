@@ -115,7 +115,7 @@ Now we can call `git svn clone` with this authors.rb file like this:
 git svn clone --authors-prog=author.rb [subversion url]
 {% endcodeblock %}
 
-##Ignores
+###Ignores
 
 Next step is to define standard git ignores for projects and
 to migrate the existing svn ignores over to git ignores. We
@@ -136,7 +136,7 @@ git add .gitignore
 git commit -m'added gitignores'
 {% endcodeblock %}
 
-##Wrong file structure
+###Wrong file structure
 
 The last point was not to be easily resolved. Some SVN
 Repositories had a standard layout (trunk, branches, tags),
@@ -148,13 +148,13 @@ So it came down to having a trunk or not.
 If there is a trunk present you can tell git to use this as
 the root directory with `--trunk=trunk`.
 
-##Wrapping things up
+###Wrapping things up
 
 Now that we had everything in place, we could start the
 migration. Communication paths were installed via email and
 a shared excel file, which tracked our progress. We created a shell script that automated most of the steps listed above. Still the migration had to be down partly manualy, which was tedious work.
 
-#Migrate your users
+##Migrate your users
     ----------IDEAS-----------
     - gui tools needed
     - small incremental steps
@@ -169,7 +169,7 @@ What we came up with were three training sessions:
 - @TODO
 - @TODO
 
-#Conclusion
+##Conclusion
     ----------IDEAS-----------
     - same same but different or was it worth the effort?
     - are things better or worse?
