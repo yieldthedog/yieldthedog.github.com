@@ -14,14 +14,11 @@ categories:
 
 ##The problem
     
-You want to migrate a MSSql database to MySql. You have rather large schema and don't want to do it by hand. 
+You want to migrate a MSSql database to MySql. You have rather large schema and don't want to do it by hand.
 
 
 ##Possible solutions
 
-    ------IDEAS-----
-    MySql Migration Toolkit
-    ODBC Export
     ------TODOS-----
     - link tools & solutions
     ----------------
@@ -33,15 +30,21 @@ The MySql Migration Toolkit look promising at first. You can use a comfortable G
 
 ###MySql ODBC Connector
 
-
+When you install the ODBC Connector for MySql theory claims, that you can select it from the SQL Management Studio to export data to it. However, reality looked a bit different, when I tried it, there was no MySql entry. Bad luck.
 
 ##What worked
 
-    ------IDEAS-----
-    Rails Schema dump + load
-    PHP to connect to mssql and mysql and transfer data
-    ------IDEAS-----
+After 6 hours of trail and error and no success with any tools, I gave up.
 
+As the project was in Railsd, I used `rake db:schema:dump` to get the schema definition from the MSSql server in Ruby code. Afterwards I changed the connection to the MySql server and tried `rake db:schema:load`. As expected I had no luck, but with the big difference, that now I had some code that I could mangle and massage.
+
+There were only problems that were solved in mere seconds:
+
+  - an index on varchar(9999)
+  - unsupported type, where another one could be used
+  - ...
+
+So now I had my schema ready in MySql waiting for some data. As I'm a long time PHP programmer, too, I knew that PHP lets you easily connect to MySql and MSSql with nearly the same patterns. So I gave it a try and came up with this console script:
 
 {% codeblock lang:ruby %}
 <?php
@@ -96,3 +99,7 @@ foreach($tables as $table){
 }
 
 {% endcodeblock %}
+
+Probably this is not the most performant way to migrate, simply due to the fact that there are no batch inserts, but it let me easily see the errors and the progress I was making. The whole process - all errors included - took me less time and energy, that I wasted on research. Being a programmer I normally favor coding over tools. Sometimes the effort isn't worth it, this time it was.
+
+I believe that my approach should work on any project and is not bound to MySql and MSSql. The boundaries are the possible database connectors that are available for PHP and Ruby (Rails).
