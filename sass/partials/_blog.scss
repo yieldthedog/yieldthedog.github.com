@@ -29,8 +29,12 @@ article {
     }
   }
   h2 {
+	color: $header-bg;
     padding-top: 0.8em;
     background: $img-border top left repeat-x;
+  }
+  h3 {
+	  font-weight: normal;
   }
   .entry-content & h2:first-child, header + h2 { padding-top: 0; }
   h2:first-child, header + h2 { background: none; }
