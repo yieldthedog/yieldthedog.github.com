@@ -22,9 +22,17 @@ You want to migrate a MSSql database to MySql. You have rather large schema and 
     ------IDEAS-----
     MySql Migration Toolkit
     ODBC Export
-    ------IDEAS-----
+    ------TODOS-----
+    - link tools & solutions
+    ----------------
 
 ###Mysql Migration Toolkit
+
+The MySql Migration Toolkit look promising at first. You can use a comfortable GUI to select what you want to migrate. The first problems arose, when the toolkit tried to migrate the schema. Obviously my MSSql schema was not compatible with MySql, I found no way to manually correct this errors, so this was a dead end. I looked to me that the work on this tool has stopped, so maybe that's a reason it failed.
+
+
+###MySql ODBC Connector
+
 
 
 ##What worked
