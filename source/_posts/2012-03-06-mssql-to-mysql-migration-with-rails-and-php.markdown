@@ -21,18 +21,18 @@ You want to migrate a MSSql database to MySql. You have rather large schema and 
 
 ###Mysql Migration Toolkit
 
-The [MySql Migration Toolkit](http://dev.mysql.com/doc/migration-toolkit/en/:) look promising at first. You can use a comfortable GUI to select what you want to migrate. The first problems arose, when the toolkit tried to migrate the schema. Obviously my MSSql schema was not compatible with MySql, I found no way to manually correct this errors, so this was a dead end. I looked to me that the work on this tool has stopped, so maybe that's a reason it failed.
+The [MySql Migration Toolkit](http://dev.mysql.com/doc/migration-toolkit/en/:) look promising at first. You can use a comfortable GUI to select what you want to migrate. The first problems arose, when the toolkit tried to migrate the schema. Obviously my MSSql schema was not compatible with MySql, I found no way to manually correct this errors, so this was a dead end. I have the feeling that the work on this tool has stopped, so maybe that's a reason it failed.
 
 
 ###MySql ODBC Connector
 
-When you install the [ODBC Connector](http://dev.mysql.com/downloads/connector/odbc/) for MySql, theory claims, that you can select it from the SQL Management Studio to export data to it. However, reality looked a bit different, when I tried it, there was no MySql entry. Bad luck.
+When you install the [ODBC Connector](http://dev.mysql.com/downloads/connector/odbc/) for MySql, theory claims, that you can select it from the SQL Management Studio to export data to it. However, the reality was a bit different. When I tried it, there was no MySql entry. Bad luck.
 
 ##What worked
 
-After 6 hours of trail and error and no success with any tools, I gave up.
+After 6 hours of trial and error and no success with any tools, I gave up.
 
-As the project was in Railsd, I used `rake db:schema:dump` to get the schema definition from the MSSql server in Ruby code. Afterwards I changed the connection to the MySql server and tried `rake db:schema:load`. As expected I had no luck, but with the big difference, that now I had some code that I could mangle and massage.
+As the project was based on Rails, I used `rake db:schema:dump` to get the schema definition from the MSSql server in Ruby code. Afterwards I changed the connection to the MySql server and tried `rake db:schema:load`. As expected I had no luck, but with the big difference, that now I had some code that I could mangle and massage.
 
 There were only problems that were solved in mere seconds:
 
@@ -96,6 +96,6 @@ foreach($tables as $table){
 
 {% endcodeblock %}
 
-Probably this is not the most performant way to migrate, simply due to the fact that there are no batch inserts, but it let me easily see the errors and the progress I was making. The whole process - all errors included - took me less time and energy, that I wasted on research. Being a programmer I normally favor coding over tools. Sometimes the effort isn't worth it, this time it was.
+Probably this is not the most performant way to migrate, simply due to the fact that there are no batch inserts, but it lets me easily monitor  errors and progress. The whole process - all errors included - took me less time and energy, that I wasted on research. Being a programmer I normally favor coding over tools. Sometimes the effort isn't worth it, this time it was.
 
-I believe that my approach should work on any project and is not bound to MySql and MSSql. The boundaries are the possible database connectors that are available for PHP and Ruby (Rails).
+My approach should work on any project and is not bound to MySql and MSSql. The solution is only limited by the database connectors that are available for PHP and Ruby (Rails).
