@@ -1,0 +1,51 @@
+---
+layout: post
+title: "Interesting Thingys #7"
+date: 2012-03-15 08:54
+comments: true
+categories: "Interesting-Thingys"
+published: false
+---
+
+> _Interesting Thingys_ is a gazette in the blog that summarizes a week of blog articles, links, specifications, demos, news or more general "thingys" that we stumble upon in our journey through the world wide web.
+
+## HTML5/CSS
+- [presentation frameworks using javascript + css3](http://zoomzum.com/6-best-html5css3-presentation-frameworks/)
+- [Old but still worthy to read: web-worker in HTML5](http://cggallant.blogspot.com/2010/08/introduction-to-html-5-web-workers.html)
+
+
+## Mobile
+- [Short description of "viewport" meta tag und how mobile-browser scale](http://johnkpaul.tumblr.com/post/18681089281/scale-to-mobile-browser-with-pictures)
+
+
+## Allgemein
+- [Stack Overflow answer to a Bit-Shifting question...](http://stackoverflow.com/questions/141525/absolute-beginners-guide-to-bit-shifting)
+- [Little tutorial how to visualize SSH-Attacks](http://www.wallix.org/2012/02/29/pylogsparser-visualizing-ssh-attacks-in-video/)
+
+
+## Ruby
+- [Ruby/Rails Patterns of Github](http://zachholman.com/talk/ruby-patterns)
+- [Short "How to" that describes how Egor Homakov (watch the image on the right) "hacked" Github (Rails know how needed)](http://homakov.blogspot.com/2012/03/how-to.html)
+
+
+## Javascript
+- [CoffeeScript meets Physics](http://soulwire.co.uk/coffeephysics/)
+- [CoffeeScript meets Physics 2](http://badassjs.com/post/18503583619/coffeephysics-a-fast-new-physics-engine-written-in)
+- [A web stack framework for NodeJS (with CoffeeScript, Jasmine, Stylus .. Plus MongoDB & Redis)](http://towerjs.org/)
+- [How to manage node.js dependencies using Shrinkwrap](http://blog.nodejs.org/2012/02/27/managing-node-js-dependencies-with-shrinkwrap/)
+- [Library for Pub/Sub in Javascript... (the observer pattern)](http://radio.uxder.com/)
+
+
+## Tools
+- [Web Based IRC Client](https://github.com/thedjpetersen/subway)
+- [Unix Tools: cat](http://www.in-ulm.de/~mascheck/various/uuoc/)
+- [Article about the new Firefox Developer Tools](http://www.andismith.com/blog/2012/02/firefox-developer-tools/)
+
+
+## Design
+- [Data Visualization in WebApps (Presentation)](http://speakerdeck.com/u/destraynor/p/designing-dashboards-data-visualisations-in-web-apps)
+- [Nice Article about the design process fof an iPhone App (Example used: SharyPic App)](http://sachagreif.com/making-of-sharypic-for-iphone/)
+
+
+## Fun (... If only)
+- [Are you a "BroGrammer"?](http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2012/03/02/BUIO1NFAMI.DTL)
