@@ -15,9 +15,9 @@ The name "yield the dog" was born/invented after a couple of beers by combining 
 ### About Christoph
 ### About Michael
 ### About Thomas
-Thomas is a developer specialized in JavaScript, Ruby, HTML, CSS and PHP. He is interested in Node.JS, NoSQL, Vim, Git, productivity improvements and clean coding practices.
-
-You can find him at [@thomaspeklak](https://twitter.com/thomaspeklak), [github](https://github.com/thomaspeklak), [coderwall](http://coderwall.com/thomaspeklak), [stackoverflow](http://stackoverflow.com/users/951607/topek)
+> Thomas is a developer specialized in JavaScript, Ruby, HTML, CSS and PHP. He is interested in Node.JS, NoSQL, Vim, Git, productivity improvements and clean coding practices.
+>
+> You can find him at [@thomaspeklak](https://twitter.com/thomaspeklak), [github](https://github.com/thomaspeklak), [coderwall](http://coderwall.com/thomaspeklak), [stackoverflow](http://stackoverflow.com/users/951607/topek)
 
 ## Disclaimer
 This policy is valid from 15 March 2012
