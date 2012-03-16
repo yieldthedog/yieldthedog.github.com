@@ -26,28 +26,31 @@ C# and C++ took the **compile** time approach, Java for example took the **runti
 
 What would you expect the following code to output?
 
-    public class Counter<T>
+{% codeblock lang:csharp %}
+public class Counter<T>
+{
+    private static int Count;
+
+    public int Increase()
     {
-        private static int Count;
-
-        public int Increase()
-        {
-            Count+=1;
-            return Count;
-        }
+        Count+=1;
+        return Count;
     }
+}
 
-    private static void IncreaseCounters()
-    {
-        var intCounter = new Counter<int>();
-        var longCounter= new Counter<long>();
+private static void IncreaseCounters()
+{
+    var intCounter = new Counter<int>();
+    var longCounter= new Counter<long>();
 
-        var firstCount = intCounter.Increase();
-        Console.WriteLine("FirstCount {0}", firstCount);
+    var firstCount = intCounter.Increase();
+    Console.WriteLine("FirstCount {0}", firstCount);
 
-        var secondCount = longCounter.Increase();
-        Console.WriteLine("SecondCount {0}", secondCount);
-    }
+    var secondCount = longCounter.Increase();
+    Console.WriteLine("SecondCount {0}", secondCount);
+}
+
+{% endcodeblock %}
 
 But the output is:
 
