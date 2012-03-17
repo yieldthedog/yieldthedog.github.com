@@ -24,7 +24,7 @@ Is translated to that code fragment by the compiler:
     String someString = (String)strings[0]:
 {% endcodeblock %}
 
-The other approach to implement generics is a **compile** time approach where the compiler creates dedicated sub classes for each generic reference. That means the compiler would create a sub class of List for a List&lt;String&gt; and a List&lt;int&gt; and so on. The compiler created sub classes derive from List&lt;T&gt; but a List&lt;int&gt; cannot be assigned to a List&lt;String&gt;. More general even for class B that derives from A a List&lt;B&gt; could not be assigned to a List&lt;A&gt; reference!
+The other approach to implement generics is a **compile** time approach where the compiler creates dedicated sub classes for each generic reference. That means the compiler would create a sub class of List for a `List<String>` and a `List<int>` and so on. The compiler created sub classes derive from `List<T>` but a `List<int>` cannot be assigned to a `List<String>`. More general even for class B that derives from A a `List<B>` could not be assigned to a `List<A>` reference!
 
 C# and C++ took the **compile** time approach, Java for example took the **runtime** approach. While the **compile** time approach has some performance benefits compared to the **runtime** approach, the runtime approach is more flexible and does not lead to the awkwardness that I want to demonstrate now.
 
@@ -61,6 +61,6 @@ But the output is:
     FirstCount 1
     SecondCount 1
  
-As stated above, the C# compiler generates two classes for the **Counter** class, one class **Counter&lt;int&gt;** and one **Counter&lt;long&gt;** class. These two classes do not share the same static **Count** field and so the consequence is that you have one **Count** field in your code but get two static fields created by the compiler.
+As stated above, the C# compiler generates two classes for the **Counter** class, one class **Counter<int>** and one **Counter<long>** class. These two classes do not share the same static **Count** field and so the consequence is that you have one **Count** field in your code but get two static fields created by the compiler.
 
 
