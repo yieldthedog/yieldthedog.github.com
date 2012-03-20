@@ -10,7 +10,7 @@ published: false
 > _Interesting Thingys_ is a gazette in the blog that summarizes a week of blog articles, links, specifications, demos, news or more general "thingys" that we stumble upon in our journey through the world wide web.
 
 ## Android (+Ruby)
-- [Ruby on Android device via Ruboto... a little tutorial](http://rubysource.com/ruboto-rubys-and-androids-first-born/)
+- [Ruby on Android device via Ruboto](http://rubysource.com/ruboto-rubys-and-androids-first-born/) - ... a little tutorial.
 
 
 ## CSS
@@ -18,33 +18,33 @@ published: false
 
 
 ## Mobile Development / Industry
-- [Article about Instagram und why they do not offer an Android App](http://gizmodo.com/5878942)
+- [Article about Instagram](http://gizmodo.com/5878942) - why they do not offer an Android App.
 
 
 ## JavaScript
-- [Page-Turn animation for HTML](http://www.turnjs.com)
-- [bind(), live(), delegate() & on() ... event-binding with jQuery: differences, pitfalls and performance killer](http://www.elijahmanor.com/2012/02/differences-between-jquery-bind-vs-live.html)
-- [modernizr Supercharged .. v2.5 released!](http://www.modernizr.com/news/modernizr-25)
-- [A terminal for your browser (node.js, socket.io, express)](https://github.com/chjj/tty.js)
+- [turnjs](http://www.turnjs.com) - Page-Turn animation for HTML.
+- [event-binding with jquery](http://www.elijahmanor.com/2012/02/differences-between-jquery-bind-vs-live.html) - bind(), live(), delegate() & on() ... event-binding with jQuery: differences, pitfalls and performance killer.
+- [modernizr Supercharged](http://www.modernizr.com/news/modernizr-25) -  v2.5 released!.
+- [tty.js](https://github.com/chjj/tty.js) - A terminal for your browser (node.js, socket.io, express).
 
 
 ## Ruby
-- [Ruby trick shots... 24 Ruby tricks you did not know about... Nice!](http://rubyreloaded.com/trickshots/)
+- [Ruby trick shots](http://rubyreloaded.com/trickshots/) - 24 Ruby tricks you did not know about... Nice!.
 
 
 ## Databases
-- [Redis is a key-value store for advanced data structure like strings, hashes, lists, sets, etc .. Try it in your browser!](http://try.redis-db.com/)
-- ["The Redis Manifesto"... Statement about Redis and Software Development: "code is like a poem" &amp; "we optimize for joy"](http://antirez.com/post/redis-manifesto.html)
+- [try redis!](http://try.redis-db.com/) - Redis is a key-value store for advanced data structure like strings, hashes, lists, sets, etc .. Try it in your browser!.
+- ["The Redis Manifesto"](http://antirez.com/post/redis-manifesto.html) - Statement about Redis and Software Development: "code is like a poem" &amp; "we optimize for joy".
 
 
 ## Git
-- [visualize git-log in a calendar-view (&amp; excel)](http://blog.edgeyo.com/2012/02/git-log-in-calendar-view/)
+- [visualize git-log](http://blog.edgeyo.com/2012/02/git-log-in-calendar-view/) -  in a calendar-view (&amp; excel).
 
 
 ## Programming
-- [List of programming/startup specific podcasts](http://designpepper.com/podcasts-for-hackers)
+- [podcasts for hackers](http://designpepper.com/podcasts-for-hackers) - List of programming/startup specific podcasts.
 - [programming anecdotes from game developers](http://www.dodgycoder.net/2012/02/coding-tricks-of-game-developers.html)
 
 
 ## Fun/physics
-- ["How to fly a Soyuz Space Capsule"... a developer should be able to do that! ;)](http://jalopnik.com/5883458/how-to-fly-a-soyuz-space-capsule)
+- ["How to fly a Soyuz Space Capsule"](http://jalopnik.com/5883458/how-to-fly-a-soyuz-space-capsule) - ... a developer should be able to do that! ;).
