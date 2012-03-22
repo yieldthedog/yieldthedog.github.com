@@ -29,7 +29,6 @@ published: true
 - [VIM for the iPad.](http://applidium.com/en/applications/vim/) -  _Useful_: Nope. _Geeky_: Yep!
 - [Android Terminal IDE.](https://market.android.com/details?id=com.spartacusrex.spartacuside) -  _Useful_: Yep. _Geeky_: Yep!
 
-
 ### JavaScript/CSS
 - [The "Hello World" of Web-Programming](http://blog.james-carr.org/2012/01/16/blog-rolling-with-mongodb-node-js-and-coffeescript/) -  How to build a Blog App using NodeJS, MongoDB & CoffeeScript (using a BDD approach).
 - [thorax](http://walmartlabs.github.com/thorax/) - Application Framework for  Backbone Apps. (including underscore, zepto, handlebars, stylus, ...).
