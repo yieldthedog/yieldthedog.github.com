@@ -4,7 +4,7 @@
   <title><![CDATA[yield the dog]]></title>
   <link href="http://yieldthedog.github.com/atom.xml" rel="self"/>
   <link href="http://yieldthedog.github.com/"/>
-  <updated>2012-01-13T11:47:51+01:00</updated>
+  <updated>2012-03-22T16:39:54+01:00</updated>
   <id>http://yieldthedog.github.com/</id>
   <author>
     <name><![CDATA[yield the dog]]></name>
@@ -14,29 +14,441 @@
 
   
   <entry>
-    <title type="html"><![CDATA[new-post]]></title>
-    <link href="http://yieldthedog.github.com/blog/2012/01/13/new-post/"/>
-    <updated>2012-01-13T11:43:00+01:00</updated>
-    <id>http://yieldthedog.github.com/blog/2012/01/13/new-post</id>
-    <content type="html"><![CDATA[<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, &#8230;</p>
+    <title type="html"><![CDATA[Interesting Thingys #9]]></title>
+    <link href="http://yieldthedog.github.com/blog/2012/03/22/interesting-thingys-9/"/>
+    <updated>2012-03-22T10:35:00+01:00</updated>
+    <id>http://yieldthedog.github.com/blog/2012/03/22/interesting-thingys-9</id>
+    <content type="html"><![CDATA[<h3>HTML5</h3>
 
-<blockquote><p>knowing that you do things right but being not 100% sure is mastery. being 100% sure is arrogance</p><footer><strong>@saintedlama</strong> <cite><a href='https://twitter.com/#!/saintedlama/status/134772378629713920'>twitter.com/#!/saintedlama/&hellip;</a></cite></footer></blockquote>
+<ul>
+<li><a href="http://www.hunterdavis.com/resume/tunerdemo/tuner.html">Strobe Tuner</a> - a <a href="http://en.wikipedia.org/wiki/Fast_Fourier_transform">FFT</a>/Pitch Detection demo using HTML5 Audio/webGL.</li>
+</ul>
 
 
+<h3>Javascript</h3>
+
+<ul>
+<li><a href="http://accidentaltechnologist.com/javascript/7-resources-every-javascript-developer-should-know/">Javascript Resources</a> - .. every javascript developer should know.</li>
+<li><a href="http://joelb.me/scrollpath/">jquery scroll path</a> - a jquery plugin to manipulate the scroll path.</li>
+<li><a href="http://jhollingworth.github.com/bootstrap-wysihtml5/">wysihtml5</a> - wysiwyg meets twitter bootstrap.</li>
+<li><a href="http://hsivaram.com/tech/2012/03/15/preview-impressionist-a-visual-editor-for-impress-js/">Impressionist</a> - a visual editor for impress.js</li>
+</ul>
+
+
+<!-- more -->
+
+
+<h3>C</h3>
+
+<ul>
+<li><a href="http://www.mindscapehq.com/blog/index.php/2012/03/18/what-else-is-new-in-c-5/">C# 5</a> - new stuff in C# 5.</li>
+</ul>
+
+
+<h3>Server / Operating Systems</h3>
+
+<ul>
+<li><a href="http://www.markshuttleworth.com/archives/1072">Ubuntu vs RHEL in enterprise computing</a> - Ubuntu takes over RHEL in enterprise computing.</li>
+<li><a href="https://github.com/h5bp/server-configs">HTML5 Boilerplate - Server Configs</a> - Boilerplate server-configs for IIS, Apache, nginx, lighttpd, node.js, etc</li>
+</ul>
+
+
+<h3>OpenSource</h3>
+
+<ul>
+<li><a href="http://www.softwarequalityconnection.com/2012/03/14-ways-to-contribute-to-open-source-without-being-a-programming-genius-or-a-rock-star/">14 Ways to Contribute to Open Source</a> -  without being a Programming
+Genius or a Rock Star.</li>
+</ul>
+
+
+<h3>CSS</h3>
+
+<ul>
+<li><a href="http://updates.html5rocks.com/2012/03/A-New-Experimental-Feature-style-scoped">Scoped styles</a></li>
+</ul>
+
+
+<h3>Tools</h3>
+
+<ul>
+<li><a href="http://www.devthought.com/2012/03/10/chrome-spdy-indicator/">SPDY indicator for chrome</a></li>
+</ul>
+
+
+<h3>Mobile Development</h3>
+
+<ul>
+<li><a href="http://code.google.com/chrome/mobile/docs/debugging.html">remote debugging for chrome on android</a> - debug chrome for android with the same chrome developer tools you use to debug on your desktop.</li>
+</ul>
+
+
+<h3>Git</h3>
+
+<ul>
+<li><a href="https://github.com/Gazler/githug">Githug</a> - a practical/playful way of learning git.</li>
+</ul>
+
+
+<h3>Presentations / Talks</h3>
+
+<ul>
+<li><a href="http://www.ted.com/talks/avi_rubin_all_your_devices_can_be_hacked.html">Avi Rubin on TED</a> - Avi Rubin &#8220;Every device can be hacked. Your smartphone, car, pacemaker ..&#8221;</li>
+</ul>
+
+
+<h3>Physics</h3>
+
+<ul>
+<li><a href="http://beenposh.tumblr.com/post/19624761395/richard-feynman-lectures-at-cornell-the">Richard Feynman Lectures</a> - .. at Cornell: &#8220;The Character of Physical Law&#8221; (ca 1960s)&#8230; absolutely worth watching.</li>
+</ul>
+
+
+<h3>Fun</h3>
+
+<ul>
+<li><a href="http://www.hendrikvh.com/files/NyanSaverMac.php">nyan cat screensaver</a> - for mac.</li>
+</ul>
 
 ]]></content>
   </entry>
   
   <entry>
-    <title type="html"><![CDATA[test post]]></title>
-    <link href="http://yieldthedog.github.com/blog/2012/01/13/test-post/"/>
-    <updated>2012-01-13T11:34:00+01:00</updated>
-    <id>http://yieldthedog.github.com/blog/2012/01/13/test-post</id>
-    <content type="html"><![CDATA[<h2>This is a test post - you should not read this!</h2>
+    <title type="html"><![CDATA[Interesting Thingys #8]]></title>
+    <link href="http://yieldthedog.github.com/blog/2012/03/13/interesting-thingys-8/"/>
+    <updated>2012-03-13T08:54:00+01:00</updated>
+    <id>http://yieldthedog.github.com/blog/2012/03/13/interesting-thingys-8</id>
+    <content type="html"><![CDATA[<blockquote><p><em>Interesting Thingys</em> is a gazette in the blog that summarizes a week of blog articles, links, specifications, demos, news or more general &#8220;thingys&#8221; that we stumble upon in our journey through the world wide web.</p></blockquote>
 
-<p><span class='pullquote-right' data-pullquote='Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris'>
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-</span></p>
+<h3>Mobile Development</h3>
+
+<ul>
+<li><a href="http://www.sencha.com/blog/announcing-sencha-touch-2">Sencha Touch</a> - a HTML5 Mobile Application Framework, version 2.0 released.</li>
+</ul>
+
+
+<h3>CSS</h3>
+
+<ul>
+<li><a href="http://www.zeldman.com/2012/03/01/replacing-the-9999px-hack-new-image-replacement">Replacing the -9999px hack (aka new image replacement)</a></li>
+<li><a href="http://davidwalsh.name/css4-preview">CSS4 (!) Selectors</a></li>
+<li><a href="http://www.w3.org/TR/2011/WD-selectors4-20110929/">CSS 4 Selectors</a> - the non shortened version</li>
+</ul>
+
+
+<!-- more -->
+
+
+<h3>HTML5</h3>
+
+<ul>
+<li><a href="http://www.scirra.com/arcade/addicting-rotary-games/848/airscape">airscape</a> - Very addicting (&amp; rotating) HTML5 Game.</li>
+</ul>
+
+
+<h3>Ruby / Rails / ASP MVC</h3>
+
+<ul>
+<li><a href="http://chadmoran.com/posts/mass-assignment-vulnerability-isn-quo-t-just-for-rails">mass-assignment vulnerability</a> - Article about Mass-Assignment Vulnerability in Rails (&#8220;Github got hacked!&#8221;) .. Und why other web frameworks are &#8220;vulnarable&#8221; to this weakness too.</li>
+<li><a href="http://www.scottw.com/unwind">unwind</a> - GEM: take a url and figure out what it actually points to .. Useful for all this t.co/bit.ly/etc URLs</li>
+</ul>
+
+
+<h3>Javascript</h3>
+
+<ul>
+<li><a href="http://html2canvas.hertzen.com">html2canvas</a> - Take a screenshot from a webpage.</li>
+<li><a href="https://github.com/osuushi/Smooth.js">smooth.js</a> - Library for smooth array functions, like interpolation, nearest neighbour, linear, cubic, etc .. Neat!</li>
+</ul>
+
+
+<h3>Webserver / Databases</h3>
+
+<ul>
+<li><a href="http://spin.atomicobject.com/2012/02/28/load-balancing-and-reverse-proxying-with-nginx/">Load Balancing &amp; Reverse Proxying with nginx</a></li>
+<li><a href="http://highlyscalable.wordpress.com/2012/03/01/nosql-data-modeling-techniques/">How to model NoSQL databases</a></li>
+</ul>
+
+
+<h3>PHP</h3>
+
+<ul>
+<li><a href="http://www.php.net/archive/2012.php#id2012-03-01-1">PHP 5.4.0 released! </a> - New features: traits, shortened array syntax &amp; a built-in webserver for testing!.</li>
+</ul>
+
+
+<h3>Team Building</h3>
+
+<ul>
+<li><a href="http://speakerdeck.com/u/searls/p/the-mythical-team-month">Small teams go faster</a> - nice presentation.</li>
+</ul>
+
+
+<h3>C</h3>
+
+<ul>
+<li><a href="http://www.chiark.greenend.org.uk/~sgtatham/mp/">Metaprogramming custom control structures in C </a> - .. wow</li>
+</ul>
+
+
+<h3>Command Line</h3>
+
+<ul>
+<li><a href="http://pragprog.com/book/bhtmux/tmux">tmux</a> - screen is dead, long live tmux!</li>
+<li><a href="http://laktek.com/2012/03/12/curl-tips-for-daily-use/">curl</a> - tips&#8217;n&#8217;tricks.</li>
+</ul>
+
+
+<h3>Useful Stuff</h3>
+
+<ul>
+<li><a href="http://dev.umpirsky.com/list-of-all-countries-in-all-languages-and-all-data-formats/">List of Countries in all languages in various formats</a></li>
+<li><a href="http://www.patrick-wied.at/blog/how-to-correctly-use-code-you-didnt-write">How to deal with code you don&#8217;t write - Interesting</a></li>
+</ul>
+
+
+<h3>Fun / Interesting</h3>
+
+<ul>
+<li><a href="http://crankypm.com/2011/03/guest-post-stages-debugging/">The 5 Stages of Debugging</a> -  .. stage 1: &#8220;Ignore it&#8221;</li>
+<li><a href="http://www.catonmat.net/blog/why-vim-uses-hjkl-as-arrow-keys/">why VI uses the hjkl keys as arrow keys</a> - By the way: I want this T-Shirt!</li>
+</ul>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Configure WebStorm to run and debug Mocha tests]]></title>
+    <link href="http://yieldthedog.github.com/blog/2012/03/12/configure-webstorm-to-run-and-debug-mocha-tests/"/>
+    <updated>2012-03-12T13:05:00+01:00</updated>
+    <id>http://yieldthedog.github.com/blog/2012/03/12/configure-webstorm-to-run-and-debug-mocha-tests</id>
+    <content type="html"><![CDATA[<p>First of all I have to admit that I&#8217;m an IDE guy. I&#8217;m using command line tools, Vi , have gnu tools installed on my Windows box and so on. That brings me to the next thing I have to admit: I&#8217;m using Windows.</p>
+
+<p>I love using <a href="http://www.jetbrains.com/webstorm/">WebStorm</a> for tinkering with Node.js. I love WebStorm for two reasons:</p>
+
+<ul>
+<li>The JavaScript syntax completion is somehow crazy clever</li>
+<li>It allows me to stick with my Eclipse keyboard schema</li>
+</ul>
+
+
+<!-- more -->
+
+
+<p>The latter point is particullary important to me, since I&#8217;m using Eclipse and Visual Studio in my job environment and I don&#8217;t have enough brain to remember a third keyboard shortcut schema. I guess, I&#8217;ll blog about that in a future post.</p>
+
+<p>I was using <a href="https://github.com/caolan/nodeunit">Nodeunit</a> for (unit) testing, when I started with Node.js. While Nodeunit works quite fine, it&#8217;s limited to TDD style tests. Some time ago when coding on <a href="http://subsonicproject.com">SubSonic</a> I began to like the endorsed test method name syntax in the project, that uses the word <em>&#8220;should&#8221;</em> somewhere in the test method name. That means a unit test, that was named <code>testSquareRootOfZero</code> would become <code>squareRootOfZeroShouldThrowAnException</code>. This transports more meaning than <code>testSquareRootOfZero</code>. As a side effect of this naming schema I was programming (unit) tests slick like chicken shit. For this reason and for pure curiosity I migrated some unit tests to <a href="http://visionmedia.github.com/mocha/">Mocha</a> that offers a slick BDD style syntax just out of the box.</p>
+
+<p>But I had a slight problem with the Mocha tests in WebStorm: lack of tools support. This does not really matter for writing the tests nor for running the tests (Mocha has a wonderful console test runner!). But when tests start to fail, I want to attach a debugger! And I want to attach my WebStorm debugger with a ton of cool features!</p>
+
+<p>So with a little bit of hand crafting and reading Mocha code it&#8217;s quite easy to attach the WebStorm debugging tools to Mocha tests.</p>
+
+<p><strong>First install Mocha</strong></p>
+
+<pre><code>npm install mocha
+</code></pre>
+
+<p>You may want to install Mocha globally</p>
+
+<pre><code>npm -g install mocha 
+</code></pre>
+
+<p><strong>Next attach the debugger:</strong></p>
+
+<p>In WebStorm via <code>Run-&gt;Edit Configurations</code> add a new configuration and point the &#8220;Path to node App JS File&#8221; to <code>\_mocha</code> (can be found under node_modules in case installed locally or under global modules). Pointing the run configuration to _mocha is quite important since the main mocha binary spawns a new process you cannot connect via a debugger!</p>
+
+<p>Et voilà - Debugging Mocha tests in WebStorm!</p>
+
+<p>Drawbacks: The output is somehow broken, so I&#8217;m using the WebStorm runner for debugging while using the mocha console runner for pretty output and continuous tests via watch.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Interesting Thingys #7]]></title>
+    <link href="http://yieldthedog.github.com/blog/2012/03/05/interesting-thingys-7/"/>
+    <updated>2012-03-05T08:54:00+01:00</updated>
+    <id>http://yieldthedog.github.com/blog/2012/03/05/interesting-thingys-7</id>
+    <content type="html"><![CDATA[<blockquote><p><em>Interesting Thingys</em> is a gazette in the blog that summarizes a week of blog articles, links, specifications, demos, news or more general &#8220;thingys&#8221; that we stumble upon in our journey through the world wide web.</p></blockquote>
+
+<h3>HTML5/CSS</h3>
+
+<ul>
+<li><a href="http://zoomzum.com/6-best-html5css3-presentation-frameworks/">presentation frameworks</a> -  using javascript + css3</li>
+<li><a href="http://cggallant.blogspot.com/2010/08/introduction-to-html-5-web-workers.html">web-worker in HTML5</a> - Old but still worthy to read:</li>
+</ul>
+
+
+<h3>Mobile</h3>
+
+<ul>
+<li><a href="http://johnkpaul.tumblr.com/post/18681089281/scale-to-mobile-browser-with-pictures">scale to mobile browser</a> - Short description of &#8220;viewport&#8221; meta tag und how mobile-browser scale</li>
+</ul>
+
+
+<!-- more -->
+
+
+<h3>Allgemein</h3>
+
+<ul>
+<li><a href="http://stackoverflow.com/questions/141525/absolute-beginners-guide-to-bit-shifting">absolute beginners guide to bit shifting</a> - Stack Overflow answer to a Bit-Shifting question..</li>
+<li><a href="http://www.wallix.org/2012/02/29/pylogsparser-visualizing-ssh-attacks-in-video/">visualize ssh attacks</a> - Little tutorial how to visualize SSH-Attacks.</li>
+</ul>
+
+
+<h3>Ruby</h3>
+
+<ul>
+<li><a href="http://zachholman.com/talk/ruby-patterns">Ruby/Rails Patterns of Github</a></li>
+<li><a href="http://homakov.blogspot.com/2012/03/how-to.html">github got hacked!</a> - Short &#8220;How to&#8221; that describes how Egor Homakov (watch the image on the right) &#8220;hacked&#8221; Github (Rails know-how needed)</li>
+</ul>
+
+
+<h3>Javascript</h3>
+
+<ul>
+<li><a href="http://soulwire.co.uk/coffeephysics/">CoffeeScript meets Physics</a></li>
+<li><a href="http://badassjs.com/post/18503583619/coffeephysics-a-fast-new-physics-engine-written-in">CoffeeScript meets Physics 2</a></li>
+<li><a href="http://towerjs.org/">tower.js</a> - A web stack framework for NodeJS (with CoffeeScript, Jasmine, Stylus .. Plus MongoDB &amp; Redis).</li>
+<li><a href="http://blog.nodejs.org/2012/02/27/managing-node-js-dependencies-with-shrinkwrap/">shrinkwrap</a> - How to manage node.js dependencies using Shrinkwrap</li>
+<li><a href="http://radio.uxder.com/">radio</a> - Library for Pub/Sub in Javascript&#8230; (the observer pattern).</li>
+</ul>
+
+
+<h3>Tools</h3>
+
+<ul>
+<li><a href="https://github.com/thedjpetersen/subway">subwav</a> - Web Based IRC Client</li>
+<li><a href="http://www.in-ulm.de/~mascheck/various/uuoc/">Unix Tools: cat</a></li>
+<li><a href="http://www.andismith.com/blog/2012/02/firefox-developer-tools/">Article about the new Firefox Developer Tools</a></li>
+</ul>
+
+
+<h3>Design</h3>
+
+<ul>
+<li><a href="http://speakerdeck.com/u/destraynor/p/designing-dashboards-data-visualisations-in-web-apps">Data Visualization in WebApps (Presentation)</a></li>
+<li><a href="http://sachagreif.com/making-of-sharypic-for-iphone/">makring of SharyPic for iphone)</a> - Nice Article about the design process fof an iPhone App (Example used: SharyPic App.</li>
+</ul>
+
+
+<h3>Fun (&#8230; If only)</h3>
+
+<ul>
+<li><a href="http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2012/03/02/BUIO1NFAMI.DTL">Are you a &#8220;BroGrammer&#8221;?</a> &#8230;</li>
+</ul>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Interesting Thingys #6]]></title>
+    <link href="http://yieldthedog.github.com/blog/2012/02/27/interesting-thingys-6/"/>
+    <updated>2012-02-27T08:54:00+01:00</updated>
+    <id>http://yieldthedog.github.com/blog/2012/02/27/interesting-thingys-6</id>
+    <content type="html"><![CDATA[<blockquote><p><em>Interesting Thingys</em> is a gazette in the blog that summarizes a week of blog articles, links, specifications, demos, news or more general &#8220;thingys&#8221; that we stumble upon in our journey through the world wide web.</p></blockquote>
+
+<h3>HTML/CSS</h3>
+
+<ul>
+<li><a href="http://html5please.com/">html5please.com</a> - Explore html5 features (categories: supported by browsers, use with caution, fallbacks, polyfills, &#8230;)</li>
+<li><a href="https://github.com/emorikawa/boilerstrap">boilerstrap</a> - Template for HTML5Boilerplate and Twitters Bootstrap CSS (+modernizr, js compression, coffeescript support, sass, less)&#8230; Plus rake-tasks.</li>
+<li><a href="http://tumultco.com/hype/">hype</a> - Interesting editor (GUI) for HTML5/CSS3 Keyframe animations &amp; animated content&#8230; (sorry: mac only)</li>
+<li><a href="http://shinydemos.com/">Shinydemos</a> - New html5 showcase by opera.</li>
+</ul>
+
+
+<!-- more -->
+
+
+<h3>Android + iOS</h3>
+
+<ul>
+<li><a href="http://picture.io/photopickerplus">photopickerplus</a> - free Cross Platform Photopicker Library .. &#8220;pick photo from your favorite photo services, not just from your locally stored ones&#8221;</li>
+</ul>
+
+
+<h3>Javascript</h3>
+
+<ul>
+<li><a href="http://www.sequencejs.com/">sequencejs</a> - Nice jQuery Slider (with parallax effect).</li>
+<li><a href="https://github.com/maccman/ace">ace</a> - Sinatra-style framework for node appications</li>
+<li><a href="http://oscargodson.github.com/EpicEditor/">EpicEditor</a> - A live Markdown Editor in Javascript</li>
+</ul>
+
+
+<h3>Ruby</h3>
+
+<ul>
+<li><a href="https://github.com/paulasmuth/recommendify">recommendify</a> - Recommendation engine in ruby &amp; redis .. Something like &#8220;user that viewed this video also likes&#8230;&#8221;</li>
+<li><a href="https://github.com/fxn/i-told-you-it-was-private">i told you it was private</a> - A ruby module for &#8220;really private methods&#8221;&#8230;</li>
+</ul>
+
+
+<h3>General/Thingys</h3>
+
+<ul>
+<li><a href="http://woolam.org/github-recommendation-service/">github recommendation service</a> - Discover new github repos based on watcher relationships.</li>
+<li><a href="http://xprogramming.com/articles/kate-oneal-what-is-scrum/">what is scrum?!</a> - Long article about &#8220;what is scrum?&#8221; and how to apply it</li>
+<li><a href="http://caines.ca/blog/programming/the-sun-is-setting-on-rails-style-mvc-frameworks/">Server-side MVC Frameworks will die for client-side apps</a> .. apparently.</li>
+</ul>
+
+
+<h3>Tools</h3>
+
+<ul>
+<li><a href="http://www.aboutlinux.info/2005/10/10-seconds-guide-to-bash-shell.html">Bash scripts</a> -  in 10 seconds&#8230; or minutes&#8230; or&#8230;</li>
+<li><a href="http://vimbits.com/">vimbits</a> - upvote/downvote site for vimrc tips&#8217;n&#8217;tricks.</li>
+</ul>
+
+
+<h3>Fun</h3>
+
+<ul>
+<li><a href="http://accessmaincomputerfile.net/">accessmaincomputerfile</a> - A visual study of computer GUI in cinema</li>
+<li><a href="http://visualidiot.com/articles/social-apps">social-apps</a> - The new social app: &#8220;scares off ghosts&#8221; &amp; &#8220;hipster-optimised&#8221; :)</li>
+</ul>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[MSSql to MySql migration with a little help of Rails and PHP]]></title>
+    <link href="http://yieldthedog.github.com/blog/2012/02/22/mssql-to-mysql-migration-with-rails-and-php/"/>
+    <updated>2012-02-22T00:00:00+01:00</updated>
+    <id>http://yieldthedog.github.com/blog/2012/02/22/mssql-to-mysql-migration-with-rails-and-php</id>
+    <content type="html"><![CDATA[<h2>The problem</h2>
+
+<p>You want to migrate a MSSql database to MySql. You have rather large schema and don&#8217;t want to do it by hand.</p>
+
+<!-- more -->
+
+
+<h2>Possible solutions</h2>
+
+<h3>Mysql Migration Toolkit</h3>
+
+<p>The <a href="http://dev.mysql.com/doc/migration-toolkit/en/:">MySql Migration Toolkit</a> look promising at first. You can use a comfortable GUI to select what you want to migrate. The first problems arose, when the toolkit tried to migrate the schema. Obviously my MSSql schema was not compatible with MySql, I found no way to manually correct this errors, so this was a dead end. I have the feeling that the work on this tool has stopped, so maybe that&#8217;s a reason it failed.</p>
+
+<h3>MySql ODBC Connector</h3>
+
+<p>When you install the <a href="http://dev.mysql.com/downloads/connector/odbc/">ODBC Connector</a> for MySql, theory claims, that you can select it from the SQL Management Studio to export data to it. However, the reality was a bit different. When I tried it, there was no MySql entry. Bad luck.</p>
+
+<h2>What worked</h2>
+
+<p>After 6 hours of trial and error and no success with any tools, I gave up.</p>
+
+<p>As the project was based on Rails, I used <code>rake db:schema:dump</code> to get the schema definition from the MSSql server in Ruby code. Afterwards I changed the connection to the MySql server and tried <code>rake db:schema:load</code>. As expected I had no luck, but with the big difference, that now I had some code that I could mangle and massage.</p>
+
+<p>There were only problems that were solved in mere seconds:</p>
+
+<ul>
+<li>an index on varchar(9999)</li>
+<li>unsupported type, where another one could be used</li>
+<li>&#8230;</li>
+</ul>
+
+
+<p>So now I had my schema ready in MySql waiting for some data. As I&#8217;m a long time PHP programmer, too, I knew that PHP lets you easily connect to MySql and MSSql with nearly the same patterns. So I gave it a try and came up with this console script:</p>
 
 <figure class='code'> <div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
 <span class='line-number'>2</span>
@@ -59,47 +471,447 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor 
 <span class='line-number'>19</span>
 <span class='line-number'>20</span>
 <span class='line-number'>21</span>
-</pre></td><td class='code'><pre><code class='ruby'><span class='line'><span class="k">module</span> <span class="nn">ToJson</span>
-</span><span class='line'>  <span class="k">def</span> <span class="nc">self</span><span class="o">.</span><span class="nf">included</span><span class="p">(</span><span class="n">klass</span><span class="p">)</span>
-</span><span class='line'>    <span class="n">klass</span><span class="o">.</span><span class="n">send</span><span class="p">(</span> <span class="ss">:include</span><span class="p">,</span> <span class="no">InstanceMethods</span> <span class="p">)</span>
-</span><span class='line'>    <span class="n">klass</span><span class="o">.</span><span class="n">send</span><span class="p">(</span> <span class="ss">:extend</span><span class="p">,</span> <span class="no">ClassMethods</span> <span class="p">)</span>
-</span><span class='line'>  <span class="k">end</span>
+<span class='line-number'>22</span>
+<span class='line-number'>23</span>
+<span class='line-number'>24</span>
+<span class='line-number'>25</span>
+<span class='line-number'>26</span>
+<span class='line-number'>27</span>
+<span class='line-number'>28</span>
+<span class='line-number'>29</span>
+<span class='line-number'>30</span>
+<span class='line-number'>31</span>
+<span class='line-number'>32</span>
+<span class='line-number'>33</span>
+<span class='line-number'>34</span>
+<span class='line-number'>35</span>
+<span class='line-number'>36</span>
+<span class='line-number'>37</span>
+<span class='line-number'>38</span>
+<span class='line-number'>39</span>
+<span class='line-number'>40</span>
+<span class='line-number'>41</span>
+<span class='line-number'>42</span>
+<span class='line-number'>43</span>
+<span class='line-number'>44</span>
+<span class='line-number'>45</span>
+<span class='line-number'>46</span>
+<span class='line-number'>47</span>
+<span class='line-number'>48</span>
+<span class='line-number'>49</span>
+<span class='line-number'>50</span>
+</pre></td><td class='code'><pre><code class='ruby'><span class='line'><span class="o">&lt;</span><span class="p">?</span><span class="n">php</span>
 </span><span class='line'>
-</span><span class='line'>  <span class="k">module</span> <span class="nn">ClassMethods</span>
-</span><span class='line'>    <span class="k">def</span> <span class="nf">to_json</span>
-</span><span class='line'>      <span class="no">File</span><span class="o">.</span><span class="n">open</span><span class="p">(</span> <span class="no">File</span><span class="o">.</span><span class="n">join</span><span class="p">(</span> <span class="no">RAILS_ROOT</span><span class="p">,</span> <span class="s2">&quot;public&quot;</span><span class="p">,</span> <span class="s2">&quot;json&quot;</span><span class="p">,</span> <span class="s2">&quot;</span><span class="si">#{</span><span class="nb">self</span><span class="o">.</span><span class="n">to_s</span><span class="o">.</span><span class="n">tableize</span><span class="si">}</span><span class="s2">.json&quot;</span><span class="p">),</span> <span class="s2">&quot;w&quot;</span> <span class="p">)</span> <span class="k">do</span> <span class="o">|</span><span class="n">f</span><span class="o">|</span>
-</span><span class='line'>        <span class="n">f</span><span class="o">.</span><span class="n">puts</span> <span class="nb">self</span><span class="o">.</span><span class="n">all</span><span class="o">.</span><span class="n">collect</span> <span class="p">{</span> <span class="o">|</span><span class="n">s</span><span class="o">|</span> <span class="n">s</span><span class="o">.</span><span class="n">to_hash</span> <span class="p">}</span><span class="o">.</span><span class="n">to_json</span>
-</span><span class='line'>      <span class="k">end</span>
-</span><span class='line'>    <span class="k">end</span>
-</span><span class='line'>  <span class="k">end</span>
+</span><span class='line'><span class="c1">#Connection variables :</span>
+</span><span class='line'><span class="vg">$mysql_host</span> <span class="o">=</span> <span class="s1">&#39;&#39;</span><span class="p">;</span>
+</span><span class='line'><span class="vg">$mysql_user</span> <span class="o">=</span> <span class="s1">&#39;&#39;</span><span class="p">;</span>
+</span><span class='line'><span class="vg">$mysql_password</span> <span class="o">=</span> <span class="s1">&#39;&#39;</span><span class="p">;</span>
+</span><span class='line'><span class="vg">$mysql_database</span> <span class="o">=</span> <span class="s1">&#39;&#39;</span><span class="p">;</span>
+</span><span class='line'><span class="vg">$mysql_link</span> <span class="o">=</span> <span class="n">mysql_connect</span><span class="p">(</span>
+</span><span class='line'>  <span class="vg">$mysql_host</span><span class="p">,</span>
+</span><span class='line'>  <span class="vg">$mysql_user</span><span class="p">,</span>
+</span><span class='line'>  <span class="vg">$mysql_password</span><span class="p">);</span>
 </span><span class='line'>
-</span><span class='line'>  <span class="k">module</span> <span class="nn">InstanceMethods</span>
-</span><span class='line'>    <span class="k">def</span> <span class="nf">to_hash</span>
-</span><span class='line'>      <span class="p">{</span> <span class="s1">&#39;id&#39;</span> <span class="o">=&gt;</span> <span class="nb">self</span><span class="o">.</span><span class="n">id</span><span class="p">,</span> <span class="s1">&#39;name&#39;</span> <span class="o">=&gt;</span> <span class="nb">self</span><span class="o">.</span><span class="n">name</span> <span class="p">}</span>
-</span><span class='line'>    <span class="k">end</span>
-</span><span class='line'>  <span class="k">end</span>
+</span><span class='line'><span class="vg">$mssql_host</span> <span class="o">=</span> <span class="s1">&#39;&#39;</span><span class="p">;</span>
+</span><span class='line'><span class="vg">$mssql_user</span> <span class="o">=</span> <span class="s1">&#39;&#39;</span><span class="p">;</span>
+</span><span class='line'><span class="vg">$mssql_password</span> <span class="o">=</span> <span class="s1">&#39;&#39;</span><span class="p">;</span>
+</span><span class='line'><span class="vg">$mssql_database</span> <span class="o">=</span> <span class="s1">&#39;&#39;</span><span class="p">;</span>
+</span><span class='line'><span class="vg">$mssql_link</span> <span class="o">=</span> <span class="n">mssql_connect</span><span class="p">(</span>
+</span><span class='line'>  <span class="vg">$mssql_host</span><span class="p">,</span>
+</span><span class='line'>  <span class="vg">$mssql_user</span><span class="p">,</span>
+</span><span class='line'>  <span class="vg">$mssql_password</span><span class="p">);</span>
 </span><span class='line'>
-</span><span class='line'><span class="k">end</span>
+</span><span class='line'><span class="vg">$tables</span> <span class="o">=</span> <span class="n">array</span><span class="p">(</span><span class="sr">/* LIST THE TABLES YOU WANT TO MIGRATE HERE */</span><span class="p">);</span>
+</span><span class='line'>
+</span><span class='line'><span class="c1">#Select the databases:</span>
+</span><span class='line'><span class="n">mysql_select_db</span><span class="p">(</span><span class="vg">$mysql_database</span><span class="p">);</span>
+</span><span class='line'><span class="n">mssql_select_db</span><span class="p">(</span><span class="vg">$mssql_database</span><span class="p">);</span>
+</span><span class='line'>
+</span><span class='line'><span class="c1">#Migrate the data:</span>
+</span><span class='line'><span class="n">foreach</span><span class="p">(</span><span class="vg">$tables</span> <span class="n">as</span> <span class="vg">$table</span><span class="p">){</span>
+</span><span class='line'>
+</span><span class='line'>  <span class="vg">$m_res</span> <span class="o">=</span> <span class="n">mssql_query</span><span class="p">(</span><span class="s1">&#39;select * from &#39;</span><span class="o">.</span> <span class="vg">$table</span><span class="p">);</span>
+</span><span class='line'>
+</span><span class='line'>  <span class="vg">$j</span> <span class="o">=</span> <span class="mi">0</span><span class="p">;</span>
+</span><span class='line'>
+</span><span class='line'>  <span class="k">while</span><span class="p">(</span><span class="vg">$rec</span> <span class="o">=</span> <span class="n">mssql_fetch_array</span><span class="p">(</span><span class="vg">$m_res</span><span class="p">,</span> <span class="no">MSSQL_NUM</span><span class="p">)){</span>
+</span><span class='line'>      <span class="n">echo</span> <span class="vg">$table</span><span class="p">,</span> <span class="s1">&#39; &gt;&gt; &#39;</span><span class="p">,</span> <span class="vg">$j</span><span class="o">++</span><span class="p">,</span> <span class="s2">&quot;</span><span class="se">\n</span><span class="s2">&quot;</span><span class="p">;</span>
+</span><span class='line'>      <span class="vg">$cols</span> <span class="o">=</span> <span class="n">count</span><span class="p">(</span><span class="vg">$rec</span><span class="p">);</span>
+</span><span class='line'>      <span class="k">for</span><span class="p">(</span><span class="vg">$i</span> <span class="o">=</span> <span class="mi">0</span><span class="p">;</span> <span class="vg">$i</span> <span class="o">&lt;</span> <span class="vg">$cols</span><span class="p">;</span> <span class="vg">$i</span><span class="o">++</span><span class="p">){</span>
+</span><span class='line'>          <span class="k">if</span><span class="p">(</span><span class="n">is_string</span><span class="p">(</span><span class="vg">$rec</span><span class="o">[</span><span class="vg">$i</span><span class="o">]</span><span class="p">)){</span>
+</span><span class='line'>              <span class="vg">$rec</span><span class="o">[</span><span class="vg">$i</span><span class="o">]</span> <span class="o">=</span> <span class="s2">&quot;&#39;&quot;</span> <span class="o">.</span> <span class="n">mysql_real_escape_string</span><span class="p">(</span><span class="vg">$rec</span><span class="o">[</span><span class="vg">$i</span><span class="o">]</span><span class="p">)</span> <span class="o">.</span> <span class="s2">&quot;&#39;&quot;</span><span class="p">;</span>
+</span><span class='line'>          <span class="p">}</span>
+</span><span class='line'>          <span class="k">if</span><span class="p">(</span><span class="n">is_null</span><span class="p">(</span><span class="vg">$rec</span><span class="o">[</span><span class="vg">$i</span><span class="o">]</span><span class="p">))</span> <span class="vg">$rec</span><span class="o">[</span><span class="vg">$i</span><span class="o">]</span> <span class="o">=</span> <span class="s1">&#39;NULL&#39;</span><span class="p">;</span>
+</span><span class='line'>      <span class="p">}</span>
+</span><span class='line'>
+</span><span class='line'>      <span class="vg">$query</span> <span class="o">=</span> <span class="s1">&#39;insert into &#39;</span><span class="o">.</span><span class="vg">$table</span><span class="o">.</span><span class="s2">&quot; values (&quot;</span> <span class="o">.</span> <span class="n">implode</span><span class="p">(</span><span class="s2">&quot;,&quot;</span><span class="p">,</span> <span class="vg">$rec</span><span class="p">)</span> <span class="o">.</span> <span class="s2">&quot;);&quot;</span><span class="p">;</span>
+</span><span class='line'>      <span class="vg">$res</span> <span class="o">=</span> <span class="n">mysql_query</span><span class="p">(</span><span class="vg">$query</span><span class="p">);</span>
+</span><span class='line'>      <span class="k">if</span><span class="p">(</span><span class="o">!</span><span class="vg">$res</span><span class="p">)</span> <span class="n">echo</span> <span class="vg">$query</span><span class="p">,</span> <span class="s1">&#39; &gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt; &#39;</span><span class="p">,</span> <span class="n">mysql_error</span><span class="p">(),</span> <span class="s2">&quot;</span><span class="se">\n</span><span class="s2">&quot;</span><span class="p">;</span>
+</span><span class='line'>  <span class="p">}</span>
+</span><span class='line'>
+</span><span class='line'><span class="p">}</span>
 </span></code></pre></td></tr></table></div></figure>
 
 
+<p>Probably this is not the most performant way to migrate, simply due to the fact that there are no batch inserts, but it lets me easily monitor  errors and progress. The whole process - all errors included - took me less time and energy, that I wasted on research. Being a programmer I normally favor coding over tools. Sometimes the effort isn&#8217;t worth it, this time it was.</p>
+
+<p>My approach should work on any project and is not bound to MySql and MSSql. The solution is only limited by the database connectors that are available for PHP and Ruby (Rails).</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Interesting Thingys #5]]></title>
+    <link href="http://yieldthedog.github.com/blog/2012/02/21/interesting-thingys-5/"/>
+    <updated>2012-02-21T08:54:00+01:00</updated>
+    <id>http://yieldthedog.github.com/blog/2012/02/21/interesting-thingys-5</id>
+    <content type="html"><![CDATA[<blockquote><p><em>Interesting Thingys</em> is a gazette in the blog that summarizes a week of blog articles, links, specifications, demos, news or more general &#8220;thingys&#8221; that we stumble upon in our journey through the world wide web.</p></blockquote>
+
+<h3>CSS/HTML/Frontend</h3>
+
+<ul>
+<li><a href="http://www.html5rocks.com">HTML5Rocks</a> - Updated website of &#8220;HTML5Rocks&#8221; with a bunch of useful information!</li>
+<li><a href="http://darcyclarke.me/development/front-end-job-interview-questions/">Interview Question for Frontend Developers</a></li>
+<li><a href="http://mathiasbynens.be/notes/css-without-html">CSS without HTML</a> - How to build a website without HTML.</li>
+</ul>
 
 
 <!-- more -->
 
 
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+<h3>Mobile Development (iOS + Rails)</h3>
+
+<ul>
+<li><a href="http://devcenter.heroku.com/articles/getting-started-ios-development-sinatra-cedar">Tutorial: iOS App + Sinatra Backend + Heroku&#8230;</a></li>
+</ul>
+
+
+<h3>Javascript</h3>
+
+<ul>
+<li><a href="http://www.devthought.com/2012/02/17/npm-tricks/">NPM Tricks</a> - Tricks for the node.js package manager.</li>
+</ul>
+
+
+<h3>Programming / Tools / Allgemein</h3>
+
+<ul>
+<li><a href="http://www.theprojectspot.com/tutorial-post/creating-a-genetic-algorithm-for-beginners/3">How to write a &#8220;Genetic Algorithm&#8221;</a></li>
+<li><a href="http://research.swtch.com/bell-labs">&#8220;Computing History at Bell Labs&#8221;</a> -  Presentation from 1997</li>
+<li><a href="http://www.gnuplotting.org/">gnuplotting.org</a> - what you can do with gnuplot.</li>
+<li><a href="http://versionswitcher.appspot.com/">versionswitcher</a> - switch versions of programming languages or applications (like rvm).</li>
+</ul>
+
+
+<h3>SQL Server (Fun)</h3>
+
+<ul>
+<li><a href="http://pulse.sqlserverpedia.com/blog/an-open-letter-to-anyone-with-sql-server-on-their-resume/">SQL-Server on the resume</a> - &#8220;There is no SQL Server 2003 .. There is no SQL Server 2003&#8221;</li>
+</ul>
+
+
+<h3>WebGL</h3>
+
+<ul>
+<li><a href="http://fridek.github.com/Threejs-Tetris/">3D Tetris in WebGL</a></li>
+</ul>
+
+
+<h3>Ebooks/Knowledge</h3>
+
+<ul>
+<li><a href="http://hackershelf.com">hackershelf</a> - &#8220;A community-curated collection of free books for the intellectual curious&#8221;</li>
+</ul>
+
+
+<h3>Fun</h3>
+
+<ul>
+<li><a href="http://67signals.com/">67signals</a> -  &#8220;37 Signals&#8221; Bashing (&#8230; the inventors of rails)</li>
+<li><a href="http://sphotos.xx.fbcdn.net/hphotos-snc7/395399_10101488712535065_12403557_69228456_559079840_n.jpg">What a software developer does</a></li>
+</ul>
+
 ]]></content>
   </entry>
   
   <entry>
-    <title type="html"><![CDATA[video-post]]></title>
-    <link href="http://yieldthedog.github.com/blog/2011/12/13/video-post/"/>
-    <updated>2011-12-13T11:42:00+01:00</updated>
-    <id>http://yieldthedog.github.com/blog/2011/12/13/video-post</id>
-    <content type="html"><![CDATA[<p>test post 2 - video content</p>
+    <title type="html"><![CDATA[Interesting Thingys #4]]></title>
+    <link href="http://yieldthedog.github.com/blog/2012/02/13/interesting-thingys-4/"/>
+    <updated>2012-02-13T08:54:00+01:00</updated>
+    <id>http://yieldthedog.github.com/blog/2012/02/13/interesting-thingys-4</id>
+    <content type="html"><![CDATA[<blockquote><p><em>Interesting Thingys</em> is a gazette in the blog that summarizes a week of blog articles, links, specifications, demos, news or more general &#8220;thingys&#8221; that we stumble upon in our journey through the world wide web.</p></blockquote>
 
-<p><video width='640' height='320' preload='none' controls poster=' http://s3.imathis.com/video/zero-to-fancy-buttons.png'><source src='http://s3.imathis.com/video/zero-to-fancy-buttons.mp4' type='video/mp4; codecs="avc1.42E01E, mp4a.40.2"'/></video></p>
+<h3>Android (+Ruby)</h3>
+
+<ul>
+<li><a href="http://rubysource.com/ruboto-rubys-and-androids-first-born/">Ruby on Android device via Ruboto</a> - &#8230; a little tutorial.</li>
+</ul>
+
+
+<!-- more -->
+
+
+<h3>CSS</h3>
+
+<ul>
+<li><a href="http://colintoh.com/css3-flip-switch">A flip-switch in CSS3</a></li>
+</ul>
+
+
+<h3>Mobile Development / Industry</h3>
+
+<ul>
+<li><a href="http://gizmodo.com/5878942">Article about Instagram</a> - why they do not offer an Android App.</li>
+</ul>
+
+
+<h3>JavaScript</h3>
+
+<ul>
+<li><a href="http://www.turnjs.com">turnjs</a> - Page-Turn animation for HTML.</li>
+<li><a href="http://www.elijahmanor.com/2012/02/differences-between-jquery-bind-vs-live.html">event-binding with jquery</a> - bind(), live(), delegate() &amp; on() &#8230; event-binding with jQuery: differences, pitfalls and performance killer.</li>
+<li><a href="http://www.modernizr.com/news/modernizr-25">modernizr Supercharged</a> -  v2.5 released!.</li>
+<li><a href="https://github.com/chjj/tty.js">tty.js</a> - A terminal for your browser (node.js, socket.io, express).</li>
+</ul>
+
+
+<h3>Ruby</h3>
+
+<ul>
+<li><a href="http://rubyreloaded.com/trickshots/">Ruby trick shots</a> - 24 Ruby tricks you did not know about&#8230; Nice!.</li>
+</ul>
+
+
+<h3>Databases</h3>
+
+<ul>
+<li><a href="http://try.redis-db.com/">try redis!</a> - Redis is a key-value store for advanced data structure like strings, hashes, lists, sets, etc .. Try it in your browser!.</li>
+<li><a href="http://antirez.com/post/redis-manifesto.html">&#8220;The Redis Manifesto&#8221;</a> - Statement about Redis and Software Development: &#8220;code is like a poem&#8221; &amp; &#8220;we optimize for joy&#8221;.</li>
+</ul>
+
+
+<h3>Git</h3>
+
+<ul>
+<li><a href="http://blog.edgeyo.com/2012/02/git-log-in-calendar-view/">visualize git-log</a> -  in a calendar-view (&amp; excel).</li>
+</ul>
+
+
+<h3>Programming</h3>
+
+<ul>
+<li><a href="http://designpepper.com/podcasts-for-hackers">podcasts for hackers</a> - List of programming/startup specific podcasts.</li>
+<li><a href="http://www.dodgycoder.net/2012/02/coding-tricks-of-game-developers.html">programming anecdotes from game developers</a></li>
+</ul>
+
+
+<h3>Fun/physics</h3>
+
+<ul>
+<li><a href="http://jalopnik.com/5883458/how-to-fly-a-soyuz-space-capsule">&#8220;How to fly a Soyuz Space Capsule&#8221;</a> - &#8230; a developer should be able to do that! ;).</li>
+</ul>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Interesting Thingys #3]]></title>
+    <link href="http://yieldthedog.github.com/blog/2012/02/06/interesting-thingys-3/"/>
+    <updated>2012-02-06T08:54:00+01:00</updated>
+    <id>http://yieldthedog.github.com/blog/2012/02/06/interesting-thingys-3</id>
+    <content type="html"><![CDATA[<blockquote><p><em>Interesting Thingys</em> is a gazette in the blog that summarizes a week of blog articles, links, specifications, demos, news or more general &#8220;thingys&#8221; that we stumble upon in our journey through the world wide web.</p></blockquote>
+
+<h3>CSS</h3>
+
+<ul>
+<li><a href="http://css3test.com/">css3test</a> - Tests your browser for CSS3 compatibility.</li>
+<li><a href="http://upstatement.com/blog/2012/01/how-to-approach-a-responsive-design/">how to approach a responsive design</a> - Interesting Article about Responsive Design, example: the Boston Globe website.</li>
+</ul>
+
+
+<!-- more -->
+
+
+<h3>Mobile Web Development</h3>
+
+<ul>
+<li><a href="http://dumaslab.com/2011/05/best-mobile-web-html5-framework-for-mobile-app-development/">mobile app development</a> - A somehow older but interesting comparison of mobile development frameworks (PhoneGap, Titanium, JQTouch, &#8230;).</li>
+</ul>
+
+
+<h3>JavaScript</h3>
+
+<ul>
+<li><a href="http://listjs.com">listjs</a> - make your HTML-Lists/Tables sortable, searchable, filterable, &#8230; using an 8KB javascript!.</li>
+</ul>
+
+
+<h3>Management</h3>
+
+<ul>
+<li><a href="http://www.quora.com/Engineering-Management/Why-are-software-development-task-estimations-regularly-off-by-a-factor-of-2-3">Estimation &amp; Software-Development</a> - a nice comparison. Let&#8217;s take a hike on the coast from San Francisco to Los Angeles.</li>
+</ul>
+
+
+<h3>Physics</h3>
+
+<ul>
+<li><a href="http://www.wired.com/wiredscience/2012/02/minecraft-physics">minecraft physics</a> - Little physics for the minecraft geeks.</li>
+</ul>
+
+
+<h3>Server</h3>
+
+<ul>
+<li><a href="http://matt.might.net/articles/ssh-hacks/">ssh hacks</a> - Not much new but interesting for all that are not used to SSH.</li>
+</ul>
+
+
+<h3>Objective-C / iOS</h3>
+
+<ul>
+<li><a href="http://biasedbit.com/filesystem-vs-coredata-image-cache/">Filesystem vs. CoreData</a> - Benchmark between FileSystem &amp; CoreData storage for images.</li>
+<li><a href="http://kentnguyen.com/ios/what-does-it-take-to-make-an-ios-app/">What does it take to make an iOS app</a> - What makes an iOS app .. and what a customer or project manager thinks about it.</li>
+</ul>
+
+
+<h3>Fun</h3>
+
+<ul>
+<li><a href="http://www.fileformat.info/info/unicode/char/1f4a9/index.htm">&#8220;Pile of Poo&#8221;</a> - as a Unicode Character.</li>
+<li><a href="http://www.youtube.com/watch?feature=player_embedded&amp;v=8WZr6fvtEgk">&#8220;Shit Programmers Say&#8221;&#8230;</a></li>
+</ul>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Interesting Thingys #2]]></title>
+    <link href="http://yieldthedog.github.com/blog/2012/01/23/interesting-thingys-2/"/>
+    <updated>2012-01-23T08:54:00+01:00</updated>
+    <id>http://yieldthedog.github.com/blog/2012/01/23/interesting-thingys-2</id>
+    <content type="html"><![CDATA[<blockquote><p><em>Interesting Thingys</em> is a gazette in the blog that summarizes a week of blog articles, links, specifications, demos, news or more general &#8220;thingys&#8221; that we stumble upon in our journey through the world wide web.</p></blockquote>
+
+<h3>Server/WebStack</h3>
+
+<ul>
+<li><a href="http://www.igvita.com/2012/01/18/building-a-modern-web-stack-for-the-realtime-web/">WebSockets, SPDY Protocol, HTTP2.0</a> - .. &#8220;Tommorrows technology for todays web!&#8221;.</li>
+</ul>
+
+
+<!-- more -->
+
+
+<h3>Java</h3>
+
+<ul>
+<li><a href="http://www.baeldung.com/2012/01/18/rest-pagination-in-spring/">RESTful Webservices with Spring/Java</a> - Extensive tutorial in 7(!) parts.</li>
+</ul>
+
+
+<h3>HTML5</h3>
+
+<ul>
+<li><a href="http://www.xhtml-lab.com/html5poster">HTML5 Reference Poster</a></li>
+<li><a href="http://html5-demos.appspot.com/static/html5-therealbleedingedge/template/index.html">Presentation about &#8220;The Bleeding Edge of HTML5&#8221;</a> - . New CSS techniques, Javascript APIs, Multimedia thingys .. Works mostly only in Chrome and Safari. Very intersting!.</li>
+</ul>
+
+
+<h3>Mobile</h3>
+
+<ul>
+<li><a href="http://pttrns.com/">iOS UI Patterns,</a> - Overview of UI Patterns in iOS Apps.</li>
+<li><a href="http://androidpttrns.com/">Android UI Patterns</a></li>
+<li><a href="http://applidium.com/en/applications/vim/">VIM for the iPad.</a> -  <em>Useful</em>: Nope. <em>Geeky</em>: Yep!</li>
+<li><a href="https://market.android.com/details?id=com.spartacusrex.spartacuside">Android Terminal IDE.</a> -  <em>Useful</em>: Yep. <em>Geeky</em>: Yep!</li>
+</ul>
+
+
+<h3>JavaScript/CSS</h3>
+
+<ul>
+<li><a href="http://blog.james-carr.org/2012/01/16/blog-rolling-with-mongodb-node-js-and-coffeescript/">The &#8220;Hello World&#8221; of Web-Programming</a> -  How to build a Blog App using NodeJS, MongoDB &amp; CoffeeScript (using a BDD approach).</li>
+<li><a href="http://walmartlabs.github.com/thorax/">thorax</a> - Application Framework for  Backbone Apps. (including underscore, zepto, handlebars, stylus, &#8230;).</li>
+<li><a href="http://webcloud.se/code/jQuery-Collapse/">jQuery Collapse</a> - Expanding &amp; Collapsing Content (with CookieSupport, ARIA Compliant, lightweight, &#8230;).</li>
+<li><a href="https://github.com/livelycode/aws-lib">nodejs &amp; aws</a> - nodejs Library to talk to Amazon Webservices.</li>
+<li><a href="https://www.destroyallsoftware.com/talks/wat">WAT?!</a> - 10min lightning talk about &#8220;WATs&#8221;* of Ruby &amp; Javascript, very entertaining</li>
+</ul>
+
+
+<h3>Ruby</h3>
+
+<ul>
+<li><a href="http://vesperapps.com/">vesperapps</a> - New web app framework based on Sinatra.</li>
+<li><a href="http://subforge.org/projects/subtle/wiki">subtle</a> - A Window Tiling Manager for Linux, with a Ruby-Scripting Layer.</li>
+</ul>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Interesting Thingys #1]]></title>
+    <link href="http://yieldthedog.github.com/blog/2012/01/17/interesting-thingys-1/"/>
+    <updated>2012-01-17T08:54:00+01:00</updated>
+    <id>http://yieldthedog.github.com/blog/2012/01/17/interesting-thingys-1</id>
+    <content type="html"><![CDATA[<blockquote><p><em>Interesting Thingys</em> is a gazette in the blog that summarizes a week of blog articles, links, specifications, demos, news or more general &#8220;thingys&#8221; that we stumble upon in our journey through the world wide web.</p></blockquote>
+
+<h3>Boilerplates</h3>
+
+<ul>
+<li><a href="http://html5boilerplate.com">HTML5-Boilerplate</a> - everyone should know this one.</li>
+<li><a href="http://www.initializr.com">Initializr2</a> - makes HTML5 boilerplates &#8216;customizable&#8217;.</li>
+<li><a href="http://verekia.com/initializr/responsive-template">Responsive Template</a> - Article about &#8220;Responsive Template&#8221; using Initializr2 or a &#8220;Mobile First Approach&#8221; with media queries.</li>
+<li><a href="https://github.com/tbranyen/backbone-boilerplate">Backbone.js boilerplate</a> - Boilerplate for the backbone.js guys.</li>
+</ul>
+
+
+<!-- more -->
+
+
+<h3>Javascript</h3>
+
+<ul>
+<li><a href="http://venturebeat.com/2012/01/07/building-consumer-apps-with-node/">Consumer Apps with Node</a> - Why node.js matters (And how to convince management).</li>
+<li><a href="http://underscorejs.org/">underscore.js</a> - underscore.js has a website - w00t.</li>
+<li><a href="http://bartaz.github.com/impress.js">impress.js</a> - A presentation Framework similar to Prezi written in Javascript and Canvas.</li>
+<li><a href="http://shama.github.com/jmpress.js">jimpress.js</a> - Jquery Implementation von impress.js.</li>
+</ul>
+
+
+<h3>CSS</h3>
+
+<ul>
+<li><a href="http://24ways.org/2011/unicode-range">@font-face &amp; unicode range</a> - Neat trick using @font-face &amp; unicode-range, or: how to apply to different @font-face&#8217;s on the same text.</li>
+</ul>
+
+
+<h3>ObjectiveC</h3>
+
+<ul>
+<li><a href="http://www.sparrow-framework.org/">sparrow framework</a> - Game-Framework for OpenGL Games .. without OpenGL Programming.</li>
+</ul>
+
+
+<h3>Services</h3>
+
+<ul>
+<li><a href="http://respondto.it/">respondto.it</a> - Debugging Web Hooks.</li>
+</ul>
+
+
+<h3>Server/Architecture</h3>
+
+<ul>
+<li><a href="http://instagram-engineering.tumblr.com/post/13649370142/what-powers-instagram-hundreds-of-instances-dozens-of">&#8216;What powers instagram&#8217;</a> - An interesting article about the &#8216;Stack&#8217; used by Instagram.com.</li>
+<li><a href="http://aws.typepad.com/aws/2012/01/aws-free-usage-tier-now-includes-microsoft-windows-on-ec2.html">Free MS Windows Server 2008 RC 2</a> -  on Amazon EC2 Instance for 750 hours per month.</li>
+</ul>
+
+
+<h3>Mac</h3>
+
+<ul>
+<li><a href="http://braumeister.org/">braumeister</a> - Online Package Browser for Homebrew.</li>
+</ul>
+
 ]]></content>
   </entry>
   

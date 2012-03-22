@@ -1,0 +1,442 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Interesting-Thingys | yield the dog]]></title>
+  <link href="http://yieldthedog.github.com/blog/categories/interesting-thingys/atom.xml" rel="self"/>
+  <link href="http://yieldthedog.github.com/"/>
+  <updated>2012-03-22T16:39:54+01:00</updated>
+  <id>http://yieldthedog.github.com/</id>
+  <author>
+    <name><![CDATA[yield the dog]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Interesting Thingys #9]]></title>
+    <link href="http://yieldthedog.github.com/blog/2012/03/22/interesting-thingys-9/"/>
+    <updated>2012-03-22T10:35:00+01:00</updated>
+    <id>http://yieldthedog.github.com/blog/2012/03/22/interesting-thingys-9</id>
+    <content type="html"><![CDATA[<h3>HTML5</h3>
+
+<ul>
+<li><a href="http://www.hunterdavis.com/resume/tunerdemo/tuner.html">Strobe Tuner</a> - a <a href="http://en.wikipedia.org/wiki/Fast_Fourier_transform">FFT</a>/Pitch Detection demo using HTML5 Audio/webGL.</li>
+</ul>
+
+
+<h3>Javascript</h3>
+
+<ul>
+<li><a href="http://accidentaltechnologist.com/javascript/7-resources-every-javascript-developer-should-know/">Javascript Resources</a> - .. every javascript developer should know.</li>
+<li><a href="http://joelb.me/scrollpath/">jquery scroll path</a> - a jquery plugin to manipulate the scroll path.</li>
+<li><a href="http://jhollingworth.github.com/bootstrap-wysihtml5/">wysihtml5</a> - wysiwyg meets twitter bootstrap.</li>
+<li><a href="http://hsivaram.com/tech/2012/03/15/preview-impressionist-a-visual-editor-for-impress-js/">Impressionist</a> - a visual editor for impress.js</li>
+</ul>
+
+
+<!-- more -->
+
+
+<h3>C</h3>
+
+<ul>
+<li><a href="http://www.mindscapehq.com/blog/index.php/2012/03/18/what-else-is-new-in-c-5/">C# 5</a> - new stuff in C# 5.</li>
+</ul>
+
+
+<h3>Server / Operating Systems</h3>
+
+<ul>
+<li><a href="http://www.markshuttleworth.com/archives/1072">Ubuntu vs RHEL in enterprise computing</a> - Ubuntu takes over RHEL in enterprise computing.</li>
+<li><a href="https://github.com/h5bp/server-configs">HTML5 Boilerplate - Server Configs</a> - Boilerplate server-configs for IIS, Apache, nginx, lighttpd, node.js, etc</li>
+</ul>
+
+
+<h3>OpenSource</h3>
+
+<ul>
+<li><a href="http://www.softwarequalityconnection.com/2012/03/14-ways-to-contribute-to-open-source-without-being-a-programming-genius-or-a-rock-star/">14 Ways to Contribute to Open Source</a> -  without being a Programming
+Genius or a Rock Star.</li>
+</ul>
+
+
+<h3>CSS</h3>
+
+<ul>
+<li><a href="http://updates.html5rocks.com/2012/03/A-New-Experimental-Feature-style-scoped">Scoped styles</a></li>
+</ul>
+
+
+<h3>Tools</h3>
+
+<ul>
+<li><a href="http://www.devthought.com/2012/03/10/chrome-spdy-indicator/">SPDY indicator for chrome</a></li>
+</ul>
+
+
+<h3>Mobile Development</h3>
+
+<ul>
+<li><a href="http://code.google.com/chrome/mobile/docs/debugging.html">remote debugging for chrome on android</a> - debug chrome for android with the same chrome developer tools you use to debug on your desktop.</li>
+</ul>
+
+
+<h3>Git</h3>
+
+<ul>
+<li><a href="https://github.com/Gazler/githug">Githug</a> - a practical/playful way of learning git.</li>
+</ul>
+
+
+<h3>Presentations / Talks</h3>
+
+<ul>
+<li><a href="http://www.ted.com/talks/avi_rubin_all_your_devices_can_be_hacked.html">Avi Rubin on TED</a> - Avi Rubin "Every device can be hacked. Your smartphone, car, pacemaker .."</li>
+</ul>
+
+
+<h3>Physics</h3>
+
+<ul>
+<li><a href="http://beenposh.tumblr.com/post/19624761395/richard-feynman-lectures-at-cornell-the">Richard Feynman Lectures</a> - .. at Cornell: "The Character of Physical Law" (ca 1960s)... absolutely worth watching.</li>
+</ul>
+
+
+<h3>Fun</h3>
+
+<ul>
+<li><a href="http://www.hendrikvh.com/files/NyanSaverMac.php">nyan cat screensaver</a> - for mac.</li>
+</ul>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Interesting Thingys #8]]></title>
+    <link href="http://yieldthedog.github.com/blog/2012/03/13/interesting-thingys-8/"/>
+    <updated>2012-03-13T08:54:00+01:00</updated>
+    <id>http://yieldthedog.github.com/blog/2012/03/13/interesting-thingys-8</id>
+    <content type="html"><![CDATA[<blockquote><p><em>Interesting Thingys</em> is a gazette in the blog that summarizes a week of blog articles, links, specifications, demos, news or more general "thingys" that we stumble upon in our journey through the world wide web.</p></blockquote>
+
+<h3>Mobile Development</h3>
+
+<ul>
+<li><a href="http://www.sencha.com/blog/announcing-sencha-touch-2">Sencha Touch</a> - a HTML5 Mobile Application Framework, version 2.0 released.</li>
+</ul>
+
+
+<h3>CSS</h3>
+
+<ul>
+<li><a href="http://www.zeldman.com/2012/03/01/replacing-the-9999px-hack-new-image-replacement">Replacing the -9999px hack (aka new image replacement)</a></li>
+<li><a href="http://davidwalsh.name/css4-preview">CSS4 (!) Selectors</a></li>
+<li><a href="http://www.w3.org/TR/2011/WD-selectors4-20110929/">CSS 4 Selectors</a> - the non shortened version</li>
+</ul>
+
+
+<!-- more -->
+
+
+<h3>HTML5</h3>
+
+<ul>
+<li><a href="http://www.scirra.com/arcade/addicting-rotary-games/848/airscape">airscape</a> - Very addicting (&amp; rotating) HTML5 Game.</li>
+</ul>
+
+
+<h3>Ruby / Rails / ASP MVC</h3>
+
+<ul>
+<li><a href="http://chadmoran.com/posts/mass-assignment-vulnerability-isn-quo-t-just-for-rails">mass-assignment vulnerability</a> - Article about Mass-Assignment Vulnerability in Rails ("Github got hacked!") .. Und why other web frameworks are "vulnarable" to this weakness too.</li>
+<li><a href="http://www.scottw.com/unwind">unwind</a> - GEM: take a url and figure out what it actually points to .. Useful for all this t.co/bit.ly/etc URLs</li>
+</ul>
+
+
+<h3>Javascript</h3>
+
+<ul>
+<li><a href="http://html2canvas.hertzen.com">html2canvas</a> - Take a screenshot from a webpage.</li>
+<li><a href="https://github.com/osuushi/Smooth.js">smooth.js</a> - Library for smooth array functions, like interpolation, nearest neighbour, linear, cubic, etc .. Neat!</li>
+</ul>
+
+
+<h3>Webserver / Databases</h3>
+
+<ul>
+<li><a href="http://spin.atomicobject.com/2012/02/28/load-balancing-and-reverse-proxying-with-nginx/">Load Balancing &amp; Reverse Proxying with nginx</a></li>
+<li><a href="http://highlyscalable.wordpress.com/2012/03/01/nosql-data-modeling-techniques/">How to model NoSQL databases</a></li>
+</ul>
+
+
+<h3>PHP</h3>
+
+<ul>
+<li><a href="http://www.php.net/archive/2012.php#id2012-03-01-1">PHP 5.4.0 released! </a> - New features: traits, shortened array syntax &amp; a built-in webserver for testing!.</li>
+</ul>
+
+
+<h3>Team Building</h3>
+
+<ul>
+<li><a href="http://speakerdeck.com/u/searls/p/the-mythical-team-month">Small teams go faster</a> - nice presentation.</li>
+</ul>
+
+
+<h3>C</h3>
+
+<ul>
+<li><a href="http://www.chiark.greenend.org.uk/~sgtatham/mp/">Metaprogramming custom control structures in C </a> - .. wow</li>
+</ul>
+
+
+<h3>Command Line</h3>
+
+<ul>
+<li><a href="http://pragprog.com/book/bhtmux/tmux">tmux</a> - screen is dead, long live tmux!</li>
+<li><a href="http://laktek.com/2012/03/12/curl-tips-for-daily-use/">curl</a> - tips'n'tricks.</li>
+</ul>
+
+
+<h3>Useful Stuff</h3>
+
+<ul>
+<li><a href="http://dev.umpirsky.com/list-of-all-countries-in-all-languages-and-all-data-formats/">List of Countries in all languages in various formats</a></li>
+<li><a href="http://www.patrick-wied.at/blog/how-to-correctly-use-code-you-didnt-write">How to deal with code you don't write - Interesting</a></li>
+</ul>
+
+
+<h3>Fun / Interesting</h3>
+
+<ul>
+<li><a href="http://crankypm.com/2011/03/guest-post-stages-debugging/">The 5 Stages of Debugging</a> -  .. stage 1: "Ignore it"</li>
+<li><a href="http://www.catonmat.net/blog/why-vim-uses-hjkl-as-arrow-keys/">why VI uses the hjkl keys as arrow keys</a> - By the way: I want this T-Shirt!</li>
+</ul>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Interesting Thingys #7]]></title>
+    <link href="http://yieldthedog.github.com/blog/2012/03/05/interesting-thingys-7/"/>
+    <updated>2012-03-05T08:54:00+01:00</updated>
+    <id>http://yieldthedog.github.com/blog/2012/03/05/interesting-thingys-7</id>
+    <content type="html"><![CDATA[<blockquote><p><em>Interesting Thingys</em> is a gazette in the blog that summarizes a week of blog articles, links, specifications, demos, news or more general "thingys" that we stumble upon in our journey through the world wide web.</p></blockquote>
+
+<h3>HTML5/CSS</h3>
+
+<ul>
+<li><a href="http://zoomzum.com/6-best-html5css3-presentation-frameworks/">presentation frameworks</a> -  using javascript + css3</li>
+<li><a href="http://cggallant.blogspot.com/2010/08/introduction-to-html-5-web-workers.html">web-worker in HTML5</a> - Old but still worthy to read:</li>
+</ul>
+
+
+<h3>Mobile</h3>
+
+<ul>
+<li><a href="http://johnkpaul.tumblr.com/post/18681089281/scale-to-mobile-browser-with-pictures">scale to mobile browser</a> - Short description of "viewport" meta tag und how mobile-browser scale</li>
+</ul>
+
+
+<!-- more -->
+
+
+<h3>Allgemein</h3>
+
+<ul>
+<li><a href="http://stackoverflow.com/questions/141525/absolute-beginners-guide-to-bit-shifting">absolute beginners guide to bit shifting</a> - Stack Overflow answer to a Bit-Shifting question..</li>
+<li><a href="http://www.wallix.org/2012/02/29/pylogsparser-visualizing-ssh-attacks-in-video/">visualize ssh attacks</a> - Little tutorial how to visualize SSH-Attacks.</li>
+</ul>
+
+
+<h3>Ruby</h3>
+
+<ul>
+<li><a href="http://zachholman.com/talk/ruby-patterns">Ruby/Rails Patterns of Github</a></li>
+<li><a href="http://homakov.blogspot.com/2012/03/how-to.html">github got hacked!</a> - Short "How to" that describes how Egor Homakov (watch the image on the right) "hacked" Github (Rails know-how needed)</li>
+</ul>
+
+
+<h3>Javascript</h3>
+
+<ul>
+<li><a href="http://soulwire.co.uk/coffeephysics/">CoffeeScript meets Physics</a></li>
+<li><a href="http://badassjs.com/post/18503583619/coffeephysics-a-fast-new-physics-engine-written-in">CoffeeScript meets Physics 2</a></li>
+<li><a href="http://towerjs.org/">tower.js</a> - A web stack framework for NodeJS (with CoffeeScript, Jasmine, Stylus .. Plus MongoDB &amp; Redis).</li>
+<li><a href="http://blog.nodejs.org/2012/02/27/managing-node-js-dependencies-with-shrinkwrap/">shrinkwrap</a> - How to manage node.js dependencies using Shrinkwrap</li>
+<li><a href="http://radio.uxder.com/">radio</a> - Library for Pub/Sub in Javascript... (the observer pattern).</li>
+</ul>
+
+
+<h3>Tools</h3>
+
+<ul>
+<li><a href="https://github.com/thedjpetersen/subway">subwav</a> - Web Based IRC Client</li>
+<li><a href="http://www.in-ulm.de/~mascheck/various/uuoc/">Unix Tools: cat</a></li>
+<li><a href="http://www.andismith.com/blog/2012/02/firefox-developer-tools/">Article about the new Firefox Developer Tools</a></li>
+</ul>
+
+
+<h3>Design</h3>
+
+<ul>
+<li><a href="http://speakerdeck.com/u/destraynor/p/designing-dashboards-data-visualisations-in-web-apps">Data Visualization in WebApps (Presentation)</a></li>
+<li><a href="http://sachagreif.com/making-of-sharypic-for-iphone/">makring of SharyPic for iphone)</a> - Nice Article about the design process fof an iPhone App (Example used: SharyPic App.</li>
+</ul>
+
+
+<h3>Fun (... If only)</h3>
+
+<ul>
+<li><a href="http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2012/03/02/BUIO1NFAMI.DTL">Are you a "BroGrammer"?</a> ...</li>
+</ul>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Interesting Thingys #6]]></title>
+    <link href="http://yieldthedog.github.com/blog/2012/02/27/interesting-thingys-6/"/>
+    <updated>2012-02-27T08:54:00+01:00</updated>
+    <id>http://yieldthedog.github.com/blog/2012/02/27/interesting-thingys-6</id>
+    <content type="html"><![CDATA[<blockquote><p><em>Interesting Thingys</em> is a gazette in the blog that summarizes a week of blog articles, links, specifications, demos, news or more general "thingys" that we stumble upon in our journey through the world wide web.</p></blockquote>
+
+<h3>HTML/CSS</h3>
+
+<ul>
+<li><a href="http://html5please.com/">html5please.com</a> - Explore html5 features (categories: supported by browsers, use with caution, fallbacks, polyfills, ...)</li>
+<li><a href="https://github.com/emorikawa/boilerstrap">boilerstrap</a> - Template for HTML5Boilerplate and Twitters Bootstrap CSS (+modernizr, js compression, coffeescript support, sass, less)... Plus rake-tasks.</li>
+<li><a href="http://tumultco.com/hype/">hype</a> - Interesting editor (GUI) for HTML5/CSS3 Keyframe animations &amp; animated content... (sorry: mac only)</li>
+<li><a href="http://shinydemos.com/">Shinydemos</a> - New html5 showcase by opera.</li>
+</ul>
+
+
+<!-- more -->
+
+
+<h3>Android + iOS</h3>
+
+<ul>
+<li><a href="http://picture.io/photopickerplus">photopickerplus</a> - free Cross Platform Photopicker Library .. "pick photo from your favorite photo services, not just from your locally stored ones"</li>
+</ul>
+
+
+<h3>Javascript</h3>
+
+<ul>
+<li><a href="http://www.sequencejs.com/">sequencejs</a> - Nice jQuery Slider (with parallax effect).</li>
+<li><a href="https://github.com/maccman/ace">ace</a> - Sinatra-style framework for node appications</li>
+<li><a href="http://oscargodson.github.com/EpicEditor/">EpicEditor</a> - A live Markdown Editor in Javascript</li>
+</ul>
+
+
+<h3>Ruby</h3>
+
+<ul>
+<li><a href="https://github.com/paulasmuth/recommendify">recommendify</a> - Recommendation engine in ruby &amp; redis .. Something like "user that viewed this video also likes..."</li>
+<li><a href="https://github.com/fxn/i-told-you-it-was-private">i told you it was private</a> - A ruby module for "really private methods"...</li>
+</ul>
+
+
+<h3>General/Thingys</h3>
+
+<ul>
+<li><a href="http://woolam.org/github-recommendation-service/">github recommendation service</a> - Discover new github repos based on watcher relationships.</li>
+<li><a href="http://xprogramming.com/articles/kate-oneal-what-is-scrum/">what is scrum?!</a> - Long article about "what is scrum?" and how to apply it</li>
+<li><a href="http://caines.ca/blog/programming/the-sun-is-setting-on-rails-style-mvc-frameworks/">Server-side MVC Frameworks will die for client-side apps</a> .. apparently.</li>
+</ul>
+
+
+<h3>Tools</h3>
+
+<ul>
+<li><a href="http://www.aboutlinux.info/2005/10/10-seconds-guide-to-bash-shell.html">Bash scripts</a> -  in 10 seconds... or minutes... or...</li>
+<li><a href="http://vimbits.com/">vimbits</a> - upvote/downvote site for vimrc tips'n'tricks.</li>
+</ul>
+
+
+<h3>Fun</h3>
+
+<ul>
+<li><a href="http://accessmaincomputerfile.net/">accessmaincomputerfile</a> - A visual study of computer GUI in cinema</li>
+<li><a href="http://visualidiot.com/articles/social-apps">social-apps</a> - The new social app: "scares off ghosts" &amp; "hipster-optimised" :)</li>
+</ul>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Interesting Thingys #5]]></title>
+    <link href="http://yieldthedog.github.com/blog/2012/02/21/interesting-thingys-5/"/>
+    <updated>2012-02-21T08:54:00+01:00</updated>
+    <id>http://yieldthedog.github.com/blog/2012/02/21/interesting-thingys-5</id>
+    <content type="html"><![CDATA[<blockquote><p><em>Interesting Thingys</em> is a gazette in the blog that summarizes a week of blog articles, links, specifications, demos, news or more general "thingys" that we stumble upon in our journey through the world wide web.</p></blockquote>
+
+<h3>CSS/HTML/Frontend</h3>
+
+<ul>
+<li><a href="http://www.html5rocks.com">HTML5Rocks</a> - Updated website of "HTML5Rocks" with a bunch of useful information!</li>
+<li><a href="http://darcyclarke.me/development/front-end-job-interview-questions/">Interview Question for Frontend Developers</a></li>
+<li><a href="http://mathiasbynens.be/notes/css-without-html">CSS without HTML</a> - How to build a website without HTML.</li>
+</ul>
+
+
+<!-- more -->
+
+
+<h3>Mobile Development (iOS + Rails)</h3>
+
+<ul>
+<li><a href="http://devcenter.heroku.com/articles/getting-started-ios-development-sinatra-cedar">Tutorial: iOS App + Sinatra Backend + Heroku...</a></li>
+</ul>
+
+
+<h3>Javascript</h3>
+
+<ul>
+<li><a href="http://www.devthought.com/2012/02/17/npm-tricks/">NPM Tricks</a> - Tricks for the node.js package manager.</li>
+</ul>
+
+
+<h3>Programming / Tools / Allgemein</h3>
+
+<ul>
+<li><a href="http://www.theprojectspot.com/tutorial-post/creating-a-genetic-algorithm-for-beginners/3">How to write a "Genetic Algorithm"</a></li>
+<li><a href="http://research.swtch.com/bell-labs">"Computing History at Bell Labs"</a> -  Presentation from 1997</li>
+<li><a href="http://www.gnuplotting.org/">gnuplotting.org</a> - what you can do with gnuplot.</li>
+<li><a href="http://versionswitcher.appspot.com/">versionswitcher</a> - switch versions of programming languages or applications (like rvm).</li>
+</ul>
+
+
+<h3>SQL Server (Fun)</h3>
+
+<ul>
+<li><a href="http://pulse.sqlserverpedia.com/blog/an-open-letter-to-anyone-with-sql-server-on-their-resume/">SQL-Server on the resume</a> - "There is no SQL Server 2003 .. There is no SQL Server 2003"</li>
+</ul>
+
+
+<h3>WebGL</h3>
+
+<ul>
+<li><a href="http://fridek.github.com/Threejs-Tetris/">3D Tetris in WebGL</a></li>
+</ul>
+
+
+<h3>Ebooks/Knowledge</h3>
+
+<ul>
+<li><a href="http://hackershelf.com">hackershelf</a> - "A community-curated collection of free books for the intellectual curious"</li>
+</ul>
+
+
+<h3>Fun</h3>
+
+<ul>
+<li><a href="http://67signals.com/">67signals</a> -  "37 Signals" Bashing (... the inventors of rails)</li>
+<li><a href="http://sphotos.xx.fbcdn.net/hphotos-snc7/395399_10101488712535065_12403557_69228456_559079840_n.jpg">What a software developer does</a></li>
+</ul>
+
+]]></content>
+  </entry>
+  
+</feed>

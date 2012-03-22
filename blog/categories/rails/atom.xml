@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: rails | yield the dog]]></title>
+  <link href="http://yieldthedog.github.com/blog/categories/rails/atom.xml" rel="self"/>
+  <link href="http://yieldthedog.github.com/"/>
+  <updated>2012-03-22T16:39:54+01:00</updated>
+  <id>http://yieldthedog.github.com/</id>
+  <author>
+    <name><![CDATA[yield the dog]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[MSSql to MySql migration with a little help of Rails and PHP]]></title>
+    <link href="http://yieldthedog.github.com/blog/2012/02/22/mssql-to-mysql-migration-with-rails-and-php/"/>
+    <updated>2012-02-22T00:00:00+01:00</updated>
+    <id>http://yieldthedog.github.com/blog/2012/02/22/mssql-to-mysql-migration-with-rails-and-php</id>
+    <content type="html"><![CDATA[<h2>The problem</h2>
+
+<p>You want to migrate a MSSql database to MySql. You have rather large schema and don't want to do it by hand.</p>
+
+<!-- more -->
+
+
+<h2>Possible solutions</h2>
+
+<h3>Mysql Migration Toolkit</h3>
+
+<p>The <a href="http://dev.mysql.com/doc/migration-toolkit/en/:">MySql Migration Toolkit</a> look promising at first. You can use a comfortable GUI to select what you want to migrate. The first problems arose, when the toolkit tried to migrate the schema. Obviously my MSSql schema was not compatible with MySql, I found no way to manually correct this errors, so this was a dead end. I have the feeling that the work on this tool has stopped, so maybe that's a reason it failed.</p>
+
+<h3>MySql ODBC Connector</h3>
+
+<p>When you install the <a href="http://dev.mysql.com/downloads/connector/odbc/">ODBC Connector</a> for MySql, theory claims, that you can select it from the SQL Management Studio to export data to it. However, the reality was a bit different. When I tried it, there was no MySql entry. Bad luck.</p>
+
+<h2>What worked</h2>
+
+<p>After 6 hours of trial and error and no success with any tools, I gave up.</p>
+
+<p>As the project was based on Rails, I used <code>rake db:schema:dump</code> to get the schema definition from the MSSql server in Ruby code. Afterwards I changed the connection to the MySql server and tried <code>rake db:schema:load</code>. As expected I had no luck, but with the big difference, that now I had some code that I could mangle and massage.</p>
+
+<p>There were only problems that were solved in mere seconds:</p>
+
+<ul>
+<li>an index on varchar(9999)</li>
+<li>unsupported type, where another one could be used</li>
+<li>...</li>
+</ul>
+
+
+<p>So now I had my schema ready in MySql waiting for some data. As I'm a long time PHP programmer, too, I knew that PHP lets you easily connect to MySql and MSSql with nearly the same patterns. So I gave it a try and came up with this console script:</p>
+
+<p><div class='bogus-wrapper'><notextile><figure class='code'> <div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+<span class='line-number'>2</span>
+<span class='line-number'>3</span>
+<span class='line-number'>4</span>
+<span class='line-number'>5</span>
+<span class='line-number'>6</span>
+<span class='line-number'>7</span>
+<span class='line-number'>8</span>
+<span class='line-number'>9</span>
+<span class='line-number'>10</span>
+<span class='line-number'>11</span>
+<span class='line-number'>12</span>
+<span class='line-number'>13</span>
+<span class='line-number'>14</span>
+<span class='line-number'>15</span>
+<span class='line-number'>16</span>
+<span class='line-number'>17</span>
+<span class='line-number'>18</span>
+<span class='line-number'>19</span>
+<span class='line-number'>20</span>
+<span class='line-number'>21</span>
+<span class='line-number'>22</span>
+<span class='line-number'>23</span>
+<span class='line-number'>24</span>
+<span class='line-number'>25</span>
+<span class='line-number'>26</span>
+<span class='line-number'>27</span>
+<span class='line-number'>28</span>
+<span class='line-number'>29</span>
+<span class='line-number'>30</span>
+<span class='line-number'>31</span>
+<span class='line-number'>32</span>
+<span class='line-number'>33</span>
+<span class='line-number'>34</span>
+<span class='line-number'>35</span>
+<span class='line-number'>36</span>
+<span class='line-number'>37</span>
+<span class='line-number'>38</span>
+<span class='line-number'>39</span>
+<span class='line-number'>40</span>
+<span class='line-number'>41</span>
+<span class='line-number'>42</span>
+<span class='line-number'>43</span>
+<span class='line-number'>44</span>
+<span class='line-number'>45</span>
+<span class='line-number'>46</span>
+<span class='line-number'>47</span>
+<span class='line-number'>48</span>
+<span class='line-number'>49</span>
+<span class='line-number'>50</span>
+<span class='line-number'>51</span>
+<span class='line-number'>52</span>
+<span class='line-number'>53</span>
+<span class='line-number'>54</span>
+<span class='line-number'>55</span>
+<span class='line-number'>56</span>
+</pre></td><td class='code'><pre><code class='ruby'><span class='line'><span class="o">&amp;</span><span class="n">lt</span><span class="p">;?</span><span class="n">php</span><span class="o">&lt;</span><span class="sr">/p&gt;</span>
+</span><span class='line'>
+</span><span class='line'><span class="sr">&lt;h1&gt;Connection variables :&lt;/</span><span class="n">h1</span><span class="o">&gt;</span>
+</span><span class='line'>
+</span><span class='line'><span class="o">&lt;</span><span class="nb">p</span><span class="o">&gt;</span><span class="vg">$mysql_host</span> <span class="o">=</span> <span class="s1">&#39;&#39;</span><span class="p">;</span>
+</span><span class='line'><span class="vg">$mysql_user</span> <span class="o">=</span> <span class="s1">&#39;&#39;</span><span class="p">;</span>
+</span><span class='line'><span class="vg">$mysql_password</span> <span class="o">=</span> <span class="s1">&#39;&#39;</span><span class="p">;</span>
+</span><span class='line'><span class="vg">$mysql_database</span> <span class="o">=</span> <span class="s1">&#39;&#39;</span><span class="p">;</span>
+</span><span class='line'><span class="vg">$mysql_link</span> <span class="o">=</span> <span class="n">mysql_connect</span><span class="p">(</span>
+</span><span class='line'>  <span class="vg">$mysql_host</span><span class="p">,</span>
+</span><span class='line'>  <span class="vg">$mysql_user</span><span class="p">,</span>
+</span><span class='line'>  <span class="vg">$mysql_password</span><span class="p">);</span><span class="o">&lt;</span><span class="sr">/p&gt;</span>
+</span><span class='line'>
+</span><span class='line'><span class="sr">&lt;p&gt;$mssql_host = &#39;&#39;;</span>
+</span><span class='line'><span class="sr">$mssql_user = &#39;&#39;;</span>
+</span><span class='line'><span class="sr">$mssql_password = &#39;&#39;;</span>
+</span><span class='line'><span class="sr">$mssql_database = &#39;&#39;;</span>
+</span><span class='line'><span class="sr">$mssql_link = mssql_connect(</span>
+</span><span class='line'><span class="sr">  $mssql_host,</span>
+</span><span class='line'><span class="sr">  $mssql_user,</span>
+</span><span class='line'><span class="sr">  $mssql_password);&lt;/</span><span class="nb">p</span><span class="o">&gt;</span>
+</span><span class='line'>
+</span><span class='line'><span class="o">&lt;</span><span class="nb">p</span><span class="o">&gt;</span><span class="vg">$tables</span> <span class="o">=</span> <span class="n">array</span><span class="p">(</span><span class="sr">/&lt;em&gt; LIST THE TABLES YOU WANT TO MIGRATE HERE &lt;/em</span><span class="o">&gt;</span><span class="sr">/);&lt;/</span><span class="nb">p</span><span class="o">&gt;</span>
+</span><span class='line'>
+</span><span class='line'><span class="o">&lt;</span><span class="n">h1</span><span class="o">&gt;</span><span class="no">Select</span> <span class="n">the</span> <span class="n">databases</span><span class="p">:</span><span class="o">&lt;</span><span class="sr">/h1&gt;</span>
+</span><span class='line'>
+</span><span class='line'><span class="sr">&lt;p&gt;mysql_select_db($mysql_database);</span>
+</span><span class='line'><span class="sr">mssql_select_db($mssql_database);&lt;/</span><span class="nb">p</span><span class="o">&gt;</span>
+</span><span class='line'>
+</span><span class='line'><span class="o">&lt;</span><span class="n">h1</span><span class="o">&gt;</span><span class="no">Migrate</span> <span class="n">the</span> <span class="n">data</span><span class="p">:</span><span class="o">&lt;</span><span class="sr">/h1&gt;</span>
+</span><span class='line'>
+</span><span class='line'><span class="sr">&lt;p&gt;foreach($tables as $table){&lt;/</span><span class="nb">p</span><span class="o">&gt;</span>
+</span><span class='line'>
+</span><span class='line'><span class="o">&lt;</span><span class="n">pre</span><span class="o">&gt;&lt;</span><span class="n">code</span><span class="o">&gt;</span><span class="vg">$m_res</span> <span class="o">=</span> <span class="n">mssql_query</span><span class="p">(</span><span class="s1">&#39;select * from &#39;</span><span class="o">.</span> <span class="vg">$table</span><span class="p">);</span>
+</span><span class='line'>
+</span><span class='line'><span class="vg">$j</span> <span class="o">=</span> <span class="mi">0</span><span class="p">;</span>
+</span><span class='line'>
+</span><span class='line'><span class="k">while</span><span class="p">(</span><span class="vg">$rec</span> <span class="o">=</span> <span class="n">mssql_fetch_array</span><span class="p">(</span><span class="vg">$m_res</span><span class="p">,</span> <span class="no">MSSQL_NUM</span><span class="p">)){</span>
+</span><span class='line'>    <span class="n">echo</span> <span class="vg">$table</span><span class="p">,</span> <span class="s1">&#39; &amp;gt;&amp;gt; &#39;</span><span class="p">,</span> <span class="vg">$j</span><span class="o">++</span><span class="p">,</span> <span class="s2">&quot;</span><span class="se">\n</span><span class="s2">&quot;</span><span class="p">;</span>
+</span><span class='line'>    <span class="vg">$cols</span> <span class="o">=</span> <span class="n">count</span><span class="p">(</span><span class="vg">$rec</span><span class="p">);</span>
+</span><span class='line'>    <span class="k">for</span><span class="p">(</span><span class="vg">$i</span> <span class="o">=</span> <span class="mi">0</span><span class="p">;</span> <span class="vg">$i</span> <span class="o">&amp;</span><span class="n">lt</span><span class="p">;</span> <span class="vg">$cols</span><span class="p">;</span> <span class="vg">$i</span><span class="o">++</span><span class="p">){</span>
+</span><span class='line'>        <span class="k">if</span><span class="p">(</span><span class="n">is_string</span><span class="p">(</span><span class="vg">$rec</span><span class="o">[</span><span class="vg">$i</span><span class="o">]</span><span class="p">)){</span>
+</span><span class='line'>            <span class="vg">$rec</span><span class="o">[</span><span class="vg">$i</span><span class="o">]</span> <span class="o">=</span> <span class="s2">&quot;&#39;&quot;</span> <span class="o">.</span> <span class="n">mysql_real_escape_string</span><span class="p">(</span><span class="vg">$rec</span><span class="o">[</span><span class="vg">$i</span><span class="o">]</span><span class="p">)</span> <span class="o">.</span> <span class="s2">&quot;&#39;&quot;</span><span class="p">;</span>
+</span><span class='line'>        <span class="p">}</span>
+</span><span class='line'>        <span class="k">if</span><span class="p">(</span><span class="n">is_null</span><span class="p">(</span><span class="vg">$rec</span><span class="o">[</span><span class="vg">$i</span><span class="o">]</span><span class="p">))</span> <span class="vg">$rec</span><span class="o">[</span><span class="vg">$i</span><span class="o">]</span> <span class="o">=</span> <span class="s1">&#39;NULL&#39;</span><span class="p">;</span>
+</span><span class='line'>    <span class="p">}</span>
+</span><span class='line'>
+</span><span class='line'>    <span class="vg">$query</span> <span class="o">=</span> <span class="s1">&#39;insert into &#39;</span><span class="o">.</span><span class="vg">$table</span><span class="o">.</span><span class="s2">&quot; values (&quot;</span> <span class="o">.</span> <span class="n">implode</span><span class="p">(</span><span class="s2">&quot;,&quot;</span><span class="p">,</span> <span class="vg">$rec</span><span class="p">)</span> <span class="o">.</span> <span class="s2">&quot;);&quot;</span><span class="p">;</span>
+</span><span class='line'>    <span class="vg">$res</span> <span class="o">=</span> <span class="n">mysql_query</span><span class="p">(</span><span class="vg">$query</span><span class="p">);</span>
+</span><span class='line'>    <span class="k">if</span><span class="p">(</span><span class="o">!</span><span class="vg">$res</span><span class="p">)</span> <span class="n">echo</span> <span class="vg">$query</span><span class="p">,</span> <span class="s1">&#39; &amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt; &#39;</span><span class="p">,</span> <span class="n">mysql_error</span><span class="p">(),</span> <span class="s2">&quot;</span><span class="se">\n</span><span class="s2">&quot;</span><span class="p">;</span>
+</span><span class='line'><span class="p">}</span>
+</span><span class='line'><span class="o">&lt;</span><span class="sr">/code&gt;&lt;/</span><span class="n">pre</span><span class="o">&gt;</span>
+</span><span class='line'>
+</span><span class='line'><span class="o">&lt;</span><span class="nb">p</span><span class="o">&gt;</span><span class="p">}</span><span class="o">&lt;</span><span class="sr">/p&gt;</span>
+</span><span class='line'>
+</span><span class='line'><span class="sr">&lt;p&gt;</span>
+</span></code></pre></td></tr></table></div></figure></notextile></div></p>
+
+<p>Probably this is not the most performant way to migrate, simply due to the fact that there are no batch inserts, but it lets me easily monitor  errors and progress. The whole process - all errors included - took me less time and energy, that I wasted on research. Being a programmer I normally favor coding over tools. Sometimes the effort isn't worth it, this time it was.</p>
+
+<p>My approach should work on any project and is not bound to MySql and MSSql. The solution is only limited by the database connectors that are available for PHP and Ruby (Rails).</p>
+]]></content>
+  </entry>
+  
+</feed>

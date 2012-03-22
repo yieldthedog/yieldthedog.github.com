@@ -9,7 +9,7 @@
   <meta name="author" content="yield the dog">
 
   
-  <meta name="description" content="Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam &hellip;">
+  <meta name="description" content="HTML5 Strobe Tuner - a FFT/Pitch Detection demo using HTML5 Audio/webGL. Javascript Javascript Resources - .. every javascript developer should know &hellip;">
   
 
   <!-- http://t.co/dKP3o1e -->
@@ -30,6 +30,18 @@
 <link href="http://fonts.googleapis.com/css?family=PT+Sans:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">
 
   
+  <script type="text/javascript">
+    var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-29924121-1']);
+    _gaq.push(['_trackPageview']);
+
+    (function() {
+      var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+      ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+    })();
+  </script>
+
 
 </head>
 
@@ -54,7 +66,9 @@
   
 <ul class="main-navigation">
   <li><a href="/">Blog</a></li>
+  <li><a href="/blog/categories/interesting-thingys/">Interesting Thingys</a></li>
   <li><a href="/blog/archives">Archives</a></li>
+  <li><a href="/about">About</a></li>
 </ul>
 
 </nav>
@@ -68,7 +82,7 @@
       
   <header>
     
-      <h1 class="entry-title"><a href="/blog/2012/01/13/new-post/">New-post</a></h1>
+      <h1 class="entry-title"><a href="/blog/2012/03/22/interesting-thingys-9/">Interesting Thingys #9</a></h1>
     
     
       <p class="meta">
@@ -84,112 +98,35 @@
   
 
 
-<time datetime="2012-01-13T11:43:00+01:00" pubdate data-updated="true">Jan 13<span>th</span>, 2012</time>
+<time datetime="2012-03-22T10:35:00+01:00" pubdate data-updated="true">Mar 22<span>nd</span>, 2012</time>
         
       </p>
     
   </header>
 
 
-  <div class="entry-content"><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, &#8230;</p>
+  <div class="entry-content"><h3>HTML5</h3>
 
-<blockquote><p>knowing that you do things right but being not 100% sure is mastery. being 100% sure is arrogance</p><footer><strong>@saintedlama</strong> <cite><a href='https://twitter.com/#!/saintedlama/status/134772378629713920'>twitter.com/#!/saintedlama/&hellip;</a></cite></footer></blockquote>
-
-
-
-</div>
-  
-  
+<ul>
+<li><a href="http://www.hunterdavis.com/resume/tunerdemo/tuner.html">Strobe Tuner</a> - a <a href="http://en.wikipedia.org/wiki/Fast_Fourier_transform">FFT</a>/Pitch Detection demo using HTML5 Audio/webGL.</li>
+</ul>
 
 
-    </article>
-  
-  
-    <article>
-      
-  <header>
-    
-      <h1 class="entry-title"><a href="/blog/2012/01/13/test-post/">Test Post</a></h1>
-    
-    
-      <p class="meta">
-        
+<h3>Javascript</h3>
 
-
-
-
-
-
-
-
-  
-
-
-<time datetime="2012-01-13T11:34:00+01:00" pubdate data-updated="true">Jan 13<span>th</span>, 2012</time>
-        
-      </p>
-    
-  </header>
-
-
-  <div class="entry-content"><h2>This is a test post - you should not read this!</h2>
-
-<p><span class='pullquote-right' data-pullquote='Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris'>
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-</span></p>
-
-<figure class='code'> <div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
-<span class='line-number'>2</span>
-<span class='line-number'>3</span>
-<span class='line-number'>4</span>
-<span class='line-number'>5</span>
-<span class='line-number'>6</span>
-<span class='line-number'>7</span>
-<span class='line-number'>8</span>
-<span class='line-number'>9</span>
-<span class='line-number'>10</span>
-<span class='line-number'>11</span>
-<span class='line-number'>12</span>
-<span class='line-number'>13</span>
-<span class='line-number'>14</span>
-<span class='line-number'>15</span>
-<span class='line-number'>16</span>
-<span class='line-number'>17</span>
-<span class='line-number'>18</span>
-<span class='line-number'>19</span>
-<span class='line-number'>20</span>
-<span class='line-number'>21</span>
-</pre></td><td class='code'><pre><code class='ruby'><span class='line'><span class="k">module</span> <span class="nn">ToJson</span>
-</span><span class='line'>  <span class="k">def</span> <span class="nc">self</span><span class="o">.</span><span class="nf">included</span><span class="p">(</span><span class="n">klass</span><span class="p">)</span>
-</span><span class='line'>    <span class="n">klass</span><span class="o">.</span><span class="n">send</span><span class="p">(</span> <span class="ss">:include</span><span class="p">,</span> <span class="no">InstanceMethods</span> <span class="p">)</span>
-</span><span class='line'>    <span class="n">klass</span><span class="o">.</span><span class="n">send</span><span class="p">(</span> <span class="ss">:extend</span><span class="p">,</span> <span class="no">ClassMethods</span> <span class="p">)</span>
-</span><span class='line'>  <span class="k">end</span>
-</span><span class='line'>
-</span><span class='line'>  <span class="k">module</span> <span class="nn">ClassMethods</span>
-</span><span class='line'>    <span class="k">def</span> <span class="nf">to_json</span>
-</span><span class='line'>      <span class="no">File</span><span class="o">.</span><span class="n">open</span><span class="p">(</span> <span class="no">File</span><span class="o">.</span><span class="n">join</span><span class="p">(</span> <span class="no">RAILS_ROOT</span><span class="p">,</span> <span class="s2">&quot;public&quot;</span><span class="p">,</span> <span class="s2">&quot;json&quot;</span><span class="p">,</span> <span class="s2">&quot;</span><span class="si">#{</span><span class="nb">self</span><span class="o">.</span><span class="n">to_s</span><span class="o">.</span><span class="n">tableize</span><span class="si">}</span><span class="s2">.json&quot;</span><span class="p">),</span> <span class="s2">&quot;w&quot;</span> <span class="p">)</span> <span class="k">do</span> <span class="o">|</span><span class="n">f</span><span class="o">|</span>
-</span><span class='line'>        <span class="n">f</span><span class="o">.</span><span class="n">puts</span> <span class="nb">self</span><span class="o">.</span><span class="n">all</span><span class="o">.</span><span class="n">collect</span> <span class="p">{</span> <span class="o">|</span><span class="n">s</span><span class="o">|</span> <span class="n">s</span><span class="o">.</span><span class="n">to_hash</span> <span class="p">}</span><span class="o">.</span><span class="n">to_json</span>
-</span><span class='line'>      <span class="k">end</span>
-</span><span class='line'>    <span class="k">end</span>
-</span><span class='line'>  <span class="k">end</span>
-</span><span class='line'>
-</span><span class='line'>  <span class="k">module</span> <span class="nn">InstanceMethods</span>
-</span><span class='line'>    <span class="k">def</span> <span class="nf">to_hash</span>
-</span><span class='line'>      <span class="p">{</span> <span class="s1">&#39;id&#39;</span> <span class="o">=&gt;</span> <span class="nb">self</span><span class="o">.</span><span class="n">id</span><span class="p">,</span> <span class="s1">&#39;name&#39;</span> <span class="o">=&gt;</span> <span class="nb">self</span><span class="o">.</span><span class="n">name</span> <span class="p">}</span>
-</span><span class='line'>    <span class="k">end</span>
-</span><span class='line'>  <span class="k">end</span>
-</span><span class='line'>
-</span><span class='line'><span class="k">end</span>
-</span></code></pre></td></tr></table></div></figure>
-
-
+<ul>
+<li><a href="http://accidentaltechnologist.com/javascript/7-resources-every-javascript-developer-should-know/">Javascript Resources</a> - .. every javascript developer should know.</li>
+<li><a href="http://joelb.me/scrollpath/">jquery scroll path</a> - a jquery plugin to manipulate the scroll path.</li>
+<li><a href="http://jhollingworth.github.com/bootstrap-wysihtml5/">wysihtml5</a> - wysiwyg meets twitter bootstrap.</li>
+<li><a href="http://hsivaram.com/tech/2012/03/15/preview-impressionist-a-visual-editor-for-impress-js/">Impressionist</a> - a visual editor for impress.js</li>
+</ul>
 
 
 </div>
   
   
     <footer>
-      <a rel="full-article" href="/blog/2012/01/13/test-post/">Read on &rarr;</a>
+      <a rel="full-article" href="/blog/2012/03/22/interesting-thingys-9/">Read on &rarr;</a>
     </footer>
   
 
@@ -201,7 +138,7 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor 
       
   <header>
     
-      <h1 class="entry-title"><a href="/blog/2011/12/13/video-post/">Video-post</a></h1>
+      <h1 class="entry-title"><a href="/blog/2012/03/13/interesting-thingys-8/">Interesting Thingys #8</a></h1>
     
     
       <p class="meta">
@@ -217,24 +154,439 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor 
   
 
 
-<time datetime="2011-12-13T11:42:00+01:00" pubdate data-updated="true">Dec 13<span>th</span>, 2011</time>
+<time datetime="2012-03-13T08:54:00+01:00" pubdate data-updated="true">Mar 13<span>th</span>, 2012</time>
         
       </p>
     
   </header>
 
 
-  <div class="entry-content"><p>test post 2 - video content</p>
+  <div class="entry-content"><blockquote><p><em>Interesting Thingys</em> is a gazette in the blog that summarizes a week of blog articles, links, specifications, demos, news or more general &#8220;thingys&#8221; that we stumble upon in our journey through the world wide web.</p></blockquote>
 
-<p><video width='640' height='320' preload='none' controls poster=' http://s3.imathis.com/video/zero-to-fancy-buttons.png'><source src='http://s3.imathis.com/video/zero-to-fancy-buttons.mp4' type='video/mp4; codecs="avc1.42E01E, mp4a.40.2"'/></video></p>
+<h3>Mobile Development</h3>
+
+<ul>
+<li><a href="http://www.sencha.com/blog/announcing-sencha-touch-2">Sencha Touch</a> - a HTML5 Mobile Application Framework, version 2.0 released.</li>
+</ul>
+
+
+<h3>CSS</h3>
+
+<ul>
+<li><a href="http://www.zeldman.com/2012/03/01/replacing-the-9999px-hack-new-image-replacement">Replacing the -9999px hack (aka new image replacement)</a></li>
+<li><a href="http://davidwalsh.name/css4-preview">CSS4 (!) Selectors</a></li>
+<li><a href="http://www.w3.org/TR/2011/WD-selectors4-20110929/">CSS 4 Selectors</a> - the non shortened version</li>
+</ul>
+
+
 </div>
   
+  
+    <footer>
+      <a rel="full-article" href="/blog/2012/03/13/interesting-thingys-8/">Read on &rarr;</a>
+    </footer>
+  
+
+
+    </article>
+  
+  
+    <article>
+      
+  <header>
+    
+      <h1 class="entry-title"><a href="/blog/2012/03/12/configure-webstorm-to-run-and-debug-mocha-tests/">Configure WebStorm to Run and Debug Mocha Tests</a></h1>
+    
+    
+      <p class="meta">
+        
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2012-03-12T13:05:00+01:00" pubdate data-updated="true">Mar 12<span>th</span>, 2012</time>
+        
+      </p>
+    
+  </header>
+
+
+  <div class="entry-content"><p>First of all I have to admit that I&#8217;m an IDE guy. I&#8217;m using command line tools, Vi , have gnu tools installed on my Windows box and so on. That brings me to the next thing I have to admit: I&#8217;m using Windows.</p>
+
+<p>I love using <a href="http://www.jetbrains.com/webstorm/">WebStorm</a> for tinkering with Node.js. I love WebStorm for two reasons:</p>
+
+<ul>
+<li>The JavaScript syntax completion is somehow crazy clever</li>
+<li>It allows me to stick with my Eclipse keyboard schema</li>
+</ul>
+
+
+</div>
+  
+  
+    <footer>
+      <a rel="full-article" href="/blog/2012/03/12/configure-webstorm-to-run-and-debug-mocha-tests/">Read on &rarr;</a>
+    </footer>
+  
+
+
+    </article>
+  
+  
+    <article>
+      
+  <header>
+    
+      <h1 class="entry-title"><a href="/blog/2012/03/05/interesting-thingys-7/">Interesting Thingys #7</a></h1>
+    
+    
+      <p class="meta">
+        
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2012-03-05T08:54:00+01:00" pubdate data-updated="true">Mar 5<span>th</span>, 2012</time>
+        
+      </p>
+    
+  </header>
+
+
+  <div class="entry-content"><blockquote><p><em>Interesting Thingys</em> is a gazette in the blog that summarizes a week of blog articles, links, specifications, demos, news or more general &#8220;thingys&#8221; that we stumble upon in our journey through the world wide web.</p></blockquote>
+
+<h3>HTML5/CSS</h3>
+
+<ul>
+<li><a href="http://zoomzum.com/6-best-html5css3-presentation-frameworks/">presentation frameworks</a> -  using javascript + css3</li>
+<li><a href="http://cggallant.blogspot.com/2010/08/introduction-to-html-5-web-workers.html">web-worker in HTML5</a> - Old but still worthy to read:</li>
+</ul>
+
+
+<h3>Mobile</h3>
+
+<ul>
+<li><a href="http://johnkpaul.tumblr.com/post/18681089281/scale-to-mobile-browser-with-pictures">scale to mobile browser</a> - Short description of &#8220;viewport&#8221; meta tag und how mobile-browser scale</li>
+</ul>
+
+
+</div>
+  
+  
+    <footer>
+      <a rel="full-article" href="/blog/2012/03/05/interesting-thingys-7/">Read on &rarr;</a>
+    </footer>
+  
+
+
+    </article>
+  
+  
+    <article>
+      
+  <header>
+    
+      <h1 class="entry-title"><a href="/blog/2012/02/27/interesting-thingys-6/">Interesting Thingys #6</a></h1>
+    
+    
+      <p class="meta">
+        
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2012-02-27T08:54:00+01:00" pubdate data-updated="true">Feb 27<span>th</span>, 2012</time>
+        
+      </p>
+    
+  </header>
+
+
+  <div class="entry-content"><blockquote><p><em>Interesting Thingys</em> is a gazette in the blog that summarizes a week of blog articles, links, specifications, demos, news or more general &#8220;thingys&#8221; that we stumble upon in our journey through the world wide web.</p></blockquote>
+
+<h3>HTML/CSS</h3>
+
+<ul>
+<li><a href="http://html5please.com/">html5please.com</a> - Explore html5 features (categories: supported by browsers, use with caution, fallbacks, polyfills, &#8230;)</li>
+<li><a href="https://github.com/emorikawa/boilerstrap">boilerstrap</a> - Template for HTML5Boilerplate and Twitters Bootstrap CSS (+modernizr, js compression, coffeescript support, sass, less)&#8230; Plus rake-tasks.</li>
+<li><a href="http://tumultco.com/hype/">hype</a> - Interesting editor (GUI) for HTML5/CSS3 Keyframe animations &amp; animated content&#8230; (sorry: mac only)</li>
+<li><a href="http://shinydemos.com/">Shinydemos</a> - New html5 showcase by opera.</li>
+</ul>
+
+
+</div>
+  
+  
+    <footer>
+      <a rel="full-article" href="/blog/2012/02/27/interesting-thingys-6/">Read on &rarr;</a>
+    </footer>
+  
+
+
+    </article>
+  
+  
+    <article>
+      
+  <header>
+    
+      <h1 class="entry-title"><a href="/blog/2012/02/22/mssql-to-mysql-migration-with-rails-and-php/">MSSql to MySql Migration With a Little Help of Rails and PHP</a></h1>
+    
+    
+      <p class="meta">
+        
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2012-02-22T00:00:00+01:00" pubdate data-updated="true">Feb 22<span>nd</span>, 2012</time>
+        
+      </p>
+    
+  </header>
+
+
+  <div class="entry-content"><h2>The problem</h2>
+
+<p>You want to migrate a MSSql database to MySql. You have rather large schema and don&#8217;t want to do it by hand.</p>
+
+</div>
+  
+  
+    <footer>
+      <a rel="full-article" href="/blog/2012/02/22/mssql-to-mysql-migration-with-rails-and-php/">Read on &rarr;</a>
+    </footer>
+  
+
+
+    </article>
+  
+  
+    <article>
+      
+  <header>
+    
+      <h1 class="entry-title"><a href="/blog/2012/02/21/interesting-thingys-5/">Interesting Thingys #5</a></h1>
+    
+    
+      <p class="meta">
+        
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2012-02-21T08:54:00+01:00" pubdate data-updated="true">Feb 21<span>st</span>, 2012</time>
+        
+      </p>
+    
+  </header>
+
+
+  <div class="entry-content"><blockquote><p><em>Interesting Thingys</em> is a gazette in the blog that summarizes a week of blog articles, links, specifications, demos, news or more general &#8220;thingys&#8221; that we stumble upon in our journey through the world wide web.</p></blockquote>
+
+<h3>CSS/HTML/Frontend</h3>
+
+<ul>
+<li><a href="http://www.html5rocks.com">HTML5Rocks</a> - Updated website of &#8220;HTML5Rocks&#8221; with a bunch of useful information!</li>
+<li><a href="http://darcyclarke.me/development/front-end-job-interview-questions/">Interview Question for Frontend Developers</a></li>
+<li><a href="http://mathiasbynens.be/notes/css-without-html">CSS without HTML</a> - How to build a website without HTML.</li>
+</ul>
+
+
+</div>
+  
+  
+    <footer>
+      <a rel="full-article" href="/blog/2012/02/21/interesting-thingys-5/">Read on &rarr;</a>
+    </footer>
+  
+
+
+    </article>
+  
+  
+    <article>
+      
+  <header>
+    
+      <h1 class="entry-title"><a href="/blog/2012/02/13/interesting-thingys-4/">Interesting Thingys #4</a></h1>
+    
+    
+      <p class="meta">
+        
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2012-02-13T08:54:00+01:00" pubdate data-updated="true">Feb 13<span>th</span>, 2012</time>
+        
+      </p>
+    
+  </header>
+
+
+  <div class="entry-content"><blockquote><p><em>Interesting Thingys</em> is a gazette in the blog that summarizes a week of blog articles, links, specifications, demos, news or more general &#8220;thingys&#8221; that we stumble upon in our journey through the world wide web.</p></blockquote>
+
+<h3>Android (+Ruby)</h3>
+
+<ul>
+<li><a href="http://rubysource.com/ruboto-rubys-and-androids-first-born/">Ruby on Android device via Ruboto</a> - &#8230; a little tutorial.</li>
+</ul>
+
+
+</div>
+  
+  
+    <footer>
+      <a rel="full-article" href="/blog/2012/02/13/interesting-thingys-4/">Read on &rarr;</a>
+    </footer>
+  
+
+
+    </article>
+  
+  
+    <article>
+      
+  <header>
+    
+      <h1 class="entry-title"><a href="/blog/2012/02/06/interesting-thingys-3/">Interesting Thingys #3</a></h1>
+    
+    
+      <p class="meta">
+        
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2012-02-06T08:54:00+01:00" pubdate data-updated="true">Feb 6<span>th</span>, 2012</time>
+        
+      </p>
+    
+  </header>
+
+
+  <div class="entry-content"><blockquote><p><em>Interesting Thingys</em> is a gazette in the blog that summarizes a week of blog articles, links, specifications, demos, news or more general &#8220;thingys&#8221; that we stumble upon in our journey through the world wide web.</p></blockquote>
+
+<h3>CSS</h3>
+
+<ul>
+<li><a href="http://css3test.com/">css3test</a> - Tests your browser for CSS3 compatibility.</li>
+<li><a href="http://upstatement.com/blog/2012/01/how-to-approach-a-responsive-design/">how to approach a responsive design</a> - Interesting Article about Responsive Design, example: the Boston Globe website.</li>
+</ul>
+
+
+</div>
+  
+  
+    <footer>
+      <a rel="full-article" href="/blog/2012/02/06/interesting-thingys-3/">Read on &rarr;</a>
+    </footer>
+  
+
+
+    </article>
+  
+  
+    <article>
+      
+  <header>
+    
+      <h1 class="entry-title"><a href="/blog/2012/01/23/interesting-thingys-2/">Interesting Thingys #2</a></h1>
+    
+    
+      <p class="meta">
+        
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2012-01-23T08:54:00+01:00" pubdate data-updated="true">Jan 23<span>rd</span>, 2012</time>
+        
+      </p>
+    
+  </header>
+
+
+  <div class="entry-content"><blockquote><p><em>Interesting Thingys</em> is a gazette in the blog that summarizes a week of blog articles, links, specifications, demos, news or more general &#8220;thingys&#8221; that we stumble upon in our journey through the world wide web.</p></blockquote>
+
+<h3>Server/WebStack</h3>
+
+<ul>
+<li><a href="http://www.igvita.com/2012/01/18/building-a-modern-web-stack-for-the-realtime-web/">WebSockets, SPDY Protocol, HTTP2.0</a> - .. &#8220;Tommorrows technology for todays web!&#8221;.</li>
+</ul>
+
+
+</div>
+  
+  
+    <footer>
+      <a rel="full-article" href="/blog/2012/01/23/interesting-thingys-2/">Read on &rarr;</a>
+    </footer>
   
 
 
     </article>
   
   <div class="pagination">
+    
+      <a class="prev" href="/blog/page/2/">&larr; Older</a>
     
     <a href="/blog/archives">Blog Archives</a>
     
@@ -247,15 +599,23 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor 
   <ul id="recent_posts">
     
       <li class="post">
-        <a href="/blog/2012/01/13/new-post/">new-post</a>
+        <a href="/blog/2012/03/22/interesting-thingys-9/">Interesting Thingys #9</a>
       </li>
     
       <li class="post">
-        <a href="/blog/2012/01/13/test-post/">test post</a>
+        <a href="/blog/2012/03/13/interesting-thingys-8/">Interesting Thingys #8</a>
       </li>
     
       <li class="post">
-        <a href="/blog/2011/12/13/video-post/">video-post</a>
+        <a href="/blog/2012/03/12/configure-webstorm-to-run-and-debug-mocha-tests/">Configure WebStorm to run and debug Mocha tests</a>
+      </li>
+    
+      <li class="post">
+        <a href="/blog/2012/03/05/interesting-thingys-7/">Interesting Thingys #7</a>
+      </li>
+    
+      <li class="post">
+        <a href="/blog/2012/02/27/interesting-thingys-6/">Interesting Thingys #6</a>
       </li>
     
   </ul>
@@ -273,7 +633,8 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor 
   </div>
   <footer role="contentinfo"><p>
   Copyright &copy; 2012 - yield the dog -
-  <span class="credit">Powered by <a href="http://octopress.org">Octopress</a></span>
+  <span class="credit">Powered by <a href="http://octopress.org">Octopress</a></span> |
+  This blog is not affilated with <a href="http://diamonddogs.cc">the diamond:dogs group</a>
 </p>
 
 </footer>

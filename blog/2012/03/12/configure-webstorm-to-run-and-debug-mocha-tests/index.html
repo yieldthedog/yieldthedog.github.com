@@ -1,0 +1,263 @@
+
+<!DOCTYPE html>
+<!--[if IEMobile 7 ]><html class="no-js iem7"><![endif]-->
+<!--[if lt IE 9]><html class="no-js lte-ie8"><![endif]-->
+<!--[if (gt IE 8)|(gt IEMobile 7)|!(IEMobile)|!(IE)]><!--><html class="no-js" lang="en"><!--<![endif]-->
+<head>
+  <meta charset="utf-8">
+  <title>Configure WebStorm to run and debug Mocha tests - yield the dog</title>
+  <meta name="author" content="yield the dog">
+
+  
+  <meta name="description" content="First of all I have to admit that I&#8217;m an IDE guy. I&#8217;m using command line tools, Vi , have gnu tools installed on my Windows box and so on &hellip;">
+  
+
+  <!-- http://t.co/dKP3o1e -->
+  <meta name="HandheldFriendly" content="True">
+  <meta name="MobileOptimized" content="320">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  
+  <link rel="canonical" href="http://yieldthedog.github.com/blog/2012/03/12/configure-webstorm-to-run-and-debug-mocha-tests">
+  <link href="/favicon.png" rel="icon">
+  <link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css">
+  <script src="/javascripts/modernizr-2.0.js"></script>
+  <script src="/javascripts/ender.js"></script>
+  <script src="/javascripts/octopress.js" type="text/javascript"></script>
+  <link href="/atom.xml" rel="alternate" title="yield the dog" type="application/atom+xml">
+  <!--Fonts from Google"s Web font directory at http://google.com/webfonts -->
+<link href="http://fonts.googleapis.com/css?family=PT+Serif:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">
+<link href="http://fonts.googleapis.com/css?family=PT+Sans:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">
+
+  
+  <script type="text/javascript">
+    var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-29924121-1']);
+    _gaq.push(['_trackPageview']);
+
+    (function() {
+      var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+      ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+    })();
+  </script>
+
+
+</head>
+
+<body   >
+  <header role="banner"><hgroup>
+  <h1><a href="/">yield the dog</a></h1>
+  
+</hgroup>
+
+</header>
+  <nav role="navigation"><ul class="subscription" data-subscription="rss">
+  <li><a href="/atom.xml" rel="subscribe-rss" title="subscribe via RSS">RSS</a></li>
+  
+</ul>
+  
+<form action="http://google.com/search" method="get">
+  <fieldset role="search">
+    <input type="hidden" name="q" value="site:yieldthedog.github.com" />
+    <input class="search" type="text" name="q" results="0" placeholder="Search"/>
+  </fieldset>
+</form>
+  
+<ul class="main-navigation">
+  <li><a href="/">Blog</a></li>
+  <li><a href="/blog/categories/interesting-thingys/">Interesting Thingys</a></li>
+  <li><a href="/blog/archives">Archives</a></li>
+  <li><a href="/about">About</a></li>
+</ul>
+
+</nav>
+  <div id="main">
+    <div id="content">
+      <div>
+<article class="hentry" role="article">
+  
+  <header>
+    
+      <h1 class="entry-title">Configure WebStorm to Run and Debug Mocha Tests</h1>
+    
+    
+      <p class="meta">
+        
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2012-03-12T13:05:00+01:00" pubdate data-updated="true">Mar 12<span>th</span>, 2012</time>
+        
+      </p>
+    
+  </header>
+
+
+<div class="entry-content"><p>First of all I have to admit that I&#8217;m an IDE guy. I&#8217;m using command line tools, Vi , have gnu tools installed on my Windows box and so on. That brings me to the next thing I have to admit: I&#8217;m using Windows.</p>
+
+<p>I love using <a href="http://www.jetbrains.com/webstorm/">WebStorm</a> for tinkering with Node.js. I love WebStorm for two reasons:</p>
+
+<ul>
+<li>The JavaScript syntax completion is somehow crazy clever</li>
+<li>It allows me to stick with my Eclipse keyboard schema</li>
+</ul>
+
+
+<!-- more -->
+
+
+<p>The latter point is particullary important to me, since I&#8217;m using Eclipse and Visual Studio in my job environment and I don&#8217;t have enough brain to remember a third keyboard shortcut schema. I guess, I&#8217;ll blog about that in a future post.</p>
+
+<p>I was using <a href="https://github.com/caolan/nodeunit">Nodeunit</a> for (unit) testing, when I started with Node.js. While Nodeunit works quite fine, it&#8217;s limited to TDD style tests. Some time ago when coding on <a href="http://subsonicproject.com">SubSonic</a> I began to like the endorsed test method name syntax in the project, that uses the word <em>&#8220;should&#8221;</em> somewhere in the test method name. That means a unit test, that was named <code>testSquareRootOfZero</code> would become <code>squareRootOfZeroShouldThrowAnException</code>. This transports more meaning than <code>testSquareRootOfZero</code>. As a side effect of this naming schema I was programming (unit) tests slick like chicken shit. For this reason and for pure curiosity I migrated some unit tests to <a href="http://visionmedia.github.com/mocha/">Mocha</a> that offers a slick BDD style syntax just out of the box.</p>
+
+<p>But I had a slight problem with the Mocha tests in WebStorm: lack of tools support. This does not really matter for writing the tests nor for running the tests (Mocha has a wonderful console test runner!). But when tests start to fail, I want to attach a debugger! And I want to attach my WebStorm debugger with a ton of cool features!</p>
+
+<p>So with a little bit of hand crafting and reading Mocha code it&#8217;s quite easy to attach the WebStorm debugging tools to Mocha tests.</p>
+
+<p><strong>First install Mocha</strong></p>
+
+<pre><code>npm install mocha
+</code></pre>
+
+<p>You may want to install Mocha globally</p>
+
+<pre><code>npm -g install mocha 
+</code></pre>
+
+<p><strong>Next attach the debugger:</strong></p>
+
+<p>In WebStorm via <code>Run-&gt;Edit Configurations</code> add a new configuration and point the &#8220;Path to node App JS File&#8221; to <code>\_mocha</code> (can be found under node_modules in case installed locally or under global modules). Pointing the run configuration to _mocha is quite important since the main mocha binary spawns a new process you cannot connect via a debugger!</p>
+
+<p>Et voilà - Debugging Mocha tests in WebStorm!</p>
+
+<p>Drawbacks: The output is somehow broken, so I&#8217;m using the WebStorm runner for debugging while using the mocha console runner for pretty output and continuous tests via watch.</p>
+</div>
+
+
+  <footer>
+    <p class="meta">
+      
+  
+
+<span class="byline author vcard">Posted by <span class="fn">Christoph</span></span>
+
+      
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2012-03-12T13:05:00+01:00" pubdate data-updated="true">Mar 12<span>th</span>, 2012</time>
+      
+
+
+    </p>
+    
+      <div class="sharing">
+  
+  <a href="http://twitter.com/share" class="twitter-share-button" data-url="http://yieldthedog.github.com/blog/2012/03/12/configure-webstorm-to-run-and-debug-mocha-tests/" data-via="" data-counturl="http://yieldthedog.github.com/blog/2012/03/12/configure-webstorm-to-run-and-debug-mocha-tests/" >Tweet</a>
+  
+  
+  
+</div>
+
+    
+    <p class="meta">
+      
+        <a class="basic-alignment left" href="/blog/2012/03/05/interesting-thingys-7/" title="Previous Post: Interesting Thingys #7">&laquo; Interesting Thingys #7</a>
+      
+      
+        <a class="basic-alignment right" href="/blog/2012/03/13/interesting-thingys-8/" title="next Post: Interesting Thingys #8">Interesting Thingys #8 &raquo;</a>
+      
+    </p>
+  </footer>
+</article>
+
+</div>
+
+<aside class="sidebar">
+  
+    <section>
+  <h1>Recent Posts</h1>
+  <ul id="recent_posts">
+    
+      <li class="post">
+        <a href="/blog/2012/03/22/interesting-thingys-9/">Interesting Thingys #9</a>
+      </li>
+    
+      <li class="post">
+        <a href="/blog/2012/03/13/interesting-thingys-8/">Interesting Thingys #8</a>
+      </li>
+    
+      <li class="post">
+        <a href="/blog/2012/03/12/configure-webstorm-to-run-and-debug-mocha-tests/">Configure WebStorm to run and debug Mocha tests</a>
+      </li>
+    
+      <li class="post">
+        <a href="/blog/2012/03/05/interesting-thingys-7/">Interesting Thingys #7</a>
+      </li>
+    
+      <li class="post">
+        <a href="/blog/2012/02/27/interesting-thingys-6/">Interesting Thingys #6</a>
+      </li>
+    
+  </ul>
+</section>
+
+
+
+
+
+
+  
+</aside>
+
+
+    </div>
+  </div>
+  <footer role="contentinfo"><p>
+  Copyright &copy; 2012 - yield the dog -
+  <span class="credit">Powered by <a href="http://octopress.org">Octopress</a></span> |
+  This blog is not affilated with <a href="http://diamonddogs.cc">the diamond:dogs group</a>
+</p>
+
+</footer>
+  
+
+
+
+
+
+
+
+  <script type="text/javascript">
+    (function(){
+      var twitterWidgets = document.createElement('script');
+      twitterWidgets.type = 'text/javascript';
+      twitterWidgets.async = true;
+      twitterWidgets.src = 'http://platform.twitter.com/widgets.js';
+      document.getElementsByTagName('head')[0].appendChild(twitterWidgets);
+    })();
+  </script>
+
+
+
+
+
+</body>
+</html>
