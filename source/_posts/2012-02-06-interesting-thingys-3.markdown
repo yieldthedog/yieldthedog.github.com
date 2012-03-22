@@ -13,6 +13,7 @@ published: true
 - [css3test](http://css3test.com/) - Tests your browser for CSS3 compatibility.
 - [how to approach a responsive design](http://upstatement.com/blog/2012/01/how-to-approach-a-responsive-design/) - Interesting Article about Responsive Design, example: the Boston Globe website.
 
+<!-- more -->
 
 ### Mobile Web Development
 - [mobile app development](http://dumaslab.com/2011/05/best-mobile-web-html5-framework-for-mobile-app-development/) - A somehow older but interesting comparison of mobile development frameworks (PhoneGap, Titanium, JQTouch, ...).

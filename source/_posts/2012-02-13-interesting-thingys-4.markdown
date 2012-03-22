@@ -12,6 +12,7 @@ published: true
 ### Android (+Ruby)
 - [Ruby on Android device via Ruboto](http://rubysource.com/ruboto-rubys-and-androids-first-born/) - ... a little tutorial.
 
+<!-- more -->
 
 ### CSS
 - [A flip-switch in CSS3](http://colintoh.com/css3-flip-switch)

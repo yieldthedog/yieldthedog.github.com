@@ -12,6 +12,8 @@ published: true
 ### Server/WebStack
 - [WebSockets, SPDY Protocol, HTTP2.0](http://www.igvita.com/2012/01/18/building-a-modern-web-stack-for-the-realtime-web/) - .. "Tommorrows technology for todays web!".
 
+<!-- more -->
+
 ### Java
 - [RESTful Webservices with Spring/Java](http://www.baeldung.com/2012/01/18/rest-pagination-in-spring/ ) - Extensive tutorial in 7(!) parts.
 

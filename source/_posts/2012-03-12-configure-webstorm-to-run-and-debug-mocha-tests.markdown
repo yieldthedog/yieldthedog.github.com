@@ -3,8 +3,9 @@ layout: post
 title: "Configure WebStorm to run and debug Mocha tests"
 date: 2012-03-12 13:05
 comments: true
+author: Christoph
 categories: 
-published: false
+published: true
 ---
 First of all I have to admit that I'm an IDE guy. I'm using command line tools, Vi , have gnu tools installed on my Windows box and so on. That brings me to the next thing I have to admit: I'm using Windows.
 
@@ -12,6 +13,8 @@ I love using [WebStorm](http://www.jetbrains.com/webstorm/) for tinkering with N
 
 * The JavaScript syntax completion is somehow crazy clever
 * It allows me to stick with my Eclipse keyboard schema
+
+<!-- more -->
 
 The latter point is particullary important to me, since I'm using Eclipse and Visual Studio in my job environment and I don't have enough brain to remember a third keyboard shortcut schema. I guess, I'll blog about that in a future post.
 
