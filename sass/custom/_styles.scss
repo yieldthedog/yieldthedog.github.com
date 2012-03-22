@@ -14,3 +14,29 @@ article{
   }
 
 }
+body{
+   box-shadow: 2px 2px 20px 2px #000;
+	> header h1{
+		text-shadow:29px 25px 18px rgba(0,0,0,.6);
+		-webkit-transition: text-shadow 1s ease-in-out;
+		-moz-transition: text-shadow 1s ease-in-out;
+		transition: text-shadow 1s ease-in-out;
+		&:hover{
+			text-shadow:15px 11px 8px rgba(0,0,0, .9),0 0 2px rgba(255,255,0,.4) , 0 0 9px rgba(255,255,255,.7);
+		}
+	}
+}
+
+.main-navigation a{
+	-webkit-transition: text-shadow 1s ease-in-out;
+	-moz-transition: text-shadow 1s ease-in-out;
+	transition: text-shadow 1s ease-in-out;
+	&:hover{
+		text-shadow: 1px 4px 4px rgba(20,20,20,.4);
+	}
+
+}
+
+.meta{
+    color:#999;
+}
