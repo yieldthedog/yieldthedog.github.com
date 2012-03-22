@@ -4,7 +4,7 @@ title: "C# code gems #2 - Abstractions via Strings"
 date: 2012-03-17 10:06
 comments: true
 categories: code-gems
-published: false;
+published: false
 ---
 
 In .NET we have the concept of connection strings which are some weird non consistent bunch of key value pairs, with colons mixed in highly dependent of the DB driver used. To get an overview how such connection strings may look like head over to [Connection Strings.com](http://connectionstrings.com).
