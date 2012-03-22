@@ -15,6 +15,7 @@ published: true
 - [hype](http://tumultco.com/hype/) - Interesting editor (GUI) for HTML5/CSS3 Keyframe animations & animated content... (sorry: mac only)
 - [Shinydemos](http://shinydemos.com/) - New html5 showcase by opera.
 
+<!-- more -->
 
 ### Android + iOS
 - [photopickerplus](http://picture.io/photopickerplus ) - free Cross Platform Photopicker Library .. "pick photo from your favorite photo services, not just from your locally stored ones"

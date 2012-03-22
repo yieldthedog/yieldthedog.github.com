@@ -12,6 +12,8 @@ published: true
 ### Server/WebStack
 - [WebSockets, SPDY Protocol, HTTP2.0](http://www.igvita.com/2012/01/18/building-a-modern-web-stack-for-the-realtime-web/) - .. "Tommorrows technology for todays web!".
 
+<!-- more -->
+
 ### Java
 - [RESTful Webservices with Spring/Java](http://www.baeldung.com/2012/01/18/rest-pagination-in-spring/ ) - Extensive tutorial in 7(!) parts.
 
@@ -26,6 +28,7 @@ published: true
 - [Android UI Patterns](http://androidpttrns.com/)
 - [VIM for the iPad.](http://applidium.com/en/applications/vim/) -  _Useful_: Nope. _Geeky_: Yep!
 - [Android Terminal IDE.](https://market.android.com/details?id=com.spartacusrex.spartacuside) -  _Useful_: Yep. _Geeky_: Yep!
+
 
 ### JavaScript/CSS
 - [The "Hello World" of Web-Programming](http://blog.james-carr.org/2012/01/16/blog-rolling-with-mongodb-node-js-and-coffeescript/) -  How to build a Blog App using NodeJS, MongoDB & CoffeeScript (using a BDD approach).

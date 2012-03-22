@@ -15,6 +15,7 @@ published: true
 - [Responsive Template](http://verekia.com/initializr/responsive-template) - Article about "Responsive Template" using Initializr2 or a "Mobile First Approach" with media queries.
 - [Backbone.js boilerplate](https://github.com/tbranyen/backbone-boilerplate) - Boilerplate for the backbone.js guys.
 
+<!-- more -->
 
 ### Javascript
 - [Consumer Apps with Node](http://venturebeat.com/2012/01/07/building-consumer-apps-with-node/) - Why node.js matters (And how to convince management).

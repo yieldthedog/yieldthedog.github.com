@@ -5,7 +5,7 @@ date: 2012-03-15 12:17
 comments: true
 sharing: true
 footer: true
-published: false
+published: true
 ---
 
 Yield the dog was created by Michael, Thomas and Christoph to give us a platform to blog about interesting small and big stuff we see in our daily work that we wanted to communicate to the world. And as a side effect we wanted to get rich, famous and super sexy like [this](http://www.neowin.net/images/uploaded/stallman.jpg) or [that](http://david.heinemeierhansson.com/) guy. While getting rich with an ad free blog could get a little tricky we try to focus on famous and super sexy!
@@ -19,7 +19,8 @@ The name "yield the dog" was born/invented after a couple of beers by combining 
 > Christoph's virtual web site is the cloud [@saintedlama](https://twitter.com/saintedlama), [github](https://github.com/saintedlama), [coderwall](http://coderwall.com/saintedlama), [stackoverflow](http://stackoverflow.com/users/263251/saintedlama)
 
 ### About Michael
-> .. find him at [notyce.net](http://notyce.net), [@notyce](http://twitter.com/notyce), [github](https://github.com/shm), [coderwall](http://coderwall.com/shm), [stackoverflow](http://stackoverflow.com/users/1005573/shm) and [last.fm](http://last.fm/user/ullysse)
+> Michael likes to make things. 
+> Find him at [notyce.net](http://notyce.net), [@notyce](http://twitter.com/notyce), [github](https://github.com/shm), [coderwall](http://coderwall.com/shm), [stackoverflow](http://stackoverflow.com/users/1005573/shm) and [last.fm](http://last.fm/user/ullysse)
 
 
 ### About Thomas

@@ -17,6 +17,7 @@ published: true
 - [CSS4 (!) Selectors](http://davidwalsh.name/css4-preview)
 - [CSS 4 Selectors](http://www.w3.org/TR/2011/WD-selectors4-20110929/) - the non shortened version
 
+<!-- more -->
 
 ### HTML5
 - [airscape](http://www.scirra.com/arcade/addicting-rotary-games/848/airscape) - Very addicting (&amp; rotating) HTML5 Game.

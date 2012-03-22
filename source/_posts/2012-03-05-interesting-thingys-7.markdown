@@ -17,6 +17,7 @@ published: true
 ### Mobile
 - [scale to mobile browser](http://johnkpaul.tumblr.com/post/18681089281/scale-to-mobile-browser-with-pictures) - Short description of "viewport" meta tag und how mobile-browser scale
 
+<!-- more -->
 
 ### Allgemein
 - [absolute beginners guide to bit shifting](http://stackoverflow.com/questions/141525/absolute-beginners-guide-to-bit-shifting) - Stack Overflow answer to a Bit-Shifting question..

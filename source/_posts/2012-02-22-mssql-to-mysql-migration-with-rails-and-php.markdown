@@ -1,8 +1,9 @@
 ---
 layout: post
 title: "MSSql to MySql migration with a little help of Rails and PHP"
-date: 2012-03-06 21.28
-published: false
+date: 2012-02-22 21.28
+published: true
+author: Thomas
 comments: true
 categories:
   - mssql
@@ -16,6 +17,7 @@ categories:
     
 You want to migrate a MSSql database to MySql. You have rather large schema and don't want to do it by hand.
 
+<!-- more -->
 
 ##Possible solutions
 

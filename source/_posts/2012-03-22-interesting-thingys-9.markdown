@@ -18,6 +18,7 @@ published: true
 - [wysihtml5](http://jhollingworth.github.com/bootstrap-wysihtml5/) - wysiwyg meets twitter bootstrap.
 - [Impressionist](http://hsivaram.com/tech/2012/03/15/preview-impressionist-a-visual-editor-for-impress-js/) - a visual editor for impress.js
 
+<!-- more -->
 
 ### C#
 - [C# 5](http://www.mindscapehq.com/blog/index.php/2012/03/18/what-else-is-new-in-c-5/) - new stuff in C# 5.
