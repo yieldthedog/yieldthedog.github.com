@@ -4,7 +4,7 @@ title: "Interesting Thingys #8"
 date: 2012-03-13 08:54
 comments: true
 categories: "Interesting-Thingys"
-published: false
+published: true
 ---
 > _Interesting Thingys_ is a gazette in the blog that summarizes a week of blog articles, links, specifications, demos, news or more general "thingys" that we stumble upon in our journey through the world wide web.
 

@@ -5,7 +5,7 @@ date: 2012-03-22 10:35
 comments: true
 categories: 
 categories: "Interesting-Thingys"
-published: false
+published: true
 ---
 
 ### HTML5
@@ -15,6 +15,8 @@ published: false
 ### Javascript
 - [Javascript Resources](http://accidentaltechnologist.com/javascript/7-resources-every-javascript-developer-should-know/) - .. every javascript developer should know.
 - [jquery scroll path](http://joelb.me/scrollpath/) - a jquery plugin to manipulate the scroll path.
+- [wysihtml5](http://jhollingworth.github.com/bootstrap-wysihtml5/) - wysiwyg meets twitter bootstrap.
+- [Impressionist](http://hsivaram.com/tech/2012/03/15/preview-impressionist-a-visual-editor-for-impress-js/) - a visual editor for impress.js
 
 
 ### C#
@@ -53,3 +55,6 @@ Genius or a Rock Star.
 
 ### Physics
 - [Richard Feynman Lectures](http://beenposh.tumblr.com/post/19624761395/richard-feynman-lectures-at-cornell-the) - .. at Cornell: "The Character of Physical Law" (ca 1960s)... absolutely worth watching.
+
+### Fun
+- [nyan cat screensaver](http://www.hendrikvh.com/files/NyanSaverMac.php) - for mac.
