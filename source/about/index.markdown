@@ -8,7 +8,7 @@ footer: true
 published: true
 ---
 
-Yield the dog was created by Michael, Thomas and Christoph to give us a platform to blog about interesting small and big stuff we see in our daily work that we wanted to communicate to the world. And as a side effect we wanted to get rich, famous and super sexy like [this](http://www.neowin.net/images/uploaded/stallman.jpg) or [that](http://david.heinemeierhansson.com/) guy. While getting rich with an ad free blog could get a little tricky we try to focus on famous and super sexy!
+Yield the dog was created by Michael, Thomas and Christoph to give us a platform to blog about interesting small and big stuff we see in our daily work that we wanted to communicate to the world. And as a side effect we wanted to get rich, famous and super sexy like [this](http://stallman.org/Portrait_-_Denmark_DTU_2007-3-31.jpg) or [that](http://david.heinemeierhansson.com/) guy. While getting rich with an ad free blog could get a little tricky we try to focus on famous and super sexy!
 
 The name "yield the dog" was born/invented after a couple of beers by combining our most beloved computer language keyword *yield* and a part of our current employers name, the [diamond:dogs group](http://diamonddogs.cc). If all things in life were that simple... 
 
