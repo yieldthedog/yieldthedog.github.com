@@ -16,6 +16,7 @@ published: false
 - [Hammer.js](http://eightmedia.github.com/hammer.js/) - A javascript library for multi-touch gestures
 - [How to write low garbage real-time Javascript](http://www.scirra.com/blog/76/how-to-write-low-garbage-real-time-javascript) - A great article describing the pitfalls of the JavaScript garbage collector, when doint game development.
 - [Fibers and Threads in node.js – what for?](http://bjouhier.wordpress.com/2012/03/11/fibers-and-threads-in-node-js-what-for/) - describes the benefits and shortcommings of using fibers and threads within node.js
+- [Introduction to JavaScript Source Maps - HTML5 Rocks](http://www.html5rocks.com/en/tutorials/developertools/sourcemaps/)
 <!-- more -->
 
 ### C#
