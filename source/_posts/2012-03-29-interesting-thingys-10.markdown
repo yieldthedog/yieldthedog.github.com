@@ -31,6 +31,10 @@ published: false
 - [Ruby 2.0 Enumerable::Lazy](http://blog.railsware.com/2012/03/13/ruby-2-0-enumerablelazy/) - Lazy enumerables will be landing in Ruby 2.0
 - [The Ruby Refresher](http://0xfe.muthanna.com/rubyrefresher/) - if haven't looked at Ruby for a while, take a look at The Ruby Refresher
 
+
+### IDEs / Editors
+- [Build an IDE with tmux and vim](ttp://alexyoung.org/2011/12/19/build-an-ide-with-tmux-and-vim/)
+
 ### OpenSource
 
 
