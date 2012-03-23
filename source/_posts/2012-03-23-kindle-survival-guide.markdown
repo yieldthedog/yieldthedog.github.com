@@ -24,9 +24,10 @@ So what to do with this situation? Download books from rapidshare, megaupload, .
 As I'm a coder, I'm mainly interested in technical books. One publisher of technical books, that stands out is ***[PragProg](http://pragprog.com)*** - not because I emphase their text, but because they offer a quite superior service. Here are the main features:
 
 - All ebooks are not DRMed and are available in various formats
-- You can tell PragProg to automatically send your purchases and future updates to your free kindle email address. This can sometimes get annoying, when you have purchased a book in beta, which recieves updates quite often.
+- You can tell PragProg to automatically send your purchases and future updates to your free kindle email address. This can sometimes get annoying, when you have purchased a book in beta, which receives updates quite often.
 - PragProg can automatically send your ebooks to your Dropbox
 - They publish a free magazin
+
 Some of the PragProg titles lack chapter markers, which is quite annoying, but all in all they offer a great service. Kudos to Dave and Andy!
 
 Next one is [O'Reilly](http://shop.oreilly.com). Just like PragProg they offer their whole library in various formats.
@@ -42,7 +43,7 @@ All of these publishers have one advantage over Amazon in common. {"They offer d
 ## Tools that make your life easier
 
 ###Instapaper
-[Instapaper](http://instapaper.com) is one of the best companions of your kindle. It provides a _read later_ bookmarklet, that saves an article to a list, that you can either export manually or you can let instapaper automatically send an email to your free kindle account, when a certain amount of new articles is reached. Nowadays I even use it to send out [tweets](https://twitter.com/#!thomaspeklak/status/183086027668336640) for great articles and save them to my [Evernote](http://evernote.com) article backlog.
+[Instapaper](http://instapaper.com) is one of the best companions of your kindle. It provides a _read later_ bookmarklet, that saves an article to a list. Later you can either export the list manually or you can let instapaper automatically send an email to your free kindle account, when a certain amount of new articles is reached. Nowadays I even use it to send out [tweets](https://twitter.com/#!thomaspeklak/status/183086027668336640) for great articles and save them to my [Evernote](http://evernote.com) article backlog.
 
 ###Calibre
 [Calibre](http://calibre-ebook.com) is a great tool to manage your ebooks, send them to your device via USB or email. What I especially like is the ability to convert formats. They offer a great support. I once filed a feature request and on the next day it was closed. Way to go!
