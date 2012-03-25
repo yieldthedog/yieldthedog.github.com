@@ -10,7 +10,7 @@ published: false
 > _Interesting Thingys_ is a gazette in the blog that summarizes a week of blog articles, links, specifications, demos, news or more general "thingys" that we stumble upon in our journey through the world wide web.
 
 ### HTML5
-
+- [How a web application can download and store over 2GB without you even knowing it](http://jclaes.blogspot.com/2012/03/how-web-application-can-download-and.html)
 
 ### JavaScript
 - [Hammer.js](http://eightmedia.github.com/hammer.js/) - A javascript library for multi-touch gestures
