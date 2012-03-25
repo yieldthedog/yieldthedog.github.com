@@ -53,6 +53,8 @@ There are times, when you are just too tired to open your eyes, but you can sill
 ##Earphone, earplug
 From time to time you happen to sit nearby someone rather loud and chatty, who prevents you from being focused on the task you do. These are the times, when one of these guys come in handy. @TODO oropax image. If you happen to watch or listen to something make sure, you have earphones that shield you from any disturbing ambient noise.
 
+##Todos / Ideas / Backlog
+While being in isolation new ideas come to my mind all the time or stuff I want to do or to look up. Or I just remember that I want to ask someone an important question. That's when it's handy to have some sort of way to track down those thoughts. It does not matter, if it's a simple text file, a todo list app or a piece of paper to write down your thoughts - it's just important to not forget them and leave them unused.
 
 ##Give me inspiration
 So let's here from you. What's the stuff that makes you a productive coder while commuting?
