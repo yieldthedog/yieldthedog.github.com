@@ -18,6 +18,7 @@ published: false
 - [Fibers and Threads in node.js – what for?](http://bjouhier.wordpress.com/2012/03/11/fibers-and-threads-in-node-js-what-for/) - describes the benefits and shortcommings of using fibers and threads within node.js
 - [Introduction to JavaScript Source Maps - HTML5 Rocks](http://www.html5rocks.com/en/tutorials/developertools/sourcemaps/)
 <!-- more -->
+- [JSwiki](http://bebraw.github.com/jswiki/) - This wiki indexes libraries and resources available for JavaScript.
 
 ### C#
 
@@ -36,6 +37,7 @@ published: false
 
 ### IDEs / Editors
 - [Build an IDE with tmux and vim](ttp://alexyoung.org/2011/12/19/build-an-ide-with-tmux-and-vim/)
+- [Notepad++ 6 released](http://notepad-plus-plus.org/news/notepad-6.0-release.html)
 
 ### OpenSource
 
@@ -44,7 +46,6 @@ published: false
 
 
 ### Tools
-- [Notepad++ 6 released](http://notepad-plus-plus.org/news/notepad-6.0-release.html)
 
 
 ### Mobile Development
