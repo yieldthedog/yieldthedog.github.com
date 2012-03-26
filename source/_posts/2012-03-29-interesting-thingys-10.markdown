@@ -44,6 +44,7 @@ published: false
 
 
 ### Tools
+- [Notepad++ 6 released](http://notepad-plus-plus.org/news/notepad-6.0-release.html)
 
 
 ### Mobile Development
