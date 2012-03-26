@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Keeping a Design Log"
-date: 2012-03-17 10:35
+date: 2012-03-29 10:35
 comments: true
 categories: design
 published: false
@@ -37,4 +37,19 @@ I'm keeping track of good and bad decisions here. Consequences for me
 What it's not
 
 * It's not my personal design patterns catalog, this is more high level
+
+And here it is, one example pattern found in my _Design Log_, "**The early pragmatic**"
+
+> ### Early pragmatic
+> When starting a project early decisions I take are to pragmatic. This leads to missing abstractions early in the process. Which leads to an eroding architecture and design which makes the whole project non consistent pile of non decisions.
+>
+> ### Example
+> Workflow/State Machine implementation in Project XXX (I left that out for reasons...)
+>
+> ### Consequences
+>
+> * Figure out a catalog of limited abstractions early. Decide which to use.
+> * Reflect on missing abstractions or infrastructure!
+> * Make it a ritual to check the code for missing abstractions, leaky abstractions or duplications! Use an (automated) duplicate code finder!
+> * Don't over architecture, a clear defined list of abstractions will do it.
 
