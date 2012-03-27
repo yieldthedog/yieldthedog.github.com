@@ -19,6 +19,8 @@ published: false
 - [Introduction to JavaScript Source Maps - HTML5 Rocks](http://www.html5rocks.com/en/tutorials/developertools/sourcemaps/)
 <!-- more -->
 - [HTML5 Canvas + JS Firewors](http://jackrugile.com/lab/fireworks-v1/) .. oh so pretty!
+- [JSwiki](http://bebraw.github.com/jswiki/) - This wiki indexes libraries and resources available for JavaScript.
+
 ### C#
 
 
@@ -40,6 +42,7 @@ published: false
 
 ### IDEs / Editors
 - [Build an IDE with tmux and vim](ttp://alexyoung.org/2011/12/19/build-an-ide-with-tmux-and-vim/)
+- [Notepad++ 6 released](http://notepad-plus-plus.org/news/notepad-6.0-release.html)
 
 ### CommandLine
 - [su, sudo su, sudo -u -i](http://johnkpaul.tumblr.com/post/19841381351/su-vs-sudo-su-vs-sudo-u-i) - how to get into a shell as another user with no password.
@@ -61,7 +64,8 @@ published: false
 
 
 ### Presentations / Talks
- 
+- [Google Developers SXSW Lightning Talks](http://www.youtube.com/watch?v=zH5bJSG0DZk) 
+
 
 ### Physics
 
