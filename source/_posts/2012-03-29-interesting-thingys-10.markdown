@@ -18,7 +18,7 @@ published: false
 - [Fibers and Threads in node.js – what for?](http://bjouhier.wordpress.com/2012/03/11/fibers-and-threads-in-node-js-what-for/) - describes the benefits and shortcommings of using fibers and threads within node.js
 - [Introduction to JavaScript Source Maps - HTML5 Rocks](http://www.html5rocks.com/en/tutorials/developertools/sourcemaps/)
 <!-- more -->
-
+- [HTML5 Canvas + JS Firewors](http://jackrugile.com/lab/fireworks-v1/) .. oh so pretty!
 ### C#
 
 
@@ -33,9 +33,17 @@ published: false
 - [The Ruby Refresher](http://0xfe.muthanna.com/rubyrefresher/) - if haven't looked at Ruby for a while, take a look at The Ruby Refresher
 - [Function Ruby Programming Techniques](http://rubysource.com/functional-programming-techniques-with-ruby-part-ii/) - methods, procs, blocks and lambdas in ruby!
 
+- [Cinch](https://github.com/cinchrb/cinch) - the irc bot building framework in ruby.
+
+### Objective-C
+- [ObjC on the Server](http://blog.securemacprogramming.com/2012/03/using-objective-c-on-the-server/) - yes, it's possible!
 
 ### IDEs / Editors
 - [Build an IDE with tmux and vim](ttp://alexyoung.org/2011/12/19/build-an-ide-with-tmux-and-vim/)
+
+### CommandLine
+- [su, sudo su, sudo -u -i](http://johnkpaul.tumblr.com/post/19841381351/su-vs-sudo-su-vs-sudo-u-i) - how to get into a shell as another user with no password.
+
 
 ### OpenSource
 
@@ -58,3 +66,4 @@ published: false
 ### Physics
 
 ### Fun
+- [http response codes for dummies](http://twitter.com/#!/_tarun/status/184513954524037122) .. :)
