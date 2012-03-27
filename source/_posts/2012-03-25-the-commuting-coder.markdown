@@ -13,12 +13,17 @@ As a long time user of public transportation on my way to work and back, I have 
 
 ## Reading device
 
-My Kindle has replaced books nearly completely as my main reading device (See [Kindle survival guide](@TODO link)). This has mainly two reasons: First its weight and size, and second the ability to switch between various books and articles at will. With the Kindle I even started reading while walking, what I have never done before. You can simply enlarge the font size, though you can easily read while changing matters of transportation.
+{% img float-right https://lh6.googleusercontent.com/-f3gaEXV1aGY/T3IHHywFERI/AAAAAAAAAMM/NqcqMjypLX0/s250/IMG_9879.JPG %} My Kindle has replaced books nearly completely as my main reading device (See [Kindle survival guide](@TODO link)). This has mainly two reasons: First its weight and size, and second the ability to switch between various books and articles at will. 
+
+With the Kindle I even started reading while walking, what I have never done before. You can simply enlarge the font size, though you can easily read while changing matters of transportation.
+
+<br class="clear">
 
 ## A lightweight notebook
 
-If you want to use a computer, do not go out and by a large one. Everything that's heavier than two kilogramms is too much to carry around all day. Go small and lightweight. I am the happy owner of a MacBook Air and would not exchange it for another device. It's the first notebook I own, that does not matter, when it's in my back bag.
+{% img float-right https://lh6.googleusercontent.com/-K3fyUQLWrks/T3IHGREfUpI/AAAAAAAAAL0/cx41SDfziX4/s250/IMG_9882.JPGa %}If you want to use a computer, do not go out and by a large one. Everything that's heavier than two kilogramms is too much to carry around all day. Go small and lightweight. I am the happy owner of a MacBook Air and would not exchange it for another device. It's the first notebook I own, that does not matter, when it's in my back bag.
 
+<br class="clear">
 Stuff to do with your notebook:
 
 ###Coding
@@ -29,7 +34,7 @@ Obviously this wasn't a hard one, but be aware that you should prepare your devi
 - ...
 
 ###Watching
-Obviously there are times, when you don't have the power or will to read or even code. That's the time to lean back and watch. There are tons of screencasts out there. Either go to the iTunes store and search for stuff you are interested in or simply do a Google search. Stuff I like to watch include: [Railscasts](http://railscasts.com), [Vimcasts](http://vimcasts.org), [Screencasts](http://screencasts.org).
+{% img float-right https://lh3.googleusercontent.com/-ubzsjKiVsnQ/T3IHF2-mInI/AAAAAAAAALw/gmB9VjNuMGo/s250/IMG_9881.JPG %}Obviously there are times, when you don't have the power or will to read or even code. That's the time to lean back and watch. There are tons of screencasts out there. Either go to the iTunes store and search for stuff you are interested in or simply do a Google search. Stuff I like to watch include: [Railscasts](http://railscasts.com), [Vimcasts](http://vimcasts.org), [Screencasts](http://screencasts.org).
 
 Besides screencasts there are lots of conference videos:
 
@@ -51,7 +56,7 @@ There are times, when you are just too tired to open your eyes, but you can sill
 - ...
 
 ##Earphone, earplug
-From time to time you happen to sit nearby someone rather loud and chatty, who prevents you from being focused on the task you do. These are the times, when one of these guys come in handy. @TODO oropax image. If you happen to watch or listen to something make sure, you have earphones that shield you from any disturbing ambient noise.
+{% img float-right https://lh4.googleusercontent.com/-uWi5UiLtwPo/T3IHFr9M0OI/AAAAAAAAALs/_nhDH9cvCO8/s250/IMG_9880.JPG  %}From time to time you happen to sit nearby someone rather loud and chatty, who prevents you from being focused on the task you do. These are the times, when earplug come in very handy, otherwise the distraction will win. If you happen to watch or listen to something make sure, you have earphones that shield you from any disturbing ambient noise.
 
 ##Todos / Ideas / Backlog
 While being in isolation new ideas come to my mind all the time or stuff I want to do or to look up. Or I just remember that I want to ask someone an important question. That's when it's handy to have some sort of way to track down those thoughts. It does not matter, if it's a simple text file, a todo list app or a piece of paper to write down your thoughts - it's just important to not forget them and leave them unused.
