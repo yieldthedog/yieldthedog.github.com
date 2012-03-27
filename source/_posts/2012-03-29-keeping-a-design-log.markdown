@@ -26,6 +26,7 @@ I'm using the following pattern to record my design decision evaluations
 >
 > ### Consequences
 > What were the consequences of the design decision? Pros and Cons, reflects the requirements and is in context of the forces that led to that decisions.
+> What actions need to be taken to avoid/force this pattern?
 
 I'm keeping track of good and bad decisions here. Consequences for me
 
