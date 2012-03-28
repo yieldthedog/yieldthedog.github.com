@@ -20,6 +20,7 @@ published: false
 <!-- more -->
 - [HTML5 Canvas + JS Firewors](http://jackrugile.com/lab/fireworks-v1/) .. oh so pretty!
 - [JSwiki](http://bebraw.github.com/jswiki/) - This wiki indexes libraries and resources available for JavaScript.
+- [Foresight.js](https://github.com/adamdbradley/foresight.js?utm_source=html5weekly&utm_medium=email) - checks, whether the user has a highres device like the iPad3, before images are loaded, so you can deliver highres images
 
 ### C#
 
