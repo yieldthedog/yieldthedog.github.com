@@ -3,7 +3,6 @@ layout: post
 title: "Interesting Thingys #10"
 date: 2012-03-29 10:35
 comments: true
-categories: 
 categories: "Interesting-Thingys"
 published: false
 ---
@@ -11,6 +10,7 @@ published: false
 
 ### HTML5
 - [How a web application can download and store over 2GB without you even knowing it](http://jclaes.blogspot.com/2012/03/how-web-application-can-download-and.html)
+- [Maintaining CSS Style States using "Infinite" Transition Delays](https://github.com/adamdbradley/foresight.js?utm_source=html5weekly&utm_medium=email)
 
 ### JavaScript
 - [Hammer.js](http://eightmedia.github.com/hammer.js/) - A javascript library for multi-touch gestures
@@ -20,15 +20,10 @@ published: false
 <!-- more -->
 - [HTML5 Canvas + JS Firewors](http://jackrugile.com/lab/fireworks-v1/) .. oh so pretty!
 - [JSwiki](http://bebraw.github.com/jswiki/) - This wiki indexes libraries and resources available for JavaScript.
-- [Foresight.js](https://github.com/adamdbradley/foresight.js?utm_source=html5weekly&utm_medium=email) - checks, whether the user has a highres device like the iPad3, before images are loaded, so you can deliver highres images
-
-### C#
-
+- [Foresight.js](https://github.com/adamdbradley/foresight.js) - checks, whether the user has a highres device like the iPad3, before images are loaded, so you can deliver highres images
 
 ### Server / Operating Systems
 - [Load Balancing and Reverse Proxying with Nginxi](http://spin.atomicobject.com/2012/02/28/load-balancing-and-reverse-proxying-with-nginx/) - how to use nginx before a rack up or even a PHP app as a reverse proxy
-
-
 
 ### Ruby
 - [Barebone models to use with ActionPack in Rails 4.0](http://blog.plataformatec.com.br/2012/03/barebone-models-to-use-with-actionpack-in-rails-4-0/)
@@ -48,28 +43,9 @@ published: false
 ### CommandLine
 - [su, sudo su, sudo -u -i](http://johnkpaul.tumblr.com/post/19841381351/su-vs-sudo-su-vs-sudo-u-i) - how to get into a shell as another user with no password.
 
-
-### OpenSource
-
-
-###CSS
-
-
-### Tools
-
-
-### Mobile Development
-
-
-### Git
-
-
 ### Presentations / Talks
 - [Google Developers SXSW Lightning Talks](http://www.youtube.com/watch?v=zH5bJSG0DZk) 
 - [Nicholas Zarkas - Progressive Enhancement 2.0](http://www.youtube.com/watch?v=hdTxeR90_1E)
-
-
-### Physics
 
 ### Fun
 - [http response codes for dummies](http://twitter.com/#!/_tarun/status/184513954524037122) .. :)
