@@ -49,6 +49,6 @@ The chapter on pair programming was one of those, that I looked forward the most
 
 ##Conclusion
 
-The book is rather short with only about 70 pages. Still, it shows you the basic and advanced techniques in tmux, that are rather hard to learn your own. I can truly recommend it, if you are like me struggling to find your way through tmux. Along the road Brian showed some useful tricks (not completely tmux related), that can make your life easier, e.g. remapping the useless <kbd>CAPS LOCK</kbd> key to another key - a thing I should have done a long time ago.
+{% img right http://imagery.pragprog.com/products/291/bhtmux_xlargecover.jpg?1330443523 %}The book is rather short with only about 70 pages. Still, it shows you the basic and advanced techniques in tmux, that are rather hard to learn your own. I can truly recommend it, if you are like me struggling to find your way through tmux. Along the road Brian showed some useful tricks (not completely tmux related), that can make your life easier, e.g. remapping the useless <kbd>CAPS LOCK</kbd> key to another key - a thing I should have done a long time ago.
 
 So if you like to use a terminal, have many tabs, various ssh sessions open at the same time, go grab a copy of [tmux - productive mouse free development](http://pragprog.com/book/bhtmux/tmux) and get some order in your chaos.
