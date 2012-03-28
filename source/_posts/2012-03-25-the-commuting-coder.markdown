@@ -11,6 +11,7 @@ published: false
 
 As a long time user of public transportation on my way to work and back, I have grown myself a tool chain, that helps me use my time more effectively while being on my way. Here I want to present the things I use and hope to get some inspiration from you.
 
+<!-- more -->
 ## Reading device
 
 {% img float-right https://lh6.googleusercontent.com/-f3gaEXV1aGY/T3IHHywFERI/AAAAAAAAAMM/NqcqMjypLX0/s250/IMG_9879.JPG %} My Kindle has replaced books nearly completely as my main reading device (See [Kindle survival guide](@TODO link)). This has mainly two reasons: First its weight and size, and second the ability to switch between various books and articles at will. 

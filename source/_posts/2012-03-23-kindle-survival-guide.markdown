@@ -11,6 +11,7 @@ I own a Kindle for about 1 year and a half and I must say it has served me quite
 
 So what is it, that makes an ebook reader superior to a normal book?
 
+<!-- more -->
 {% img full-width https://lh4.googleusercontent.com/-MnoWQED2tp8/T3IFGz0VXOI/AAAAAAAAALg/WJFwBQAqk8U/s861/IMG_9883.JPG %}
 
 ###Advantages
