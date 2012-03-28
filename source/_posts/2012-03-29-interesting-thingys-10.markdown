@@ -11,13 +11,13 @@ published: false
 ### HTML5
 - [How a web application can download and store over 2GB without you even knowing it](http://jclaes.blogspot.com/2012/03/how-web-application-can-download-and.html)
 - [Maintaining CSS Style States using "Infinite" Transition Delays](https://github.com/adamdbradley/foresight.js?utm_source=html5weekly&utm_medium=email)
+<!-- more -->
 
 ### JavaScript
 - [Hammer.js](http://eightmedia.github.com/hammer.js/) - A javascript library for multi-touch gestures
 - [How to write low garbage real-time Javascript](http://www.scirra.com/blog/76/how-to-write-low-garbage-real-time-javascript) - A great article describing the pitfalls of the JavaScript garbage collector, when doing game development.
 - [Fibers and Threads in node.js – what for?](http://bjouhier.wordpress.com/2012/03/11/fibers-and-threads-in-node-js-what-for/) - describes the benefits and shortcommings of using fibers and threads within node.js
 - [Introduction to JavaScript Source Maps - HTML5 Rocks](http://www.html5rocks.com/en/tutorials/developertools/sourcemaps/)
-<!-- more -->
 - [HTML5 Canvas + JS Firewors](http://jackrugile.com/lab/fireworks-v1/) .. oh so pretty!
 - [JSwiki](http://bebraw.github.com/jswiki/) - This wiki indexes libraries and resources available for JavaScript.
 - [Foresight.js](https://github.com/adamdbradley/foresight.js) - checks, whether the user has a highres device like the iPad3, before images are loaded, so you can deliver highres images
@@ -30,7 +30,6 @@ published: false
 - [Ruby 2.0 Enumerable::Lazy](http://blog.railsware.com/2012/03/13/ruby-2-0-enumerablelazy/) - Lazy enumerables will be landing in Ruby 2.0
 - [The Ruby Refresher](http://0xfe.muthanna.com/rubyrefresher/) - if haven't looked at Ruby for a while, take a look at The Ruby Refresher
 - [Function Ruby Programming Techniques](http://rubysource.com/functional-programming-techniques-with-ruby-part-ii/) - methods, procs, blocks and lambdas in ruby!
-
 - [Cinch](https://github.com/cinchrb/cinch) - the irc bot building framework in ruby.
 
 ### Objective-C
