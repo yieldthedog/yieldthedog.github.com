@@ -4,7 +4,7 @@
   <title><![CDATA[yield the dog]]></title>
   <link href="http://yieldthedog.github.com/atom.xml" rel="self"/>
   <link href="http://yieldthedog.github.com/"/>
-  <updated>2012-03-29T16:18:01+02:00</updated>
+  <updated>2012-03-29T16:45:03+02:00</updated>
   <id>http://yieldthedog.github.com/</id>
   <author>
     <name><![CDATA[yield the dog]]></name>
@@ -83,7 +83,7 @@
 <h3>IDEs / Editors</h3>
 
 <ul>
-<li><a href="ttp://alexyoung.org/2011/12/19/build-an-ide-with-tmux-and-vim/">Build an IDE with tmux and vim</a></li>
+<li><a href="http://alexyoung.org/2011/12/19/build-an-ide-with-tmux-and-vim/">Build an IDE with tmux and vim</a></li>
 <li><a href="http://notepad-plus-plus.org/news/notepad-6.0-release.html">Notepad++ 6 released</a></li>
 </ul>
 
@@ -131,6 +131,80 @@
 <li><a href="http://twitter.com/#!/_tarun/status/184513954524037122">http response codes for dummies</a> .. :)</li>
 </ul>
 
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Keeping a Design Log]]></title>
+    <link href="http://yieldthedog.github.com/blog/2012/03/28/keeping-a-design-log/"/>
+    <updated>2012-03-28T10:35:00+02:00</updated>
+    <id>http://yieldthedog.github.com/blog/2012/03/28/keeping-a-design-log</id>
+    <content type="html"><![CDATA[<p>Ever wondered why it&#8217;s hard for you to argue design decisions? Ever said &#8220;We should not go for that, we had some problems in past projects, but I have no clue what project or problem that was&#8221; in a meeting. Ever made the same design failure twice? I do, or more precise I did but I quit!</p>
+
+<p>Some time ago I was really annoyed of not being able to argue a design decision, and I&#8217;ve no clue what decision that was, with real arguments but with the words &#8220;We just should not do that!&#8221;. So I started by design/architecture log in which I&#8217;m recording as a retrospective design decisions with their consequences and context.</p>
+
+<!-- more -->
+
+
+<p><img class="full-width" src="https://lh4.googleusercontent.com/-lc6XtAHSKlU/T3NwN7D5CaI/AAAAAAAAAMU/PxMov3JKC-Y/s1069/IMG_9885.jpg "></p>
+
+<p>I&#8217;m using <a href="http://evernote.com">Evernote</a> for keeping my design log because I&#8217;m using Evernote for more or less anything I (think I) need to remember, good search support and it&#8217;s mobile apps. So I have my design log searchable and always with me.</p>
+
+<p>I&#8217;m using the following pattern to record my design decision evaluations</p>
+
+<blockquote><h3>Name</h3>
+
+<p>Name the design decision! That is the tricky part. I&#8217;m doing that at last. The name is important for me because I&#8217;m referring to the name in discussions with team members and in discussions with myself.</p>
+
+<h3>Context</h3>
+
+<p>Outline of the context, what forces are involved, what requirements need to be satisfied including non functional requirements.</p>
+
+<h3>Example</h3>
+
+<p>A short example, that helps me best to understand the &#8220;design decision&#8221;.</p>
+
+<h3>Consequences</h3>
+
+<p>What were the consequences of the design decision? Pros and Cons, reflects the requirements and is in context of the forces that led to that decisions.
+What actions need to be taken to avoid/force this pattern?</p></blockquote>
+
+<p>I&#8217;m keeping track of good and bad decisions here. Consequences for me</p>
+
+<ul>
+<li>Frees my mind</li>
+<li>Makes me argue</li>
+<li>Forces reflection on design decisions, even the ones not recognized as decisions</li>
+<li>I can use wise ass terms like &#8220;Limit your Abstractions&#8221; in meetings</li>
+</ul>
+
+
+<p>What it&#8217;s not</p>
+
+<ul>
+<li>It&#8217;s not my personal design patterns catalog, this is more high level</li>
+</ul>
+
+
+<p>And here it is, one example pattern found in my <em>Design Log</em>, &#8221;<strong>The early pragmatic</strong>&#8221;</p>
+
+<blockquote><h3>Early pragmatic</h3>
+
+<p>When starting a project early decisions I take are too pragmatic. This leads to missing abstractions early in the process. Which leads to an eroding architecture and design, which makes the whole project an inconsistent pile of non decisions.</p>
+
+<h3>Example</h3>
+
+<p>Workflow/State Machine implementation in Project XXX (I left that out for reasons&#8230;)</p>
+
+<h3>Consequences</h3>
+
+<ul>
+<li>Figure out a catalog of limited abstractions early. Decide which to use.</li>
+<li>Reflect on missing abstractions or infrastructure!</li>
+<li>Make it a ritual to check the code for missing abstractions, leaky abstractions or duplications! Use an (automated) duplicate code finder!</li>
+<li>Don&#8217;t over architecture, a clear defined list of abstractions will do it.</li>
+</ul>
+</blockquote>
 ]]></content>
   </entry>
   
