@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Interesting-Thingys | yield the dog]]></title>
   <link href="http://yieldthedog.github.com/blog/categories/interesting-thingys/atom.xml" rel="self"/>
   <link href="http://yieldthedog.github.com/"/>
-  <updated>2012-03-22T17:08:59+01:00</updated>
+  <updated>2012-03-29T16:18:01+02:00</updated>
   <id>http://yieldthedog.github.com/</id>
   <author>
     <name><![CDATA[yield the dog]]></name>
@@ -12,6 +12,127 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Interesting Thingys #10]]></title>
+    <link href="http://yieldthedog.github.com/blog/2012/03/29/interesting-thingys-10/"/>
+    <updated>2012-03-29T10:35:00+02:00</updated>
+    <id>http://yieldthedog.github.com/blog/2012/03/29/interesting-thingys-10</id>
+    <content type="html"><![CDATA[<blockquote><p><em>Interesting Thingys</em> is a gazette in the blog that summarizes a week of blog articles, links, specifications, demos, news or more general "thingys" that we stumble upon in our journey through the world wide web.</p></blockquote>
+
+<h3>HTML5</h3>
+
+<ul>
+<li><a href="http://jclaes.blogspot.com/2012/03/how-web-application-can-download-and.html">How a web application can download and store over 2GB without you even knowing it</a></li>
+<li><a href="https://github.com/adamdbradley/foresight.js?utm_source=html5weekly&amp;utm_medium=email">Maintaining CSS Style States using "Infinite" Transition Delays</a></li>
+</ul>
+
+
+<h3>.NET</h3>
+
+<ul>
+<li><a href="http://arstechnica.com/microsoft/news/2012/03/microsoft-takes-aspnet-mvc-into-the-open-with-community-patches-and-bug-fixes.ars">ASP.NET MVC now OpenSource</a> - .. hosted on CodePlex with GIT support.</li>
+</ul>
+
+
+<h3>JavaScript</h3>
+
+<ul>
+<li><a href="http://eightmedia.github.com/hammer.js/">Hammer.js</a> - A javascript library for multi-touch gestures</li>
+<li><a href="http://www.scirra.com/blog/76/how-to-write-low-garbage-real-time-javascript">How to write low garbage real-time Javascript</a> - A great article describing the pitfalls of the JavaScript garbage collector, when doing game development.</li>
+<li><a href="http://bjouhier.wordpress.com/2012/03/11/fibers-and-threads-in-node-js-what-for/">Fibers and Threads in node.js – what for?</a> - describes the benefits and shortcommings of using fibers and threads within node.js</li>
+</ul>
+
+
+<!-- more -->
+
+
+<ul>
+<li><a href="http://www.html5rocks.com/en/tutorials/developertools/sourcemaps/">Introduction to JavaScript Source Maps - HTML5 Rocks</a></li>
+<li><a href="http://jackrugile.com/lab/fireworks-v1/">HTML5 Canvas + JS Firewors</a> .. oh so pretty!</li>
+<li><a href="http://bebraw.github.com/jswiki/">JSwiki</a> - This wiki indexes libraries and resources available for JavaScript.</li>
+<li><a href="https://github.com/adamdbradley/foresight.js">Foresight.js</a> - checks, whether the user has a highres device like the iPad3, before images are loaded, so you can deliver highres images</li>
+</ul>
+
+
+<h3>Server / Operating Systems</h3>
+
+<ul>
+<li><a href="http://spin.atomicobject.com/2012/02/28/load-balancing-and-reverse-proxying-with-nginx/">Load Balancing and Reverse Proxying with Nginxi</a> - how to use nginx before a rack up or even a PHP app as a reverse proxy</li>
+</ul>
+
+
+<h3>Ruby</h3>
+
+<ul>
+<li><a href="http://blog.plataformatec.com.br/2012/03/barebone-models-to-use-with-actionpack-in-rails-4-0/">Barebone models to use with ActionPack in Rails 4.0</a></li>
+<li><a href="http://blog.railsware.com/2012/03/13/ruby-2-0-enumerablelazy/">Ruby 2.0 Enumerable::Lazy</a> - Lazy enumerables will be landing in Ruby 2.0</li>
+<li><a href="http://0xfe.muthanna.com/rubyrefresher/">The Ruby Refresher</a> - if haven't looked at Ruby for a while, take a look at The Ruby Refresher</li>
+<li><a href="http://rubysource.com/functional-programming-techniques-with-ruby-part-ii/">Function Ruby Programming Techniques</a> - methods, procs, blocks and lambdas in ruby!</li>
+<li><a href="https://github.com/cinchrb/cinch">Cinch</a> - the irc bot building framework in ruby.</li>
+</ul>
+
+
+<h3>Objective-C</h3>
+
+<ul>
+<li><a href="http://blog.securemacprogramming.com/2012/03/using-objective-c-on-the-server/">ObjC on the Server</a> - yes, it's possible!</li>
+</ul>
+
+
+<h3>IDEs / Editors</h3>
+
+<ul>
+<li><a href="ttp://alexyoung.org/2011/12/19/build-an-ide-with-tmux-and-vim/">Build an IDE with tmux and vim</a></li>
+<li><a href="http://notepad-plus-plus.org/news/notepad-6.0-release.html">Notepad++ 6 released</a></li>
+</ul>
+
+
+<h3>CommandLine</h3>
+
+<ul>
+<li><a href="http://johnkpaul.tumblr.com/post/19841381351/su-vs-sudo-su-vs-sudo-u-i">su, sudo su, sudo -u -i</a> - how to get into a shell as another user with no password.</li>
+</ul>
+
+
+<h3>Agile</h3>
+
+<ul>
+<li><a href="http://williamedwardscoder.tumblr.com/post/20054342100/agile-is-a-sham">Agile is a sham</a> - good read about a strong opinion.</li>
+</ul>
+
+
+<h3>Presentations / Talks</h3>
+
+<ul>
+<li><a href="http://www.youtube.com/watch?v=zH5bJSG0DZk">Google Developers SXSW Lightning Talks</a></li>
+</ul>
+
+
+<h3>Physics / Science</h3>
+
+<ul>
+<li><a href="http://www.youtube.com/watch?feature=player_embedded&amp;v=7SWvDHvWXok">Questions No One Knows the Answers to</a> - TED-Ed(uction) video worth watching (for the curious child in you..)</li>
+<li><a href="http://www.tricorderproject.org/">Tricorder Project</a> - a tricorder comes to life.</li>
+</ul>
+
+
+<h3>Presentations / Talks</h3>
+
+<ul>
+<li><a href="http://www.youtube.com/watch?v=zH5bJSG0DZk">Google Developers SXSW Lightning Talks</a></li>
+<li><a href="http://www.youtube.com/watch?v=hdTxeR90_1E">Nicholas Zarkas - Progressive Enhancement 2.0</a></li>
+</ul>
+
+
+<h3>Fun</h3>
+
+<ul>
+<li><a href="http://twitter.com/#!/_tarun/status/184513954524037122">http response codes for dummies</a> .. :)</li>
+</ul>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Interesting Thingys #9]]></title>
@@ -360,80 +481,6 @@ Genius or a Rock Star.</li>
 <ul>
 <li><a href="http://accessmaincomputerfile.net/">accessmaincomputerfile</a> - A visual study of computer GUI in cinema</li>
 <li><a href="http://visualidiot.com/articles/social-apps">social-apps</a> - The new social app: "scares off ghosts" &amp; "hipster-optimised" :)</li>
-</ul>
-
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Interesting Thingys #5]]></title>
-    <link href="http://yieldthedog.github.com/blog/2012/02/21/interesting-thingys-5/"/>
-    <updated>2012-02-21T08:54:00+01:00</updated>
-    <id>http://yieldthedog.github.com/blog/2012/02/21/interesting-thingys-5</id>
-    <content type="html"><![CDATA[<blockquote><p><em>Interesting Thingys</em> is a gazette in the blog that summarizes a week of blog articles, links, specifications, demos, news or more general "thingys" that we stumble upon in our journey through the world wide web.</p></blockquote>
-
-<h3>CSS/HTML/Frontend</h3>
-
-<ul>
-<li><a href="http://www.html5rocks.com">HTML5Rocks</a> - Updated website of "HTML5Rocks" with a bunch of useful information!</li>
-<li><a href="http://darcyclarke.me/development/front-end-job-interview-questions/">Interview Question for Frontend Developers</a></li>
-<li><a href="http://mathiasbynens.be/notes/css-without-html">CSS without HTML</a> - How to build a website without HTML.</li>
-</ul>
-
-
-<!-- more -->
-
-
-<h3>Mobile Development (iOS + Rails)</h3>
-
-<ul>
-<li><a href="http://devcenter.heroku.com/articles/getting-started-ios-development-sinatra-cedar">Tutorial: iOS App + Sinatra Backend + Heroku...</a></li>
-</ul>
-
-
-<h3>Javascript</h3>
-
-<ul>
-<li><a href="http://www.devthought.com/2012/02/17/npm-tricks/">NPM Tricks</a> - Tricks for the node.js package manager.</li>
-</ul>
-
-
-<h3>Programming / Tools / Allgemein</h3>
-
-<ul>
-<li><a href="http://www.theprojectspot.com/tutorial-post/creating-a-genetic-algorithm-for-beginners/3">How to write a "Genetic Algorithm"</a></li>
-<li><a href="http://research.swtch.com/bell-labs">"Computing History at Bell Labs"</a> -  Presentation from 1997</li>
-<li><a href="http://www.gnuplotting.org/">gnuplotting.org</a> - what you can do with gnuplot.</li>
-<li><a href="http://versionswitcher.appspot.com/">versionswitcher</a> - switch versions of programming languages or applications (like rvm).</li>
-</ul>
-
-
-<h3>SQL Server (Fun)</h3>
-
-<ul>
-<li><a href="http://pulse.sqlserverpedia.com/blog/an-open-letter-to-anyone-with-sql-server-on-their-resume/">SQL-Server on the resume</a> - "There is no SQL Server 2003 .. There is no SQL Server 2003"</li>
-</ul>
-
-
-<h3>WebGL</h3>
-
-<ul>
-<li><a href="http://fridek.github.com/Threejs-Tetris/">3D Tetris in WebGL</a></li>
-</ul>
-
-
-<h3>Ebooks/Knowledge</h3>
-
-<ul>
-<li><a href="http://hackershelf.com">hackershelf</a> - "A community-curated collection of free books for the intellectual curious"</li>
-</ul>
-
-
-<h3>Fun</h3>
-
-<ul>
-<li><a href="http://67signals.com/">67signals</a> -  "37 Signals" Bashing (... the inventors of rails)</li>
-<li><a href="http://sphotos.xx.fbcdn.net/hphotos-snc7/395399_10101488712535065_12403557_69228456_559079840_n.jpg">What a software developer does</a></li>
 </ul>
 
 ]]></content>
