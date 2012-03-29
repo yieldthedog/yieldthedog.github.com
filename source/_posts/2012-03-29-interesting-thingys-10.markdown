@@ -48,7 +48,7 @@ published: true
 
 
 ### IDEs / Editors
-- [Build an IDE with tmux and vim](ttp://alexyoung.org/2011/12/19/build-an-ide-with-tmux-and-vim/)
+- [Build an IDE with tmux and vim](http://alexyoung.org/2011/12/19/build-an-ide-with-tmux-and-vim/)
 - [Notepad++ 6 released](http://notepad-plus-plus.org/news/notepad-6.0-release.html)
 
 
