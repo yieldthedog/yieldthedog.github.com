@@ -2,9 +2,9 @@
 layout: post
 title: "Interesting Thingys #10"
 date: 2012-03-29 10:35
-comments: true
+comments: false
 categories: "Interesting-Thingys"
-published: false
+published: true
 ---
 > _Interesting Thingys_ is a gazette in the blog that summarizes a week of blog articles, links, specifications, demos, news or more general "thingys" that we stumble upon in our journey through the world wide web.
 
