@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Keeping a Design Log"
-date: 2012-03-28 10:35
+date: 2012-03-30 10:35
 comments: true
 categories: design
 published: true
