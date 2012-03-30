@@ -34,8 +34,8 @@ So what to do with this situation? Download books from rapidshare, megaupload, .
 
 As I'm a coder, I'm mainly interested in technical books. One publisher of technical books, that stands out is ***[PragProg](http://pragprog.com)*** - not because I emphasize their text, but because they offer a quite superior service. Here are the main features:
 
-- All ebooks are not DRMed and are available in various formats
-- You can tell PragProg to automatically send your purchases and future updates to your free kindle email address. This can sometimes get annoying, when you have purchased a book in beta, which receives updates quite often.
+- All ebooks are DRM free available in various formats
+- You can configure your PragProg account to automatically send your purchases and future updates to your free kindle email address. This can sometimes get annoying, when you have purchased a book in beta, which receives updates quite often.
 - PragProg can automatically send your ebooks to your Dropbox
 - They publish a free magazine
 
@@ -61,6 +61,9 @@ All of these publishers have one advantage over Amazon in common. {"They offer d
 
 ###You@free.kindle.com
 And last but not least don't forget that you own a user@free.kindle.com address, which you can use (as mentioned above) to send books to it and have Amazon automatically deliver them to your device the next time you connect. Works great with PragProg and Instapaper.
+
+### Pandoc
+Pandoc can be useful if you have an exotic format such as markdown that you want to convert to epub and via Calibre to mobi. A direct conversion to mobi is not supported. I used Pandoc to produce my epub/mobi versions of the excellent [The Little Redis Book](http://openmymind.net/2012/1/23/The-Little-Redis-Book/) and [The Little MongoDB Book](http://openmymind.net/2011/3/28/The-Little-MongoDB-Book/) books. Pandoc is not needed any more for the two "Little Books" since they are available as epub.
 
 ## Bugs
 Once in a while I was plagued with the following bug. It manifests itself in the fact, that the Kindle leaks battery as hell and instead of lasting one to two months, the charge is wasted after a week. This can happen, when the internal search indexer fails to index a document and tries again and again. If you experience the symptoms, simply go to your home screen, enter random characters and hit enter to start a search. If the indexer hangs, you will see that a document being processed.
