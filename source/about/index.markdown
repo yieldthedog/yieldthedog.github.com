@@ -12,25 +12,24 @@ Yield the dog was created by Michael, Thomas and Christoph to give us a platform
 
 The name "yield the dog" was born/invented after a couple of beers by combining our most beloved computer language keyword *yield* and a part of our current employers name, the [diamond:dogs group](http://diamonddogs.cc). If all things in life were that simple... 
 
-{% img right https://si0.twimg.com/profile_images/491502671/IMG_0260.JPG 128 128 %}
-### About Christoph
+
+### {% img right clear https://si0.twimg.com/profile_images/491502671/IMG_0260.JPG 128 128 %} About Christoph
 
 > Christoph is a developer. His employee identity is working with C# and Java most of the time. But in the night hours Christoph leaves his comfort zone and transforms into a javascript language zombie. A strange form of work-life-balance decease.
 > Beside that Christoph is interested in Agile Practices, Methodology, DDD, BDD, TDD, Architecture, Design, Open Source...
 >
 > Christoph's virtual web site is the cloud [@saintedlama](https://twitter.com/saintedlama), [github](https://github.com/saintedlama), [coderwall](http://coderwall.com/saintedlama), [stackoverflow](http://stackoverflow.com/users/263251/saintedlama)
-
-{% img right https://si0.twimg.com/profile_images/1895043403/image.jpg 128 128 %}
-### About Michael
+<br/> 
+### {% img right clear https://si0.twimg.com/profile_images/1895043403/image.jpg 128 128 %} About Michael
 
 > Michael likes to make things. 
 > Find him at [notyce.net](http://notyce.net), [@notyce](http://twitter.com/notyce), [github](https://github.com/shm), [coderwall](http://coderwall.com/shm), [stackoverflow](http://stackoverflow.com/users/1005573/shm) and [last.fm](http://last.fm/user/ullysse)
-
-{% img right https://si0.twimg.com/profile_images/55900728/Photo_2.jpg 128 128 %}
-### About Thomas
+<br/> 
+### {% img right clear https://si0.twimg.com/profile_images/55900728/Photo_2.jpg 128 128 %} About Thomas
 > Thomas is a developer specialized in JavaScript, Ruby, HTML, CSS and PHP. He is interested in Node.JS, NoSQL, Vim, Git, productivity improvements and clean coding practices.
 >
 > You can find him at [@thomaspeklak](https://twitter.com/thomaspeklak), [github](https://github.com/thomaspeklak), [coderwall](http://coderwall.com/thomaspeklak), [stackoverflow](http://stackoverflow.com/users/951607/topek)
+<br/> 
 
 ## Disclaimer
 This policy is valid from 15 March 2012
