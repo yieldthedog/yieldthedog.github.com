@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Keeping a Design Log"
-date: 2012-03-29 10:35
+date: 2012-03-28 10:35
 comments: true
 categories: design
-published: false
+published: true
 ---
 
 Ever wondered why it's hard for you to argue design decisions? Ever said "We should not go for that, we had some problems in past projects, but I have no clue what project or problem that was" in a meeting. Ever made the same design failure twice? I do, or more precise I did but I quit!
