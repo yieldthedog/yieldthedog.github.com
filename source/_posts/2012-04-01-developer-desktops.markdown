@@ -6,7 +6,7 @@ comments: true
 published: false
 categories: 
 ---
-Every developer is and individual. And so are the desktops. Although equiped with more or less standardized workstations, mice and keyboards, the desktops become individual too. From crowded to clean, from playful to straight.
+Every developer is an individual. And so are the desktops. Although equipped  with more or less standardized workstations, mice and keyboards, the desktops become individual too. From crowded to clean, from playful to straight.
 
 This post gives a brief visual overview of developer desktops at the diamond:dogs group.
 
