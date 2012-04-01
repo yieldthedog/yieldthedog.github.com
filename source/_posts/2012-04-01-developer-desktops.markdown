@@ -6,6 +6,13 @@ comments: true
 published: false
 categories: 
 ---
+Every developer is and individual. And so are the desktops. Although equiped with more or less standardized workstations, mice and keyboards, the desktops become individual too. From crowded to clean, from playful to straight.
+
+This post gives a brief visual overview of developer desktops at the diamond:dogs group.
+
+{% img full-width https://lh5.googleusercontent.com/-mznPORXk9Ew/T3AMEQGf_kI/AAAAAAAAG88/GcB8QtVNp3k/s1069/IMG_9861.JPG %}
+
+<!-- more -->
 
 ##### Pro Tea Equipment and Headphones
 {% img full-width https://lh6.googleusercontent.com/-K0lwpUK0i-k/T3AL6UMsjnI/AAAAAAAAG7o/OULtFrQPeVI/s1069/IMG_9849.JPG %}
