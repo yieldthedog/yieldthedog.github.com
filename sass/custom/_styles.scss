@@ -19,11 +19,23 @@ body{
    box-shadow: 2px 2px 20px 2px #000;
 	> header h1{
 		text-shadow:29px 25px 18px rgba(0,0,0,.6);
-		-webkit-transition: text-shadow 1s ease-in-out;
-		-moz-transition: text-shadow 1s ease-in-out;
-		transition: text-shadow 1s ease-in-out;
+		-webkit-transition: all 1s ease-in-out;
+		-moz-transition: all 1s ease-in-out;
+		-o-transition: all 1s ease-in-out;
+		-ms-transition: all 1s ease-in-out;
+		transition: all 1s ease-in-out;
+		-webkit-transform: perspective( 600 ) rotateY( 0deg );
+		-moz-transform: perspective( 600 ) rotateY( 0deg );
+		-o-transform: perspective( 600 ) rotateY( 0deg );
+		-ms-transform: perspective( 600 ) rotateY( 0deg );
+		transform: perspective( 600 ) rotateY( 0deg );
 		&:hover{
-			text-shadow:15px 11px 8px rgba(0,0,0, .9),0 0 2px rgba(255,255,0,.4) , 0 0 9px rgba(255,255,255,.7);
+			text-shadow:-12px 9px 6px rgba(0,0,0, .9),0 0 2px rgba(255,255,0,.4) , 0 0 9px rgba(255,255,255,.7);
+			-webkit-transform: perspective( 600 ) rotateY( 20deg );
+			-moz-transform: perspective( 600 ) rotateY( 20deg );
+			-o-transform: perspective( 600 ) rotateY( 20deg );
+			-ms-transform: perspective( 600 ) rotateY( 20deg );
+			transform: perspective( 600 ) rotateY( 20deg );
 		}
 	}
 }
