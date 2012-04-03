@@ -13,7 +13,6 @@ This week with topics from mobile-development, javascript & OS X ..
 ### Mobile Development
 -[Novocaine](http://alexbw.github.com/novocaine/) - high performance audio processing (record, play) for iOS / Mac OS X
 -['Show Source' Bookmarklet](http://ole.michelsen.dk/blog/view-source-on-the-ipad-and-iphone/) - a 'view source' bookmarklet for the iPhone/iPad.
--[iOS Design](http://www.slideshare.net/Wolfr/ios-design-a-case-study) - 'a case study', nice presentation.
 
 
 ### JavaScript
@@ -27,3 +26,8 @@ This week with topics from mobile-development, javascript & OS X ..
 
 ### OS X
 -[OSX for Hackers](https://gist.github.com/2260182) - lots of useful settings you can enable/disable on the command-line for Mac OS X.
+
+
+### Presentations / Talks
+-[iOS Design](http://www.slideshare.net/Wolfr/ios-design-a-case-study) - 'a case study', nice presentation about the design-process for an iOS application.
+
