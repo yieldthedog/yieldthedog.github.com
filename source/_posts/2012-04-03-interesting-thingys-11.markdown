@@ -19,6 +19,8 @@ This week with topics from mobile-development, javascript, OS X and physics..
 -[POW](http://obadger.com/pow/) - Algorithmic sunburst generator via CSS, canvas and jQuery.
 -[Async JavaScript](http://leanpub.com/asyncjs) - 'Recipes for Event-Driven Code', looks like an interesting ebook.
 
+### CSS
+- [Paperfold CSS](https://developer.mozilla.org/en-US/demos/detail/paperfold-css/launch) - fold divs like paper
 
 ### Database
 -[Redis Persistence demystified](http://antirez.com/post/redis-persistence-demystified.html) - everything you need to know about persistence in Redis (and comparison to MySql and SQLite).
