@@ -48,4 +48,4 @@ This week with topics from mobile-development, javascript, OS X and physics..
 
 ### Fun
 - [Is it a condom or is it an Android?](http://blog.intercom.io/whats-in-a-name/)
-
+- [Droste effect in Conway's Game of Life](http://www.youtube.com/watch?v=QtJ77qsLrpw)
