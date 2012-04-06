@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Interesting-Thingys | yield the dog]]></title>
   <link href="http://yieldthedog.github.com/blog/categories/interesting-thingys/atom.xml" rel="self"/>
   <link href="http://yieldthedog.github.com/"/>
-  <updated>2012-04-01T16:06:58+02:00</updated>
+  <updated>2012-04-06T09:46:48+02:00</updated>
   <id>http://yieldthedog.github.com/</id>
   <author>
     <name><![CDATA[yield the dog]]></name>
@@ -12,6 +12,109 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Interesting Thingys #11]]></title>
+    <link href="http://yieldthedog.github.com/blog/2012/04/06/interesting-thingys-11/"/>
+    <updated>2012-04-06T08:54:00+02:00</updated>
+    <id>http://yieldthedog.github.com/blog/2012/04/06/interesting-thingys-11</id>
+    <content type="html"><![CDATA[<p>This week with topics from mobile-development, javascript, HTML5 and quantum-physics ..</p>
+
+<!-- More -->
+
+
+<h3>Mobile Development</h3>
+
+<ul>
+<li><a href="http://alexbw.github.com/novocaine/">Novocaine</a> - high performance audio processing (record, play) for iOS / Mac OS X</li>
+<li><a href="http://ole.michelsen.dk/blog/view-source-on-the-ipad-and-iphone/">'Show Source' Bookmarklet</a> - a 'view source' bookmarklet for the iPhone/iPad.</li>
+</ul>
+
+
+<h3>HTML5</h3>
+
+<ul>
+<li><a href="http://lists.whatwg.org/pipermail/whatwg-whatwg.org/2012-March/035239.html?utm_source=html5weekly&amp;utm_medium=email">Canvas v5 API Gets Path Primitives, Ellipses, Dashed Lines, Hit testing, Text on Path, </a></li>
+<li><a href="http://peter.sh/2012/04/color-input-the-network-information-api-and-chromium-20/?utm_source=html5weekly&amp;utm_medium=email">Color input, the Network Information API and Chromium 20</a></li>
+</ul>
+
+
+<h3>JavaScript</h3>
+
+<ul>
+<li><a href="http://obadger.com/pow/">POW</a> - Algorithmic sunburst generator via CSS, canvas and jQuery.</li>
+<li><a href="http://leanpub.com/asyncjs">Async JavaScript</a> - 'Recipes for Event-Driven Code', looks like an interesting ebook.</li>
+<li><a href="http://toolbox.no.de/">toolbox.no.de</a> - toolbox for node.js applications. first website if you're looking for node.js plugins/modules/etc</li>
+<li><a href="https://github.com/arturadib/shelljs">shell.js</a> -  Unix shell commands for Node.js</li>
+<li><a href="https://github.com/mde/jake">jake</a> - JavaScript build tool, similar to Make or Rake. Built to work with Node.js.</li>
+<li><a href="http://addyosmani.com/blog/backbone-paginator-new-pagination-components-for-backbone-js/">Backbone Paginator</a></li>
+<li><a href="http://blog.dump.ly/post/19819897856/why-node-js-streams-are-awesome">Why node.js streams are awesome</a></li>
+<li><a href="https://github.com/oslego/shadow-dom-regions/blob/master/Lessons-learned.md">Lessons learned with CSS Regions and Shadow DOM</a></li>
+<li><a href="http://pep.briangonzalez.org/">pep.jquery.js</a> - A lightweight plugin for kinetic-drag on mobile/desktop</li>
+</ul>
+
+
+<h3>CSS</h3>
+
+<ul>
+<li><a href="https://developer.mozilla.org/en-US/demos/detail/paperfold-css/launch">Paperfold CSS</a> - fold divs like paper</li>
+</ul>
+
+
+<h3>Database</h3>
+
+<ul>
+<li><a href="http://antirez.com/post/redis-persistence-demystified.html">Redis Persistence demystified</a> - everything you need to know about persistence in Redis (and comparison to MySql and SQLite).</li>
+</ul>
+
+
+<h3>Operating Systems</h3>
+
+<ul>
+<li><a href="http://dmitry.co/index.php?p=./04.Thoughts/07.%20Linux%20on%208bit">Linux on an 8bit micro</a></li>
+</ul>
+
+
+<h3>OS X</h3>
+
+<ul>
+<li><a href="https://gist.github.com/2260182">OSX for Hackers</a> - lots of useful settings you can enable/disable on the command-line for Mac OS X.</li>
+</ul>
+
+
+<h3>Presentations / Talks / Articles</h3>
+
+<ul>
+<li><a href="http://www.slideshare.net/Wolfr/ios-design-a-case-study">iOS Design</a> - 'a case study', nice presentation about the design-process for an iOS application.</li>
+<li><a href="http://www.futuristspeaker.com/2012/02/2-billion-jobs-to-disappear-by-2030/">2 Billion Jobs to Disappear by 2030</a> - interesting article about the future of jobs &amp; industries.</li>
+</ul>
+
+
+<h3>Tools</h3>
+
+<ul>
+<li><a href="https://github.com/ftrvxmtrx/split2flac">split2flac</a> - a tool to split one big AP/FLAC/WAV file into several FLAC/M4A/MP3/OGG/WAV tracks, with tagging, renaming and cover images.</li>
+</ul>
+
+
+<h3>Physics</h3>
+
+<ul>
+<li><a href="http://kottke.org/12/04/richard-feynman-no-ordinary-genius">No ordinary genius</a> - a 95min documentary about Richard Feynman, available on youtube.</li>
+<li><a href="http://www.spektrum.de/alias/quantenphysik/einsteins-unbemerkte-revolution/1147602">Einsteins unbemerkte Revolution</a> - german article about 'Verschränkung' (entanglement) &amp; 'Spukhafte Fernwirkung' (action at distance) in qunatum-physics.</li>
+</ul>
+
+
+<h3>Fun</h3>
+
+<ul>
+<li><a href="http://blog.intercom.io/whats-in-a-name/">Is it a condom or is it an Android?</a></li>
+<li><a href="http://www.youtube.com/watch?v=QtJ77qsLrpw">Droste effect in Conway's Game of Life</a></li>
+<li><a href="http://techlaze.com/2012/03/richard-stallman-to-launch-his-own-fashion-line/">Richard Stallman to launch his own fashion line</a></li>
+</ul>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Interesting Thingys #10]]></title>
@@ -410,77 +513,6 @@ Genius or a Rock Star.</li>
 
 <ul>
 <li><a href="http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2012/03/02/BUIO1NFAMI.DTL">Are you a "BroGrammer"?</a> ...</li>
-</ul>
-
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Interesting Thingys #6]]></title>
-    <link href="http://yieldthedog.github.com/blog/2012/02/27/interesting-thingys-6/"/>
-    <updated>2012-02-27T08:54:00+01:00</updated>
-    <id>http://yieldthedog.github.com/blog/2012/02/27/interesting-thingys-6</id>
-    <content type="html"><![CDATA[<blockquote><p><em>Interesting Thingys</em> is a gazette in the blog that summarizes a week of blog articles, links, specifications, demos, news or more general "thingys" that we stumble upon in our journey through the world wide web.</p></blockquote>
-
-<h3>HTML/CSS</h3>
-
-<ul>
-<li><a href="http://html5please.com/">html5please.com</a> - Explore html5 features (categories: supported by browsers, use with caution, fallbacks, polyfills, ...)</li>
-<li><a href="https://github.com/emorikawa/boilerstrap">boilerstrap</a> - Template for HTML5Boilerplate and Twitters Bootstrap CSS (+modernizr, js compression, coffeescript support, sass, less)... Plus rake-tasks.</li>
-<li><a href="http://tumultco.com/hype/">hype</a> - Interesting editor (GUI) for HTML5/CSS3 Keyframe animations &amp; animated content... (sorry: mac only)</li>
-<li><a href="http://shinydemos.com/">Shinydemos</a> - New html5 showcase by opera.</li>
-</ul>
-
-
-<!-- more -->
-
-
-<h3>Android + iOS</h3>
-
-<ul>
-<li><a href="http://picture.io/photopickerplus">photopickerplus</a> - free Cross Platform Photopicker Library .. "pick photo from your favorite photo services, not just from your locally stored ones"</li>
-</ul>
-
-
-<h3>Javascript</h3>
-
-<ul>
-<li><a href="http://www.sequencejs.com/">sequencejs</a> - Nice jQuery Slider (with parallax effect).</li>
-<li><a href="https://github.com/maccman/ace">ace</a> - Sinatra-style framework for node appications</li>
-<li><a href="http://oscargodson.github.com/EpicEditor/">EpicEditor</a> - A live Markdown Editor in Javascript</li>
-</ul>
-
-
-<h3>Ruby</h3>
-
-<ul>
-<li><a href="https://github.com/paulasmuth/recommendify">recommendify</a> - Recommendation engine in ruby &amp; redis .. Something like "user that viewed this video also likes..."</li>
-<li><a href="https://github.com/fxn/i-told-you-it-was-private">i told you it was private</a> - A ruby module for "really private methods"...</li>
-</ul>
-
-
-<h3>General/Thingys</h3>
-
-<ul>
-<li><a href="http://woolam.org/github-recommendation-service/">github recommendation service</a> - Discover new github repos based on watcher relationships.</li>
-<li><a href="http://xprogramming.com/articles/kate-oneal-what-is-scrum/">what is scrum?!</a> - Long article about "what is scrum?" and how to apply it</li>
-<li><a href="http://caines.ca/blog/programming/the-sun-is-setting-on-rails-style-mvc-frameworks/">Server-side MVC Frameworks will die for client-side apps</a> .. apparently.</li>
-</ul>
-
-
-<h3>Tools</h3>
-
-<ul>
-<li><a href="http://www.aboutlinux.info/2005/10/10-seconds-guide-to-bash-shell.html">Bash scripts</a> -  in 10 seconds... or minutes... or...</li>
-<li><a href="http://vimbits.com/">vimbits</a> - upvote/downvote site for vimrc tips'n'tricks.</li>
-</ul>
-
-
-<h3>Fun</h3>
-
-<ul>
-<li><a href="http://accessmaincomputerfile.net/">accessmaincomputerfile</a> - A visual study of computer GUI in cinema</li>
-<li><a href="http://visualidiot.com/articles/social-apps">social-apps</a> - The new social app: "scares off ghosts" &amp; "hipster-optimised" :)</li>
 </ul>
 
 ]]></content>
