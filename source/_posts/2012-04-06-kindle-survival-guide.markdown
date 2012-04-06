@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Kindle Survival Guide"
-date: 2012-03-23 22:47
+date: 2012-04-06 10:47
 comments: true
 categories: kindle, tools, reading
-published: false
+published: true
 ---
 
 I own a Kindle for about 1 year and a half and I must say it has served me quite well. In this time I have read about 20-30 books - not all from cover to cover, but some twice-, have read literally 100th of articles, used it for browsing the web, sent a tweet and used it as my main reading device.
