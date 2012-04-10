@@ -29,10 +29,10 @@ This post gives a brief visual overview of developer desktops at the diamond:dog
 ##### Coffee and Rubik's
 {% img full-width https://lh5.googleusercontent.com/-wgVuLEDblpQ/T3AL9ZbbVTI/AAAAAAAAG8A/PLjtUi8VTvA/s1069/IMG_9854.JPG %}
 
-##### Android Development with Task Post-Its
+##### Android Development with Post-it notes
 {% img full-width https://lh4.googleusercontent.com/-g5wf4zlaJS8/T3AL_afydbI/AAAAAAAAG8Q/4xLQgFyHV6w/s1069/IMG_9855.JPG %}
 
-##### Android Development with Task Post-Its (they seem to like these Post-Its!)
+##### Android Development with Post-it notes (they seem to like these Post-its!)
 {% img full-width https://lh4.googleusercontent.com/-oeYJu7CZbkc/T3AL_E1_M5I/AAAAAAAAG8M/WxPyLasljKU/s1069/IMG_9856.JPG %}
 
 ##### Damn old Monitor enhanced by some Ü-Eggs
@@ -74,7 +74,7 @@ This post gives a brief visual overview of developer desktops at the diamond:dog
 ##### Headphones, again, again!
 {% img full-width https://lh3.googleusercontent.com/-VDqfmIVwoBk/T3AMLmWUA8I/AAAAAAAAG94/axZLS-bpaho/s1069/IMG_9869.JPG %}
 
-##### The Post-It source, clean and organized
+##### The Post-it source, clean and organized
 {% img full-width https://lh4.googleusercontent.com/-43s7bYHnixA/T3AMMLEL7bI/AAAAAAAAG-A/IEsds7PSioU/s1069/IMG_9870.JPG %}
 
 ##### USB Fan: A "must have" in Summer
