@@ -42,5 +42,6 @@ This week with topics from
 
 ### Vim
 - [Using Vimdiff With Git](http://shawnbiddle.com/devblog/archive/using-vimdiff-with-git)
+- [Write Faster Code by Adding VIM to Visual Studio](http://visualstudiomagazine.com/articles/2012/04/09/write-faster-code-by-adding-vim-to-visual-studio.aspx)
 
 ### Fun
