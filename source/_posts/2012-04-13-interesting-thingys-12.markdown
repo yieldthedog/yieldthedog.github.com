@@ -27,6 +27,7 @@ This week with topics from
 ### Database
 
 ### Operating Systems
+- [How Computers Boot Up](http://duartes.org/gustavo/blog/post/how-computers-boot-up)
 
 ### OS X
 
@@ -35,5 +36,8 @@ This week with topics from
 ### Tools
  
 ### Physics
+
+### Vim
+- [Using Vimdiff With Git](http://shawnbiddle.com/devblog/archive/using-vimdiff-with-git)
 
 ### Fun
