@@ -26,6 +26,9 @@ This week with topics from
 
 ### Database
 
+### Browsers
+- [Big boost to DOM performance - WebKit's innerHTML is 240% faster](http://updates.html5rocks.com/2012/04/Big-boost-to-DOM-performance---WebKit-s-innerHTML-is-240-faster)
+
 ### Operating Systems
 - [How Computers Boot Up](http://duartes.org/gustavo/blog/post/how-computers-boot-up)
 
