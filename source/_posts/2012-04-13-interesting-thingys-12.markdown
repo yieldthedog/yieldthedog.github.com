@@ -38,8 +38,10 @@ This week with topics from
 ### OS X
 
 ### Presentations / Talks / Articles
+- [Slides from HTML5 community meetup](http://vhardy.github.com/presentations/html5-community-meet-up-2012/) - presents some next generation CSS stuff: filters, shaders - future, when will thou come?
 
 ### Tools
+- [The noun project](http://thenounproject.com/)
  
 ### Physics
 
