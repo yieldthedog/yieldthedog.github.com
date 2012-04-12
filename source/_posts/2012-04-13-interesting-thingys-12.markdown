@@ -32,6 +32,9 @@ This week with topics from
 ### Operating Systems
 - [How Computers Boot Up](http://duartes.org/gustavo/blog/post/how-computers-boot-up)
 
+### Git
+- (Instantly Beautiful Project Pages)[https://github.com/blog/1081-instantly-beautiful-project-pages]
+
 ### OS X
 
 ### Presentations / Talks / Articles
