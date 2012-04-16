@@ -45,3 +45,4 @@ This week with topics from
 - [Write Faster Code by Adding VIM to Visual Studio](http://visualstudiomagazine.com/articles/2012/04/09/write-faster-code-by-adding-vim-to-visual-studio.aspx)
 
 ### Fun
+- [4D Rubik's Cube](http://superliminal.com/cube/cube.htm)
