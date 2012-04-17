@@ -1,16 +1,14 @@
 ---
 layout: post
 title: "Interesting Thingys #12"
-date: 2012-04-13 08:54
+date: 2012-04-17 11:54
 comments: false
 categories: "Interesting-Thingys"
 published: true
 ---
 
-This week with topics from 
+This week with topics from HTML5, JavaScript, CSS, Git, Vim, and much more.
 <!-- More -->
-
-### Mobile Development
 
 ### HTML5
 - [JavaScript motion detection](http://www.adobe.com/devnet/html5/articles/javascript-motion-detection.html)
@@ -28,8 +26,6 @@ This week with topics from
 - [Responsive CSS3 Slider Without Javascript](http://csscience.com/responsiveslidercss3/)
 - [CSS Sprites Revisited](http://coding.smashingmagazine.com/2012/04/11/css-sprites-revisited/)
 
-### Database
-
 ### Browsers
 - [Big boost to DOM performance - WebKit's innerHTML is 240% faster](http://updates.html5rocks.com/2012/04/Big-boost-to-DOM-performance---WebKit-s-innerHTML-is-240-faster)
 
@@ -37,9 +33,7 @@ This week with topics from
 - [How Computers Boot Up](http://duartes.org/gustavo/blog/post/how-computers-boot-up)
 
 ### Git
-- (Instantly Beautiful Project Pages)[https://github.com/blog/1081-instantly-beautiful-project-pages]
-
-### OS X
+- [ Instantly Beautiful Project Pages - Github]( https://github.com/blog/1081-instantly-beautiful-project-pages )
 
 ### Presentations / Talks / Articles
 - [Slides from HTML5 community meetup](http://vhardy.github.com/presentations/html5-community-meet-up-2012/) - presents some next generation CSS stuff: filters, shaders - future, when will thou come?
@@ -47,8 +41,6 @@ This week with topics from
 ### Tools
 - [The noun project](http://thenounproject.com/)
  
-### Physics
-
 ### Vim
 - [Using Vimdiff With Git](http://shawnbiddle.com/devblog/archive/using-vimdiff-with-git)
 - [Write Faster Code by Adding VIM to Visual Studio](http://visualstudiomagazine.com/articles/2012/04/09/write-faster-code-by-adding-vim-to-visual-studio.aspx)
