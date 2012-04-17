@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "Developer Desktops"
-date: 2012-04-01 08:57
+date: 2012-04-18 08:15
 comments: true
-published: false
+published: true
 categories: 
 ---
 Work places are equipped with more or less standardized workstations, mice and keyboards. Since developers are quite individual the desktops become individual too. From crowded to clean, from playful to straight.
