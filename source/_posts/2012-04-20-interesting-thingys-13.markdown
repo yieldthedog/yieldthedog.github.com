@@ -41,6 +41,9 @@ This week with topics from
 ### Usability
 - [Nielsen is wrong on mobile](http://www.netmagazine.com/opinions/nielsen-wrong-mobile)
 
+### Webserver
+- [Add SPDY support to your Apache server with mod_spdy](http://googledevelopers.blogspot.com/2012/04/add-spdy-support-to-your-apache-server.html)
+
 ### Browsers
 
 ### Operating Systems
