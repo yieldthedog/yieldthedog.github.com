@@ -18,6 +18,8 @@ This week with topics from
 - [Making a Speedy HTML5 Game](http://developers.facebook.com/html5/blog/post/2012/04/17/making-a-speedy-html5-game/)
 - [Cool scroll effects for lists](http://lab.hakim.se/scroll-effects/)
 - [Date picker landed in Chrome Canary and Chromium](https://plus.google.com/107085977904914121234/posts/R5LyvTSa21k)
+- [Processing XHR2 file uploads in PHP](http://updates.html5rocks.com/2012/04/Processing-XHR2-file-uploads-in-PHP)
+- [BeerCamp](http://2012.beercamp.com/) - Cool demonstration of CSS 3D features - [detailed article about the making of](http://www.smashingmagazine.com/2012/04/17/beercamp-experiment-with-css3d/)
 
 
 ### JavaScript
@@ -57,15 +59,23 @@ This week with topics from
 ### Operating Systems
 
 ### Git
+- [Remote Branch](http://robots.thoughtbot.com/post/21306813001/remote-branch) - Does your pair programmer maintain order, keeping the mean streets (ie. remote branches) clean?
 
 ### OS X
+
+### Rails
+- [DDD for Rails Developers. Part 2: Entities and Values](http://rubysource.com/ddd-for-rails-developers-part-2-entities-and-values/)
 
 ### Books
 - [Practical Vim](http://pragprog.com/book/dnvim) - now available in beta
 
 ### Presentations / Talks / Articles
+- [The Mobile Revolution: Cultivating Boundaries of the Unbounded](http://www.youtube.com/watch?v=FPUzrm4_ZxQ&feature=youtube_gdata)
 
 ### Tools
+
+###Unix
+- [A proof that Unix utility "sed" is Turing complete](http://www.catonmat.net/blog/proof-that-sed-is-turing-complete/)
  
 ### Physics
 
@@ -73,3 +83,4 @@ This week with topics from
 
 ### Fun
 - [Mix.js](http://www.chromeexperiments.com/detail/mixjs/?f=) - A Chrome Experiment: Multitrack mixing and real-time metering with Web Audio
+- [Semicolon](http://pksunkara.github.com/semicolon/) - An esoteric language made up of only semicolons.
