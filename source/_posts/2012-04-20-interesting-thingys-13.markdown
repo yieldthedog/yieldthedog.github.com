@@ -52,6 +52,9 @@ This week with topics from
 
 ### OS X
 
+### Books
+- [Practical Vim](http://pragprog.com/book/dnvim) - now available in beta
+
 ### Presentations / Talks / Articles
 
 ### Tools
