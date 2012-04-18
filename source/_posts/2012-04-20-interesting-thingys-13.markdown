@@ -68,6 +68,7 @@ This week with topics from
 
 ### Books
 - [Practical Vim](http://pragprog.com/book/dnvim) - now available in beta
+- [JavaScript Enlightment](http://javascriptenlightenment.com/) - free eBook - A book to turn a JavaScript library user into a JavaScript developer
 
 ### Presentations / Talks / Articles
 - [The Mobile Revolution: Cultivating Boundaries of the Unbounded](http://www.youtube.com/watch?v=FPUzrm4_ZxQ&feature=youtube_gdata)
