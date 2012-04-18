@@ -12,7 +12,12 @@ This week with topics from
 
 ### Mobile Development
 - [PhoneGap 1.6 released](http://phonegap.com/2012/04/11/phonegap-1-6-released)
+
 ### HTML5
+- [BBC And YouWeb Bets On HTML5 Games; Invests Millions In Mobile Game Creation Platform Spaceport.io](http://techcrunch.com/2012/04/11/bbc-bets-on-html5-games-invests-millions-in-mobile-game-creation-platform-spaceport-io/)
+- [Making a Speedy HTML5 Game](http://developers.facebook.com/html5/blog/post/2012/04/17/making-a-speedy-html5-game/)
+- [Cool scroll effects for lists](http://lab.hakim.se/scroll-effects/)
+- [Date picker landed in Chrome Canary and Chromium](https://plus.google.com/107085977904914121234/posts/R5LyvTSa21k)
 
 
 ### JavaScript
@@ -21,6 +26,8 @@ This week with topics from
 - [Qt 5 makes JavaScript a first-class citizen for app development](http://arstechnica.com/business/news/2012/04/an-in-depth-look-at-qt-5-making-javascript-a-first-class-citizen-for-native-cross-platform-developme.ars)
 - [Understanding MVVM – A Guide For JavaScript Developers](http://addyosmani.com/blog/understanding-mvvm-a-guide-for-javascript-developers/)
 - [A Chrome Extension for running CoffeeScript from the Web Inspector](https://github.com/snookca/CoffeeConsole)
+- [device.js](https://github.com/borismus/device.js) - Semantic client-side device detection with Media Queries
+- [CreateJS](http://createjs.com/#!/CreateJS) - A suite of Javascript libraries & tools for building rich, interactive experiences with HTML5.
 
 ### NodeJS
 - [Dtrace conf 2012, Dtrace in Node.JS](http://www.nodejs-news.com/NodeConf/dtraceconf2012-dtrace-in-nodejs)
@@ -33,6 +40,7 @@ This week with topics from
 ### CSS
 - [Multi-Device Layout Patterns](http://www.lukew.com/ff/entry.asp?1514)
 - [My thoughts about the latest Image Replacement techniques](http://www.css-101.org/articles/image-replacement/the_new_new_image-replacement_techniques.php)
+- [Vertical centering with flexbox and margin fallback](http://dabblet.com/gist/2403795)
 
 ### Database
 - [MongoDb Architecture](http://horicky.blogspot.com/2012/04/mongodb-architecture.html)
@@ -64,3 +72,4 @@ This week with topics from
 ### Vim
 
 ### Fun
+- [Mix.js](http://www.chromeexperiments.com/detail/mixjs/?f=) - A Chrome Experiment: Multitrack mixing and real-time metering with Web Audio
