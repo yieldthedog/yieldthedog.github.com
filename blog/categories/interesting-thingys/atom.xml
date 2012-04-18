@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Interesting-Thingys | yield the dog]]></title>
   <link href="http://yieldthedog.github.com/blog/categories/interesting-thingys/atom.xml" rel="self"/>
   <link href="http://yieldthedog.github.com/"/>
-  <updated>2012-04-06T23:15:48+02:00</updated>
+  <updated>2012-04-18T08:14:58+02:00</updated>
   <id>http://yieldthedog.github.com/</id>
   <author>
     <name><![CDATA[yield the dog]]></name>
@@ -12,6 +12,95 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Interesting Thingys #12]]></title>
+    <link href="http://yieldthedog.github.com/blog/2012/04/17/interesting-thingys-12/"/>
+    <updated>2012-04-17T11:54:00+02:00</updated>
+    <id>http://yieldthedog.github.com/blog/2012/04/17/interesting-thingys-12</id>
+    <content type="html"><![CDATA[<p>This week with topics from HTML5, JavaScript, CSS, Git, Vim, and much more.</p>
+
+<!-- More -->
+
+
+<h3>HTML5</h3>
+
+<ul>
+<li><a href="http://www.adobe.com/devnet/html5/articles/javascript-motion-detection.html">JavaScript motion detection</a></li>
+<li><a href="http://blogs.msdn.com/b/davrous/archive/2012/04/06/modernizing-your-html5-canvas-games-with-offline-apis-file-apis-css3-amp-hardware-scaling.aspx">Modernizing your HTML5 Canvas games Part 1: hardware scaling &amp; CSS3</a></li>
+<li><a href="http://www.luxanimals.com/blog/article/combining_easel_box2d">Combining Easel.js and Box2d in Canvas</a></li>
+<li><a href="http://blogs.msdn.com/b/davrous/archive/2012/04/06/modernizing-your-html5-canvas-games-with-offline-apis-file-apis-css3-amp-hardware-scaling.aspx">Modernizing your HTML5 Canvas games Part 1: hardware scaling &amp; CSS3 - David Rousset - Site Home - MSDN Blogs</a></li>
+</ul>
+
+
+<h3>JavaScript</h3>
+
+<ul>
+<li><a href="http://www.meteor.com/">Metor</a> - is a set of new technologies for building top-quality webapps in a fraction of the time, whether you're an expert developer or just getting started. Watch the <a href="http://www.meteor.com/screencast">introduction video</a>.</li>
+<li><a href="https://github.com/rwldrn/idiomatic.js">idiomatic.js</a></li>
+<li><a href="http://www.adobe.com/devnet/html5/articles/javascript-motion-detection.html">JavaScript motion detection | Adobe Developer Connection</a></li>
+</ul>
+
+
+<h3>CSS</h3>
+
+<ul>
+<li><a href="http://csscience.com/responsiveslidercss3/">Responsive CSS3 Slider Without Javascript</a></li>
+<li><a href="http://coding.smashingmagazine.com/2012/04/11/css-sprites-revisited/">CSS Sprites Revisited</a></li>
+</ul>
+
+
+<h3>Browsers</h3>
+
+<ul>
+<li><a href="http://updates.html5rocks.com/2012/04/Big-boost-to-DOM-performance---WebKit-s-innerHTML-is-240-faster">Big boost to DOM performance - WebKit's innerHTML is 240% faster</a></li>
+</ul>
+
+
+<h3>Operating Systems</h3>
+
+<ul>
+<li><a href="http://duartes.org/gustavo/blog/post/how-computers-boot-up">How Computers Boot Up</a></li>
+</ul>
+
+
+<h3>Git</h3>
+
+<ul>
+<li><a href="https://github.com/blog/1081-instantly-beautiful-project-pages"> Instantly Beautiful Project Pages - Github</a></li>
+</ul>
+
+
+<h3>Presentations / Talks / Articles</h3>
+
+<ul>
+<li><a href="http://vhardy.github.com/presentations/html5-community-meet-up-2012/">Slides from HTML5 community meetup</a> - presents some next generation CSS stuff: filters, shaders - future, when will thou come?</li>
+</ul>
+
+
+<h3>Tools</h3>
+
+<ul>
+<li><a href="http://thenounproject.com/">The noun project</a></li>
+</ul>
+
+
+<h3>Vim</h3>
+
+<ul>
+<li><a href="http://shawnbiddle.com/devblog/archive/using-vimdiff-with-git">Using Vimdiff With Git</a></li>
+<li><a href="http://visualstudiomagazine.com/articles/2012/04/09/write-faster-code-by-adding-vim-to-visual-studio.aspx">Write Faster Code by Adding VIM to Visual Studio</a></li>
+</ul>
+
+
+<h3>Fun</h3>
+
+<ul>
+<li><a href="http://superliminal.com/cube/cube.htm">4D Rubik's Cube</a></li>
+</ul>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Interesting Thingys #11]]></title>
@@ -435,84 +524,6 @@ Genius or a Rock Star.</li>
 <ul>
 <li><a href="http://crankypm.com/2011/03/guest-post-stages-debugging/">The 5 Stages of Debugging</a> -  .. stage 1: "Ignore it"</li>
 <li><a href="http://www.catonmat.net/blog/why-vim-uses-hjkl-as-arrow-keys/">why VI uses the hjkl keys as arrow keys</a> - By the way: I want this T-Shirt!</li>
-</ul>
-
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Interesting Thingys #7]]></title>
-    <link href="http://yieldthedog.github.com/blog/2012/03/05/interesting-thingys-7/"/>
-    <updated>2012-03-05T08:54:00+01:00</updated>
-    <id>http://yieldthedog.github.com/blog/2012/03/05/interesting-thingys-7</id>
-    <content type="html"><![CDATA[<blockquote><p><em>Interesting Thingys</em> is a gazette in the blog that summarizes a week of blog articles, links, specifications, demos, news or more general "thingys" that we stumble upon in our journey through the world wide web.</p></blockquote>
-
-<h3>HTML5/CSS</h3>
-
-<ul>
-<li><a href="http://zoomzum.com/6-best-html5css3-presentation-frameworks/">presentation frameworks</a> -  using javascript + css3</li>
-<li><a href="http://cggallant.blogspot.com/2010/08/introduction-to-html-5-web-workers.html">web-worker in HTML5</a> - Old but still worthy to read:</li>
-</ul>
-
-
-<h3>Mobile</h3>
-
-<ul>
-<li><a href="http://johnkpaul.tumblr.com/post/18681089281/scale-to-mobile-browser-with-pictures">scale to mobile browser</a> - Short description of "viewport" meta tag und how mobile-browser scale</li>
-</ul>
-
-
-<!-- more -->
-
-
-<h3>Allgemein</h3>
-
-<ul>
-<li><a href="http://stackoverflow.com/questions/141525/absolute-beginners-guide-to-bit-shifting">absolute beginners guide to bit shifting</a> - Stack Overflow answer to a Bit-Shifting question..</li>
-<li><a href="http://www.wallix.org/2012/02/29/pylogsparser-visualizing-ssh-attacks-in-video/">visualize ssh attacks</a> - Little tutorial how to visualize SSH-Attacks.</li>
-</ul>
-
-
-<h3>Ruby</h3>
-
-<ul>
-<li><a href="http://zachholman.com/talk/ruby-patterns">Ruby/Rails Patterns of Github</a></li>
-<li><a href="http://homakov.blogspot.com/2012/03/how-to.html">github got hacked!</a> - Short "How to" that describes how Egor Homakov (watch the image on the right) "hacked" Github (Rails know-how needed)</li>
-</ul>
-
-
-<h3>Javascript</h3>
-
-<ul>
-<li><a href="http://soulwire.co.uk/coffeephysics/">CoffeeScript meets Physics</a></li>
-<li><a href="http://badassjs.com/post/18503583619/coffeephysics-a-fast-new-physics-engine-written-in">CoffeeScript meets Physics 2</a></li>
-<li><a href="http://towerjs.org/">tower.js</a> - A web stack framework for NodeJS (with CoffeeScript, Jasmine, Stylus .. Plus MongoDB &amp; Redis).</li>
-<li><a href="http://blog.nodejs.org/2012/02/27/managing-node-js-dependencies-with-shrinkwrap/">shrinkwrap</a> - How to manage node.js dependencies using Shrinkwrap</li>
-<li><a href="http://radio.uxder.com/">radio</a> - Library for Pub/Sub in Javascript... (the observer pattern).</li>
-</ul>
-
-
-<h3>Tools</h3>
-
-<ul>
-<li><a href="https://github.com/thedjpetersen/subway">subwav</a> - Web Based IRC Client</li>
-<li><a href="http://www.in-ulm.de/~mascheck/various/uuoc/">Unix Tools: cat</a></li>
-<li><a href="http://www.andismith.com/blog/2012/02/firefox-developer-tools/">Article about the new Firefox Developer Tools</a></li>
-</ul>
-
-
-<h3>Design</h3>
-
-<ul>
-<li><a href="http://speakerdeck.com/u/destraynor/p/designing-dashboards-data-visualisations-in-web-apps">Data Visualization in WebApps (Presentation)</a></li>
-<li><a href="http://sachagreif.com/making-of-sharypic-for-iphone/">makring of SharyPic for iphone)</a> - Nice Article about the design process fof an iPhone App (Example used: SharyPic App.</li>
-</ul>
-
-
-<h3>Fun (... If only)</h3>
-
-<ul>
-<li><a href="http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2012/03/02/BUIO1NFAMI.DTL">Are you a "BroGrammer"?</a> ...</li>
 </ul>
 
 ]]></content>

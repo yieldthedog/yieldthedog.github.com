@@ -4,7 +4,7 @@
   <title><![CDATA[Category: tools, | yield the dog]]></title>
   <link href="http://yieldthedog.github.com/blog/categories/tools-/atom.xml" rel="self"/>
   <link href="http://yieldthedog.github.com/"/>
-  <updated>2012-04-06T23:15:48+02:00</updated>
+  <updated>2012-04-18T08:14:58+02:00</updated>
   <id>http://yieldthedog.github.com/</id>
   <author>
     <name><![CDATA[yield the dog]]></name>
@@ -18,9 +18,9 @@
     <link href="http://yieldthedog.github.com/blog/2012/04/06/kindle-survival-guide/"/>
     <updated>2012-04-06T10:47:00+02:00</updated>
     <id>http://yieldthedog.github.com/blog/2012/04/06/kindle-survival-guide</id>
-    <content type="html"><![CDATA[<p>I own a Kindle for about 1 year and a half and I must say it has served me quite well. In this time I have read about 20-30 books - not all from cover to cover, but some twice-, have read literally 100th of articles, used it for browsing the web, sent a tweet and used it as my main reading device.</p>
+    <content type="html"><![CDATA[<p>I own a Kindle for about one year and a half and I must say it has served me quite well. In this time I have read about 20-30 books, have read literally hundreths of articles, used it for browsing the web, sent a tweet, and used it as my main reading device.</p>
 
-<p>So what is it, that makes an ebook reader superior to a normal book?</p>
+<p>What is it that makes an ebook reader superior to a normal book?</p>
 
 <!-- more -->
 
@@ -30,31 +30,31 @@
 <h3>Advantages</h3>
 
 <ul>
-<li><strong><em>Size and weight</em></strong> is a main factor. I can carry it with me all the time in my back bag and I won't even notice it's weight</li>
+<li><strong><em>Size and weight</em></strong> are a main factor. I can carry it with me all the time in my back bag and I won't even notice it's weight</li>
 <li><strong><em>Readiness of books</em></strong>: When you buy a book over the internet, it takes a while until you have it in your hands and are able to start reading. With ebooks it's different. Buy it, download it, read it. Dead simple and crazy fast.</li>
-<li><strong><em>Your library at your disposal</em></strong>: With 3 gigs of memory, I don't care, how many books I carry with me. If I need to read a passage, that I have marked or dog eared in the past, I pull out the kindle and read it.</li>
+<li><strong><em>Your library at your disposal</em></strong>: With 3 gigs of memory, I don't care how many books I carry with me. If I need to read a passage, that I have marked or dog eared in the past, I pull out the Kindle and read it.</li>
 </ul>
 
 
 <h3>Disadvantages</h3>
 
 <ul>
-<li><strong><em>Screen size</em></strong>: If the width of the screen was a bit larger - about 1cm -, a lot of stuff would be easier to read.</li>
-<li><strong><em>Reading code</em></strong>: Reading code was especially in the beginning kind of weird/awkward. The small width often breaks lines, what makes it very hard to read it properly. One ebook I own tried to circumvent this fact, by putting all code in images, which you can zoom in. Still not a great experience. But it seems that authors and publishers acknowledge this fact more recently, and try to avoid breaking lines on a Kindle.</li>
+<li><strong><em>Screen size</em></strong>: If the width of the screen was a bit larger - about one cm -, a lot of stuff would be easier to read.</li>
+<li><strong><em>Reading code</em></strong>: Reading code was often kind of weird and awkward. The small width often breaks lines what makes it very hard to read it properly. One ebook I own tried to circumvent this fact by putting all code in images, which you can zoom in. Still not a great experience. But it seems that authors and publishers acknowledge this fact more recently, and try to avoid breaking lines on a Kindle.</li>
 </ul>
 
 
 <h2>Buying books</h2>
 
-<p>I don't like to buy books from Amazon. Even though they made their process very easy, they lack one important thing. I do not own the books I buy. They are DRMed and cannot be read or ported to another device unless you jailbreak your device, what I am not willing to do. This is really bad, because it deadlocks me in a situation, in which I will only buy Kindles for my whole life.</p>
+<p>I don't like to buy books from Amazon. Even though they made their process very easy, they lack one important thing. I do not own the books I buy. They are DRMed and cannot be read on or ported to another device unless you jailbreak your Kindle, what I am not willing to do. This is really bad because it deadlocks me in a situation, in which I will only buy Kindles for the rest of my whole life.</p>
 
 <p>So what to do with this situation? Download books from rapidshare, megaupload, ....? No! Why not, you ask. Because there are useful alternatives that are at least as good as amazon, with which you support the author and the publisher.</p>
 
-<p>As I'm a coder, I'm mainly interested in technical books. One publisher of technical books, that stands out is <strong><em><a href="http://pragprog.com">PragProg</a></em></strong> - not because I emphasize their text, but because they offer a quite superior service. Here are the main features:</p>
+<p>I'm a developer and I'm mainly interested in technical books. One publisher of technical books, that stands out is <strong><em><a href="http://pragprog.com">PragProg</a></em></strong> - not because I emphasize their text, but because they offer a quite superior service. Here are the main features:</p>
 
 <ul>
-<li>All ebooks are DRM free available in various formats</li>
-<li>You can configure your PragProg account to automatically send your purchases and future updates to your free kindle email address. This can sometimes get annoying, when you have purchased a book in beta, which receives updates quite often.</li>
+<li>All ebooks are DRM free and available in various formats</li>
+<li>You can configure your PragProg account to automatically send your purchases and future updates to your free Kindle email address. This can sometimes get annoying when you have purchased a book in beta, which receives updates quite often.</li>
 <li>PragProg can automatically send your ebooks to your Dropbox</li>
 <li>They publish a free magazine</li>
 </ul>
@@ -64,41 +64,41 @@
 
 <p>Next one is <a href="http://shop.oreilly.com">O'Reilly</a>. Just like PragProg they offer their whole library in various formats.</p>
 
-<p><a href="http://manning.com">Manning</a> had great problems converting their pbooks to ebooks. For a long time they only offered PDFs, that are not very comfortable to read on a Kindle (don't even try), and are now slowly reducing the distance to the others.</p>
+<p><a href="http://manning.com">Manning</a> had great problems converting their pbooks to ebooks. For a long time they only offered PDFs that are not very comfortable to read on a Kindle (don't even try) and are now slowly reducing the distance to the others.</p>
 
 <p><a href="http://apress.com">Apress</a> - I must admit that I don't buy much books from Apress for no special reason. Probably because I'm not subscribed to their newsletter.</p>
 
 <p><span class='pullquote-right' data-pullquote='They offer discounts and deals.'>
-All of these publishers have one advantage over Amazon in common. They offer discounts and deals. Subscribe to their newsletter, visit their home page and you will be amazed, how much you can save. I have read many books, just because of discounts and I have stopped reading books, because it just did not hurt to put them away, when they did not cost that much. Another advantage over Amazon is, that you can purchase books that are no published yet - PragProg calls them <a href="http://pragprog.com/categories/new">beta</a>, O'Reilly calls them <a href="http://oreily.com/roughcuts">rough cuts</a>. This is kind of nice when the book is dealing with a fast evolving topic, where the book will be out of date as soon as it is published. On the other hand those books are not published for a certain reason: They are not finished. At PragProg you can even follow the progress of a book that's currently written (Click on progress of the <a href="http://pragprog.com/book/dnvim/practical-vim">Practical Vim</a> book and take a look at this great <a href="http://raphaeljs.com">RaphaelJS</a> chart).
+All of these publishers have one advantage over Amazon in common. They offer discounts and deals. Subscribe to their newsletter, visit their home page and you will be amazed how much you can save. I have read many books just because of discounts and I have stopped reading books because it just did not hurt to put them away when they did not cost that much. With thoose publishers you can purchase books that are not published yet - PragProg calls them <a href="http://pragprog.com/categories/new">beta</a>, O'Reilly calls them <a href="http://oreily.com/roughcuts">rough cuts</a>. This is kind of nice when the book is dealing with a fast evolving topic, where the book will be out of date as soon as it is published. On the other hand those books are not published for a certain reason: They are not finished. At PragProg you can even follow the progress of a book that's currently written (Click on progress of the <a href="http://pragprog.com/book/dnvim/practical-vim">Practical Vim</a> book and take a look at this great <a href="http://raphaeljs.com">RaphaelJS</a> chart).
 </span></p>
 
 <h2>Tools that make your life easier</h2>
 
 <h3>Instapaper</h3>
 
-<p><a href="http://instapaper.com">Instapaper</a> is one of the best companions of your kindle. It provides a <em>read later</em> bookmarklet, that saves an article to a list. Later you can either export the list manually or you can let Instapaper automatically send an email to your free kindle account, when a certain amount of new articles is reached. Nowadays I even use it to send out <a href="https://twitter.com/#!thomaspeklak/status/183086027668336640">tweets</a> for great articles and save them to my <a href="http://evernote.com">Evernote</a> article backlog.</p>
+<p><a href="http://instapaper.com">Instapaper</a> is one of the best companions of your Kindle. It provides a <em>read later</em> bookmarklet that saves an article to a list. Later you can either export the list manually or you can let Instapaper automatically send an email to your free kindle account when a certain amount of new articles is reached. I even use it to send out <a href="https://twitter.com/#!thomaspeklak/status/183086027668336640">tweets</a> for great articles and save them to my <a href="http://evernote.com">Evernote</a> article backlog.</p>
 
 <h3>Calibre</h3>
 
-<p><a href="http://calibre-ebook.com">Calibre</a> is a great tool to manage your ebooks, send them to your device via USB or email. What I especially like is the ability to convert formats. They offer a great support. I once filed a feature request and on the next day it was closed. Way to go!</p>
-
-<h3>You@free.kindle.com</h3>
-
-<p>And last but not least don't forget that you own a user@free.kindle.com address, which you can use (as mentioned above) to send books to it and have Amazon automatically deliver them to your device the next time you connect. Works great with PragProg and Instapaper.</p>
+<p><a href="http://calibre-ebook.com">Calibre</a> is a great tool to manage your ebooks and send them to your device via USB or email. What I especially like is the ability to convert formats. They offer a great support, too. I once filed a feature request and on the next day it was closed. Way to go!</p>
 
 <h3>Pandoc</h3>
 
 <p>Pandoc can be useful if you have an exotic format such as markdown that you want to convert to epub and via Calibre or <a href="http://www.amazon.com/gp/feature.html?ie=UTF8&amp;docId=1000234621">KindleGen</a> to mobi. A direct conversion to mobi is not supported. I used Pandoc to produce my epub/mobi versions of the excellent <a href="http://openmymind.net/2012/1/23/The-Little-Redis-Book/">The Little Redis Book</a> and <a href="http://openmymind.net/2011/3/28/The-Little-MongoDB-Book/">The Little MongoDB Book</a> books. Pandoc is not needed any more for the two "Little Books" since they are available as epub.</p>
 
+<h3>You@free.kindle.com</h3>
+
+<p>And last but not least don't forget that you own a user@free.kindle.com address to which you can send books and have Amazon automatically deliver them to your device the next time you connect. Works great with PragProg and Instapaper.</p>
+
 <h2>Bugs</h2>
 
-<p>Once in a while I was plagued with the following bug. It manifests itself in the fact, that the Kindle leaks battery as hell and instead of lasting one to two months, the charge is wasted after a week. This can happen, when the internal search indexer fails to index a document and tries again and again. If you experience the symptoms, simply go to your home screen, enter random characters and hit enter to start a search. If the indexer hangs, you will see that a document being processed.</p>
+<p>Once in a while I was plagued with the following bug. It manifests itself in the fact that the Kindle leaks battery as hell. Instead of lasting one to two months the charge is wasted after a week. This can happen when the internal search indexer fails to index a document and tries again and again. If you experience the symptom, simply go to your home screen, enter random characters and hit enter to start a search. If the indexer hangs, you will see that a document is currently being processed.</p>
 
-<p>To solve this, delete the document from your Kindle and upload it again. In my case that worked 100%.</p>
+<p>To solve this delete the document from your Kindle and upload it again. In my case that worked 100%.</p>
 
 <h2>Conclusion</h2>
 
-<p>The Kindle and I had a kind of rough start, because the ecosystem was not that great one and a half year ago. But it served me well. In the meantime publishers have noticed, that they do not have to solely rely on Amazon or another big company. The tools around ebook readers have grown and matured. If my kindle would break tomorrow, I would not hesitate to replace it with another kindle or ebook reader. The advantages over a pbook are too big.</p>
+<p>The Kindle and I had a kind of rough start because the ecosystem was not that great one and a half year ago. But it served me well. In the meantime publishers have noticed that they do not have to solely rely on Amazon or another big company. The tools around ebook readers have grown and matured. If my Kindle would break tomorrow, I would not hesitate to replace it with another Kindle or ebook reader. The advantages over a pbook are too big.</p>
 ]]></content>
   </entry>
   
