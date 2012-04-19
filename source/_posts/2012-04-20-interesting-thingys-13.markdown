@@ -55,7 +55,7 @@ This week with topics from
 - [Add SPDY support to your Apache server with mod_spdy](http://googledevelopers.blogspot.com/2012/04/add-spdy-support-to-your-apache-server.html)
 
 ### Browsers
-
+- [Chrome Developer Tools – monitorEvents](http://www.briangrinstead.com/blog/chrome-developer-tools-monitorevents)
 ### Operating Systems
 
 ### Git
