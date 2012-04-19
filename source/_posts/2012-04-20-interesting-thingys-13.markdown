@@ -72,10 +72,11 @@ This week with topics from
 
 ### Presentations / Talks / Articles
 - [The Mobile Revolution: Cultivating Boundaries of the Unbounded](http://www.youtube.com/watch?v=FPUzrm4_ZxQ&feature=youtube_gdata)
+- [Steve Souders discussing the State of WPO and Velocity](http://www.youtube.com/watch?v=rzGUzngFBcw&feature=digest_thu)
 
 ### Tools
 
-###Unix
+### Unix
 - [A proof that Unix utility "sed" is Turing complete](http://www.catonmat.net/blog/proof-that-sed-is-turing-complete/)
  
 ### Physics
