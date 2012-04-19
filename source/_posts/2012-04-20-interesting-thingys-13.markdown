@@ -1,13 +1,13 @@
 ---
 layout: post
 title: "Interesting Thingys #13"
-date: 2012-04-20 08:54
+date: 2012-04-20 08:04
 comments: false
 categories: "Interesting-Thingys"
-published: false
+published: true
 ---
 
-This week with topics from 
+This time with some hot topics in HTML5, JavaScript, NodeJS, …
 <!-- More -->
 
 ### Mobile Development
@@ -20,7 +20,6 @@ This week with topics from
 - [Date picker landed in Chrome Canary and Chromium](https://plus.google.com/107085977904914121234/posts/R5LyvTSa21k)
 - [Processing XHR2 file uploads in PHP](http://updates.html5rocks.com/2012/04/Processing-XHR2-file-uploads-in-PHP)
 - [BeerCamp](http://2012.beercamp.com/) - Cool demonstration of CSS 3D features - [detailed article about the making of](http://www.smashingmagazine.com/2012/04/17/beercamp-experiment-with-css3d/)
-
 
 ### JavaScript
 - [CoffeeScript 1.3 released](http://coffeescript.org/#changelog)
@@ -38,6 +37,7 @@ This week with topics from
 ### Ruby
 - [Adhearsion 2.0: It’s ALIIIIVE!](http://mojolingo.com/blog/2012/adhearsion-2-0-its-aliiiive)
 - [Practicing Ruby Volume 2 is now freely available](http://community.mendicantuniversity.org/articles/practicing-ruby-volume-2-now-freely-avai)
+- [DDD for Rails Developers. Part 2: Entities and Values](http://rubysource.com/ddd-for-rails-developers-part-2-entities-and-values/)
 
 ### CSS
 - [Multi-Device Layout Patterns](http://www.lukew.com/ff/entry.asp?1514)
@@ -56,15 +56,9 @@ This week with topics from
 
 ### Browsers
 - [Chrome Developer Tools – monitorEvents](http://www.briangrinstead.com/blog/chrome-developer-tools-monitorevents)
-### Operating Systems
 
 ### Git
 - [Remote Branch](http://robots.thoughtbot.com/post/21306813001/remote-branch) - Does your pair programmer maintain order, keeping the mean streets (ie. remote branches) clean?
-
-### OS X
-
-### Rails
-- [DDD for Rails Developers. Part 2: Entities and Values](http://rubysource.com/ddd-for-rails-developers-part-2-entities-and-values/)
 
 ### Books
 - [Practical Vim](http://pragprog.com/book/dnvim) - now available in beta
@@ -74,15 +68,9 @@ This week with topics from
 - [The Mobile Revolution: Cultivating Boundaries of the Unbounded](http://www.youtube.com/watch?v=FPUzrm4_ZxQ&feature=youtube_gdata)
 - [Steve Souders discussing the State of WPO and Velocity](http://www.youtube.com/watch?v=rzGUzngFBcw&feature=digest_thu)
 
-### Tools
-
 ### Unix
 - [A proof that Unix utility "sed" is Turing complete](http://www.catonmat.net/blog/proof-that-sed-is-turing-complete/)
  
-### Physics
-
-### Vim
-
 ### Fun
 - [Mix.js](http://www.chromeexperiments.com/detail/mixjs/?f=) - A Chrome Experiment: Multitrack mixing and real-time metering with Web Audio
 - [Semicolon](http://pksunkara.github.com/semicolon/) - An esoteric language made up of only semicolons.
