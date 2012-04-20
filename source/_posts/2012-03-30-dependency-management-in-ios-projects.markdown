@@ -15,7 +15,7 @@ The hard part is not writing an application, the hard part is writing a big, lon
 ### Architecture of an iOS Project
 
 The maintainability of an application is based on a couple of prerequisites: Separation of Concern, Testibility and Readability .. thus: easy to refactor.
-When is start working on a new application, my initial tasks after creating a new XCode project are the following:
+When I start working on a new application, my initial tasks after creating a new XCode project are the following:
 
 1. Deleting all the groups & folders XCode created for me
 2. Creating my own folder structure (which is basically very influenced by a RubyOnRails web application) (( screenshot !! ))
