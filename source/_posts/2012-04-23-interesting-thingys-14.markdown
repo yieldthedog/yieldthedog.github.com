@@ -18,15 +18,28 @@ published: false
 - [MRuby: A Lightweight Ruby Implementation by Matz](https://github.com/mruby/mruby) - [Matz Talks About mruby and Its Possibilities](http://www.youtube.com/watch?v=n7XRYWclYDY)
 - [MobiRuby: A Forthcoming Ruby Toolkit for Building iOS Apps](http://mobiruby.org/)
 - [Make the Web Fast(er): One Rails App at a Time](http://www.igvita.com/slides/2012/railsconf-making-the-web-faster/#1)
+- [Keynote: Progress by David Heinemeier Hansson](http://www.youtube.com/watch?v=VOFTop3AMZ8) - more Rails Conf 2012 videos can be found [@confreaks](http://confreaks.com/events/railsconf2012)
+- [Exhibit vs Presenter](http://mikepackdev.com/blog_posts/31-exhibit-vs-presenter)
+- [A vision for Cucumber 2.0](http://blog.mattwynne.net/2012/04/26/a-vision-for-cucumber-2-0/)
+- [Meet six misunderstood Ruby features - IBM devloperWorks](http://www.ibm.com/developerworks/linux/library/os-sixrubyfeatures/index.html)
+- [Focused Controller: Bringing Real OOP to Rails Controllers](https://github.com/jonleighton/focused_controller)
 
 ###HTML5
 - [The Pointer Lock API](https://developer.mozilla.org/en/API/Pointer_Lock_API)
 - [Bkom Robot Game: An HTML5 Game Demo](http://www.bkom.com/robotgame)
 - [db.filesystem.js: Bringing the HTML5 Filesystem API to More Browsers](http://ericbidelman.tumblr.com/post/21649963613/idb-filesystem-js-bringing-the-html5-filesystem-api)
+- [Real-world example of the HTML5 FileSystem API](http://www.adobe.com/devnet/html5/articles/real-world-example-html5-filesystem-api.html)
+
+###Javascript
+- [Videos from jQuery UK 2012](http://lanyrd.com/2012/jquery-uk/video/)
 
 ###CSS
 - [CSSDeck: A Site That Collects Creative CSS Creations](http://cssdeck.com/)
+- [CSS Triangles + Animations = Pie Chart Spinner](http://phuu.net/2012/05/01/html-css-only-spinner.html)
 
+###Databases
+- [LINE Storage: Storing billions of rows in Sharded-Redis and HBase per Month](http://tech.naver.jp/blog/?p=1420)
+- [MongoDB - Strategies when hitting disk](http://www.colinhowe.co.uk/2012/apr/26/mongodb-strategies-when-hitting-disk/)
 
 ### Mobile Market
 - [can you create the next instagram?](http://www.fourhourworkweek.com/blog/2012/04/22/how-to-build-an-app-empire-can-you-create-the-next-instagram/) - tim ferris about 'how to build an app empire', interesting article!
@@ -34,8 +47,11 @@ published: false
 ### Scrum
 - [water-fall-scrum](http://sdt.bz/m/apparticle.aspx?id=36195) - the reality of agile
 
+###Tools
+- [Better than grep](http://betterthangrep.com) - what could it be better?
+
 ### Fun
 - [lolcommits](https://github.com/mroth/lolcommits) - takes a screenshot everytime you git commit.
 - [favris](http://favris.info/) - play tretis 'in' your favicon (only works in Google Chrome).
-
+- [AudioSpank]( https://developer.mozilla.org/en-US/demos/detail/audiospank ) - AudioSpank is an audio only massively multiplayer online first person shooter.
 
