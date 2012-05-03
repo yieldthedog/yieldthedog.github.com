@@ -23,6 +23,7 @@ published: false
 - [A vision for Cucumber 2.0](http://blog.mattwynne.net/2012/04/26/a-vision-for-cucumber-2-0/)
 - [Meet six misunderstood Ruby features - IBM devloperWorks](http://www.ibm.com/developerworks/linux/library/os-sixrubyfeatures/index.html)
 - [Focused Controller: Bringing Real OOP to Rails Controllers](https://github.com/jonleighton/focused_controller)
+- [RubyMotion - Unlock the power of Ruby for iOS]( http://www.rubymotion.com/ )
 
 ###HTML5
 - [The Pointer Lock API](https://developer.mozilla.org/en/API/Pointer_Lock_API)
@@ -32,6 +33,7 @@ published: false
 
 ###Javascript
 - [Videos from jQuery UK 2012](http://lanyrd.com/2012/jquery-uk/video/)
+- [JSConf US 2012 - Daniel Henry Holmes Ingalls Jr.: The Lively Kernel](http://blip.tv/jsconf/jsconf2012-daniel-henry-holmes-ingalls-jr-6106503)
 
 ###CSS
 - [CSSDeck: A Site That Collects Creative CSS Creations](http://cssdeck.com/)
@@ -47,8 +49,15 @@ published: false
 ### Scrum
 - [water-fall-scrum](http://sdt.bz/m/apparticle.aspx?id=36195) - the reality of agile
 
-###Tools
+###Vim
+- [Matcher](https://github.com/burke/matcher) - This is a standalone library that does the same fuzzy-find matching as Command-T.vim. Can be used with CtrlP.
+
+### Uncategorized
 - [Better than grep](http://betterthangrep.com) - what could it be better?
+- [Want good programmers? Then PAY them](http://www.irrlicht3d.org/pivot/entry.php?id=1295)
+- [GIMP 2.8 (Stable) Finally Available For Download](http://www.webupd8.org/2012/05/gimp-28-stable-finally-available-for.html)
+- [Starting Clojure (mk. 2)]( http://cemerick.com/2012/05/02/starting-clojure/ )
+- [EU Court of Justice rules you can't copyright a programming language](http://www.wired.co.uk/news/archive/2012-05/03/programming-language-copyright)
 
 ### Fun
 - [lolcommits](https://github.com/mroth/lolcommits) - takes a screenshot everytime you git commit.
