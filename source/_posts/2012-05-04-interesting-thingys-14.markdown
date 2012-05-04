@@ -7,7 +7,7 @@ categories: "Interesting-Thingys"
 published: true
 ---
 
-...
+This week we have tons of links in Ruby, HTML5, ...
 <!-- More -->
 
 ### GIT
