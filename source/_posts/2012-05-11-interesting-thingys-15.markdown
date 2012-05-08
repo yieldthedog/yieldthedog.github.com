@@ -11,6 +11,7 @@ published: false
 <!-- More -->
 
 ### GIT
+- [Git website has a new design](http://git-scm.com/)
 
 ###Ruby
 
