@@ -32,6 +32,9 @@ published: false
 
 ###Vim
 
+###Search
+- [SwiftType](http://swiftype.com/) - Let's you integrate an external search to your website. The demo video looks promising.
+
 ###Security
 - [How To Safely Store A Password](http://codahale.com/how-to-safely-store-a-password/)
 
