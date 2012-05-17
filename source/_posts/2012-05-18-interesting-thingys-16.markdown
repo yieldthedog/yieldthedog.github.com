@@ -16,6 +16,7 @@ This week with highlights from JavaScript, HTML5, Ruby, …
 
 ###Ruby
 - [marshally / rspec-rails-uncommitted](https://github.com/marshally/rspec-rails-uncommitted) - rake tasks for rails-3 which selectively run specs based on your SCM status. What a great idea.
+- [The Bastards Book of Ruby](http://ruby.bastardsbook.com/) - A Programming Primer for Counting and Other Unconventional Tasks
 
 ###HTML5
 - [Responsive Images and Web Standards at the Turning Point](http://www.alistapart.com/articles/responsive-images-and-web-standards-at-the-turning-point/)
@@ -47,6 +48,10 @@ This week with highlights from JavaScript, HTML5, Ruby, …
 ### Other
 - [Vert.x: Why the JVM May Put Node.js on the Ropes](http://blog.andrewvc.com/vertx-node-on-ropes) - Vert.x is the framework for the next generation of asynchronous, effortlessly scalable, concurrent applications.
 - [Free Language Agnostic Programming Books](http://stackoverflow.com/tags/language-agnostic/info) - A comprehensive list of free books collected at stackoverflow
+
+### Hosting / Server
+- [OpenShift](https://openshift.redhat.com/) - RedHat's answer to Heroku
+- [Nginx - Upcoming SPDY support details](http://forum.nginx.org/read.php?29,226562)
 
 ### Videos / Talks / Books
 - [Seven Databases in Seven Weeks](http://pragprog.com/news/seven-databases-in-seven-weeks-a-guide-to-modern-databases-and-the-nosql-movement-now-in-print?1988587) - A Guide to Modern Databases and the NoSQL Movement now in print
