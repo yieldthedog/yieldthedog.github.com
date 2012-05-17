@@ -1,13 +1,13 @@
 ---
 layout: post
-title: "Interesting Thingys #15"
+title: "Interesting Thingys #16"
 date: 2012-05-18 09:17
 comments: false
 categories: "Interesting-Thingys"
 published: false
 ---
 
-This week with highlights from JavaScript, HTML5, Ruby, …
+This week a potourri of tech topics…
 <!-- More -->
 
 ### GIT
@@ -49,9 +49,10 @@ This week with highlights from JavaScript, HTML5, Ruby, …
 - [Vert.x: Why the JVM May Put Node.js on the Ropes](http://blog.andrewvc.com/vertx-node-on-ropes) - Vert.x is the framework for the next generation of asynchronous, effortlessly scalable, concurrent applications.
 - [Free Language Agnostic Programming Books](http://stackoverflow.com/tags/language-agnostic/info) - A comprehensive list of free books collected at stackoverflow
 
-### Hosting / Server
+### Hosting / Server / SPDY
 - [OpenShift](https://openshift.redhat.com/) - RedHat's answer to Heroku
 - [Nginx - Upcoming SPDY support details](http://forum.nginx.org/read.php?29,226562)
+- [SPDY performance on mobile networks](http://googledevelopers.blogspot.com/2012/05/spdy-performance-on-mobile-networks.htm) - I alwaysb thought that SPDY will imporve page load times on mobile platforms, here is the proof.
 
 ### Videos / Talks / Books
 - [Seven Databases in Seven Weeks](http://pragprog.com/news/seven-databases-in-seven-weeks-a-guide-to-modern-databases-and-the-nosql-movement-now-in-print?1988587) - A Guide to Modern Databases and the NoSQL Movement now in print
