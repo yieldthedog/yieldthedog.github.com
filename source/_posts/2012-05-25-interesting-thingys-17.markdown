@@ -13,6 +13,13 @@ This week a potourri of tech topics…
 ### GIT
 
 ###Ruby
+- [Ruby 1.9 lands NaCl support, can run in Chrome ](http://svn.ruby-lang.org/cgi-bin/viewvc.cgi?revision=35672&view=revision)  
+- [twitter / activerecord-reputation-system](https://github.com/twitter/activerecord-reputation-system)  
+  The Active Record Reputation System helps you discover more about your application and make better decisions. 
+  
+### Clojure
+- [Reducers](http://clojure.com/blog/2012/05/08/reducers-a-library-and-model-for-collection-processing.html)
+  A Library and Model for Collection Processing
 
 ###HTML5
 
@@ -42,6 +49,7 @@ This week a potourri of tech topics…
 ### Productivity
 
 ### Other
+- [The Facebook Offering: How It Compares](http://www.nytimes.com/interactive/2012/05/17/business/dealbook/how-the-facebook-offering-compares.html
 
 ### Programming
 - [10 ways to improve your programming skills](http://www.antoarts.com/10-ways-to-improve-your-programming-skills/)  
