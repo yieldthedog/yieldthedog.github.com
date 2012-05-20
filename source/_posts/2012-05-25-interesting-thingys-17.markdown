@@ -18,10 +18,12 @@ This week a potourri of tech topics…
   The Active Record Reputation System helps you discover more about your application and make better decisions. 
   
 ### Clojure
-- [Reducers](http://clojure.com/blog/2012/05/08/reducers-a-library-and-model-for-collection-processing.html)
+- [Reducers](http://clojure.com/blog/2012/05/08/reducers-a-library-and-model-for-collection-processing.html)  
   A Library and Model for Collection Processing
 
 ###HTML5
+- [sipml5](http://code.google.com/p/sipml5/)  
+  The world's first HTML5 SIP client. Written in pure JavaScript.
 
 ###Javascript
 
@@ -40,6 +42,10 @@ This week a potourri of tech topics…
   Steve Losh is not unknown to the Vim community. His [.vimrc](https://bitbucket.org/sjl/dotfiles/src/7004f9ab85b4/vim) was the starting point for many Vim noobs. Learn Vimscript the Hard Way is a short book for users of the Vim editor who want to learn how to customize Vim. 
   
 
+### Databases
+- [PostgreSQL vs MongoDB](http://blog.pingoured.fr/index.php?post/2012/05/20/PostgreSQL-vs-MongoDB)  
+  A comparative tests of postgresql vs mongodb and the [HackerNews Discussion](http://news.ycombinator.com/item?id=3998653)
+
 ###Search
 
 ### Browser
@@ -49,7 +55,11 @@ This week a potourri of tech topics…
 ### Productivity
 
 ### Other
-- [The Facebook Offering: How It Compares](http://www.nytimes.com/interactive/2012/05/17/business/dealbook/how-the-facebook-offering-compares.html
+- [The Facebook Offering: How It Compares](http://www.nytimes.com/interactive/2012/05/17/business/dealbook/how-the-facebook-offering-compares.html)  
+- [Disposable Email address](http://pixelstech.net/article/index.php?id=1337448434)  
+  A comparison of disposable email addresses and email forwarding services.
+- [The best story in development](http://www.economist.com/node/21555571)  
+  Not completely tech related but still worth noting: Africa is experiencing some of the biggest falls in child mortality ever seen, anywhere.
 
 ### Programming
 - [10 ways to improve your programming skills](http://www.antoarts.com/10-ways-to-improve-your-programming-skills/)  
