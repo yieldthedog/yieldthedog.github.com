@@ -4,7 +4,7 @@
   <title><![CDATA[yield the dog]]></title>
   <link href="http://yieldthedog.github.com/atom.xml" rel="self"/>
   <link href="http://yieldthedog.github.com/"/>
-  <updated>2012-05-21T10:54:38+02:00</updated>
+  <updated>2012-05-21T10:56:49+02:00</updated>
   <id>http://yieldthedog.github.com/</id>
   <author>
     <name><![CDATA[yield the dog]]></name>
@@ -18,7 +18,7 @@
     <link href="http://yieldthedog.github.com/blog/2012/05/18/interesting-thingys-16/"/>
     <updated>2012-05-18T09:17:00+02:00</updated>
     <id>http://yieldthedog.github.com/blog/2012/05/18/interesting-thingys-16</id>
-    <content type="html"><![CDATA[<p>This week a potourri of tech topics…</p>
+    <content type="html"><![CDATA[<p>This week a potpourri of tech topics…</p>
 
 <!-- More -->
 
@@ -62,8 +62,6 @@
 </ul>
 
 
-<h3>Linux</h3>
-
 <h3>Mac</h3>
 
 <ul>
@@ -72,8 +70,6 @@
 </ul>
 
 
-<h3>Search</h3>
-
 <h3>Browser</h3>
 
 <ul>
@@ -81,10 +77,6 @@
 <li><a href="http://updates.html5rocks.com/2012/05/Websocket-Frame-Inspection-now-in-Chrome-DevTools">Websocket Frame Inspection now in Chrome DevTools</a></li>
 </ul>
 
-
-<h3>Security</h3>
-
-<h3>Productivity</h3>
 
 <h3>Other</h3>
 
@@ -109,8 +101,6 @@
 <li><a href="http://pragprog.com/news/seven-databases-in-seven-weeks-a-guide-to-modern-databases-and-the-nosql-movement-now-in-print?1988587">Seven Databases in Seven Weeks</a> - A Guide to Modern Databases and the NoSQL Movement now in print</li>
 </ul>
 
-
-<h3>Fun</h3>
 ]]></content>
   </entry>
   
