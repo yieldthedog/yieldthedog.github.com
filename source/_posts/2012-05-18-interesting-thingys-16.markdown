@@ -4,7 +4,7 @@ title: "Interesting Thingys #16"
 date: 2012-05-18 09:17
 comments: false
 categories: "Interesting-Thingys"
-published: false
+published: true
 ---
 
 This week a potourri of tech topics…
