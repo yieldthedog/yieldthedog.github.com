@@ -7,7 +7,7 @@ categories: "Interesting-Thingys"
 published: true
 ---
 
-This week a potourri of tech topics…
+This week a potpourri of tech topics…
 <!-- More -->
 
 ### GIT
@@ -29,21 +29,13 @@ This week a potourri of tech topics…
 - [CSS Arrow](http://cssarrowplease.com/) - Generate the CSS for a tooltip arrow.
 - [SASS vs. LESS](http://css-tricks.com/sass-vs-less/) - "Which CSS preprocessor language should I choose?" is a hot topic lately. 
 
-###Linux
-
 ### Mac
 - [TwUI](https://github.com/twitter/twui) - TwUI is a hardware accelerated UI framework for Mac, inspired by UIKit
 - [Dash](http://kapeli.com/dash/) - snippet manager and documentation browser, supports lots of programming languages and snippets can be sync via a Dropbox folder.
 
-###Search
-
 ### Browser
 - [Chrome supports TCP & UDP Sockets](http://blog.alexmaccaw.com/chrome-tcp-udp)
 - [Websocket Frame Inspection now in Chrome DevTools](http://updates.html5rocks.com/2012/05/Websocket-Frame-Inspection-now-in-Chrome-DevTools)
-
-###Security
-
-### Productivity
 
 ### Other
 - [Vert.x: Why the JVM May Put Node.js on the Ropes](http://blog.andrewvc.com/vertx-node-on-ropes) - Vert.x is the framework for the next generation of asynchronous, effortlessly scalable, concurrent applications.
@@ -57,4 +49,3 @@ This week a potourri of tech topics…
 ### Videos / Talks / Books
 - [Seven Databases in Seven Weeks](http://pragprog.com/news/seven-databases-in-seven-weeks-a-guide-to-modern-databases-and-the-nosql-movement-now-in-print?1988587) - A Guide to Modern Databases and the NoSQL Movement now in print
 
-### Fun
