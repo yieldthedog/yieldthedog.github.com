@@ -11,6 +11,8 @@ This week a potourri of tech topics…
 <!-- More -->
 
 ### GIT
+- [Github for Windows](https://github.com/blog/1127-github-for-windows)  
+  The famous Mac tool is now ported to Windows
 
 ###Ruby
 - [Ruby 1.9 lands NaCl support, can run in Chrome ](http://svn.ruby-lang.org/cgi-bin/viewvc.cgi?revision=35672&view=revision)  
@@ -24,12 +26,20 @@ This week a potourri of tech topics…
 ###HTML5
 - [sipml5](http://code.google.com/p/sipml5/)  
   The world's first HTML5 SIP client. Written in pure JavaScript.
+- [WYSIHTML5](http://xing.github.com/wysihtml5/)  
+  A better approach to rich text editing
 
 ###Javascript
+- [10 reasons why I switched to Spine.js](http://destroytoday.com/blog/reasons-for-spinejs/)
+- [CPU Profiling with Nodetime](http://nodetime.com/blog/cpu-profiling-with-nodetime)  
+  Introduction to nodetime a profiler for nodejs apps
+  
 
 ###CSS
 
 ###Linux
+- [Linux 3.4](http://kernelnewbies.org/Linux_3.4)  
+  has been released. [Offical announcement](https://lkml.org/lkml/2012/5/20/126)
 
 ### Mac
 
@@ -49,6 +59,8 @@ This week a potourri of tech topics…
 ###Search
 
 ### Browser
+- [Google Chrome overtakes Internet Explorer as the Web’s most used browser](http://thenextweb.com/google/2012/05/21/google-chrome-overtakes-internet-explorer-as-the-webs-most-used-browser/?awesm=tnw.to_1EUZ)  
+  Google Chrome has been long expected to leapfrog Microsoft’s Internet Explorer (IE) to take its position as the Web’s most used browser and, according to data from Statcounter, the momentous change of leadership happened last week.
 
 ###Security
 
@@ -60,6 +72,8 @@ This week a potourri of tech topics…
   A comparison of disposable email addresses and email forwarding services.
 - [The best story in development](http://www.economist.com/node/21555571)  
   Not completely tech related but still worth noting: Africa is experiencing some of the biggest falls in child mortality ever seen, anywhere.
+- [Ask HN: Favorite HN threads of all time](http://news.ycombinator.com/item?id=3996652)  
+  Cellis asks: Have any Hacker News threads ever truly changed your perspective on life, or technology? Post them please.
 
 ### Programming
 - [10 ways to improve your programming skills](http://www.antoarts.com/10-ways-to-improve-your-programming-skills/)  
