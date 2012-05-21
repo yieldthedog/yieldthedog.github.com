@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Interesting-Thingys | yield the dog]]></title>
   <link href="http://yieldthedog.github.com/blog/categories/interesting-thingys/atom.xml" rel="self"/>
   <link href="http://yieldthedog.github.com/"/>
-  <updated>2012-05-21T10:47:50+02:00</updated>
+  <updated>2012-05-21T10:54:38+02:00</updated>
   <id>http://yieldthedog.github.com/</id>
   <author>
     <name><![CDATA[yield the dog]]></name>
@@ -12,6 +12,107 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Interesting Thingys #16]]></title>
+    <link href="http://yieldthedog.github.com/blog/2012/05/18/interesting-thingys-16/"/>
+    <updated>2012-05-18T09:17:00+02:00</updated>
+    <id>http://yieldthedog.github.com/blog/2012/05/18/interesting-thingys-16</id>
+    <content type="html"><![CDATA[<p>This week a potourri of tech topics…</p>
+
+<!-- More -->
+
+
+<h3>GIT</h3>
+
+<ul>
+<li><a href="http://geohub.github.com/">Geohub</a> - locate your github buddies on a map</li>
+<li><a href="http://zmoazeni.github.com/gitspective/">Gitspective - A different perspective of a Github User</a> - create a Facebook like timeline of your Github account</li>
+</ul>
+
+
+<h3>Ruby</h3>
+
+<ul>
+<li><a href="https://github.com/marshally/rspec-rails-uncommitted">marshally / rspec-rails-uncommitted</a> - rake tasks for rails-3 which selectively run specs based on your SCM status. What a great idea.</li>
+<li><a href="http://ruby.bastardsbook.com/">The Bastards Book of Ruby</a> - A Programming Primer for Counting and Other Unconventional Tasks</li>
+</ul>
+
+
+<h3>HTML5</h3>
+
+<ul>
+<li><a href="http://www.alistapart.com/articles/responsive-images-and-web-standards-at-the-turning-point/">Responsive Images and Web Standards at the Turning Point</a></li>
+<li><a href="https://github.com/sindresorhus/screenfull.js/">sindresorhus / screenfull.js</a> - Simple wrapper for cross-browser usage of the JavaScript Fullscreen API.</li>
+</ul>
+
+
+<h3>Javascript</h3>
+
+<ul>
+<li><a href="http://anthonyterrien.com/knob/">jQuery Knob</a> - knobs for the masses</li>
+</ul>
+
+
+<h3>CSS</h3>
+
+<ul>
+<li><a href="http://cssarrowplease.com/">CSS Arrow</a> - Generate the CSS for a tooltip arrow.</li>
+<li><a href="http://css-tricks.com/sass-vs-less/">SASS vs. LESS</a> - "Which CSS preprocessor language should I choose?" is a hot topic lately.</li>
+</ul>
+
+
+<h3>Linux</h3>
+
+<h3>Mac</h3>
+
+<ul>
+<li><a href="https://github.com/twitter/twui">TwUI</a> - TwUI is a hardware accelerated UI framework for Mac, inspired by UIKit</li>
+<li><a href="http://kapeli.com/dash/">Dash</a> - snippet manager and documentation browser, supports lots of programming languages and snippets can be sync via a Dropbox folder.</li>
+</ul>
+
+
+<h3>Search</h3>
+
+<h3>Browser</h3>
+
+<ul>
+<li><a href="http://blog.alexmaccaw.com/chrome-tcp-udp">Chrome supports TCP &amp; UDP Sockets</a></li>
+<li><a href="http://updates.html5rocks.com/2012/05/Websocket-Frame-Inspection-now-in-Chrome-DevTools">Websocket Frame Inspection now in Chrome DevTools</a></li>
+</ul>
+
+
+<h3>Security</h3>
+
+<h3>Productivity</h3>
+
+<h3>Other</h3>
+
+<ul>
+<li><a href="http://blog.andrewvc.com/vertx-node-on-ropes">Vert.x: Why the JVM May Put Node.js on the Ropes</a> - Vert.x is the framework for the next generation of asynchronous, effortlessly scalable, concurrent applications.</li>
+<li><a href="http://stackoverflow.com/tags/language-agnostic/info">Free Language Agnostic Programming Books</a> - A comprehensive list of free books collected at stackoverflow</li>
+</ul>
+
+
+<h3>Hosting / Server / SPDY</h3>
+
+<ul>
+<li><a href="https://openshift.redhat.com/">OpenShift</a> - RedHat's answer to Heroku</li>
+<li><a href="http://forum.nginx.org/read.php?29,226562">Nginx - Upcoming SPDY support details</a></li>
+<li><a href="http://googledevelopers.blogspot.com/2012/05/spdy-performance-on-mobile-networks.htm">SPDY performance on mobile networks</a> - I alwaysb thought that SPDY will imporve page load times on mobile platforms, here is the proof.</li>
+</ul>
+
+
+<h3>Videos / Talks / Books</h3>
+
+<ul>
+<li><a href="http://pragprog.com/news/seven-databases-in-seven-weeks-a-guide-to-modern-databases-and-the-nosql-movement-now-in-print?1988587">Seven Databases in Seven Weeks</a> - A Guide to Modern Databases and the NoSQL Movement now in print</li>
+</ul>
+
+
+<h3>Fun</h3>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Interesting Thingys #15]]></title>
@@ -445,109 +546,6 @@
 
 <ul>
 <li><a href="http://superliminal.com/cube/cube.htm">4D Rubik's Cube</a></li>
-</ul>
-
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Interesting Thingys #11]]></title>
-    <link href="http://yieldthedog.github.com/blog/2012/04/06/interesting-thingys-11/"/>
-    <updated>2012-04-06T08:54:00+02:00</updated>
-    <id>http://yieldthedog.github.com/blog/2012/04/06/interesting-thingys-11</id>
-    <content type="html"><![CDATA[<p>This week with topics from mobile-development, javascript, HTML5 and quantum-physics ..</p>
-
-<!-- More -->
-
-
-<h3>Mobile Development</h3>
-
-<ul>
-<li><a href="http://alexbw.github.com/novocaine/">Novocaine</a> - high performance audio processing (record, play) for iOS / Mac OS X</li>
-<li><a href="http://ole.michelsen.dk/blog/view-source-on-the-ipad-and-iphone/">'Show Source' Bookmarklet</a> - a 'view source' bookmarklet for the iPhone/iPad.</li>
-</ul>
-
-
-<h3>HTML5</h3>
-
-<ul>
-<li><a href="http://lists.whatwg.org/pipermail/whatwg-whatwg.org/2012-March/035239.html?utm_source=html5weekly&amp;utm_medium=email">Canvas v5 API Gets Path Primitives, Ellipses, Dashed Lines, Hit testing, Text on Path, </a></li>
-<li><a href="http://peter.sh/2012/04/color-input-the-network-information-api-and-chromium-20/?utm_source=html5weekly&amp;utm_medium=email">Color input, the Network Information API and Chromium 20</a></li>
-</ul>
-
-
-<h3>JavaScript</h3>
-
-<ul>
-<li><a href="http://obadger.com/pow/">POW</a> - Algorithmic sunburst generator via CSS, canvas and jQuery.</li>
-<li><a href="http://leanpub.com/asyncjs">Async JavaScript</a> - 'Recipes for Event-Driven Code', looks like an interesting ebook.</li>
-<li><a href="http://toolbox.no.de/">toolbox.no.de</a> - toolbox for node.js applications. first website if you're looking for node.js plugins/modules/etc</li>
-<li><a href="https://github.com/arturadib/shelljs">shell.js</a> -  Unix shell commands for Node.js</li>
-<li><a href="https://github.com/mde/jake">jake</a> - JavaScript build tool, similar to Make or Rake. Built to work with Node.js.</li>
-<li><a href="http://addyosmani.com/blog/backbone-paginator-new-pagination-components-for-backbone-js/">Backbone Paginator</a></li>
-<li><a href="http://blog.dump.ly/post/19819897856/why-node-js-streams-are-awesome">Why node.js streams are awesome</a></li>
-<li><a href="https://github.com/oslego/shadow-dom-regions/blob/master/Lessons-learned.md">Lessons learned with CSS Regions and Shadow DOM</a></li>
-<li><a href="http://pep.briangonzalez.org/">pep.jquery.js</a> - A lightweight plugin for kinetic-drag on mobile/desktop</li>
-</ul>
-
-
-<h3>CSS</h3>
-
-<ul>
-<li><a href="https://developer.mozilla.org/en-US/demos/detail/paperfold-css/launch">Paperfold CSS</a> - fold divs like paper</li>
-</ul>
-
-
-<h3>Database</h3>
-
-<ul>
-<li><a href="http://antirez.com/post/redis-persistence-demystified.html">Redis Persistence demystified</a> - everything you need to know about persistence in Redis (and comparison to MySql and SQLite).</li>
-</ul>
-
-
-<h3>Operating Systems</h3>
-
-<ul>
-<li><a href="http://dmitry.co/index.php?p=./04.Thoughts/07.%20Linux%20on%208bit">Linux on an 8bit micro</a></li>
-</ul>
-
-
-<h3>OS X</h3>
-
-<ul>
-<li><a href="https://gist.github.com/2260182">OSX for Hackers</a> - lots of useful settings you can enable/disable on the command-line for Mac OS X.</li>
-</ul>
-
-
-<h3>Presentations / Talks / Articles</h3>
-
-<ul>
-<li><a href="http://www.slideshare.net/Wolfr/ios-design-a-case-study">iOS Design</a> - 'a case study', nice presentation about the design-process for an iOS application.</li>
-<li><a href="http://www.futuristspeaker.com/2012/02/2-billion-jobs-to-disappear-by-2030/">2 Billion Jobs to Disappear by 2030</a> - interesting article about the future of jobs &amp; industries.</li>
-</ul>
-
-
-<h3>Tools</h3>
-
-<ul>
-<li><a href="https://github.com/ftrvxmtrx/split2flac">split2flac</a> - a tool to split one big AP/FLAC/WAV file into several FLAC/M4A/MP3/OGG/WAV tracks, with tagging, renaming and cover images.</li>
-</ul>
-
-
-<h3>Physics</h3>
-
-<ul>
-<li><a href="http://kottke.org/12/04/richard-feynman-no-ordinary-genius">No ordinary genius</a> - a 95min documentary about Richard Feynman, available on youtube.</li>
-<li><a href="http://www.spektrum.de/alias/quantenphysik/einsteins-unbemerkte-revolution/1147602">Einsteins unbemerkte Revolution</a> - german article about 'Verschränkung' (entanglement) &amp; 'Spukhafte Fernwirkung' (action at distance) in qunatum-physics.</li>
-</ul>
-
-
-<h3>Fun</h3>
-
-<ul>
-<li><a href="http://blog.intercom.io/whats-in-a-name/">Is it a condom or is it an Android?</a></li>
-<li><a href="http://www.youtube.com/watch?v=QtJ77qsLrpw">Droste effect in Conway's Game of Life</a></li>
-<li><a href="http://techlaze.com/2012/03/richard-stallman-to-launch-his-own-fashion-line/">Richard Stallman to launch his own fashion line</a></li>
 </ul>
 
 ]]></content>

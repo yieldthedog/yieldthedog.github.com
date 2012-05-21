@@ -4,7 +4,7 @@
   <title><![CDATA[yield the dog]]></title>
   <link href="http://yieldthedog.github.com/atom.xml" rel="self"/>
   <link href="http://yieldthedog.github.com/"/>
-  <updated>2012-05-21T10:47:50+02:00</updated>
+  <updated>2012-05-21T10:54:38+02:00</updated>
   <id>http://yieldthedog.github.com/</id>
   <author>
     <name><![CDATA[yield the dog]]></name>
@@ -12,6 +12,107 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Interesting Thingys #16]]></title>
+    <link href="http://yieldthedog.github.com/blog/2012/05/18/interesting-thingys-16/"/>
+    <updated>2012-05-18T09:17:00+02:00</updated>
+    <id>http://yieldthedog.github.com/blog/2012/05/18/interesting-thingys-16</id>
+    <content type="html"><![CDATA[<p>This week a potourri of tech topics…</p>
+
+<!-- More -->
+
+
+<h3>GIT</h3>
+
+<ul>
+<li><a href="http://geohub.github.com/">Geohub</a> - locate your github buddies on a map</li>
+<li><a href="http://zmoazeni.github.com/gitspective/">Gitspective - A different perspective of a Github User</a> - create a Facebook like timeline of your Github account</li>
+</ul>
+
+
+<h3>Ruby</h3>
+
+<ul>
+<li><a href="https://github.com/marshally/rspec-rails-uncommitted">marshally / rspec-rails-uncommitted</a> - rake tasks for rails-3 which selectively run specs based on your SCM status. What a great idea.</li>
+<li><a href="http://ruby.bastardsbook.com/">The Bastards Book of Ruby</a> - A Programming Primer for Counting and Other Unconventional Tasks</li>
+</ul>
+
+
+<h3>HTML5</h3>
+
+<ul>
+<li><a href="http://www.alistapart.com/articles/responsive-images-and-web-standards-at-the-turning-point/">Responsive Images and Web Standards at the Turning Point</a></li>
+<li><a href="https://github.com/sindresorhus/screenfull.js/">sindresorhus / screenfull.js</a> - Simple wrapper for cross-browser usage of the JavaScript Fullscreen API.</li>
+</ul>
+
+
+<h3>Javascript</h3>
+
+<ul>
+<li><a href="http://anthonyterrien.com/knob/">jQuery Knob</a> - knobs for the masses</li>
+</ul>
+
+
+<h3>CSS</h3>
+
+<ul>
+<li><a href="http://cssarrowplease.com/">CSS Arrow</a> - Generate the CSS for a tooltip arrow.</li>
+<li><a href="http://css-tricks.com/sass-vs-less/">SASS vs. LESS</a> - &#8220;Which CSS preprocessor language should I choose?&#8221; is a hot topic lately.</li>
+</ul>
+
+
+<h3>Linux</h3>
+
+<h3>Mac</h3>
+
+<ul>
+<li><a href="https://github.com/twitter/twui">TwUI</a> - TwUI is a hardware accelerated UI framework for Mac, inspired by UIKit</li>
+<li><a href="http://kapeli.com/dash/">Dash</a> - snippet manager and documentation browser, supports lots of programming languages and snippets can be sync via a Dropbox folder.</li>
+</ul>
+
+
+<h3>Search</h3>
+
+<h3>Browser</h3>
+
+<ul>
+<li><a href="http://blog.alexmaccaw.com/chrome-tcp-udp">Chrome supports TCP &amp; UDP Sockets</a></li>
+<li><a href="http://updates.html5rocks.com/2012/05/Websocket-Frame-Inspection-now-in-Chrome-DevTools">Websocket Frame Inspection now in Chrome DevTools</a></li>
+</ul>
+
+
+<h3>Security</h3>
+
+<h3>Productivity</h3>
+
+<h3>Other</h3>
+
+<ul>
+<li><a href="http://blog.andrewvc.com/vertx-node-on-ropes">Vert.x: Why the JVM May Put Node.js on the Ropes</a> - Vert.x is the framework for the next generation of asynchronous, effortlessly scalable, concurrent applications.</li>
+<li><a href="http://stackoverflow.com/tags/language-agnostic/info">Free Language Agnostic Programming Books</a> - A comprehensive list of free books collected at stackoverflow</li>
+</ul>
+
+
+<h3>Hosting / Server / SPDY</h3>
+
+<ul>
+<li><a href="https://openshift.redhat.com/">OpenShift</a> - RedHat&#8217;s answer to Heroku</li>
+<li><a href="http://forum.nginx.org/read.php?29,226562">Nginx - Upcoming SPDY support details</a></li>
+<li><a href="http://googledevelopers.blogspot.com/2012/05/spdy-performance-on-mobile-networks.htm">SPDY performance on mobile networks</a> - I alwaysb thought that SPDY will imporve page load times on mobile platforms, here is the proof.</li>
+</ul>
+
+
+<h3>Videos / Talks / Books</h3>
+
+<ul>
+<li><a href="http://pragprog.com/news/seven-databases-in-seven-weeks-a-guide-to-modern-databases-and-the-nosql-movement-now-in-print?1988587">Seven Databases in Seven Weeks</a> - A Guide to Modern Databases and the NoSQL Movement now in print</li>
+</ul>
+
+
+<h3>Fun</h3>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Interesting Thingys #15]]></title>
@@ -1790,74 +1891,6 @@ Genius or a Rock Star.</li>
 <ul>
 <li><a href="http://vesperapps.com/">vesperapps</a> - New web app framework based on Sinatra.</li>
 <li><a href="http://subforge.org/projects/subtle/wiki">subtle</a> - A Window Tiling Manager for Linux, with a Ruby-Scripting Layer.</li>
-</ul>
-
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Interesting Thingys #1]]></title>
-    <link href="http://yieldthedog.github.com/blog/2012/01/17/interesting-thingys-1/"/>
-    <updated>2012-01-17T08:54:00+01:00</updated>
-    <id>http://yieldthedog.github.com/blog/2012/01/17/interesting-thingys-1</id>
-    <content type="html"><![CDATA[<blockquote><p><em>Interesting Thingys</em> is a gazette in the blog that summarizes a week of blog articles, links, specifications, demos, news or more general &#8220;thingys&#8221; that we stumble upon in our journey through the world wide web.</p></blockquote>
-
-<h3>Boilerplates</h3>
-
-<ul>
-<li><a href="http://html5boilerplate.com">HTML5-Boilerplate</a> - everyone should know this one.</li>
-<li><a href="http://www.initializr.com">Initializr2</a> - makes HTML5 boilerplates &#8216;customizable&#8217;.</li>
-<li><a href="http://verekia.com/initializr/responsive-template">Responsive Template</a> - Article about &#8220;Responsive Template&#8221; using Initializr2 or a &#8220;Mobile First Approach&#8221; with media queries.</li>
-<li><a href="https://github.com/tbranyen/backbone-boilerplate">Backbone.js boilerplate</a> - Boilerplate for the backbone.js guys.</li>
-</ul>
-
-
-<!-- more -->
-
-
-<h3>Javascript</h3>
-
-<ul>
-<li><a href="http://venturebeat.com/2012/01/07/building-consumer-apps-with-node/">Consumer Apps with Node</a> - Why node.js matters (And how to convince management).</li>
-<li><a href="http://underscorejs.org/">underscore.js</a> - underscore.js has a website - w00t.</li>
-<li><a href="http://bartaz.github.com/impress.js">impress.js</a> - A presentation Framework similar to Prezi written in Javascript and Canvas.</li>
-<li><a href="http://shama.github.com/jmpress.js">jimpress.js</a> - Jquery Implementation von impress.js.</li>
-</ul>
-
-
-<h3>CSS</h3>
-
-<ul>
-<li><a href="http://24ways.org/2011/unicode-range">@font-face &amp; unicode range</a> - Neat trick using @font-face &amp; unicode-range, or: how to apply to different @font-face&#8217;s on the same text.</li>
-</ul>
-
-
-<h3>ObjectiveC</h3>
-
-<ul>
-<li><a href="http://www.sparrow-framework.org/">sparrow framework</a> - Game-Framework for OpenGL Games .. without OpenGL Programming.</li>
-</ul>
-
-
-<h3>Services</h3>
-
-<ul>
-<li><a href="http://respondto.it/">respondto.it</a> - Debugging Web Hooks.</li>
-</ul>
-
-
-<h3>Server/Architecture</h3>
-
-<ul>
-<li><a href="http://instagram-engineering.tumblr.com/post/13649370142/what-powers-instagram-hundreds-of-instances-dozens-of">&#8216;What powers instagram&#8217;</a> - An interesting article about the &#8216;Stack&#8217; used by Instagram.com.</li>
-<li><a href="http://aws.typepad.com/aws/2012/01/aws-free-usage-tier-now-includes-microsoft-windows-on-ec2.html">Free MS Windows Server 2008 RC 2</a> -  on Amazon EC2 Instance for 750 hours per month.</li>
-</ul>
-
-
-<h3>Mac</h3>
-
-<ul>
-<li><a href="http://braumeister.org/">braumeister</a> - Online Package Browser for Homebrew.</li>
 </ul>
 
 ]]></content>
