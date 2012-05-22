@@ -15,17 +15,17 @@ continue running in the background, then later reattached.
 
 ##A love hate relationship - a brief history
 
-A while ago I installed tmux on my Ubuntu box and gave it a try. As always I immediately over used it’s functionality and ended up with a splitted screen with about eight panes. Each pane was too small to be of much use and I refused to use windows, because I thought that I have my terminal tabs for this. The multiple panes were great, I could easily switch between them, thanks to some keyboard shortcuts, that I copy and pasted blindly into my tmux conf. I got everything I needed.  At least I thought so.
+A while ago I installed tmux on my Ubuntu box and gave it a try. As always I immediately over used it’s functionality and ended up with a split screen with about eight panes. Each pane was too small to be of much use and I refused to use windows, because I thought that I have my terminal tabs for this. The multiple panes were great, I could easily switch between them, thanks to some keyboard shortcuts, that I copy and pasted blindly into my tmux conf. I got everything I needed.  At least I thought so.
 
-I know that I will get a good beating for the next sentence, but still it’s the truth: I’m a hybrid keyboard and mouse user. So the first shock was pre-programmed. How can I use the mouse to scroll back, _f**k_, there’s no way. Next one: Ah, I’d like to mark this passage with my mouse and … - _f**k_ - the selection goes right over the other panes.  Ok let’s rearrange those panes, so I can mark and copy this line and paste… - _f**k_ - I cannot paste with the middle mouse button.
+I know that I will get a good beating for the next sentence, but still it’s the truth: I’m a hybrid keyboard and mouse user. So the first shock was pre-programmed. How can I use the mouse to scroll back, _f**k_, there’s no way. Next one: Ah, I’d like to mark this passage with my mouse and … - _f**k_ - the selection goes right over the other panes.  Ok, let’s rearrange those panes, so I can mark and copy this line and paste… - _f**k_ - I cannot paste with the middle mouse button.
 
-You get the story. The beginning of my tmux relationship didn’t have stumbling blocks, but giant boulders. I was rather frustrated and the drawbacks were greater than the advantages. I gave up, end of story.
+You get the story. The beginning of my tmux relationship didn’t have stumbling blocks but giant boulders. I was rather frustrated and the drawbacks were greater than the advantages. I gave up, end of story.
 
 The really hard thing in the beginning is, that there is no good beginner’s documentation out there. You find a lot of ultimate tmux.confs, but there is nothing out there that gets you started.
 
 ##A letter from Andy
 
-So I let tmux live it’s own life, until recently a letter from PragProg arrived, advertising «tmux - productive mouse free development» by Brian P. Hogan. PragProg had a link to this inspiring video that showed me, how easy it was to accomplish things with tmux.  In this video Brian removes his hands so sporadic from the home row and still shows how to do the basic tmux commands - amazing.
+So I let tmux live it’s own life, until recently a letter from PragProg arrived, advertising «tmux - productive mouse free development» by Brian P. Hogan. PragProg had a link to this inspiring video that showed me, how easy it was to accomplish things with tmux.  In this video Brian removes his hands so sporadic from the home row and still shows how to do the basic tmux operations - amazing.
 
 <iframe width="640" height="480" src="http://www.youtube.com/embed/JXwS7z6Dqic" frameborder="0" allowfullscreen></iframe>
 
@@ -39,7 +39,7 @@ Next he introduces you to the .tmux.conf file and its secrets. This is the start
 
 ##Gaining velocity
 
-Scripting customized tmux environments is in my opinion one of the most important chapters, in which Brian shows you, how to build scripts to quickly start your development environment the way you want. He mentions the tmuxinator project, which is one of the most useful tools, when working with tmux. It lets you configure your windows and panes in a simple to read YAML file. It’s no wonder that due to its roots in the Ruby world, tmuxinator has a configuration skeleton for Rails applications, but this can easily adapted to serve the needs of any project. The introduction to tmuxinator was the breaking point for mer. That was, when I started to comprehend, that I could easily build a project specific environment, that reduces the friction when opening a project - pulling in changes form the server, start background processes, open your editor, you named it. Tmuxinator is only the starting point for a tmux noob like me to see and comprehend its power.
+Scripting customized tmux environments is in my opinion one of the most important chapters, in which Brian shows you, how to build scripts to quickly start your development environment the way you want. He mentions the tmuxinator project, which is one of the most useful tools, when working with tmux. It lets you configure your windows and panes in a simple to read YAML file. It’s no wonder that due to its roots in the Ruby world, tmuxinator has a configuration skeleton for Rails applications, but this can easily be adapted to serve the needs of any project. The introduction to tmuxinator was the breaking point for me. That was, when I started to comprehend, that I could easily build a project specific environment, that reduces the friction when opening a project - pulling in changes form the server, start background processes, open your editor, you named it. Tmuxinator is only the starting point for a tmux noob like me to see and comprehend its power.
 
 The next chapter was one that I would have needed on my first tmux day. It describes how to navigate your buffer, copy and paste and how to communicate with the system clipboard. As with many commands in Vim copy and pasting in tmux uses keys that are rather awkward to use on a German keyboard. [ and ] are just too far out of reach to not disturb you in your normal typing speed.
 
