@@ -14,7 +14,7 @@ As a long time user of public transportation on my way to work and back I have g
 <!-- more -->
 ## Reading device
 
-{% img right https://lh6.googleusercontent.com/-f3gaEXV1aGY/T3IHHywFERI/AAAAAAAAAMM/NqcqMjypLX0/s250/IMG_9879.JPG %} My Kindle has replaced books nearly completely as my main reading device (See [Kindle survival guide](http://yieldthedog.github.com/2012-04-06-kindle-survival-guide)). This has mainly two reasons: First its weight and size, and second the ability to switch between various books and articles at will.
+{% img right https://lh6.googleusercontent.com/-f3gaEXV1aGY/T3IHHywFERI/AAAAAAAAAMM/NqcqMjypLX0/s250/IMG_9879.JPG %} My Kindle has replaced books nearly completely as my main reading device (See [Kindle survival guide](http://yieldthedog.github.com/blog/2012/04/06/kindle-survival-guide/)). This has mainly two reasons: First its weight and size, and second the ability to switch between various books and articles at will.
 
 With the Kindle I even started reading while walking, what I have never done before. You can simply enlarge the font size, so you can easily read while changing matters of transportation.
 
