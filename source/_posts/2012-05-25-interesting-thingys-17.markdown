@@ -28,6 +28,8 @@ This week a potourri of tech topics…
   The world's first HTML5 SIP client. Written in pure JavaScript.
 - [WYSIHTML5](http://xing.github.com/wysihtml5/)  
   A better approach to rich text editing
+- [WebGL 80.000 particles](http://minimal.be/lab/fluGL/)  
+  Cool WebGL demo with 80.000 particles. Kinda rocks!
 
 ###Javascript
 - [10 reasons why I switched to Spine.js](http://destroytoday.com/blog/reasons-for-spinejs/)
