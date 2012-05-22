@@ -4,7 +4,7 @@
   <title><![CDATA[yield the dog]]></title>
   <link href="http://yieldthedog.github.com/atom.xml" rel="self"/>
   <link href="http://yieldthedog.github.com/"/>
-  <updated>2012-05-12T18:24:24+02:00</updated>
+  <updated>2012-05-22T08:07:18+02:00</updated>
   <id>http://yieldthedog.github.com/</id>
   <author>
     <name><![CDATA[yield the dog]]></name>
@@ -12,6 +12,184 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[The commuting coder]]></title>
+    <link href="http://yieldthedog.github.com/blog/2012/05/22/the-commuting-coder/"/>
+    <updated>2012-05-22T08:32:00+02:00</updated>
+    <id>http://yieldthedog.github.com/blog/2012/05/22/the-commuting-coder</id>
+    <content type="html"><![CDATA[<h3>Essential tools to effectively use your time while stuck commuting</h3>
+
+<p>As a long time user of public transportation on my way to work and back I have grown myself a tool chain that helps me use my time more effectively. In this article I want to present the things I use and hope to get some inspiration from you.</p>
+
+<!-- more -->
+
+
+<h2>Reading device</h2>
+
+<p><img class="right" src="https://lh6.googleusercontent.com/-f3gaEXV1aGY/T3IHHywFERI/AAAAAAAAAMM/NqcqMjypLX0/s250/IMG_9879.JPG"> My Kindle has replaced books nearly completely as my main reading device (See <a href="http://yieldthedog.github.com/2012-04-06-kindle-survival-guide">Kindle survival guide</a>). This has mainly two reasons: First its weight and size, and second the ability to switch between various books and articles at will.</p>
+
+<p>With the Kindle I even started reading while walking, what I have never done before. You can simply enlarge the font size, so you can easily read while changing matters of transportation.</p>
+
+<br class="clear">
+
+
+<h2>A lightweight notebook</h2>
+
+<p><img class="right" src="https://lh6.googleusercontent.com/-K3fyUQLWrks/T3IHGREfUpI/AAAAAAAAAL0/cx41SDfziX4/s250/IMG_9882.JPGa"> If you want to use a computer, do not go out and by a large one.  Everything that’s heavier than two kilograms is too much to carry around all day. Go small and lightweight. I am the happy owner of a MacBook Air and would not exchange it for another device. It’s the first notebook I own that does not matter, if it is in my back bag all day</p>
+
+<br class="clear">
+
+
+<p>Stuff to do with your notebook:</p>
+
+<h3>Coding</h3>
+
+<p>Obviously this wasn’t a hard one, but be aware that you should prepare your device for offline use, if you don’t happen to own a wireless modem.</p>
+
+<ul>
+<li>get all the documentation to your device, you do not want to get stuck on a problem, simply due to the fact, that you do not know a method name, a method signature, &#8230; <a href="http://kapeli.com/dash/">Dash</a> can help you out in this case.</li>
+<li>use a DVCS. That was again a no brainer.</li>
+<li>&#8230;</li>
+</ul>
+
+
+<h3>Watching</h3>
+
+<p><img class="right" src="https://lh3.googleusercontent.com/-ubzsjKiVsnQ/T3IHF2-mInI/AAAAAAAAALw/gmB9VjNuMGo/s250/IMG_9881.JPG"> There are times, when you don’t have the power or will to read or even code. That’s the time to lean back and watch. There are tons of screencasts out there. Either go to the iTunes store and search for stuff you are interested in or simply do a Google search.</p>
+
+<p>Stuff I like to watch include: <a href="http://railscasts.com">Railscasts</a>, <a href="http://vimcasts.org">Vimcasts</a>, <a href="http://screencasts.org">Screencasts</a>.</p>
+
+<p>Besides screencasts there are lots of conference videos:</p>
+
+<ul>
+<li><a href="http://confreaks.com">Confreaks</a> - offer hundreths of high quality ruby related videos</li>
+<li>Youtube Channels: <a href="http://www.youtube.com/user/GoogleDevelopers">Google Developers</a>, <a href="http://www.youtube.com/user/OreillyMedia">O&#8217;Reilly Media</a>, <a href="http://www.youtube.com/user/GoogleTechTalks">Google Tech Talks</a>, <a href="http://www.youtube.com/user/minutephysics">Minute Physics</a> - of course those can not be downloaded. Here the excellent <a href="http://jdownload.org">jDownloader</a> is your friend.</li>
+<li><a href="http://blip.tv/jsconfeu">JS ConfEu</a> and <a href="http://blip.tv/jsconf">JS Conf</a>(these also include NodeConf videos)</li>
+</ul>
+
+
+<h2>MP3 player</h2>
+
+<p>When you are just too tired to open your eyes, you can sill lean back, relax and listen to one of the high quality podcasts out there:</p>
+
+<ul>
+<li><a href="http://thechangelog.com/">The Changelog</a></li>
+<li><a href="http://5by5.tv/">5by5</a> offer a varity of podcasts</li>
+<li><a href="http://feeds.feedburner.com/GoogleDeveloperPodcast">Google Developer Podcast</a></li>
+<li><a href="http://blip.tv/clojure/rss/itunes">Clojure</a></li>
+<li><a href="http://feeds.feedburner.com/LargeHadronColliderPodcast">CERN - Large Hadron Collider Podcast</a></li>
+<li><a href="http://feeds.feedburner.com/JavascriptJabber">JavaScript Jabber</a></li>
+<li><a href="http://feeds.feedburner.com/NodeUp">NodeUp</a></li>
+<li><a href="http://ruby5.envylabs.com/">Ruby5</a></li>
+<li>&#8230;</li>
+</ul>
+
+
+<h2>Earphone, earplug</h2>
+
+<p><img class="right" src="https://lh4.googleusercontent.com/-uWi5UiLtwPo/T3IHFr9M0OI/AAAAAAAAALs/_nhDH9cvCO8/s250/IMG_9880.JPG" title="" > From time to time you happen to sit nearby someone rather loud and chatty, who prevents you from being focused on the task you do. These are the times, when earplugs come in very handy, otherwise the distraction will win. If you happen to watch or listen to something make sure, you have earphones that shield you from any disturbing ambient noise.</p>
+
+<h2>Todos / Ideas / Backlog</h2>
+
+<p>While being in isolation new ideas come to my mind all the time or stuff I want to do or to look up. Or I just remember that I want to ask someone an important question. That’s when it’s handy to have some sort of way to track down those thoughts. It does not matter, if it’s a simple text file, a todo list app or a piece of paper to write down your thoughts - it’s just important to not forget these thoughts and leave them unused.</p>
+
+<h2>Give me inspiration</h2>
+
+<p>So let’s hear from you. What’s the stuff that makes you a productive coder while commuting?</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Interesting Thingys #16]]></title>
+    <link href="http://yieldthedog.github.com/blog/2012/05/18/interesting-thingys-16/"/>
+    <updated>2012-05-18T09:17:00+02:00</updated>
+    <id>http://yieldthedog.github.com/blog/2012/05/18/interesting-thingys-16</id>
+    <content type="html"><![CDATA[<p>This week a potpourri of tech topics…</p>
+
+<!-- More -->
+
+
+<h3>GIT</h3>
+
+<ul>
+<li><a href="http://geohub.github.com/">Geohub</a> - locate your github buddies on a map</li>
+<li><a href="http://zmoazeni.github.com/gitspective/">Gitspective - A different perspective of a Github User</a> - create a Facebook like timeline of your Github account</li>
+</ul>
+
+
+<h3>Ruby</h3>
+
+<ul>
+<li><a href="https://github.com/marshally/rspec-rails-uncommitted">marshally / rspec-rails-uncommitted</a> - rake tasks for rails-3 which selectively run specs based on your SCM status. What a great idea.</li>
+<li><a href="http://ruby.bastardsbook.com/">The Bastards Book of Ruby</a> - A Programming Primer for Counting and Other Unconventional Tasks</li>
+</ul>
+
+
+<h3>HTML5</h3>
+
+<ul>
+<li><a href="http://www.alistapart.com/articles/responsive-images-and-web-standards-at-the-turning-point/">Responsive Images and Web Standards at the Turning Point</a></li>
+<li><a href="https://github.com/sindresorhus/screenfull.js/">sindresorhus / screenfull.js</a> - Simple wrapper for cross-browser usage of the JavaScript Fullscreen API.</li>
+</ul>
+
+
+<h3>Javascript</h3>
+
+<ul>
+<li><a href="http://anthonyterrien.com/knob/">jQuery Knob</a> - knobs for the masses</li>
+</ul>
+
+
+<h3>CSS</h3>
+
+<ul>
+<li><a href="http://cssarrowplease.com/">CSS Arrow</a> - Generate the CSS for a tooltip arrow.</li>
+<li><a href="http://css-tricks.com/sass-vs-less/">SASS vs. LESS</a> - &#8220;Which CSS preprocessor language should I choose?&#8221; is a hot topic lately.</li>
+</ul>
+
+
+<h3>Mac</h3>
+
+<ul>
+<li><a href="https://github.com/twitter/twui">TwUI</a> - TwUI is a hardware accelerated UI framework for Mac, inspired by UIKit</li>
+<li><a href="http://kapeli.com/dash/">Dash</a> - snippet manager and documentation browser, supports lots of programming languages and snippets can be sync via a Dropbox folder.</li>
+</ul>
+
+
+<h3>Browser</h3>
+
+<ul>
+<li><a href="http://blog.alexmaccaw.com/chrome-tcp-udp">Chrome supports TCP &amp; UDP Sockets</a></li>
+<li><a href="http://updates.html5rocks.com/2012/05/Websocket-Frame-Inspection-now-in-Chrome-DevTools">Websocket Frame Inspection now in Chrome DevTools</a></li>
+</ul>
+
+
+<h3>Other</h3>
+
+<ul>
+<li><a href="http://blog.andrewvc.com/vertx-node-on-ropes">Vert.x: Why the JVM May Put Node.js on the Ropes</a> - Vert.x is the framework for the next generation of asynchronous, effortlessly scalable, concurrent applications.</li>
+<li><a href="http://stackoverflow.com/tags/language-agnostic/info">Free Language Agnostic Programming Books</a> - A comprehensive list of free books collected at stackoverflow</li>
+</ul>
+
+
+<h3>Hosting / Server / SPDY</h3>
+
+<ul>
+<li><a href="https://openshift.redhat.com/">OpenShift</a> - RedHat&#8217;s answer to Heroku</li>
+<li><a href="http://forum.nginx.org/read.php?29,226562">Nginx - Upcoming SPDY support details</a></li>
+<li><a href="http://googledevelopers.blogspot.com/2012/05/spdy-performance-on-mobile-networks.htm">SPDY performance on mobile networks</a> - I alwaysb thought that SPDY will imporve page load times on mobile platforms, here is the proof.</li>
+</ul>
+
+
+<h3>Videos / Talks / Books</h3>
+
+<ul>
+<li><a href="http://pragprog.com/news/seven-databases-in-seven-weeks-a-guide-to-modern-databases-and-the-nosql-movement-now-in-print?1988587">Seven Databases in Seven Weeks</a> - A Guide to Modern Databases and the NoSQL Movement now in print</li>
+</ul>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Interesting Thingys #15]]></title>
@@ -1727,137 +1905,6 @@ Genius or a Rock Star.</li>
 <ul>
 <li><a href="http://www.fileformat.info/info/unicode/char/1f4a9/index.htm">&#8220;Pile of Poo&#8221;</a> - as a Unicode Character.</li>
 <li><a href="http://www.youtube.com/watch?feature=player_embedded&amp;v=8WZr6fvtEgk">&#8220;Shit Programmers Say&#8221;&#8230;</a></li>
-</ul>
-
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Interesting Thingys #2]]></title>
-    <link href="http://yieldthedog.github.com/blog/2012/01/23/interesting-thingys-2/"/>
-    <updated>2012-01-23T08:54:00+01:00</updated>
-    <id>http://yieldthedog.github.com/blog/2012/01/23/interesting-thingys-2</id>
-    <content type="html"><![CDATA[<blockquote><p><em>Interesting Thingys</em> is a gazette in the blog that summarizes a week of blog articles, links, specifications, demos, news or more general &#8220;thingys&#8221; that we stumble upon in our journey through the world wide web.</p></blockquote>
-
-<h3>Server/WebStack</h3>
-
-<ul>
-<li><a href="http://www.igvita.com/2012/01/18/building-a-modern-web-stack-for-the-realtime-web/">WebSockets, SPDY Protocol, HTTP2.0</a> - .. &#8220;Tommorrows technology for todays web!&#8221;.</li>
-</ul>
-
-
-<!-- more -->
-
-
-<h3>Java</h3>
-
-<ul>
-<li><a href="http://www.baeldung.com/2012/01/18/rest-pagination-in-spring/">RESTful Webservices with Spring/Java</a> - Extensive tutorial in 7(!) parts.</li>
-</ul>
-
-
-<h3>HTML5</h3>
-
-<ul>
-<li><a href="http://www.xhtml-lab.com/html5poster">HTML5 Reference Poster</a></li>
-<li><a href="http://html5-demos.appspot.com/static/html5-therealbleedingedge/template/index.html">Presentation about &#8220;The Bleeding Edge of HTML5&#8221;</a> - . New CSS techniques, Javascript APIs, Multimedia thingys .. Works mostly only in Chrome and Safari. Very intersting!.</li>
-</ul>
-
-
-<h3>Mobile</h3>
-
-<ul>
-<li><a href="http://pttrns.com/">iOS UI Patterns,</a> - Overview of UI Patterns in iOS Apps.</li>
-<li><a href="http://androidpttrns.com/">Android UI Patterns</a></li>
-<li><a href="http://applidium.com/en/applications/vim/">VIM for the iPad.</a> -  <em>Useful</em>: Nope. <em>Geeky</em>: Yep!</li>
-<li><a href="https://market.android.com/details?id=com.spartacusrex.spartacuside">Android Terminal IDE.</a> -  <em>Useful</em>: Yep. <em>Geeky</em>: Yep!</li>
-</ul>
-
-
-<h3>JavaScript/CSS</h3>
-
-<ul>
-<li><a href="http://blog.james-carr.org/2012/01/16/blog-rolling-with-mongodb-node-js-and-coffeescript/">The &#8220;Hello World&#8221; of Web-Programming</a> -  How to build a Blog App using NodeJS, MongoDB &amp; CoffeeScript (using a BDD approach).</li>
-<li><a href="http://walmartlabs.github.com/thorax/">thorax</a> - Application Framework for  Backbone Apps. (including underscore, zepto, handlebars, stylus, &#8230;).</li>
-<li><a href="http://webcloud.se/code/jQuery-Collapse/">jQuery Collapse</a> - Expanding &amp; Collapsing Content (with CookieSupport, ARIA Compliant, lightweight, &#8230;).</li>
-<li><a href="https://github.com/livelycode/aws-lib">nodejs &amp; aws</a> - nodejs Library to talk to Amazon Webservices.</li>
-<li><a href="https://www.destroyallsoftware.com/talks/wat">WAT?!</a> - 10min lightning talk about &#8220;WATs&#8221;* of Ruby &amp; Javascript, very entertaining</li>
-</ul>
-
-
-<h3>Ruby</h3>
-
-<ul>
-<li><a href="http://vesperapps.com/">vesperapps</a> - New web app framework based on Sinatra.</li>
-<li><a href="http://subforge.org/projects/subtle/wiki">subtle</a> - A Window Tiling Manager for Linux, with a Ruby-Scripting Layer.</li>
-</ul>
-
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Interesting Thingys #1]]></title>
-    <link href="http://yieldthedog.github.com/blog/2012/01/17/interesting-thingys-1/"/>
-    <updated>2012-01-17T08:54:00+01:00</updated>
-    <id>http://yieldthedog.github.com/blog/2012/01/17/interesting-thingys-1</id>
-    <content type="html"><![CDATA[<blockquote><p><em>Interesting Thingys</em> is a gazette in the blog that summarizes a week of blog articles, links, specifications, demos, news or more general &#8220;thingys&#8221; that we stumble upon in our journey through the world wide web.</p></blockquote>
-
-<h3>Boilerplates</h3>
-
-<ul>
-<li><a href="http://html5boilerplate.com">HTML5-Boilerplate</a> - everyone should know this one.</li>
-<li><a href="http://www.initializr.com">Initializr2</a> - makes HTML5 boilerplates &#8216;customizable&#8217;.</li>
-<li><a href="http://verekia.com/initializr/responsive-template">Responsive Template</a> - Article about &#8220;Responsive Template&#8221; using Initializr2 or a &#8220;Mobile First Approach&#8221; with media queries.</li>
-<li><a href="https://github.com/tbranyen/backbone-boilerplate">Backbone.js boilerplate</a> - Boilerplate for the backbone.js guys.</li>
-</ul>
-
-
-<!-- more -->
-
-
-<h3>Javascript</h3>
-
-<ul>
-<li><a href="http://venturebeat.com/2012/01/07/building-consumer-apps-with-node/">Consumer Apps with Node</a> - Why node.js matters (And how to convince management).</li>
-<li><a href="http://underscorejs.org/">underscore.js</a> - underscore.js has a website - w00t.</li>
-<li><a href="http://bartaz.github.com/impress.js">impress.js</a> - A presentation Framework similar to Prezi written in Javascript and Canvas.</li>
-<li><a href="http://shama.github.com/jmpress.js">jimpress.js</a> - Jquery Implementation von impress.js.</li>
-</ul>
-
-
-<h3>CSS</h3>
-
-<ul>
-<li><a href="http://24ways.org/2011/unicode-range">@font-face &amp; unicode range</a> - Neat trick using @font-face &amp; unicode-range, or: how to apply to different @font-face&#8217;s on the same text.</li>
-</ul>
-
-
-<h3>ObjectiveC</h3>
-
-<ul>
-<li><a href="http://www.sparrow-framework.org/">sparrow framework</a> - Game-Framework for OpenGL Games .. without OpenGL Programming.</li>
-</ul>
-
-
-<h3>Services</h3>
-
-<ul>
-<li><a href="http://respondto.it/">respondto.it</a> - Debugging Web Hooks.</li>
-</ul>
-
-
-<h3>Server/Architecture</h3>
-
-<ul>
-<li><a href="http://instagram-engineering.tumblr.com/post/13649370142/what-powers-instagram-hundreds-of-instances-dozens-of">&#8216;What powers instagram&#8217;</a> - An interesting article about the &#8216;Stack&#8217; used by Instagram.com.</li>
-<li><a href="http://aws.typepad.com/aws/2012/01/aws-free-usage-tier-now-includes-microsoft-windows-on-ec2.html">Free MS Windows Server 2008 RC 2</a> -  on Amazon EC2 Instance for 750 hours per month.</li>
-</ul>
-
-
-<h3>Mac</h3>
-
-<ul>
-<li><a href="http://braumeister.org/">braumeister</a> - Online Package Browser for Homebrew.</li>
 </ul>
 
 ]]></content>
