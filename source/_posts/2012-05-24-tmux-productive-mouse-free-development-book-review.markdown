@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "tmux - productive mouse free development - book review"
-date: 2012-03-26 22:04
+date: 2012-05-24 08:14
 comments: true
 categories: tmux, terminal, linux
-published: false
+published: true
 ---
 
 {% blockquote from the tmux homepage, http://tmux.sourceforge.net/%}
