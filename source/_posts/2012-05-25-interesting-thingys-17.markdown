@@ -41,9 +41,13 @@ This week a potourri of tech topics…
   Introduction to nodetime a profiler for nodejs apps
 - [Moment.js](http://momentjs.com/)  
   A lightweight (4.3k) JavaScript library for displaying and manipulating dates and times. E.g.: last _Saturday at 6:25_. Includes I18N support.
+- [Self-updating scripts](http://www.stevesouders.com/blog/2012/05/22/self-updating-scripts/) - Steve Souders
+  
   
 
 ###CSS
+- [The Tilde is an Amazing CSS Selector](http://nicholsonws.com/archive/the-tilde-is-an-amazing-css-selector)  
+  
 
 ###Linux
 - [Linux 3.4](http://kernelnewbies.org/Linux_3.4)  
