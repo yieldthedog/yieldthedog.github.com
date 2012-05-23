@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: design | yield the dog]]></title>
+  <link href="http://yieldthedog.github.com/blog/categories/design/atom.xml" rel="self"/>
+  <link href="http://yieldthedog.github.com/"/>
+  <updated>2012-05-22T08:56:37+02:00</updated>
+  <id>http://yieldthedog.github.com/</id>
+  <author>
+    <name><![CDATA[yield the dog]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Keeping a Design Log]]></title>
+    <link href="http://yieldthedog.github.com/blog/2012/03/30/keeping-a-design-log/"/>
+    <updated>2012-03-30T10:35:00+02:00</updated>
+    <id>http://yieldthedog.github.com/blog/2012/03/30/keeping-a-design-log</id>
+    <content type="html"><![CDATA[<p>Ever wondered why it's hard for you to argue design decisions? Ever said "We should not go for that, we had some problems in past projects, but I have no clue what project or problem that was" in a meeting. Ever made the same design failure twice? I do, or more precise I did but I quit!</p>
+
+<p>Some time ago I was really annoyed of not being able to argue a design decision, and I've no clue what decision that was, with real arguments but with the words "We just should not do that!". So I started by design/architecture log in which I'm recording as a retrospective design decisions with their consequences and context.</p>
+
+<!-- more -->
+
+
+<p><img class="full-width" src="https://lh4.googleusercontent.com/-lc6XtAHSKlU/T3NwN7D5CaI/AAAAAAAAAMU/PxMov3JKC-Y/s1069/IMG_9885.jpg "></p>
+
+<p>I'm using <a href="http://evernote.com">Evernote</a> for keeping my design log because I'm using Evernote for more or less anything I (think I) need to remember, good search support and it's mobile apps. So I have my design log searchable and always with me.</p>
+
+<p>I'm using the following pattern to record my design decision evaluations</p>
+
+<blockquote><h3>Name</h3>
+
+<p>Name the design decision! That is the tricky part. I'm doing that at last. The name is important for me because I'm referring to the name in discussions with team members and in discussions with myself.</p>
+
+<h3>Context</h3>
+
+<p>Outline of the context, what forces are involved, what requirements need to be satisfied including non functional requirements.</p>
+
+<h3>Example</h3>
+
+<p>A short example, that helps me best to understand the "design decision".</p>
+
+<h3>Consequences</h3>
+
+<p>What were the consequences of the design decision? Pros and Cons, reflects the requirements and is in context of the forces that led to that decisions.
+What actions need to be taken to avoid/force this pattern?</p></blockquote>
+
+<p>I'm keeping track of good and bad decisions here. Consequences for me</p>
+
+<ul>
+<li>Frees my mind</li>
+<li>Makes me argue</li>
+<li>Forces reflection on design decisions, even the ones not recognized as decisions</li>
+<li>I can use wise ass terms like "Limit your Abstractions" in meetings</li>
+</ul>
+
+
+<p>What it's not</p>
+
+<ul>
+<li>It's not my personal design patterns catalog, this is more high level</li>
+</ul>
+
+
+<p>And here it is, one example pattern found in my <em>Design Log</em>, "<strong>The early pragmatic</strong>"</p>
+
+<blockquote><h3>Early pragmatic</h3>
+
+<p>When starting a project early decisions I take are too pragmatic. This leads to missing abstractions early in the process. Which leads to an eroding architecture and design, which makes the whole project an inconsistent pile of non decisions.</p>
+
+<h3>Example</h3>
+
+<p>Workflow/State Machine implementation in Project XXX (I left that out for reasons...)</p>
+
+<h3>Consequences</h3>
+
+<ul>
+<li>Figure out a catalog of limited abstractions early. Decide which to use.</li>
+<li>Reflect on missing abstractions or infrastructure!</li>
+<li>Make it a ritual to check the code for missing abstractions, leaky abstractions or duplications! Use an (automated) duplicate code finder!</li>
+<li>Don't over architecture, a clear defined list of abstractions will do it.</li>
+</ul>
+</blockquote>
+]]></content>
+  </entry>
+  
+</feed>

@@ -1,0 +1,1913 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[yield the dog]]></title>
+  <link href="http://yieldthedog.github.com/atom.xml" rel="self"/>
+  <link href="http://yieldthedog.github.com/"/>
+  <updated>2012-05-22T08:56:37+02:00</updated>
+  <id>http://yieldthedog.github.com/</id>
+  <author>
+    <name><![CDATA[yield the dog]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[The commuting coder]]></title>
+    <link href="http://yieldthedog.github.com/blog/2012/05/22/the-commuting-coder/"/>
+    <updated>2012-05-22T08:32:00+02:00</updated>
+    <id>http://yieldthedog.github.com/blog/2012/05/22/the-commuting-coder</id>
+    <content type="html"><![CDATA[<h3>Essential tools to effectively use your time while stuck commuting</h3>
+
+<p>As a long time user of public transportation on my way to work and back I have grown myself a tool chain that helps me use my time more effectively. In this article I want to present the things I use and hope to get some inspiration from you.</p>
+
+<!-- more -->
+
+
+<h2>Reading device</h2>
+
+<p><img class="right" src="https://lh6.googleusercontent.com/-f3gaEXV1aGY/T3IHHywFERI/AAAAAAAAAMM/NqcqMjypLX0/s250/IMG_9879.JPG"> My Kindle has replaced books nearly completely as my main reading device (See <a href="http://yieldthedog.github.com/blog/2012/04/06/kindle-survival-guide/">Kindle survival guide</a>). This has mainly two reasons: First its weight and size, and second the ability to switch between various books and articles at will.</p>
+
+<p>With the Kindle I even started reading while walking, what I have never done before. You can simply enlarge the font size, so you can easily read while changing matters of transportation.</p>
+
+<br class="clear">
+
+
+<h2>A lightweight notebook</h2>
+
+<p><img class="right" src="https://lh6.googleusercontent.com/-K3fyUQLWrks/T3IHGREfUpI/AAAAAAAAAL0/cx41SDfziX4/s250/IMG_9882.JPGa"> If you want to use a computer, do not go out and by a large one.  Everything that’s heavier than two kilograms is too much to carry around all day. Go small and lightweight. I am the happy owner of a MacBook Air and would not exchange it for another device. It’s the first notebook I own that does not matter, if it is in my back bag all day</p>
+
+<br class="clear">
+
+
+<p>Stuff to do with your notebook:</p>
+
+<h3>Coding</h3>
+
+<p>Obviously this wasn’t a hard one, but be aware that you should prepare your device for offline use, if you don’t happen to own a wireless modem.</p>
+
+<ul>
+<li>get all the documentation to your device, you do not want to get stuck on a problem, simply due to the fact, that you do not know a method name, a method signature, &#8230; <a href="http://kapeli.com/dash/">Dash</a> can help you out in this case.</li>
+<li>use a DVCS. That was again a no brainer.</li>
+<li>&#8230;</li>
+</ul>
+
+
+<h3>Watching</h3>
+
+<p><img class="right" src="https://lh3.googleusercontent.com/-ubzsjKiVsnQ/T3IHF2-mInI/AAAAAAAAALw/gmB9VjNuMGo/s250/IMG_9881.JPG"> There are times, when you don’t have the power or will to read or even code. That’s the time to lean back and watch. There are tons of screencasts out there. Either go to the iTunes store and search for stuff you are interested in or simply do a Google search.</p>
+
+<p>Stuff I like to watch include: <a href="http://railscasts.com">Railscasts</a>, <a href="http://vimcasts.org">Vimcasts</a>, <a href="http://screencasts.org">Screencasts</a>.</p>
+
+<p>Besides screencasts there are lots of conference videos:</p>
+
+<ul>
+<li><a href="http://confreaks.com">Confreaks</a> - offer hundreths of high quality ruby related videos</li>
+<li>Youtube Channels: <a href="http://www.youtube.com/user/GoogleDevelopers">Google Developers</a>, <a href="http://www.youtube.com/user/OreillyMedia">O&#8217;Reilly Media</a>, <a href="http://www.youtube.com/user/GoogleTechTalks">Google Tech Talks</a>, <a href="http://www.youtube.com/user/minutephysics">Minute Physics</a> - of course those can not be downloaded. Here the excellent <a href="http://jdownload.org">jDownloader</a> is your friend.</li>
+<li><a href="http://blip.tv/jsconfeu">JS ConfEu</a> and <a href="http://blip.tv/jsconf">JS Conf</a>(these also include NodeConf videos)</li>
+</ul>
+
+
+<h2>MP3 player</h2>
+
+<p>When you are just too tired to open your eyes, you can sill lean back, relax and listen to one of the high quality podcasts out there:</p>
+
+<ul>
+<li><a href="http://thechangelog.com/">The Changelog</a></li>
+<li><a href="http://5by5.tv/">5by5</a> offer a varity of podcasts</li>
+<li><a href="http://feeds.feedburner.com/GoogleDeveloperPodcast">Google Developer Podcast</a></li>
+<li><a href="http://blip.tv/clojure/rss/itunes">Clojure</a></li>
+<li><a href="http://feeds.feedburner.com/LargeHadronColliderPodcast">CERN - Large Hadron Collider Podcast</a></li>
+<li><a href="http://feeds.feedburner.com/JavascriptJabber">JavaScript Jabber</a></li>
+<li><a href="http://feeds.feedburner.com/NodeUp">NodeUp</a></li>
+<li><a href="http://ruby5.envylabs.com/">Ruby5</a></li>
+<li>&#8230;</li>
+</ul>
+
+
+<h2>Earphone, earplug</h2>
+
+<p><img class="right" src="https://lh4.googleusercontent.com/-uWi5UiLtwPo/T3IHFr9M0OI/AAAAAAAAALs/_nhDH9cvCO8/s250/IMG_9880.JPG" title="" > From time to time you happen to sit nearby someone rather loud and chatty, who prevents you from being focused on the task you do. These are the times, when earplugs come in very handy, otherwise the distraction will win. If you happen to watch or listen to something make sure, you have earphones that shield you from any disturbing ambient noise.</p>
+
+<h2>Todos / Ideas / Backlog</h2>
+
+<p>While being in isolation new ideas come to my mind all the time or stuff I want to do or to look up. Or I just remember that I want to ask someone an important question. That’s when it’s handy to have some sort of way to track down those thoughts. It does not matter, if it’s a simple text file, a todo list app or a piece of paper to write down your thoughts - it’s just important to not forget these thoughts and leave them unused.</p>
+
+<h2>Give me inspiration</h2>
+
+<p>So let’s hear from you. What’s the stuff that makes you a productive coder while commuting?</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Interesting Thingys #16]]></title>
+    <link href="http://yieldthedog.github.com/blog/2012/05/18/interesting-thingys-16/"/>
+    <updated>2012-05-18T09:17:00+02:00</updated>
+    <id>http://yieldthedog.github.com/blog/2012/05/18/interesting-thingys-16</id>
+    <content type="html"><![CDATA[<p>This week a potpourri of tech topics…</p>
+
+<!-- More -->
+
+
+<h3>GIT</h3>
+
+<ul>
+<li><a href="http://geohub.github.com/">Geohub</a> - locate your github buddies on a map</li>
+<li><a href="http://zmoazeni.github.com/gitspective/">Gitspective - A different perspective of a Github User</a> - create a Facebook like timeline of your Github account</li>
+</ul>
+
+
+<h3>Ruby</h3>
+
+<ul>
+<li><a href="https://github.com/marshally/rspec-rails-uncommitted">marshally / rspec-rails-uncommitted</a> - rake tasks for rails-3 which selectively run specs based on your SCM status. What a great idea.</li>
+<li><a href="http://ruby.bastardsbook.com/">The Bastards Book of Ruby</a> - A Programming Primer for Counting and Other Unconventional Tasks</li>
+</ul>
+
+
+<h3>HTML5</h3>
+
+<ul>
+<li><a href="http://www.alistapart.com/articles/responsive-images-and-web-standards-at-the-turning-point/">Responsive Images and Web Standards at the Turning Point</a></li>
+<li><a href="https://github.com/sindresorhus/screenfull.js/">sindresorhus / screenfull.js</a> - Simple wrapper for cross-browser usage of the JavaScript Fullscreen API.</li>
+</ul>
+
+
+<h3>Javascript</h3>
+
+<ul>
+<li><a href="http://anthonyterrien.com/knob/">jQuery Knob</a> - knobs for the masses</li>
+</ul>
+
+
+<h3>CSS</h3>
+
+<ul>
+<li><a href="http://cssarrowplease.com/">CSS Arrow</a> - Generate the CSS for a tooltip arrow.</li>
+<li><a href="http://css-tricks.com/sass-vs-less/">SASS vs. LESS</a> - &#8220;Which CSS preprocessor language should I choose?&#8221; is a hot topic lately.</li>
+</ul>
+
+
+<h3>Mac</h3>
+
+<ul>
+<li><a href="https://github.com/twitter/twui">TwUI</a> - TwUI is a hardware accelerated UI framework for Mac, inspired by UIKit</li>
+<li><a href="http://kapeli.com/dash/">Dash</a> - snippet manager and documentation browser, supports lots of programming languages and snippets can be sync via a Dropbox folder.</li>
+</ul>
+
+
+<h3>Browser</h3>
+
+<ul>
+<li><a href="http://blog.alexmaccaw.com/chrome-tcp-udp">Chrome supports TCP &amp; UDP Sockets</a></li>
+<li><a href="http://updates.html5rocks.com/2012/05/Websocket-Frame-Inspection-now-in-Chrome-DevTools">Websocket Frame Inspection now in Chrome DevTools</a></li>
+</ul>
+
+
+<h3>Other</h3>
+
+<ul>
+<li><a href="http://blog.andrewvc.com/vertx-node-on-ropes">Vert.x: Why the JVM May Put Node.js on the Ropes</a> - Vert.x is the framework for the next generation of asynchronous, effortlessly scalable, concurrent applications.</li>
+<li><a href="http://stackoverflow.com/tags/language-agnostic/info">Free Language Agnostic Programming Books</a> - A comprehensive list of free books collected at stackoverflow</li>
+</ul>
+
+
+<h3>Hosting / Server / SPDY</h3>
+
+<ul>
+<li><a href="https://openshift.redhat.com/">OpenShift</a> - RedHat&#8217;s answer to Heroku</li>
+<li><a href="http://forum.nginx.org/read.php?29,226562">Nginx - Upcoming SPDY support details</a></li>
+<li><a href="http://googledevelopers.blogspot.com/2012/05/spdy-performance-on-mobile-networks.htm">SPDY performance on mobile networks</a> - I alwaysb thought that SPDY will imporve page load times on mobile platforms, here is the proof.</li>
+</ul>
+
+
+<h3>Videos / Talks / Books</h3>
+
+<ul>
+<li><a href="http://pragprog.com/news/seven-databases-in-seven-weeks-a-guide-to-modern-databases-and-the-nosql-movement-now-in-print?1988587">Seven Databases in Seven Weeks</a> - A Guide to Modern Databases and the NoSQL Movement now in print</li>
+</ul>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Interesting Thingys #15]]></title>
+    <link href="http://yieldthedog.github.com/blog/2012/05/12/interesting-thingys-15/"/>
+    <updated>2012-05-12T19:17:00+02:00</updated>
+    <id>http://yieldthedog.github.com/blog/2012/05/12/interesting-thingys-15</id>
+    <content type="html"><![CDATA[<p>This week with highlights from JavaScript, HTML5, Ruby, …</p>
+
+<!-- More -->
+
+
+<h3>GIT</h3>
+
+<ul>
+<li><a href="http://git-scm.com/">Git website has a new design</a></li>
+</ul>
+
+
+<h3>Ruby</h3>
+
+<ul>
+<li><a href="http://blog.heroku.com/archives/2012/5/9/multiple_ruby_version_support_on_heroku/">Multiple Ruby Version Support on Heroku</a></li>
+<li><a href="http://www.mikeperham.com/2012/05/05/five-common-rails-mistakes/">Five common Rails mistakes - Mike Perham</a></li>
+<li><a href="http://blog.railsonfire.com/2012/05/06/Unicorn-on-Heroku.html">How to get 4x the performance out of Heroku with Unicorn</a></li>
+</ul>
+
+
+<h3>HTML5</h3>
+
+<ul>
+<li><a href="http://lojjic.github.com/html5denver-polyfills/slides.html">Polyfills for the Pragmatist</a></li>
+<li><a href="http://marakana.com/s/beyond_html5_device_api_phonegap_brian_leroux,1173/index.html">Beyond HTML5: Device API&#8217;s &amp; PhoneGap with Brian Leroux&#8217;</a></li>
+<li><a href="http://www.bbc.co.uk/news/business-17931814">BBC News - Coding the future: HTML5 takes the internet by storm</a></li>
+</ul>
+
+
+<h3>Javascript</h3>
+
+<ul>
+<li><a href="http://blog.chromium.org/2012/05/better-code-optimization-decisions-for.html">Better code optimization decisions for V8</a></li>
+<li><a href="https://github.com/adobe/brackets">adobe / brackets</a> - An open source code editor for the web, written in JavaScript, HTML and CSS.</li>
+<li><a href="http://chandlerprall.github.com/Physijs">Physijs</a> - a physics engine for three.js, check out the demos</li>
+<li><a href="http://cuepoint.org/?utm_source=html5weekly">Cueppoint.JS</a> - A plugin for adding cue-points and subtitles to HTML5 Video</li>
+<li><a href="http://wiki.ecmascript.org/doku.php?id=harmony:specification_drafts">New Draft Specification for ES.next (Ecma-262 Edition 6)</a></li>
+<li><a href="http://soft.vub.ac.be/~tvcutsem/invokedynamic/frozen-proxies">Proxies and Frozen objects</a></li>
+<li><a href="http://jordanscales.com/dynamo">Dynamo JS</a> - kind of irritating</li>
+</ul>
+
+
+<h3>CSS</h3>
+
+<ul>
+<li><a href="http://css-tricks.com/viewport-sized-typography/">Viewport Sized Typography | CSS-Tricks</a></li>
+<li><a href="http://dev.opera.com/articles/view/css3-animations/">Making a move with CSS3 animations - Dev.Opera</a></li>
+</ul>
+
+
+<h3>Linux</h3>
+
+<ul>
+<li><a href="http://e4rat.sourceforge.net/">E4RAT</a> - Improving Startup Times by Physical Block Reallocation</li>
+</ul>
+
+
+<h3>Search</h3>
+
+<ul>
+<li><a href="http://swiftype.com/">SwiftType</a> - Let&#8217;s you integrate an external search to your website. The demo video looks promising.</li>
+</ul>
+
+
+<h3>Security</h3>
+
+<ul>
+<li><a href="http://codahale.com/how-to-safely-store-a-password/">How To Safely Store A Password</a></li>
+</ul>
+
+
+<h3>Productivity</h3>
+
+<ul>
+<li><a href="http://blog.dbpatterson.com/post/21885034168">The Haskell / Snap ecosystem is as productive (or more) than Ruby/Rails.</a></li>
+</ul>
+
+
+<h3>Videos / Talks</h3>
+
+<ul>
+<li><a href="http://www.youtube.com/watch?v=yluchvyUzvU">Node.js in Context with Jason Hoffman of Joyent</a></li>
+<li><a href="http://www.youtube.com/watch?v=mh-hPzDfb_Q">JavaScript Primitive Types vs Reference Types</a></li>
+</ul>
+
+
+<h3>Fun</h3>
+
+<ul>
+<li><a href="http://recursivedrawing.com/">Recursive Drawing</a></li>
+</ul>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Interesting Thingys #14]]></title>
+    <link href="http://yieldthedog.github.com/blog/2012/05/04/interesting-thingys-14/"/>
+    <updated>2012-05-04T08:04:00+02:00</updated>
+    <id>http://yieldthedog.github.com/blog/2012/05/04/interesting-thingys-14</id>
+    <content type="html"><![CDATA[<p>This week we have tons of links in Ruby, HTML5, &#8230;</p>
+
+<!-- More -->
+
+
+<h3>GIT</h3>
+
+<ul>
+<li><a href="https://github.com/bkeepers/gaskit">gaskit</a> - a git-based issue tracker, written in sinatra .. looks very promising</li>
+<li><a href="http://speakerdeck.com/u/bkeepers/p/git-the-nosql-database">Git as a NoSQL Database</a></li>
+</ul>
+
+
+<h3>Ruby</h3>
+
+<ul>
+<li><a href="https://github.com/mruby/mruby">MRuby: A Lightweight Ruby Implementation by Matz</a> - <a href="http://www.youtube.com/watch?v=n7XRYWclYDY">Matz Talks About mruby and Its Possibilities</a></li>
+<li><a href="http://mobiruby.org/">MobiRuby: A Forthcoming Ruby Toolkit for Building iOS Apps</a></li>
+<li><a href="http://www.igvita.com/slides/2012/railsconf-making-the-web-faster/#1">Make the Web Fast(er): One Rails App at a Time</a></li>
+<li><a href="http://www.youtube.com/watch?v=VOFTop3AMZ8">Keynote: Progress by David Heinemeier Hansson</a> - more Rails Conf 2012 videos can be found <a href="http://confreaks.com/events/railsconf2012">@confreaks</a></li>
+<li><a href="http://mikepackdev.com/blog_posts/31-exhibit-vs-presenter">Exhibit vs Presenter</a></li>
+<li><a href="http://blog.mattwynne.net/2012/04/26/a-vision-for-cucumber-2-0/">A vision for Cucumber 2.0</a></li>
+<li><a href="http://www.ibm.com/developerworks/linux/library/os-sixrubyfeatures/index.html">Meet six misunderstood Ruby features - IBM devloperWorks</a></li>
+<li><a href="https://github.com/jonleighton/focused_controller">Focused Controller: Bringing Real OOP to Rails Controllers</a></li>
+<li><a href="http://www.rubymotion.com/">RubyMotion - Unlock the power of Ruby for iOS</a></li>
+</ul>
+
+
+<h3>HTML5</h3>
+
+<ul>
+<li><a href="https://developer.mozilla.org/en/API/Pointer_Lock_API">The Pointer Lock API</a></li>
+<li><a href="http://www.bkom.com/robotgame">Bkom Robot Game: An HTML5 Game Demo</a></li>
+<li><a href="http://ericbidelman.tumblr.com/post/21649963613/idb-filesystem-js-bringing-the-html5-filesystem-api">db.filesystem.js: Bringing the HTML5 Filesystem API to More Browsers</a></li>
+<li><a href="http://www.adobe.com/devnet/html5/articles/real-world-example-html5-filesystem-api.html">Real-world example of the HTML5 FileSystem API</a></li>
+</ul>
+
+
+<h3>Javascript</h3>
+
+<ul>
+<li><a href="http://lanyrd.com/2012/jquery-uk/video/">Videos from jQuery UK 2012</a></li>
+<li><a href="http://blip.tv/jsconf/jsconf2012-daniel-henry-holmes-ingalls-jr-6106503">JSConf US 2012 - Daniel Henry Holmes Ingalls Jr.: The Lively Kernel</a></li>
+</ul>
+
+
+<h3>CSS</h3>
+
+<ul>
+<li><a href="http://cssdeck.com/">CSSDeck: A Site That Collects Creative CSS Creations</a></li>
+<li><a href="http://phuu.net/2012/05/01/html-css-only-spinner.html">CSS Triangles + Animations = Pie Chart Spinner</a></li>
+</ul>
+
+
+<h3>Databases</h3>
+
+<ul>
+<li><a href="http://tech.naver.jp/blog/?p=1420">LINE Storage: Storing billions of rows in Sharded-Redis and HBase per Month</a></li>
+<li><a href="http://www.colinhowe.co.uk/2012/apr/26/mongodb-strategies-when-hitting-disk/">MongoDB - Strategies when hitting disk</a></li>
+</ul>
+
+
+<h3>Mobile Market</h3>
+
+<ul>
+<li><a href="http://www.fourhourworkweek.com/blog/2012/04/22/how-to-build-an-app-empire-can-you-create-the-next-instagram/">can you create the next instagram?</a> - tim ferris about &#8216;how to build an app empire&#8217;, interesting article!</li>
+</ul>
+
+
+<h3>Scrum</h3>
+
+<ul>
+<li><a href="http://sdt.bz/m/apparticle.aspx?id=36195">water-fall-scrum</a> - the reality of agile</li>
+</ul>
+
+
+<h3>Vim</h3>
+
+<ul>
+<li><a href="https://github.com/burke/matcher">Matcher</a> - This is a standalone library that does the same fuzzy-find matching as Command-T.vim. Can be used with CtrlP.</li>
+</ul>
+
+
+<h3>Uncategorized</h3>
+
+<ul>
+<li><a href="http://betterthangrep.com">Better than grep</a> - what could it be better?</li>
+<li><a href="http://www.irrlicht3d.org/pivot/entry.php?id=1295">Want good programmers? Then PAY them</a></li>
+<li><a href="http://www.webupd8.org/2012/05/gimp-28-stable-finally-available-for.html">GIMP 2.8 (Stable) Finally Available For Download</a></li>
+<li><a href="http://cemerick.com/2012/05/02/starting-clojure/">Starting Clojure (mk. 2)</a></li>
+<li><a href="http://www.wired.co.uk/news/archive/2012-05/03/programming-language-copyright">EU Court of Justice rules you can&#8217;t copyright a programming language</a></li>
+</ul>
+
+
+<h3>Fun</h3>
+
+<ul>
+<li><a href="https://github.com/mroth/lolcommits">lolcommits</a> - takes a screenshot everytime you git commit.</li>
+<li><a href="http://favris.info/">favris</a> - play tretis &#8216;in&#8217; your favicon (only works in Google Chrome).</li>
+<li><a href="https://developer.mozilla.org/en-US/demos/detail/audiospank">AudioSpank</a> - AudioSpank is an audio only massively multiplayer online first person shooter.</li>
+</ul>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Interesting Thingys #13]]></title>
+    <link href="http://yieldthedog.github.com/blog/2012/04/20/interesting-thingys-13/"/>
+    <updated>2012-04-20T08:04:00+02:00</updated>
+    <id>http://yieldthedog.github.com/blog/2012/04/20/interesting-thingys-13</id>
+    <content type="html"><![CDATA[<p>This time with some hot topics in HTML5, JavaScript, NodeJS, …</p>
+
+<!-- More -->
+
+
+<h3>Mobile Development</h3>
+
+<ul>
+<li><a href="http://phonegap.com/2012/04/11/phonegap-1-6-released">PhoneGap 1.6 released</a></li>
+</ul>
+
+
+<h3>HTML5</h3>
+
+<ul>
+<li><a href="http://techcrunch.com/2012/04/11/bbc-bets-on-html5-games-invests-millions-in-mobile-game-creation-platform-spaceport-io/">BBC And YouWeb Bets On HTML5 Games; Invests Millions In Mobile Game Creation Platform Spaceport.io</a></li>
+<li><a href="http://developers.facebook.com/html5/blog/post/2012/04/17/making-a-speedy-html5-game/">Making a Speedy HTML5 Game</a></li>
+<li><a href="http://lab.hakim.se/scroll-effects/">Cool scroll effects for lists</a></li>
+<li><a href="https://plus.google.com/107085977904914121234/posts/R5LyvTSa21k">Date picker landed in Chrome Canary and Chromium</a></li>
+<li><a href="http://updates.html5rocks.com/2012/04/Processing-XHR2-file-uploads-in-PHP">Processing XHR2 file uploads in PHP</a></li>
+<li><a href="http://2012.beercamp.com/">BeerCamp</a> - Cool demonstration of CSS 3D features - <a href="http://www.smashingmagazine.com/2012/04/17/beercamp-experiment-with-css3d/">detailed article about the making of</a></li>
+</ul>
+
+
+<h3>JavaScript</h3>
+
+<ul>
+<li><a href="http://coffeescript.org/#changelog">CoffeeScript 1.3 released</a></li>
+<li><a href="http://www.2ality.com/2012/04/arrow-functions.html">ECMAScript.next: arrow functions and method definitions</a></li>
+<li><a href="http://arstechnica.com/business/news/2012/04/an-in-depth-look-at-qt-5-making-javascript-a-first-class-citizen-for-native-cross-platform-developme.ars">Qt 5 makes JavaScript a first-class citizen for app development</a></li>
+<li><a href="http://addyosmani.com/blog/understanding-mvvm-a-guide-for-javascript-developers/">Understanding MVVM – A Guide For JavaScript Developers</a></li>
+<li><a href="https://github.com/snookca/CoffeeConsole">A Chrome Extension for running CoffeeScript from the Web Inspector</a></li>
+<li><a href="https://github.com/borismus/device.js">device.js</a> - Semantic client-side device detection with Media Queries</li>
+<li><a href="http://createjs.com/#!/CreateJS">CreateJS</a> - A suite of Javascript libraries &amp; tools for building rich, interactive experiences with HTML5.</li>
+</ul>
+
+
+<h3>NodeJS</h3>
+
+<ul>
+<li><a href="http://www.nodejs-news.com/NodeConf/dtraceconf2012-dtrace-in-nodejs">Dtrace conf 2012, Dtrace in Node.JS</a></li>
+<li><a href="https://github.com/arturadib/node-qt">Qt bindings for Node.js</a></li>
+</ul>
+
+
+<h3>Ruby</h3>
+
+<ul>
+<li><a href="http://mojolingo.com/blog/2012/adhearsion-2-0-its-aliiiive">Adhearsion 2.0: It’s ALIIIIVE!</a></li>
+<li><a href="http://community.mendicantuniversity.org/articles/practicing-ruby-volume-2-now-freely-avai">Practicing Ruby Volume 2 is now freely available</a></li>
+<li><a href="http://rubysource.com/ddd-for-rails-developers-part-2-entities-and-values/">DDD for Rails Developers. Part 2: Entities and Values</a></li>
+</ul>
+
+
+<h3>CSS</h3>
+
+<ul>
+<li><a href="http://www.lukew.com/ff/entry.asp?1514">Multi-Device Layout Patterns</a></li>
+<li><a href="http://www.css-101.org/articles/image-replacement/the_new_new_image-replacement_techniques.php">My thoughts about the latest Image Replacement techniques</a></li>
+<li><a href="http://dabblet.com/gist/2403795">Vertical centering with flexbox and margin fallback</a></li>
+</ul>
+
+
+<h3>Database</h3>
+
+<ul>
+<li><a href="http://horicky.blogspot.com/2012/04/mongodb-architecture.html">MongoDb Architecture</a></li>
+<li><a href="http://www.apache.org/dist/couchdb/notes/1.2.0/apache-couchdb-1.2.0.html">Apache CouchDB 1.2.0 released</a></li>
+</ul>
+
+
+<h3>Usability</h3>
+
+<ul>
+<li><a href="http://www.netmagazine.com/opinions/nielsen-wrong-mobile">Nielsen is wrong on mobile</a></li>
+</ul>
+
+
+<h3>Webserver</h3>
+
+<ul>
+<li><a href="http://googledevelopers.blogspot.com/2012/04/add-spdy-support-to-your-apache-server.html">Add SPDY support to your Apache server with mod_spdy</a></li>
+</ul>
+
+
+<h3>Browsers</h3>
+
+<ul>
+<li><a href="http://www.briangrinstead.com/blog/chrome-developer-tools-monitorevents">Chrome Developer Tools – monitorEvents</a></li>
+</ul>
+
+
+<h3>Git</h3>
+
+<ul>
+<li><a href="http://robots.thoughtbot.com/post/21306813001/remote-branch">Remote Branch</a> - Does your pair programmer maintain order, keeping the mean streets (ie. remote branches) clean?</li>
+</ul>
+
+
+<h3>Books</h3>
+
+<ul>
+<li><a href="http://pragprog.com/book/dnvim">Practical Vim</a> - now available in beta</li>
+<li><a href="http://javascriptenlightenment.com/">JavaScript Enlightment</a> - free eBook - A book to turn a JavaScript library user into a JavaScript developer</li>
+</ul>
+
+
+<h3>Presentations / Talks / Articles</h3>
+
+<ul>
+<li><a href="http://www.youtube.com/watch?v=FPUzrm4_ZxQ&amp;feature=youtube_gdata">The Mobile Revolution: Cultivating Boundaries of the Unbounded</a></li>
+<li><a href="http://www.youtube.com/watch?v=rzGUzngFBcw&amp;feature=digest_thu">Steve Souders discussing the State of WPO and Velocity</a></li>
+</ul>
+
+
+<h3>Unix</h3>
+
+<ul>
+<li><a href="http://www.catonmat.net/blog/proof-that-sed-is-turing-complete/">A proof that Unix utility &#8220;sed&#8221; is Turing complete</a></li>
+</ul>
+
+
+<h3>Fun</h3>
+
+<ul>
+<li><a href="http://www.chromeexperiments.com/detail/mixjs/?f=">Mix.js</a> - A Chrome Experiment: Multitrack mixing and real-time metering with Web Audio</li>
+<li><a href="http://pksunkara.github.com/semicolon/">Semicolon</a> - An esoteric language made up of only semicolons.</li>
+</ul>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Developer Desktops]]></title>
+    <link href="http://yieldthedog.github.com/blog/2012/04/18/developer-desktops/"/>
+    <updated>2012-04-18T08:15:00+02:00</updated>
+    <id>http://yieldthedog.github.com/blog/2012/04/18/developer-desktops</id>
+    <content type="html"><![CDATA[<p>Work places are equipped with more or less standardized workstations, mice and keyboards. Since developers are quite individual the desktops become individual too. From crowded to clean, from playful to straight.</p>
+
+<p>This post gives a brief visual overview of developer desktops at the diamond:dogs group.</p>
+
+<p><img class="full-width" src="https://lh5.googleusercontent.com/-mznPORXk9Ew/T3AMEQGf_kI/AAAAAAAAG88/GcB8QtVNp3k/s1069/IMG_9861.JPG "></p>
+
+<!-- more -->
+
+
+<h5>Pro Tea Equipment and Headphones</h5>
+
+<p><img class="full-width" src="https://lh6.googleusercontent.com/-K0lwpUK0i-k/T3AL6UMsjnI/AAAAAAAAG7o/OULtFrQPeVI/s1069/IMG_9849.JPG "></p>
+
+<h5>One Office Tool, Distraction, Food Enhancement including Wine</h5>
+
+<p><img class="full-width" src="https://lh6.googleusercontent.com/-YVG51G8oO2c/T3AL5tb3myI/AAAAAAAAG7k/H7U9C1Uj6Jk/s1069/IMG_9850.JPG "></p>
+
+<h5>The opportunist: A Mac combined with a Microsoft Mouse</h5>
+
+<p><img class="full-width" src="https://lh3.googleusercontent.com/-f6crVZYFWrg/T3AL5uS8DHI/AAAAAAAAG70/fbTJrn22z-U/s1069/IMG_9851.JPG "></p>
+
+<h5>Headphones and Mac - Stylish!</h5>
+
+<p><img class="full-width" src="https://lh5.googleusercontent.com/-bS9vRbq6Kyo/T3AL7inOzbI/AAAAAAAAG74/OL1Ivf5FfOc/s1069/IMG_9853.JPG "></p>
+
+<h5>Coffee and Rubik&#8217;s</h5>
+
+<p><img class="full-width" src="https://lh5.googleusercontent.com/-wgVuLEDblpQ/T3AL9ZbbVTI/AAAAAAAAG8A/PLjtUi8VTvA/s1069/IMG_9854.JPG "></p>
+
+<h5>Android Development with Post-it notes</h5>
+
+<p><img class="full-width" src="https://lh4.googleusercontent.com/-g5wf4zlaJS8/T3AL_afydbI/AAAAAAAAG8Q/4xLQgFyHV6w/s1069/IMG_9855.JPG "></p>
+
+<h5>Android Development with Post-it notes (they seem to like these Post-its!)</h5>
+
+<p><img class="full-width" src="https://lh4.googleusercontent.com/-oeYJu7CZbkc/T3AL_E1_M5I/AAAAAAAAG8M/WxPyLasljKU/s1069/IMG_9856.JPG "></p>
+
+<h5>Damn old Monitor enhanced by some Ü-Eggs</h5>
+
+<p><img class="full-width" src="https://lh6.googleusercontent.com/-PZpg9ASMEK0/T3AMACO1UpI/AAAAAAAAG8c/bgADjXoP7_w/s1069/IMG_9857.JPG "></p>
+
+<h5>Water and Mouse!</h5>
+
+<p><img class="full-width" src="https://lh6.googleusercontent.com/-ToSfLL_lhZk/T3AMBiQHM6I/AAAAAAAAG8g/AsVr2r4qVqk/s1069/IMG_9858.JPG "></p>
+
+<h5>Water and Headphones!</h5>
+
+<p><img class="full-width" src="https://lh3.googleusercontent.com/-1OG_PBL-Qhc/T3AMCCwSWeI/AAAAAAAAG8o/jCoawgq0stE/s1069/IMG_9859.JPG "></p>
+
+<h5>Brain Nutrition</h5>
+
+<p><img class="full-width" src="https://lh4.googleusercontent.com/-xc0tbzFeDlM/T3AMCyMcJ6I/AAAAAAAAG8s/hsNV8ld-Uk4/s1069/IMG_9860.JPG "></p>
+
+<h5>Pirate enhanced Microsoft Keyboard</h5>
+
+<p><img class="full-width" src="https://lh5.googleusercontent.com/-mznPORXk9Ew/T3AMEQGf_kI/AAAAAAAAG88/GcB8QtVNp3k/s1069/IMG_9861.JPG "></p>
+
+<h5>All what you need for breakfast</h5>
+
+<p><img class="full-width" src="https://lh4.googleusercontent.com/-xacD7-yGGy4/T3AMF-hAFsI/AAAAAAAAG9Q/iDmXrUbTtvo/s1069/IMG_9862.JPG "></p>
+
+<h5>The Clean: One sheet for notes or sketching under the keyboard</h5>
+
+<p><img class="full-width" src="https://lh3.googleusercontent.com/-d5Cbj1_TmR0/T3AMFTCJTEI/AAAAAAAAG9A/0fk8qy-_l_o/s1069/IMG_9863.JPG "></p>
+
+<h5>8-Bit Stylish</h5>
+
+<p><img class="full-width" src="https://lh4.googleusercontent.com/-dNQk-k4gUGY/T3AMGqxFtnI/AAAAAAAAG9M/Gj7ce1BozLg/s1069/IMG_9864.JPG "></p>
+
+<h5>Geek Toys in action</h5>
+
+<p><img class="full-width" src="https://lh3.googleusercontent.com/-XA0RaVufEqk/T3AMHfAxqGI/AAAAAAAAG9Y/vth0zvuuOUw/s1069/IMG_9865.JPG "></p>
+
+<h5>Unorganized stuff with a Monk like arranged pencil</h5>
+
+<p><img class="full-width" src="https://lh3.googleusercontent.com/-GdQ6RXVViUg/T3AMIrV4ErI/AAAAAAAAG9k/1q4KAuEhRWA/s1069/IMG_9866.JPG "></p>
+
+<h5>Headphones, again!</h5>
+
+<p><img class="full-width" src="https://lh3.googleusercontent.com/-E7ZzjEWYRjM/T3AMJYRhNuI/AAAAAAAAG9o/qWL6BqTfg5I/s1069/IMG_9867.JPG "></p>
+
+<h5>The clean, organized desktop with some distraction. Nice!</h5>
+
+<p><img class="full-width" src="https://lh6.googleusercontent.com/-FToIfV-S77Y/T3AMKMyVMnI/AAAAAAAAG9w/KmF0s1tf32U/s1069/IMG_9868.JPG "></p>
+
+<h5>Headphones, again, again!</h5>
+
+<p><img class="full-width" src="https://lh3.googleusercontent.com/-VDqfmIVwoBk/T3AMLmWUA8I/AAAAAAAAG94/axZLS-bpaho/s1069/IMG_9869.JPG "></p>
+
+<h5>The Post-it source, clean and organized</h5>
+
+<p><img class="full-width" src="https://lh4.googleusercontent.com/-43s7bYHnixA/T3AMMLEL7bI/AAAAAAAAG-A/IEsds7PSioU/s1069/IMG_9870.JPG "></p>
+
+<h5>USB Fan: A &#8220;must have&#8221; in Summer</h5>
+
+<p><img class="full-width" src="https://lh5.googleusercontent.com/-nDXaNSMaLdE/T3AMMnLWm0I/AAAAAAAAG-E/dxsUvNFDzEA/s1069/IMG_9871.JPG "></p>
+
+<h5>USB Fan in detail</h5>
+
+<p><img class="full-width" src="https://lh6.googleusercontent.com/-kzlklqhe-Ec/T3AMN6p25eI/AAAAAAAAG-U/iaWjXEHY_-U/s1069/IMG_9872.JPG "></p>
+
+<h5>Headphones, broken :(</h5>
+
+<p><img class="full-width" src="https://lh5.googleusercontent.com/-K7QymklbYoo/T3AMPAc8y1I/AAAAAAAAG-Y/Yj4AG2Aq6dk/s1069/IMG_9873.JPG "></p>
+
+<h5>Ü-Eggs parade</h5>
+
+<p><img class="full-width" src="https://lh3.googleusercontent.com/-i9MT83FRqPM/T3AMPzo37xI/AAAAAAAAG-g/f5NmVbTcn94/s1069/IMG_9875.JPG "></p>
+
+<h5>Who needs glasses?</h5>
+
+<p><img class="full-width" src="https://lh3.googleusercontent.com/-GCsJ7UdvYPg/T3AMQ72_LHI/AAAAAAAAG-o/9wenn8536Tw/s1069/IMG_9876.JPG "></p>
+
+<h5>Stuff, stuff, stuff&#8230;</h5>
+
+<p><img class="full-width" src="https://lh6.googleusercontent.com/-PKWNCeLPUBc/T3AMRTTYxOI/AAAAAAAAG-0/d5-HgTy17Ic/s1069/IMG_9877.JPG "></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Interesting Thingys #12]]></title>
+    <link href="http://yieldthedog.github.com/blog/2012/04/17/interesting-thingys-12/"/>
+    <updated>2012-04-17T11:54:00+02:00</updated>
+    <id>http://yieldthedog.github.com/blog/2012/04/17/interesting-thingys-12</id>
+    <content type="html"><![CDATA[<p>This week with topics from HTML5, JavaScript, CSS, Git, Vim, and much more.</p>
+
+<!-- More -->
+
+
+<h3>HTML5</h3>
+
+<ul>
+<li><a href="http://www.adobe.com/devnet/html5/articles/javascript-motion-detection.html">JavaScript motion detection</a></li>
+<li><a href="http://blogs.msdn.com/b/davrous/archive/2012/04/06/modernizing-your-html5-canvas-games-with-offline-apis-file-apis-css3-amp-hardware-scaling.aspx">Modernizing your HTML5 Canvas games Part 1: hardware scaling &amp; CSS3</a></li>
+<li><a href="http://www.luxanimals.com/blog/article/combining_easel_box2d">Combining Easel.js and Box2d in Canvas</a></li>
+<li><a href="http://blogs.msdn.com/b/davrous/archive/2012/04/06/modernizing-your-html5-canvas-games-with-offline-apis-file-apis-css3-amp-hardware-scaling.aspx">Modernizing your HTML5 Canvas games Part 1: hardware scaling &amp; CSS3 - David Rousset - Site Home - MSDN Blogs</a></li>
+</ul>
+
+
+<h3>JavaScript</h3>
+
+<ul>
+<li><a href="http://www.meteor.com/">Metor</a> - is a set of new technologies for building top-quality webapps in a fraction of the time, whether you&#8217;re an expert developer or just getting started. Watch the <a href="http://www.meteor.com/screencast">introduction video</a>.</li>
+<li><a href="https://github.com/rwldrn/idiomatic.js">idiomatic.js</a></li>
+<li><a href="http://www.adobe.com/devnet/html5/articles/javascript-motion-detection.html">JavaScript motion detection | Adobe Developer Connection</a></li>
+</ul>
+
+
+<h3>CSS</h3>
+
+<ul>
+<li><a href="http://csscience.com/responsiveslidercss3/">Responsive CSS3 Slider Without Javascript</a></li>
+<li><a href="http://coding.smashingmagazine.com/2012/04/11/css-sprites-revisited/">CSS Sprites Revisited</a></li>
+</ul>
+
+
+<h3>Browsers</h3>
+
+<ul>
+<li><a href="http://updates.html5rocks.com/2012/04/Big-boost-to-DOM-performance---WebKit-s-innerHTML-is-240-faster">Big boost to DOM performance - WebKit&#8217;s innerHTML is 240% faster</a></li>
+</ul>
+
+
+<h3>Operating Systems</h3>
+
+<ul>
+<li><a href="http://duartes.org/gustavo/blog/post/how-computers-boot-up">How Computers Boot Up</a></li>
+</ul>
+
+
+<h3>Git</h3>
+
+<ul>
+<li><a href="https://github.com/blog/1081-instantly-beautiful-project-pages"> Instantly Beautiful Project Pages - Github</a></li>
+</ul>
+
+
+<h3>Presentations / Talks / Articles</h3>
+
+<ul>
+<li><a href="http://vhardy.github.com/presentations/html5-community-meet-up-2012/">Slides from HTML5 community meetup</a> - presents some next generation CSS stuff: filters, shaders - future, when will thou come?</li>
+</ul>
+
+
+<h3>Tools</h3>
+
+<ul>
+<li><a href="http://thenounproject.com/">The noun project</a></li>
+</ul>
+
+
+<h3>Vim</h3>
+
+<ul>
+<li><a href="http://shawnbiddle.com/devblog/archive/using-vimdiff-with-git">Using Vimdiff With Git</a></li>
+<li><a href="http://visualstudiomagazine.com/articles/2012/04/09/write-faster-code-by-adding-vim-to-visual-studio.aspx">Write Faster Code by Adding VIM to Visual Studio</a></li>
+</ul>
+
+
+<h3>Fun</h3>
+
+<ul>
+<li><a href="http://superliminal.com/cube/cube.htm">4D Rubik&#8217;s Cube</a></li>
+</ul>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Kindle Survival Guide]]></title>
+    <link href="http://yieldthedog.github.com/blog/2012/04/06/kindle-survival-guide/"/>
+    <updated>2012-04-06T10:47:00+02:00</updated>
+    <id>http://yieldthedog.github.com/blog/2012/04/06/kindle-survival-guide</id>
+    <content type="html"><![CDATA[<p>I own a Kindle for about one year and a half and I must say it has served me quite well. In this time I have read about 20-30 books, have read literally hundreths of articles, used it for browsing the web, sent a tweet, and used it as my main reading device.</p>
+
+<p>What is it that makes an ebook reader superior to a normal book?</p>
+
+<!-- more -->
+
+
+<p><img class="full-width" src="https://lh4.googleusercontent.com/-MnoWQED2tp8/T3IFGz0VXOI/AAAAAAAAALg/WJFwBQAqk8U/s861/IMG_9883.JPG "></p>
+
+<h3>Advantages</h3>
+
+<ul>
+<li><strong><em>Size and weight</em></strong> are a main factor. I can carry it with me all the time in my back bag and I won&#8217;t even notice it&#8217;s weight</li>
+<li><strong><em>Readiness of books</em></strong>: When you buy a book over the internet, it takes a while until you have it in your hands and are able to start reading. With ebooks it&#8217;s different. Buy it, download it, read it. Dead simple and crazy fast.</li>
+<li><strong><em>Your library at your disposal</em></strong>: With 3 gigs of memory, I don&#8217;t care how many books I carry with me. If I need to read a passage, that I have marked or dog eared in the past, I pull out the Kindle and read it.</li>
+</ul>
+
+
+<h3>Disadvantages</h3>
+
+<ul>
+<li><strong><em>Screen size</em></strong>: If the width of the screen was a bit larger - about one cm -, a lot of stuff would be easier to read.</li>
+<li><strong><em>Reading code</em></strong>: Reading code was often kind of weird and awkward. The small width often breaks lines what makes it very hard to read it properly. One ebook I own tried to circumvent this fact by putting all code in images, which you can zoom in. Still not a great experience. But it seems that authors and publishers acknowledge this fact more recently, and try to avoid breaking lines on a Kindle.</li>
+</ul>
+
+
+<h2>Buying books</h2>
+
+<p>I don&#8217;t like to buy books from Amazon. Even though they made their process very easy, they lack one important thing. I do not own the books I buy. They are DRMed and cannot be read on or ported to another device unless you jailbreak your Kindle, what I am not willing to do. This is really bad because it deadlocks me in a situation, in which I will only buy Kindles for the rest of my whole life.</p>
+
+<p>So what to do with this situation? Download books from rapidshare, megaupload, &#8230;.? No! Why not, you ask. Because there are useful alternatives that are at least as good as amazon, with which you support the author and the publisher.</p>
+
+<p>I&#8217;m a developer and I&#8217;m mainly interested in technical books. One publisher of technical books, that stands out is <strong><em><a href="http://pragprog.com">PragProg</a></em></strong> - not because I emphasize their text, but because they offer a quite superior service. Here are the main features:</p>
+
+<ul>
+<li>All ebooks are DRM free and available in various formats</li>
+<li>You can configure your PragProg account to automatically send your purchases and future updates to your free Kindle email address. This can sometimes get annoying when you have purchased a book in beta, which receives updates quite often.</li>
+<li>PragProg can automatically send your ebooks to your Dropbox</li>
+<li>They publish a free magazine</li>
+</ul>
+
+
+<p>Some of the PragProg titles lack chapter markers, which is quite annoying, but all in all they offer a great service. Kudos to Dave and Andy!</p>
+
+<p>Next one is <a href="http://shop.oreilly.com">O&#8217;Reilly</a>. Just like PragProg they offer their whole library in various formats.</p>
+
+<p><a href="http://manning.com">Manning</a> had great problems converting their pbooks to ebooks. For a long time they only offered PDFs that are not very comfortable to read on a Kindle (don&#8217;t even try) and are now slowly reducing the distance to the others.</p>
+
+<p><a href="http://apress.com">Apress</a> - I must admit that I don&#8217;t buy much books from Apress for no special reason. Probably because I&#8217;m not subscribed to their newsletter.</p>
+
+<p><span class='pullquote-right' data-pullquote='They offer discounts and deals.'>
+All of these publishers have one advantage over Amazon in common. They offer discounts and deals. Subscribe to their newsletter, visit their home page and you will be amazed how much you can save. I have read many books just because of discounts and I have stopped reading books because it just did not hurt to put them away when they did not cost that much. With thoose publishers you can purchase books that are not published yet - PragProg calls them <a href="http://pragprog.com/categories/new">beta</a>, O&#8217;Reilly calls them <a href="http://oreily.com/roughcuts">rough cuts</a>. This is kind of nice when the book is dealing with a fast evolving topic, where the book will be out of date as soon as it is published. On the other hand those books are not published for a certain reason: They are not finished. At PragProg you can even follow the progress of a book that&#8217;s currently written (Click on progress of the <a href="http://pragprog.com/book/dnvim/practical-vim">Practical Vim</a> book and take a look at this great <a href="http://raphaeljs.com">RaphaelJS</a> chart).
+</span></p>
+
+<h2>Tools that make your life easier</h2>
+
+<h3>Instapaper</h3>
+
+<p><a href="http://instapaper.com">Instapaper</a> is one of the best companions of your Kindle. It provides a <em>read later</em> bookmarklet that saves an article to a list. Later you can either export the list manually or you can let Instapaper automatically send an email to your free kindle account when a certain amount of new articles is reached. I even use it to send out <a href="https://twitter.com/#!thomaspeklak/status/183086027668336640">tweets</a> for great articles and save them to my <a href="http://evernote.com">Evernote</a> article backlog.</p>
+
+<h3>Calibre</h3>
+
+<p><a href="http://calibre-ebook.com">Calibre</a> is a great tool to manage your ebooks and send them to your device via USB or email. What I especially like is the ability to convert formats. They offer a great support, too. I once filed a feature request and on the next day it was closed. Way to go!</p>
+
+<h3>Pandoc</h3>
+
+<p>Pandoc can be useful if you have an exotic format such as markdown that you want to convert to epub and via Calibre or <a href="http://www.amazon.com/gp/feature.html?ie=UTF8&amp;docId=1000234621">KindleGen</a> to mobi. A direct conversion to mobi is not supported. I used Pandoc to produce my epub/mobi versions of the excellent <a href="http://openmymind.net/2012/1/23/The-Little-Redis-Book/">The Little Redis Book</a> and <a href="http://openmymind.net/2011/3/28/The-Little-MongoDB-Book/">The Little MongoDB Book</a> books. Pandoc is not needed any more for the two &#8220;Little Books&#8221; since they are available as epub.</p>
+
+<h3>You@free.kindle.com</h3>
+
+<p>And last but not least don&#8217;t forget that you own a user@free.kindle.com address to which you can send books and have Amazon automatically deliver them to your device the next time you connect. Works great with PragProg and Instapaper.</p>
+
+<h2>Bugs</h2>
+
+<p>Once in a while I was plagued with the following bug. It manifests itself in the fact that the Kindle leaks battery as hell. Instead of lasting one to two months the charge is wasted after a week. This can happen when the internal search indexer fails to index a document and tries again and again. If you experience the symptom, simply go to your home screen, enter random characters and hit enter to start a search. If the indexer hangs, you will see that a document is currently being processed.</p>
+
+<p>To solve this delete the document from your Kindle and upload it again. In my case that worked 100%.</p>
+
+<h2>Conclusion</h2>
+
+<p>The Kindle and I had a kind of rough start because the ecosystem was not that great one and a half year ago. But it served me well. In the meantime publishers have noticed that they do not have to solely rely on Amazon or another big company. The tools around ebook readers have grown and matured. If my Kindle would break tomorrow, I would not hesitate to replace it with another Kindle or ebook reader. The advantages over a pbook are too big.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Interesting Thingys #11]]></title>
+    <link href="http://yieldthedog.github.com/blog/2012/04/06/interesting-thingys-11/"/>
+    <updated>2012-04-06T08:54:00+02:00</updated>
+    <id>http://yieldthedog.github.com/blog/2012/04/06/interesting-thingys-11</id>
+    <content type="html"><![CDATA[<p>This week with topics from mobile-development, javascript, HTML5 and quantum-physics ..</p>
+
+<!-- More -->
+
+
+<h3>Mobile Development</h3>
+
+<ul>
+<li><a href="http://alexbw.github.com/novocaine/">Novocaine</a> - high performance audio processing (record, play) for iOS / Mac OS X</li>
+<li><a href="http://ole.michelsen.dk/blog/view-source-on-the-ipad-and-iphone/">&#8216;Show Source&#8217; Bookmarklet</a> - a &#8216;view source&#8217; bookmarklet for the iPhone/iPad.</li>
+</ul>
+
+
+<h3>HTML5</h3>
+
+<ul>
+<li><a href="http://lists.whatwg.org/pipermail/whatwg-whatwg.org/2012-March/035239.html?utm_source=html5weekly&amp;utm_medium=email">Canvas v5 API Gets Path Primitives, Ellipses, Dashed Lines, Hit testing, Text on Path, </a></li>
+<li><a href="http://peter.sh/2012/04/color-input-the-network-information-api-and-chromium-20/?utm_source=html5weekly&amp;utm_medium=email">Color input, the Network Information API and Chromium 20</a></li>
+</ul>
+
+
+<h3>JavaScript</h3>
+
+<ul>
+<li><a href="http://obadger.com/pow/">POW</a> - Algorithmic sunburst generator via CSS, canvas and jQuery.</li>
+<li><a href="http://leanpub.com/asyncjs">Async JavaScript</a> - &#8216;Recipes for Event-Driven Code&#8217;, looks like an interesting ebook.</li>
+<li><a href="http://toolbox.no.de/">toolbox.no.de</a> - toolbox for node.js applications. first website if you&#8217;re looking for node.js plugins/modules/etc</li>
+<li><a href="https://github.com/arturadib/shelljs">shell.js</a> -  Unix shell commands for Node.js</li>
+<li><a href="https://github.com/mde/jake">jake</a> - JavaScript build tool, similar to Make or Rake. Built to work with Node.js.</li>
+<li><a href="http://addyosmani.com/blog/backbone-paginator-new-pagination-components-for-backbone-js/">Backbone Paginator</a></li>
+<li><a href="http://blog.dump.ly/post/19819897856/why-node-js-streams-are-awesome">Why node.js streams are awesome</a></li>
+<li><a href="https://github.com/oslego/shadow-dom-regions/blob/master/Lessons-learned.md">Lessons learned with CSS Regions and Shadow DOM</a></li>
+<li><a href="http://pep.briangonzalez.org/">pep.jquery.js</a> - A lightweight plugin for kinetic-drag on mobile/desktop</li>
+</ul>
+
+
+<h3>CSS</h3>
+
+<ul>
+<li><a href="https://developer.mozilla.org/en-US/demos/detail/paperfold-css/launch">Paperfold CSS</a> - fold divs like paper</li>
+</ul>
+
+
+<h3>Database</h3>
+
+<ul>
+<li><a href="http://antirez.com/post/redis-persistence-demystified.html">Redis Persistence demystified</a> - everything you need to know about persistence in Redis (and comparison to MySql and SQLite).</li>
+</ul>
+
+
+<h3>Operating Systems</h3>
+
+<ul>
+<li><a href="http://dmitry.co/index.php?p=./04.Thoughts/07.%20Linux%20on%208bit">Linux on an 8bit micro</a></li>
+</ul>
+
+
+<h3>OS X</h3>
+
+<ul>
+<li><a href="https://gist.github.com/2260182">OSX for Hackers</a> - lots of useful settings you can enable/disable on the command-line for Mac OS X.</li>
+</ul>
+
+
+<h3>Presentations / Talks / Articles</h3>
+
+<ul>
+<li><a href="http://www.slideshare.net/Wolfr/ios-design-a-case-study">iOS Design</a> - &#8216;a case study&#8217;, nice presentation about the design-process for an iOS application.</li>
+<li><a href="http://www.futuristspeaker.com/2012/02/2-billion-jobs-to-disappear-by-2030/">2 Billion Jobs to Disappear by 2030</a> - interesting article about the future of jobs &amp; industries.</li>
+</ul>
+
+
+<h3>Tools</h3>
+
+<ul>
+<li><a href="https://github.com/ftrvxmtrx/split2flac">split2flac</a> - a tool to split one big AP/FLAC/WAV file into several FLAC/M4A/MP3/OGG/WAV tracks, with tagging, renaming and cover images.</li>
+</ul>
+
+
+<h3>Physics</h3>
+
+<ul>
+<li><a href="http://kottke.org/12/04/richard-feynman-no-ordinary-genius">No ordinary genius</a> - a 95min documentary about Richard Feynman, available on youtube.</li>
+<li><a href="http://www.spektrum.de/alias/quantenphysik/einsteins-unbemerkte-revolution/1147602">Einsteins unbemerkte Revolution</a> - german article about &#8216;Verschränkung&#8217; (entanglement) &amp; &#8216;Spukhafte Fernwirkung&#8217; (action at distance) in qunatum-physics.</li>
+</ul>
+
+
+<h3>Fun</h3>
+
+<ul>
+<li><a href="http://blog.intercom.io/whats-in-a-name/">Is it a condom or is it an Android?</a></li>
+<li><a href="http://www.youtube.com/watch?v=QtJ77qsLrpw">Droste effect in Conway&#8217;s Game of Life</a></li>
+<li><a href="http://techlaze.com/2012/03/richard-stallman-to-launch-his-own-fashion-line/">Richard Stallman to launch his own fashion line</a></li>
+</ul>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Keeping a Design Log]]></title>
+    <link href="http://yieldthedog.github.com/blog/2012/03/30/keeping-a-design-log/"/>
+    <updated>2012-03-30T10:35:00+02:00</updated>
+    <id>http://yieldthedog.github.com/blog/2012/03/30/keeping-a-design-log</id>
+    <content type="html"><![CDATA[<p>Ever wondered why it&#8217;s hard for you to argue design decisions? Ever said &#8220;We should not go for that, we had some problems in past projects, but I have no clue what project or problem that was&#8221; in a meeting. Ever made the same design failure twice? I do, or more precise I did but I quit!</p>
+
+<p>Some time ago I was really annoyed of not being able to argue a design decision, and I&#8217;ve no clue what decision that was, with real arguments but with the words &#8220;We just should not do that!&#8221;. So I started by design/architecture log in which I&#8217;m recording as a retrospective design decisions with their consequences and context.</p>
+
+<!-- more -->
+
+
+<p><img class="full-width" src="https://lh4.googleusercontent.com/-lc6XtAHSKlU/T3NwN7D5CaI/AAAAAAAAAMU/PxMov3JKC-Y/s1069/IMG_9885.jpg "></p>
+
+<p>I&#8217;m using <a href="http://evernote.com">Evernote</a> for keeping my design log because I&#8217;m using Evernote for more or less anything I (think I) need to remember, good search support and it&#8217;s mobile apps. So I have my design log searchable and always with me.</p>
+
+<p>I&#8217;m using the following pattern to record my design decision evaluations</p>
+
+<blockquote><h3>Name</h3>
+
+<p>Name the design decision! That is the tricky part. I&#8217;m doing that at last. The name is important for me because I&#8217;m referring to the name in discussions with team members and in discussions with myself.</p>
+
+<h3>Context</h3>
+
+<p>Outline of the context, what forces are involved, what requirements need to be satisfied including non functional requirements.</p>
+
+<h3>Example</h3>
+
+<p>A short example, that helps me best to understand the &#8220;design decision&#8221;.</p>
+
+<h3>Consequences</h3>
+
+<p>What were the consequences of the design decision? Pros and Cons, reflects the requirements and is in context of the forces that led to that decisions.
+What actions need to be taken to avoid/force this pattern?</p></blockquote>
+
+<p>I&#8217;m keeping track of good and bad decisions here. Consequences for me</p>
+
+<ul>
+<li>Frees my mind</li>
+<li>Makes me argue</li>
+<li>Forces reflection on design decisions, even the ones not recognized as decisions</li>
+<li>I can use wise ass terms like &#8220;Limit your Abstractions&#8221; in meetings</li>
+</ul>
+
+
+<p>What it&#8217;s not</p>
+
+<ul>
+<li>It&#8217;s not my personal design patterns catalog, this is more high level</li>
+</ul>
+
+
+<p>And here it is, one example pattern found in my <em>Design Log</em>, &#8221;<strong>The early pragmatic</strong>&#8221;</p>
+
+<blockquote><h3>Early pragmatic</h3>
+
+<p>When starting a project early decisions I take are too pragmatic. This leads to missing abstractions early in the process. Which leads to an eroding architecture and design, which makes the whole project an inconsistent pile of non decisions.</p>
+
+<h3>Example</h3>
+
+<p>Workflow/State Machine implementation in Project XXX (I left that out for reasons&#8230;)</p>
+
+<h3>Consequences</h3>
+
+<ul>
+<li>Figure out a catalog of limited abstractions early. Decide which to use.</li>
+<li>Reflect on missing abstractions or infrastructure!</li>
+<li>Make it a ritual to check the code for missing abstractions, leaky abstractions or duplications! Use an (automated) duplicate code finder!</li>
+<li>Don&#8217;t over architecture, a clear defined list of abstractions will do it.</li>
+</ul>
+</blockquote>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Interesting Thingys #10]]></title>
+    <link href="http://yieldthedog.github.com/blog/2012/03/29/interesting-thingys-10/"/>
+    <updated>2012-03-29T10:35:00+02:00</updated>
+    <id>http://yieldthedog.github.com/blog/2012/03/29/interesting-thingys-10</id>
+    <content type="html"><![CDATA[<blockquote><p><em>Interesting Thingys</em> is a gazette in the blog that summarizes a week of blog articles, links, specifications, demos, news or more general &#8220;thingys&#8221; that we stumble upon in our journey through the world wide web.</p></blockquote>
+
+<h3>HTML5</h3>
+
+<ul>
+<li><a href="http://jclaes.blogspot.com/2012/03/how-web-application-can-download-and.html">How a web application can download and store over 2GB without you even knowing it</a></li>
+<li><a href="https://github.com/adamdbradley/foresight.js?utm_source=html5weekly&amp;utm_medium=email">Maintaining CSS Style States using &#8220;Infinite&#8221; Transition Delays</a></li>
+</ul>
+
+
+<h3>.NET</h3>
+
+<ul>
+<li><a href="http://arstechnica.com/microsoft/news/2012/03/microsoft-takes-aspnet-mvc-into-the-open-with-community-patches-and-bug-fixes.ars">ASP.NET MVC now OpenSource</a> - .. hosted on CodePlex with GIT support.</li>
+</ul>
+
+
+<h3>JavaScript</h3>
+
+<ul>
+<li><a href="http://eightmedia.github.com/hammer.js/">Hammer.js</a> - A javascript library for multi-touch gestures</li>
+<li><a href="http://www.scirra.com/blog/76/how-to-write-low-garbage-real-time-javascript">How to write low garbage real-time Javascript</a> - A great article describing the pitfalls of the JavaScript garbage collector, when doing game development.</li>
+<li><a href="http://bjouhier.wordpress.com/2012/03/11/fibers-and-threads-in-node-js-what-for/">Fibers and Threads in node.js – what for?</a> - describes the benefits and shortcommings of using fibers and threads within node.js</li>
+</ul>
+
+
+<!-- more -->
+
+
+<ul>
+<li><a href="http://www.html5rocks.com/en/tutorials/developertools/sourcemaps/">Introduction to JavaScript Source Maps - HTML5 Rocks</a></li>
+<li><a href="http://jackrugile.com/lab/fireworks-v1/">HTML5 Canvas + JS Firewors</a> .. oh so pretty!</li>
+<li><a href="http://bebraw.github.com/jswiki/">JSwiki</a> - This wiki indexes libraries and resources available for JavaScript.</li>
+<li><a href="https://github.com/adamdbradley/foresight.js">Foresight.js</a> - checks, whether the user has a highres device like the iPad3, before images are loaded, so you can deliver highres images</li>
+</ul>
+
+
+<h3>Server / Operating Systems</h3>
+
+<ul>
+<li><a href="http://spin.atomicobject.com/2012/02/28/load-balancing-and-reverse-proxying-with-nginx/">Load Balancing and Reverse Proxying with Nginxi</a> - how to use nginx before a rack up or even a PHP app as a reverse proxy</li>
+</ul>
+
+
+<h3>Ruby</h3>
+
+<ul>
+<li><a href="http://blog.plataformatec.com.br/2012/03/barebone-models-to-use-with-actionpack-in-rails-4-0/">Barebone models to use with ActionPack in Rails 4.0</a></li>
+<li><a href="http://blog.railsware.com/2012/03/13/ruby-2-0-enumerablelazy/">Ruby 2.0 Enumerable::Lazy</a> - Lazy enumerables will be landing in Ruby 2.0</li>
+<li><a href="http://0xfe.muthanna.com/rubyrefresher/">The Ruby Refresher</a> - if haven&#8217;t looked at Ruby for a while, take a look at The Ruby Refresher</li>
+<li><a href="http://rubysource.com/functional-programming-techniques-with-ruby-part-ii/">Function Ruby Programming Techniques</a> - methods, procs, blocks and lambdas in ruby!</li>
+<li><a href="https://github.com/cinchrb/cinch">Cinch</a> - the irc bot building framework in ruby.</li>
+</ul>
+
+
+<h3>Objective-C</h3>
+
+<ul>
+<li><a href="http://blog.securemacprogramming.com/2012/03/using-objective-c-on-the-server/">ObjC on the Server</a> - yes, it&#8217;s possible!</li>
+</ul>
+
+
+<h3>IDEs / Editors</h3>
+
+<ul>
+<li><a href="http://alexyoung.org/2011/12/19/build-an-ide-with-tmux-and-vim/">Build an IDE with tmux and vim</a></li>
+<li><a href="http://notepad-plus-plus.org/news/notepad-6.0-release.html">Notepad++ 6 released</a></li>
+</ul>
+
+
+<h3>CommandLine</h3>
+
+<ul>
+<li><a href="http://johnkpaul.tumblr.com/post/19841381351/su-vs-sudo-su-vs-sudo-u-i">su, sudo su, sudo -u -i</a> - how to get into a shell as another user with no password.</li>
+</ul>
+
+
+<h3>Agile</h3>
+
+<ul>
+<li><a href="http://williamedwardscoder.tumblr.com/post/20054342100/agile-is-a-sham">Agile is a sham</a> - good read about a strong opinion.</li>
+</ul>
+
+
+<h3>Presentations / Talks</h3>
+
+<ul>
+<li><a href="http://www.youtube.com/watch?v=zH5bJSG0DZk">Google Developers SXSW Lightning Talks</a></li>
+</ul>
+
+
+<h3>Physics / Science</h3>
+
+<ul>
+<li><a href="http://www.youtube.com/watch?feature=player_embedded&amp;v=7SWvDHvWXok">Questions No One Knows the Answers to</a> - TED-Ed(uction) video worth watching (for the curious child in you..)</li>
+<li><a href="http://www.tricorderproject.org/">Tricorder Project</a> - a tricorder comes to life.</li>
+</ul>
+
+
+<h3>Presentations / Talks</h3>
+
+<ul>
+<li><a href="http://www.youtube.com/watch?v=zH5bJSG0DZk">Google Developers SXSW Lightning Talks</a></li>
+<li><a href="http://www.youtube.com/watch?v=hdTxeR90_1E">Nicholas Zarkas - Progressive Enhancement 2.0</a></li>
+</ul>
+
+
+<h3>Fun</h3>
+
+<ul>
+<li><a href="http://twitter.com/#!/_tarun/status/184513954524037122">http response codes for dummies</a> .. :)</li>
+</ul>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Interesting Thingys #9]]></title>
+    <link href="http://yieldthedog.github.com/blog/2012/03/22/interesting-thingys-9/"/>
+    <updated>2012-03-22T10:35:00+01:00</updated>
+    <id>http://yieldthedog.github.com/blog/2012/03/22/interesting-thingys-9</id>
+    <content type="html"><![CDATA[<h3>HTML5</h3>
+
+<ul>
+<li><a href="http://www.hunterdavis.com/resume/tunerdemo/tuner.html">Strobe Tuner</a> - a <a href="http://en.wikipedia.org/wiki/Fast_Fourier_transform">FFT</a>/Pitch Detection demo using HTML5 Audio/webGL.</li>
+</ul>
+
+
+<h3>Javascript</h3>
+
+<ul>
+<li><a href="http://accidentaltechnologist.com/javascript/7-resources-every-javascript-developer-should-know/">Javascript Resources</a> - .. every javascript developer should know.</li>
+<li><a href="http://joelb.me/scrollpath/">jquery scroll path</a> - a jquery plugin to manipulate the scroll path.</li>
+<li><a href="http://jhollingworth.github.com/bootstrap-wysihtml5/">wysihtml5</a> - wysiwyg meets twitter bootstrap.</li>
+<li><a href="http://hsivaram.com/tech/2012/03/15/preview-impressionist-a-visual-editor-for-impress-js/">Impressionist</a> - a visual editor for impress.js</li>
+</ul>
+
+
+<!-- more -->
+
+
+<h3>C</h3>
+
+<ul>
+<li><a href="http://www.mindscapehq.com/blog/index.php/2012/03/18/what-else-is-new-in-c-5/">C# 5</a> - new stuff in C# 5.</li>
+</ul>
+
+
+<h3>Server / Operating Systems</h3>
+
+<ul>
+<li><a href="http://www.markshuttleworth.com/archives/1072">Ubuntu vs RHEL in enterprise computing</a> - Ubuntu takes over RHEL in enterprise computing.</li>
+<li><a href="https://github.com/h5bp/server-configs">HTML5 Boilerplate - Server Configs</a> - Boilerplate server-configs for IIS, Apache, nginx, lighttpd, node.js, etc</li>
+</ul>
+
+
+<h3>OpenSource</h3>
+
+<ul>
+<li><a href="http://www.softwarequalityconnection.com/2012/03/14-ways-to-contribute-to-open-source-without-being-a-programming-genius-or-a-rock-star/">14 Ways to Contribute to Open Source</a> -  without being a Programming
+Genius or a Rock Star.</li>
+</ul>
+
+
+<h3>CSS</h3>
+
+<ul>
+<li><a href="http://updates.html5rocks.com/2012/03/A-New-Experimental-Feature-style-scoped">Scoped styles</a></li>
+</ul>
+
+
+<h3>Tools</h3>
+
+<ul>
+<li><a href="http://www.devthought.com/2012/03/10/chrome-spdy-indicator/">SPDY indicator for chrome</a></li>
+</ul>
+
+
+<h3>Mobile Development</h3>
+
+<ul>
+<li><a href="http://code.google.com/chrome/mobile/docs/debugging.html">remote debugging for chrome on android</a> - debug chrome for android with the same chrome developer tools you use to debug on your desktop.</li>
+</ul>
+
+
+<h3>Git</h3>
+
+<ul>
+<li><a href="https://github.com/Gazler/githug">Githug</a> - a practical/playful way of learning git.</li>
+</ul>
+
+
+<h3>Presentations / Talks</h3>
+
+<ul>
+<li><a href="http://www.ted.com/talks/avi_rubin_all_your_devices_can_be_hacked.html">Avi Rubin on TED</a> - Avi Rubin &#8220;Every device can be hacked. Your smartphone, car, pacemaker ..&#8221;</li>
+</ul>
+
+
+<h3>Physics</h3>
+
+<ul>
+<li><a href="http://beenposh.tumblr.com/post/19624761395/richard-feynman-lectures-at-cornell-the">Richard Feynman Lectures</a> - .. at Cornell: &#8220;The Character of Physical Law&#8221; (ca 1960s)&#8230; absolutely worth watching.</li>
+</ul>
+
+
+<h3>Fun</h3>
+
+<ul>
+<li><a href="http://www.hendrikvh.com/files/NyanSaverMac.php">nyan cat screensaver</a> - for mac.</li>
+</ul>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Interesting Thingys #8]]></title>
+    <link href="http://yieldthedog.github.com/blog/2012/03/13/interesting-thingys-8/"/>
+    <updated>2012-03-13T08:54:00+01:00</updated>
+    <id>http://yieldthedog.github.com/blog/2012/03/13/interesting-thingys-8</id>
+    <content type="html"><![CDATA[<blockquote><p><em>Interesting Thingys</em> is a gazette in the blog that summarizes a week of blog articles, links, specifications, demos, news or more general &#8220;thingys&#8221; that we stumble upon in our journey through the world wide web.</p></blockquote>
+
+<h3>Mobile Development</h3>
+
+<ul>
+<li><a href="http://www.sencha.com/blog/announcing-sencha-touch-2">Sencha Touch</a> - a HTML5 Mobile Application Framework, version 2.0 released.</li>
+</ul>
+
+
+<h3>CSS</h3>
+
+<ul>
+<li><a href="http://www.zeldman.com/2012/03/01/replacing-the-9999px-hack-new-image-replacement">Replacing the -9999px hack (aka new image replacement)</a></li>
+<li><a href="http://davidwalsh.name/css4-preview">CSS4 (!) Selectors</a></li>
+<li><a href="http://www.w3.org/TR/2011/WD-selectors4-20110929/">CSS 4 Selectors</a> - the non shortened version</li>
+</ul>
+
+
+<!-- more -->
+
+
+<h3>HTML5</h3>
+
+<ul>
+<li><a href="http://www.scirra.com/arcade/addicting-rotary-games/848/airscape">airscape</a> - Very addicting (&amp; rotating) HTML5 Game.</li>
+</ul>
+
+
+<h3>Ruby / Rails / ASP MVC</h3>
+
+<ul>
+<li><a href="http://chadmoran.com/posts/mass-assignment-vulnerability-isn-quo-t-just-for-rails">mass-assignment vulnerability</a> - Article about Mass-Assignment Vulnerability in Rails (&#8220;Github got hacked!&#8221;) .. Und why other web frameworks are &#8220;vulnarable&#8221; to this weakness too.</li>
+<li><a href="http://www.scottw.com/unwind">unwind</a> - GEM: take a url and figure out what it actually points to .. Useful for all this t.co/bit.ly/etc URLs</li>
+</ul>
+
+
+<h3>Javascript</h3>
+
+<ul>
+<li><a href="http://html2canvas.hertzen.com">html2canvas</a> - Take a screenshot from a webpage.</li>
+<li><a href="https://github.com/osuushi/Smooth.js">smooth.js</a> - Library for smooth array functions, like interpolation, nearest neighbour, linear, cubic, etc .. Neat!</li>
+</ul>
+
+
+<h3>Webserver / Databases</h3>
+
+<ul>
+<li><a href="http://spin.atomicobject.com/2012/02/28/load-balancing-and-reverse-proxying-with-nginx/">Load Balancing &amp; Reverse Proxying with nginx</a></li>
+<li><a href="http://highlyscalable.wordpress.com/2012/03/01/nosql-data-modeling-techniques/">How to model NoSQL databases</a></li>
+</ul>
+
+
+<h3>PHP</h3>
+
+<ul>
+<li><a href="http://www.php.net/archive/2012.php#id2012-03-01-1">PHP 5.4.0 released! </a> - New features: traits, shortened array syntax &amp; a built-in webserver for testing!.</li>
+</ul>
+
+
+<h3>Team Building</h3>
+
+<ul>
+<li><a href="http://speakerdeck.com/u/searls/p/the-mythical-team-month">Small teams go faster</a> - nice presentation.</li>
+</ul>
+
+
+<h3>C</h3>
+
+<ul>
+<li><a href="http://www.chiark.greenend.org.uk/~sgtatham/mp/">Metaprogramming custom control structures in C </a> - .. wow</li>
+</ul>
+
+
+<h3>Command Line</h3>
+
+<ul>
+<li><a href="http://pragprog.com/book/bhtmux/tmux">tmux</a> - screen is dead, long live tmux!</li>
+<li><a href="http://laktek.com/2012/03/12/curl-tips-for-daily-use/">curl</a> - tips&#8217;n&#8217;tricks.</li>
+</ul>
+
+
+<h3>Useful Stuff</h3>
+
+<ul>
+<li><a href="http://dev.umpirsky.com/list-of-all-countries-in-all-languages-and-all-data-formats/">List of Countries in all languages in various formats</a></li>
+<li><a href="http://www.patrick-wied.at/blog/how-to-correctly-use-code-you-didnt-write">How to deal with code you don&#8217;t write - Interesting</a></li>
+</ul>
+
+
+<h3>Fun / Interesting</h3>
+
+<ul>
+<li><a href="http://crankypm.com/2011/03/guest-post-stages-debugging/">The 5 Stages of Debugging</a> -  .. stage 1: &#8220;Ignore it&#8221;</li>
+<li><a href="http://www.catonmat.net/blog/why-vim-uses-hjkl-as-arrow-keys/">why VI uses the hjkl keys as arrow keys</a> - By the way: I want this T-Shirt!</li>
+</ul>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Configure WebStorm to run and debug Mocha tests]]></title>
+    <link href="http://yieldthedog.github.com/blog/2012/03/12/configure-webstorm-to-run-and-debug-mocha-tests/"/>
+    <updated>2012-03-12T13:05:00+01:00</updated>
+    <id>http://yieldthedog.github.com/blog/2012/03/12/configure-webstorm-to-run-and-debug-mocha-tests</id>
+    <content type="html"><![CDATA[<p>First of all I have to admit that I&#8217;m an IDE guy. I&#8217;m using command line tools, Vi , have gnu tools installed on my Windows box and so on. That brings me to the next thing I have to admit: I&#8217;m using Windows.</p>
+
+<p>I love using <a href="http://www.jetbrains.com/webstorm/">WebStorm</a> for tinkering with Node.js. I love WebStorm for two reasons:</p>
+
+<ul>
+<li>The JavaScript syntax completion is somehow crazy clever</li>
+<li>It allows me to stick with my Eclipse keyboard schema</li>
+</ul>
+
+
+<!-- more -->
+
+
+<p>The latter point is particullary important to me, since I&#8217;m using Eclipse and Visual Studio in my job environment and I don&#8217;t have enough brain to remember a third keyboard shortcut schema. I guess, I&#8217;ll blog about that in a future post.</p>
+
+<p>I was using <a href="https://github.com/caolan/nodeunit">Nodeunit</a> for (unit) testing, when I started with Node.js. While Nodeunit works quite fine, it&#8217;s limited to TDD style tests. Some time ago when coding on <a href="http://subsonicproject.com">SubSonic</a> I began to like the endorsed test method name syntax in the project, that uses the word <em>&#8220;should&#8221;</em> somewhere in the test method name. That means a unit test, that was named <code>testSquareRootOfZero</code> would become <code>squareRootOfZeroShouldThrowAnException</code>. This transports more meaning than <code>testSquareRootOfZero</code>. As a side effect of this naming schema I was programming (unit) tests slick like chicken shit. For this reason and for pure curiosity I migrated some unit tests to <a href="http://visionmedia.github.com/mocha/">Mocha</a> that offers a slick BDD style syntax just out of the box.</p>
+
+<p>But I had a slight problem with the Mocha tests in WebStorm: lack of tools support. This does not really matter for writing the tests nor for running the tests (Mocha has a wonderful console test runner!). But when tests start to fail, I want to attach a debugger! And I want to attach my WebStorm debugger with a ton of cool features!</p>
+
+<p>So with a little bit of hand crafting and reading Mocha code it&#8217;s quite easy to attach the WebStorm debugging tools to Mocha tests.</p>
+
+<p><strong>First install Mocha</strong></p>
+
+<pre><code>npm install mocha
+</code></pre>
+
+<p>You may want to install Mocha globally</p>
+
+<pre><code>npm -g install mocha 
+</code></pre>
+
+<p><strong>Next attach the debugger:</strong></p>
+
+<p>In WebStorm via <code>Run-&gt;Edit Configurations</code> add a new configuration and point the &#8220;Path to node App JS File&#8221; to <code>\_mocha</code> (can be found under node_modules in case installed locally or under global modules). Pointing the run configuration to _mocha is quite important since the main mocha binary spawns a new process you cannot connect via a debugger!</p>
+
+<p>Et voilà - Debugging Mocha tests in WebStorm!</p>
+
+<p>Drawbacks: The output is somehow broken, so I&#8217;m using the WebStorm runner for debugging while using the mocha console runner for pretty output and continuous tests via watch.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Interesting Thingys #7]]></title>
+    <link href="http://yieldthedog.github.com/blog/2012/03/05/interesting-thingys-7/"/>
+    <updated>2012-03-05T08:54:00+01:00</updated>
+    <id>http://yieldthedog.github.com/blog/2012/03/05/interesting-thingys-7</id>
+    <content type="html"><![CDATA[<blockquote><p><em>Interesting Thingys</em> is a gazette in the blog that summarizes a week of blog articles, links, specifications, demos, news or more general &#8220;thingys&#8221; that we stumble upon in our journey through the world wide web.</p></blockquote>
+
+<h3>HTML5/CSS</h3>
+
+<ul>
+<li><a href="http://zoomzum.com/6-best-html5css3-presentation-frameworks/">presentation frameworks</a> -  using javascript + css3</li>
+<li><a href="http://cggallant.blogspot.com/2010/08/introduction-to-html-5-web-workers.html">web-worker in HTML5</a> - Old but still worthy to read:</li>
+</ul>
+
+
+<h3>Mobile</h3>
+
+<ul>
+<li><a href="http://johnkpaul.tumblr.com/post/18681089281/scale-to-mobile-browser-with-pictures">scale to mobile browser</a> - Short description of &#8220;viewport&#8221; meta tag und how mobile-browser scale</li>
+</ul>
+
+
+<!-- more -->
+
+
+<h3>Allgemein</h3>
+
+<ul>
+<li><a href="http://stackoverflow.com/questions/141525/absolute-beginners-guide-to-bit-shifting">absolute beginners guide to bit shifting</a> - Stack Overflow answer to a Bit-Shifting question..</li>
+<li><a href="http://www.wallix.org/2012/02/29/pylogsparser-visualizing-ssh-attacks-in-video/">visualize ssh attacks</a> - Little tutorial how to visualize SSH-Attacks.</li>
+</ul>
+
+
+<h3>Ruby</h3>
+
+<ul>
+<li><a href="http://zachholman.com/talk/ruby-patterns">Ruby/Rails Patterns of Github</a></li>
+<li><a href="http://homakov.blogspot.com/2012/03/how-to.html">github got hacked!</a> - Short &#8220;How to&#8221; that describes how Egor Homakov (watch the image on the right) &#8220;hacked&#8221; Github (Rails know-how needed)</li>
+</ul>
+
+
+<h3>Javascript</h3>
+
+<ul>
+<li><a href="http://soulwire.co.uk/coffeephysics/">CoffeeScript meets Physics</a></li>
+<li><a href="http://badassjs.com/post/18503583619/coffeephysics-a-fast-new-physics-engine-written-in">CoffeeScript meets Physics 2</a></li>
+<li><a href="http://towerjs.org/">tower.js</a> - A web stack framework for NodeJS (with CoffeeScript, Jasmine, Stylus .. Plus MongoDB &amp; Redis).</li>
+<li><a href="http://blog.nodejs.org/2012/02/27/managing-node-js-dependencies-with-shrinkwrap/">shrinkwrap</a> - How to manage node.js dependencies using Shrinkwrap</li>
+<li><a href="http://radio.uxder.com/">radio</a> - Library for Pub/Sub in Javascript&#8230; (the observer pattern).</li>
+</ul>
+
+
+<h3>Tools</h3>
+
+<ul>
+<li><a href="https://github.com/thedjpetersen/subway">subwav</a> - Web Based IRC Client</li>
+<li><a href="http://www.in-ulm.de/~mascheck/various/uuoc/">Unix Tools: cat</a></li>
+<li><a href="http://www.andismith.com/blog/2012/02/firefox-developer-tools/">Article about the new Firefox Developer Tools</a></li>
+</ul>
+
+
+<h3>Design</h3>
+
+<ul>
+<li><a href="http://speakerdeck.com/u/destraynor/p/designing-dashboards-data-visualisations-in-web-apps">Data Visualization in WebApps (Presentation)</a></li>
+<li><a href="http://sachagreif.com/making-of-sharypic-for-iphone/">makring of SharyPic for iphone)</a> - Nice Article about the design process fof an iPhone App (Example used: SharyPic App.</li>
+</ul>
+
+
+<h3>Fun (&#8230; If only)</h3>
+
+<ul>
+<li><a href="http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2012/03/02/BUIO1NFAMI.DTL">Are you a &#8220;BroGrammer&#8221;?</a> &#8230;</li>
+</ul>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Interesting Thingys #6]]></title>
+    <link href="http://yieldthedog.github.com/blog/2012/02/27/interesting-thingys-6/"/>
+    <updated>2012-02-27T08:54:00+01:00</updated>
+    <id>http://yieldthedog.github.com/blog/2012/02/27/interesting-thingys-6</id>
+    <content type="html"><![CDATA[<blockquote><p><em>Interesting Thingys</em> is a gazette in the blog that summarizes a week of blog articles, links, specifications, demos, news or more general &#8220;thingys&#8221; that we stumble upon in our journey through the world wide web.</p></blockquote>
+
+<h3>HTML/CSS</h3>
+
+<ul>
+<li><a href="http://html5please.com/">html5please.com</a> - Explore html5 features (categories: supported by browsers, use with caution, fallbacks, polyfills, &#8230;)</li>
+<li><a href="https://github.com/emorikawa/boilerstrap">boilerstrap</a> - Template for HTML5Boilerplate and Twitters Bootstrap CSS (+modernizr, js compression, coffeescript support, sass, less)&#8230; Plus rake-tasks.</li>
+<li><a href="http://tumultco.com/hype/">hype</a> - Interesting editor (GUI) for HTML5/CSS3 Keyframe animations &amp; animated content&#8230; (sorry: mac only)</li>
+<li><a href="http://shinydemos.com/">Shinydemos</a> - New html5 showcase by opera.</li>
+</ul>
+
+
+<!-- more -->
+
+
+<h3>Android + iOS</h3>
+
+<ul>
+<li><a href="http://picture.io/photopickerplus">photopickerplus</a> - free Cross Platform Photopicker Library .. &#8220;pick photo from your favorite photo services, not just from your locally stored ones&#8221;</li>
+</ul>
+
+
+<h3>Javascript</h3>
+
+<ul>
+<li><a href="http://www.sequencejs.com/">sequencejs</a> - Nice jQuery Slider (with parallax effect).</li>
+<li><a href="https://github.com/maccman/ace">ace</a> - Sinatra-style framework for node appications</li>
+<li><a href="http://oscargodson.github.com/EpicEditor/">EpicEditor</a> - A live Markdown Editor in Javascript</li>
+</ul>
+
+
+<h3>Ruby</h3>
+
+<ul>
+<li><a href="https://github.com/paulasmuth/recommendify">recommendify</a> - Recommendation engine in ruby &amp; redis .. Something like &#8220;user that viewed this video also likes&#8230;&#8221;</li>
+<li><a href="https://github.com/fxn/i-told-you-it-was-private">i told you it was private</a> - A ruby module for &#8220;really private methods&#8221;&#8230;</li>
+</ul>
+
+
+<h3>General/Thingys</h3>
+
+<ul>
+<li><a href="http://woolam.org/github-recommendation-service/">github recommendation service</a> - Discover new github repos based on watcher relationships.</li>
+<li><a href="http://xprogramming.com/articles/kate-oneal-what-is-scrum/">what is scrum?!</a> - Long article about &#8220;what is scrum?&#8221; and how to apply it</li>
+<li><a href="http://caines.ca/blog/programming/the-sun-is-setting-on-rails-style-mvc-frameworks/">Server-side MVC Frameworks will die for client-side apps</a> .. apparently.</li>
+</ul>
+
+
+<h3>Tools</h3>
+
+<ul>
+<li><a href="http://www.aboutlinux.info/2005/10/10-seconds-guide-to-bash-shell.html">Bash scripts</a> -  in 10 seconds&#8230; or minutes&#8230; or&#8230;</li>
+<li><a href="http://vimbits.com/">vimbits</a> - upvote/downvote site for vimrc tips&#8217;n&#8217;tricks.</li>
+</ul>
+
+
+<h3>Fun</h3>
+
+<ul>
+<li><a href="http://accessmaincomputerfile.net/">accessmaincomputerfile</a> - A visual study of computer GUI in cinema</li>
+<li><a href="http://visualidiot.com/articles/social-apps">social-apps</a> - The new social app: &#8220;scares off ghosts&#8221; &amp; &#8220;hipster-optimised&#8221; :)</li>
+</ul>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[MSSql to MySql migration with a little help of Rails and PHP]]></title>
+    <link href="http://yieldthedog.github.com/blog/2012/02/22/mssql-to-mysql-migration-with-rails-and-php/"/>
+    <updated>2012-02-22T00:00:00+01:00</updated>
+    <id>http://yieldthedog.github.com/blog/2012/02/22/mssql-to-mysql-migration-with-rails-and-php</id>
+    <content type="html"><![CDATA[<h2>The problem</h2>
+
+<p>You want to migrate a MSSql database to MySql. You have rather large schema and don&#8217;t want to do it by hand.</p>
+
+<!-- more -->
+
+
+<h2>Possible solutions</h2>
+
+<h3>Mysql Migration Toolkit</h3>
+
+<p>The <a href="http://dev.mysql.com/doc/migration-toolkit/en/:">MySql Migration Toolkit</a> look promising at first. You can use a comfortable GUI to select what you want to migrate. The first problems arose, when the toolkit tried to migrate the schema. Obviously my MSSql schema was not compatible with MySql, I found no way to manually correct this errors, so this was a dead end. I have the feeling that the work on this tool has stopped, so maybe that&#8217;s a reason it failed.</p>
+
+<h3>MySql ODBC Connector</h3>
+
+<p>When you install the <a href="http://dev.mysql.com/downloads/connector/odbc/">ODBC Connector</a> for MySql, theory claims, that you can select it from the SQL Management Studio to export data to it. However, the reality was a bit different. When I tried it, there was no MySql entry. Bad luck.</p>
+
+<h2>What worked</h2>
+
+<p>After 6 hours of trial and error and no success with any tools, I gave up.</p>
+
+<p>As the project was based on Rails, I used <code>rake db:schema:dump</code> to get the schema definition from the MSSql server in Ruby code. Afterwards I changed the connection to the MySql server and tried <code>rake db:schema:load</code>. As expected I had no luck, but with the big difference, that now I had some code that I could mangle and massage.</p>
+
+<p>There were only problems that were solved in mere seconds:</p>
+
+<ul>
+<li>an index on varchar(9999)</li>
+<li>unsupported type, where another one could be used</li>
+<li>&#8230;</li>
+</ul>
+
+
+<p>So now I had my schema ready in MySql waiting for some data. As I&#8217;m a long time PHP programmer, too, I knew that PHP lets you easily connect to MySql and MSSql with nearly the same patterns. So I gave it a try and came up with this console script:</p>
+
+<figure class='code'> <div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+<span class='line-number'>2</span>
+<span class='line-number'>3</span>
+<span class='line-number'>4</span>
+<span class='line-number'>5</span>
+<span class='line-number'>6</span>
+<span class='line-number'>7</span>
+<span class='line-number'>8</span>
+<span class='line-number'>9</span>
+<span class='line-number'>10</span>
+<span class='line-number'>11</span>
+<span class='line-number'>12</span>
+<span class='line-number'>13</span>
+<span class='line-number'>14</span>
+<span class='line-number'>15</span>
+<span class='line-number'>16</span>
+<span class='line-number'>17</span>
+<span class='line-number'>18</span>
+<span class='line-number'>19</span>
+<span class='line-number'>20</span>
+<span class='line-number'>21</span>
+<span class='line-number'>22</span>
+<span class='line-number'>23</span>
+<span class='line-number'>24</span>
+<span class='line-number'>25</span>
+<span class='line-number'>26</span>
+<span class='line-number'>27</span>
+<span class='line-number'>28</span>
+<span class='line-number'>29</span>
+<span class='line-number'>30</span>
+<span class='line-number'>31</span>
+<span class='line-number'>32</span>
+<span class='line-number'>33</span>
+<span class='line-number'>34</span>
+<span class='line-number'>35</span>
+<span class='line-number'>36</span>
+<span class='line-number'>37</span>
+<span class='line-number'>38</span>
+<span class='line-number'>39</span>
+<span class='line-number'>40</span>
+<span class='line-number'>41</span>
+<span class='line-number'>42</span>
+<span class='line-number'>43</span>
+<span class='line-number'>44</span>
+<span class='line-number'>45</span>
+<span class='line-number'>46</span>
+<span class='line-number'>47</span>
+<span class='line-number'>48</span>
+<span class='line-number'>49</span>
+<span class='line-number'>50</span>
+</pre></td><td class='code'><pre><code class='ruby'><span class='line'><span class="o">&lt;</span><span class="p">?</span><span class="n">php</span>
+</span><span class='line'>
+</span><span class='line'><span class="c1">#Connection variables :</span>
+</span><span class='line'><span class="vg">$mysql_host</span> <span class="o">=</span> <span class="s1">&#39;&#39;</span><span class="p">;</span>
+</span><span class='line'><span class="vg">$mysql_user</span> <span class="o">=</span> <span class="s1">&#39;&#39;</span><span class="p">;</span>
+</span><span class='line'><span class="vg">$mysql_password</span> <span class="o">=</span> <span class="s1">&#39;&#39;</span><span class="p">;</span>
+</span><span class='line'><span class="vg">$mysql_database</span> <span class="o">=</span> <span class="s1">&#39;&#39;</span><span class="p">;</span>
+</span><span class='line'><span class="vg">$mysql_link</span> <span class="o">=</span> <span class="n">mysql_connect</span><span class="p">(</span>
+</span><span class='line'>  <span class="vg">$mysql_host</span><span class="p">,</span>
+</span><span class='line'>  <span class="vg">$mysql_user</span><span class="p">,</span>
+</span><span class='line'>  <span class="vg">$mysql_password</span><span class="p">);</span>
+</span><span class='line'>
+</span><span class='line'><span class="vg">$mssql_host</span> <span class="o">=</span> <span class="s1">&#39;&#39;</span><span class="p">;</span>
+</span><span class='line'><span class="vg">$mssql_user</span> <span class="o">=</span> <span class="s1">&#39;&#39;</span><span class="p">;</span>
+</span><span class='line'><span class="vg">$mssql_password</span> <span class="o">=</span> <span class="s1">&#39;&#39;</span><span class="p">;</span>
+</span><span class='line'><span class="vg">$mssql_database</span> <span class="o">=</span> <span class="s1">&#39;&#39;</span><span class="p">;</span>
+</span><span class='line'><span class="vg">$mssql_link</span> <span class="o">=</span> <span class="n">mssql_connect</span><span class="p">(</span>
+</span><span class='line'>  <span class="vg">$mssql_host</span><span class="p">,</span>
+</span><span class='line'>  <span class="vg">$mssql_user</span><span class="p">,</span>
+</span><span class='line'>  <span class="vg">$mssql_password</span><span class="p">);</span>
+</span><span class='line'>
+</span><span class='line'><span class="vg">$tables</span> <span class="o">=</span> <span class="n">array</span><span class="p">(</span><span class="sr">/* LIST THE TABLES YOU WANT TO MIGRATE HERE */</span><span class="p">);</span>
+</span><span class='line'>
+</span><span class='line'><span class="c1">#Select the databases:</span>
+</span><span class='line'><span class="n">mysql_select_db</span><span class="p">(</span><span class="vg">$mysql_database</span><span class="p">);</span>
+</span><span class='line'><span class="n">mssql_select_db</span><span class="p">(</span><span class="vg">$mssql_database</span><span class="p">);</span>
+</span><span class='line'>
+</span><span class='line'><span class="c1">#Migrate the data:</span>
+</span><span class='line'><span class="n">foreach</span><span class="p">(</span><span class="vg">$tables</span> <span class="n">as</span> <span class="vg">$table</span><span class="p">){</span>
+</span><span class='line'>
+</span><span class='line'>  <span class="vg">$m_res</span> <span class="o">=</span> <span class="n">mssql_query</span><span class="p">(</span><span class="s1">&#39;select * from &#39;</span><span class="o">.</span> <span class="vg">$table</span><span class="p">);</span>
+</span><span class='line'>
+</span><span class='line'>  <span class="vg">$j</span> <span class="o">=</span> <span class="mi">0</span><span class="p">;</span>
+</span><span class='line'>
+</span><span class='line'>  <span class="k">while</span><span class="p">(</span><span class="vg">$rec</span> <span class="o">=</span> <span class="n">mssql_fetch_array</span><span class="p">(</span><span class="vg">$m_res</span><span class="p">,</span> <span class="no">MSSQL_NUM</span><span class="p">)){</span>
+</span><span class='line'>      <span class="n">echo</span> <span class="vg">$table</span><span class="p">,</span> <span class="s1">&#39; &gt;&gt; &#39;</span><span class="p">,</span> <span class="vg">$j</span><span class="o">++</span><span class="p">,</span> <span class="s2">&quot;</span><span class="se">\n</span><span class="s2">&quot;</span><span class="p">;</span>
+</span><span class='line'>      <span class="vg">$cols</span> <span class="o">=</span> <span class="n">count</span><span class="p">(</span><span class="vg">$rec</span><span class="p">);</span>
+</span><span class='line'>      <span class="k">for</span><span class="p">(</span><span class="vg">$i</span> <span class="o">=</span> <span class="mi">0</span><span class="p">;</span> <span class="vg">$i</span> <span class="o">&lt;</span> <span class="vg">$cols</span><span class="p">;</span> <span class="vg">$i</span><span class="o">++</span><span class="p">){</span>
+</span><span class='line'>          <span class="k">if</span><span class="p">(</span><span class="n">is_string</span><span class="p">(</span><span class="vg">$rec</span><span class="o">[</span><span class="vg">$i</span><span class="o">]</span><span class="p">)){</span>
+</span><span class='line'>              <span class="vg">$rec</span><span class="o">[</span><span class="vg">$i</span><span class="o">]</span> <span class="o">=</span> <span class="s2">&quot;&#39;&quot;</span> <span class="o">.</span> <span class="n">mysql_real_escape_string</span><span class="p">(</span><span class="vg">$rec</span><span class="o">[</span><span class="vg">$i</span><span class="o">]</span><span class="p">)</span> <span class="o">.</span> <span class="s2">&quot;&#39;&quot;</span><span class="p">;</span>
+</span><span class='line'>          <span class="p">}</span>
+</span><span class='line'>          <span class="k">if</span><span class="p">(</span><span class="n">is_null</span><span class="p">(</span><span class="vg">$rec</span><span class="o">[</span><span class="vg">$i</span><span class="o">]</span><span class="p">))</span> <span class="vg">$rec</span><span class="o">[</span><span class="vg">$i</span><span class="o">]</span> <span class="o">=</span> <span class="s1">&#39;NULL&#39;</span><span class="p">;</span>
+</span><span class='line'>      <span class="p">}</span>
+</span><span class='line'>
+</span><span class='line'>      <span class="vg">$query</span> <span class="o">=</span> <span class="s1">&#39;insert into &#39;</span><span class="o">.</span><span class="vg">$table</span><span class="o">.</span><span class="s2">&quot; values (&quot;</span> <span class="o">.</span> <span class="n">implode</span><span class="p">(</span><span class="s2">&quot;,&quot;</span><span class="p">,</span> <span class="vg">$rec</span><span class="p">)</span> <span class="o">.</span> <span class="s2">&quot;);&quot;</span><span class="p">;</span>
+</span><span class='line'>      <span class="vg">$res</span> <span class="o">=</span> <span class="n">mysql_query</span><span class="p">(</span><span class="vg">$query</span><span class="p">);</span>
+</span><span class='line'>      <span class="k">if</span><span class="p">(</span><span class="o">!</span><span class="vg">$res</span><span class="p">)</span> <span class="n">echo</span> <span class="vg">$query</span><span class="p">,</span> <span class="s1">&#39; &gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt; &#39;</span><span class="p">,</span> <span class="n">mysql_error</span><span class="p">(),</span> <span class="s2">&quot;</span><span class="se">\n</span><span class="s2">&quot;</span><span class="p">;</span>
+</span><span class='line'>  <span class="p">}</span>
+</span><span class='line'>
+</span><span class='line'><span class="p">}</span>
+</span></code></pre></td></tr></table></div></figure>
+
+
+<p>Probably this is not the most performant way to migrate, simply due to the fact that there are no batch inserts, but it lets me easily monitor  errors and progress. The whole process - all errors included - took me less time and energy, that I wasted on research. Being a programmer I normally favor coding over tools. Sometimes the effort isn&#8217;t worth it, this time it was.</p>
+
+<p>My approach should work on any project and is not bound to MySql and MSSql. The solution is only limited by the database connectors that are available for PHP and Ruby (Rails).</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Interesting Thingys #5]]></title>
+    <link href="http://yieldthedog.github.com/blog/2012/02/21/interesting-thingys-5/"/>
+    <updated>2012-02-21T08:54:00+01:00</updated>
+    <id>http://yieldthedog.github.com/blog/2012/02/21/interesting-thingys-5</id>
+    <content type="html"><![CDATA[<blockquote><p><em>Interesting Thingys</em> is a gazette in the blog that summarizes a week of blog articles, links, specifications, demos, news or more general &#8220;thingys&#8221; that we stumble upon in our journey through the world wide web.</p></blockquote>
+
+<h3>CSS/HTML/Frontend</h3>
+
+<ul>
+<li><a href="http://www.html5rocks.com">HTML5Rocks</a> - Updated website of &#8220;HTML5Rocks&#8221; with a bunch of useful information!</li>
+<li><a href="http://darcyclarke.me/development/front-end-job-interview-questions/">Interview Question for Frontend Developers</a></li>
+<li><a href="http://mathiasbynens.be/notes/css-without-html">CSS without HTML</a> - How to build a website without HTML.</li>
+</ul>
+
+
+<!-- more -->
+
+
+<h3>Mobile Development (iOS + Rails)</h3>
+
+<ul>
+<li><a href="http://devcenter.heroku.com/articles/getting-started-ios-development-sinatra-cedar">Tutorial: iOS App + Sinatra Backend + Heroku&#8230;</a></li>
+</ul>
+
+
+<h3>Javascript</h3>
+
+<ul>
+<li><a href="http://www.devthought.com/2012/02/17/npm-tricks/">NPM Tricks</a> - Tricks for the node.js package manager.</li>
+</ul>
+
+
+<h3>Programming / Tools / Allgemein</h3>
+
+<ul>
+<li><a href="http://www.theprojectspot.com/tutorial-post/creating-a-genetic-algorithm-for-beginners/3">How to write a &#8220;Genetic Algorithm&#8221;</a></li>
+<li><a href="http://research.swtch.com/bell-labs">&#8220;Computing History at Bell Labs&#8221;</a> -  Presentation from 1997</li>
+<li><a href="http://www.gnuplotting.org/">gnuplotting.org</a> - what you can do with gnuplot.</li>
+<li><a href="http://versionswitcher.appspot.com/">versionswitcher</a> - switch versions of programming languages or applications (like rvm).</li>
+</ul>
+
+
+<h3>SQL Server (Fun)</h3>
+
+<ul>
+<li><a href="http://pulse.sqlserverpedia.com/blog/an-open-letter-to-anyone-with-sql-server-on-their-resume/">SQL-Server on the resume</a> - &#8220;There is no SQL Server 2003 .. There is no SQL Server 2003&#8221;</li>
+</ul>
+
+
+<h3>WebGL</h3>
+
+<ul>
+<li><a href="http://fridek.github.com/Threejs-Tetris/">3D Tetris in WebGL</a></li>
+</ul>
+
+
+<h3>Ebooks/Knowledge</h3>
+
+<ul>
+<li><a href="http://hackershelf.com">hackershelf</a> - &#8220;A community-curated collection of free books for the intellectual curious&#8221;</li>
+</ul>
+
+
+<h3>Fun</h3>
+
+<ul>
+<li><a href="http://67signals.com/">67signals</a> -  &#8220;37 Signals&#8221; Bashing (&#8230; the inventors of rails)</li>
+<li><a href="http://sphotos.xx.fbcdn.net/hphotos-snc7/395399_10101488712535065_12403557_69228456_559079840_n.jpg">What a software developer does</a></li>
+</ul>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Interesting Thingys #4]]></title>
+    <link href="http://yieldthedog.github.com/blog/2012/02/13/interesting-thingys-4/"/>
+    <updated>2012-02-13T08:54:00+01:00</updated>
+    <id>http://yieldthedog.github.com/blog/2012/02/13/interesting-thingys-4</id>
+    <content type="html"><![CDATA[<blockquote><p><em>Interesting Thingys</em> is a gazette in the blog that summarizes a week of blog articles, links, specifications, demos, news or more general &#8220;thingys&#8221; that we stumble upon in our journey through the world wide web.</p></blockquote>
+
+<h3>Android (+Ruby)</h3>
+
+<ul>
+<li><a href="http://rubysource.com/ruboto-rubys-and-androids-first-born/">Ruby on Android device via Ruboto</a> - &#8230; a little tutorial.</li>
+</ul>
+
+
+<!-- more -->
+
+
+<h3>CSS</h3>
+
+<ul>
+<li><a href="http://colintoh.com/css3-flip-switch">A flip-switch in CSS3</a></li>
+</ul>
+
+
+<h3>Mobile Development / Industry</h3>
+
+<ul>
+<li><a href="http://gizmodo.com/5878942">Article about Instagram</a> - why they do not offer an Android App.</li>
+</ul>
+
+
+<h3>JavaScript</h3>
+
+<ul>
+<li><a href="http://www.turnjs.com">turnjs</a> - Page-Turn animation for HTML.</li>
+<li><a href="http://www.elijahmanor.com/2012/02/differences-between-jquery-bind-vs-live.html">event-binding with jquery</a> - bind(), live(), delegate() &amp; on() &#8230; event-binding with jQuery: differences, pitfalls and performance killer.</li>
+<li><a href="http://www.modernizr.com/news/modernizr-25">modernizr Supercharged</a> -  v2.5 released!.</li>
+<li><a href="https://github.com/chjj/tty.js">tty.js</a> - A terminal for your browser (node.js, socket.io, express).</li>
+</ul>
+
+
+<h3>Ruby</h3>
+
+<ul>
+<li><a href="http://rubyreloaded.com/trickshots/">Ruby trick shots</a> - 24 Ruby tricks you did not know about&#8230; Nice!.</li>
+</ul>
+
+
+<h3>Databases</h3>
+
+<ul>
+<li><a href="http://try.redis-db.com/">try redis!</a> - Redis is a key-value store for advanced data structure like strings, hashes, lists, sets, etc .. Try it in your browser!.</li>
+<li><a href="http://antirez.com/post/redis-manifesto.html">&#8220;The Redis Manifesto&#8221;</a> - Statement about Redis and Software Development: &#8220;code is like a poem&#8221; &amp; &#8220;we optimize for joy&#8221;.</li>
+</ul>
+
+
+<h3>Git</h3>
+
+<ul>
+<li><a href="http://blog.edgeyo.com/2012/02/git-log-in-calendar-view/">visualize git-log</a> -  in a calendar-view (&amp; excel).</li>
+</ul>
+
+
+<h3>Programming</h3>
+
+<ul>
+<li><a href="http://designpepper.com/podcasts-for-hackers">podcasts for hackers</a> - List of programming/startup specific podcasts.</li>
+<li><a href="http://www.dodgycoder.net/2012/02/coding-tricks-of-game-developers.html">programming anecdotes from game developers</a></li>
+</ul>
+
+
+<h3>Fun/physics</h3>
+
+<ul>
+<li><a href="http://jalopnik.com/5883458/how-to-fly-a-soyuz-space-capsule">&#8220;How to fly a Soyuz Space Capsule&#8221;</a> - &#8230; a developer should be able to do that! ;).</li>
+</ul>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Interesting Thingys #3]]></title>
+    <link href="http://yieldthedog.github.com/blog/2012/02/06/interesting-thingys-3/"/>
+    <updated>2012-02-06T08:54:00+01:00</updated>
+    <id>http://yieldthedog.github.com/blog/2012/02/06/interesting-thingys-3</id>
+    <content type="html"><![CDATA[<blockquote><p><em>Interesting Thingys</em> is a gazette in the blog that summarizes a week of blog articles, links, specifications, demos, news or more general &#8220;thingys&#8221; that we stumble upon in our journey through the world wide web.</p></blockquote>
+
+<h3>CSS</h3>
+
+<ul>
+<li><a href="http://css3test.com/">css3test</a> - Tests your browser for CSS3 compatibility.</li>
+<li><a href="http://upstatement.com/blog/2012/01/how-to-approach-a-responsive-design/">how to approach a responsive design</a> - Interesting Article about Responsive Design, example: the Boston Globe website.</li>
+</ul>
+
+
+<!-- more -->
+
+
+<h3>Mobile Web Development</h3>
+
+<ul>
+<li><a href="http://dumaslab.com/2011/05/best-mobile-web-html5-framework-for-mobile-app-development/">mobile app development</a> - A somehow older but interesting comparison of mobile development frameworks (PhoneGap, Titanium, JQTouch, &#8230;).</li>
+</ul>
+
+
+<h3>JavaScript</h3>
+
+<ul>
+<li><a href="http://listjs.com">listjs</a> - make your HTML-Lists/Tables sortable, searchable, filterable, &#8230; using an 8KB javascript!.</li>
+</ul>
+
+
+<h3>Management</h3>
+
+<ul>
+<li><a href="http://www.quora.com/Engineering-Management/Why-are-software-development-task-estimations-regularly-off-by-a-factor-of-2-3">Estimation &amp; Software-Development</a> - a nice comparison. Let&#8217;s take a hike on the coast from San Francisco to Los Angeles.</li>
+</ul>
+
+
+<h3>Physics</h3>
+
+<ul>
+<li><a href="http://www.wired.com/wiredscience/2012/02/minecraft-physics">minecraft physics</a> - Little physics for the minecraft geeks.</li>
+</ul>
+
+
+<h3>Server</h3>
+
+<ul>
+<li><a href="http://matt.might.net/articles/ssh-hacks/">ssh hacks</a> - Not much new but interesting for all that are not used to SSH.</li>
+</ul>
+
+
+<h3>Objective-C / iOS</h3>
+
+<ul>
+<li><a href="http://biasedbit.com/filesystem-vs-coredata-image-cache/">Filesystem vs. CoreData</a> - Benchmark between FileSystem &amp; CoreData storage for images.</li>
+<li><a href="http://kentnguyen.com/ios/what-does-it-take-to-make-an-ios-app/">What does it take to make an iOS app</a> - What makes an iOS app .. and what a customer or project manager thinks about it.</li>
+</ul>
+
+
+<h3>Fun</h3>
+
+<ul>
+<li><a href="http://www.fileformat.info/info/unicode/char/1f4a9/index.htm">&#8220;Pile of Poo&#8221;</a> - as a Unicode Character.</li>
+<li><a href="http://www.youtube.com/watch?feature=player_embedded&amp;v=8WZr6fvtEgk">&#8220;Shit Programmers Say&#8221;&#8230;</a></li>
+</ul>
+
+]]></content>
+  </entry>
+  
+</feed>
