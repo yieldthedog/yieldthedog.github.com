@@ -10,6 +10,10 @@ published: false
 This week a potourri of tech topics…
 <!-- More -->
 
+### Objective-C
+- [NSRails](https://github.com/dingbat/nsrails) - an Objective-C framework for ActiveRecord like API (crud remote rails objects).
+
+
 ### GIT
 - [Github for Windows](https://github.com/blog/1127-github-for-windows)  
   The famous Mac tool is now ported to Windows
