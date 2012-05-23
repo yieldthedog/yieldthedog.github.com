@@ -94,6 +94,8 @@ This week a potourri of tech topics…
 
 ### Hosting / Server / SPDY
 - [Nginx 1.3.0](http://nginx.org/en/CHANGES#1.3.0)
+- [peterkeen / dokuen](https://github.com/peterkeen/dokuen)  
+  Heroku for the masses
 
 ### Videos / Talks / Books
 
