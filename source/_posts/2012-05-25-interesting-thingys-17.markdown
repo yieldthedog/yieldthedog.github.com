@@ -23,6 +23,8 @@ This week a potourri of tech topics…
 - [Ruby 1.9 lands NaCl support, can run in Chrome ](http://svn.ruby-lang.org/cgi-bin/viewvc.cgi?revision=35672&view=revision)  
 - [twitter / activerecord-reputation-system](https://github.com/twitter/activerecord-reputation-system)  
   The Active Record Reputation System helps you discover more about your application and make better decisions. 
+- [Three quick Rails console tips](http://37signals.com/svn/posts/3176-three-quick-rails-console-tips)  
+  Dive into your app / Try out a helper / Where does that method come from?
   
 ### Clojure
 - [Reducers](http://clojure.com/blog/2012/05/08/reducers-a-library-and-model-for-collection-processing.html)  
@@ -65,6 +67,9 @@ This week a potourri of tech topics…
 ### Databases
 - [PostgreSQL vs MongoDB](http://blog.pingoured.fr/index.php?post/2012/05/20/PostgreSQL-vs-MongoDB)  
   A comparative tests of postgresql vs mongodb and the [HackerNews Discussion](http://news.ycombinator.com/item?id=3998653)
+- [Intro to Graph Databases](https://vimeo.com/42638638) [video]  
+  A high level introduction to graph databases. This webinar demonstrates how graph databases fit within the NOSQL space, and where they are most appropriately used.
+- Map reduce questions and answers [part 1](http://www.javacodegeeks.com/2012/05/mapreduce-questions-and-answers-part-1.html) and [part 2](http://www.javacodegeeks.com/2012/05/mapreduce-questions-and-answers-part-2.html)
 
 ###Search
 
