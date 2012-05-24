@@ -4,16 +4,15 @@ title: "Interesting Thingys #17"
 date: 2012-05-25 09:17
 comments: false
 categories: "Interesting-Thingys"
-published: false
+published: true
 ---
 
-This week a potourri of tech topics…
+This week we have two new categories in the list: Objective-C and Clojure
 <!-- More -->
 
 ### Objective-C
 - [NSRails](https://github.com/dingbat/nsrails)  
   an Objective-C framework for ActiveRecord like API (crud remote rails objects).
-
 
 ### GIT
 - [Github for Windows](https://github.com/blog/1127-github-for-windows)  
@@ -53,8 +52,6 @@ This week a potourri of tech topics…
 - [Linux 3.4](http://kernelnewbies.org/Linux_3.4)  
   has been released. [Offical announcement](https://lkml.org/lkml/2012/5/20/126)
 
-### Mac
-
 ### Windows
 - [Building the next generation file system for Windows: ReFS](http://blogs.msdn.com/b/b8/archive/2012/01/16/building-the-next-generation-file-system-for-windows-refs.aspx)  
   extensive article on Windows 8's new file system ReFS
@@ -71,15 +68,9 @@ This week a potourri of tech topics…
   A high level introduction to graph databases. This webinar demonstrates how graph databases fit within the NOSQL space, and where they are most appropriately used.
 - Map reduce questions and answers [part 1](http://www.javacodegeeks.com/2012/05/mapreduce-questions-and-answers-part-1.html) and [part 2](http://www.javacodegeeks.com/2012/05/mapreduce-questions-and-answers-part-2.html)
 
-###Search
-
 ### Browser
 - [Google Chrome overtakes Internet Explorer as the Web’s most used browser](http://thenextweb.com/google/2012/05/21/google-chrome-overtakes-internet-explorer-as-the-webs-most-used-browser/?awesm=tnw.to_1EUZ)  
   Google Chrome has been long expected to leapfrog Microsoft’s Internet Explorer (IE) to take its position as the Web’s most used browser and, according to data from Statcounter, the momentous change of leadership happened last week.
-
-###Security
-
-### Productivity
 
 ### Other
 - [The Facebook Offering: How It Compares](http://www.nytimes.com/interactive/2012/05/17/business/dealbook/how-the-facebook-offering-compares.html)  
@@ -99,6 +90,3 @@ This week a potourri of tech topics…
 - [peterkeen / dokuen](https://github.com/peterkeen/dokuen)  
   Heroku for the masses
 
-### Videos / Talks / Books
-
-### Fun
