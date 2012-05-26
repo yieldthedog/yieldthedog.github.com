@@ -30,6 +30,8 @@ This week we have two new categories in the list: Objective-C and Clojure
   1/60s == 16.666667 ms therefore we need a sub-millisecond precision to match the monitor framerate
 
 ###CSS
+- [The shapes of CSS](http://css-tricks.com/examples/ShapesOfCSS/)  
+  shapes solely done in CSS
 
 ###Linux
 
