@@ -42,6 +42,8 @@ This week we have two new categories in the list: Objective-C and Clojure
 ### Browser
 
 ### Other
+- [Markdown here](https://github.com/adam-p/markdown-here)  
+  Write your email in Markdown, then make it pretty. Markdown Here lets you write email in Markdown and render it before sending.
 
 ### Programming
 
