@@ -43,6 +43,7 @@ This week we have two new categories in the list: Objective-C and Clojure
 ### Windows
 
 ### Vim
+- [Ben Orenstein - Write code faster: expert-level vim (Railsberry 2012)](http://www.youtube.com/watch?v=SkdrYWhh-8s&list=PL036AC827C6995617&index=15&feature=plpp_video) [video]
 
 ### Databases
 
