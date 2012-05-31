@@ -22,7 +22,7 @@ This week we have two new categories in the list: Objective-C and Clojure
 ###Ruby
 - [schneems / sextant](https://github.com/schneems/sextant)  
   Show routes in your Rails app while working in development. Visit http://localhost:3000/rails/routes and you'll see an output similar to rake routes.
-- [Building Streaming REST APIs with Ruby](/http://intridea.com/blog/2012/5/24/building-streaming-rest-apis-with-ruby)  
+- [Building Streaming REST APIs with Ruby](http://intridea.com/blog/2012/5/24/building-streaming-rest-apis-with-ruby)  
   
 
 
