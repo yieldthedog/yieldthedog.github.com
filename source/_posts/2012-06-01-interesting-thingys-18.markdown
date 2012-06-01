@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Interesting Thingys #18"
-date: 2012-06-02 09:17
+date: 2012-06-01 09:17
 comments: false
 categories: "Interesting-Thingys"
 published: false
@@ -24,12 +24,6 @@ This week we have two new categories in the list: Objective-C and Clojure
   Show routes in your Rails app while working in development. Visit http://localhost:3000/rails/routes and you'll see an output similar to rake routes.
 - [Building Streaming REST APIs with Ruby](http://intridea.com/blog/2012/5/24/building-streaming-rest-apis-with-ruby)  
   
-
-
-### Clojure
-
-###HTML5
-
 ###Javascript
 - [requestAnimationFrame API: now with sub-millisecond precision](http://updates.html5rocks.com/2012/05/requestAnimationFrame-API-now-with-sub-millisecond-precision)  
   1/60s == 16.666667 ms therefore we need a sub-millisecond precision to match the monitor framerate
@@ -38,16 +32,8 @@ This week we have two new categories in the list: Objective-C and Clojure
 - [The shapes of CSS](http://css-tricks.com/examples/ShapesOfCSS/)  
   shapes solely done in CSS
 
-###Linux
-
-### Windows
-
 ### Vim
 - [Ben Orenstein - Write code faster: expert-level vim (Railsberry 2012)](http://www.youtube.com/watch?v=SkdrYWhh-8s&list=PL036AC827C6995617&index=15&feature=plpp_video) [video]
-
-### Databases
-
-### Browser
 
 ### Other
 - [Markdown here](https://github.com/adam-p/markdown-here)  
