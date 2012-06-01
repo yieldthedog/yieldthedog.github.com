@@ -4,7 +4,7 @@ title: "Interesting Thingys #18"
 date: 2012-06-01 09:17
 comments: false
 categories: "Interesting-Thingys"
-published: false
+published: true
 ---
 
 This week we have two new categories in the list: Objective-C and Clojure
