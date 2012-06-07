@@ -70,6 +70,7 @@ Long time no see, this week links from our nearly forgotten category _physics_
 ### Physics
 - [The Second Copernican Revolution: Our Changing View of Our Place in the Universe - YouTube](http://www.youtube.com/watch?v=og2fHSyWcJI)
 - [Minute Physics - Picture of the Big Bang (aka Oldest Light in the Universe)](http://www.youtube.com/watch?v=_mZQ-5-KYHw)
+- [Big Bang Registry](http://www.bigbangregistry.com/)
 
 
 ### Fun
