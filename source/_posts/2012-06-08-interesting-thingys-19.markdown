@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Interesting Thingys #19"
-date: 2012-06-08 09:17
+date: 2012-06-08 08:17
 comments: false
 categories: "Interesting-Thingys"
-published: false
+published: true
 ---
 
 Long time no see, this week links from our nearly forgotten category _physics_
