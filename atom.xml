@@ -4,7 +4,7 @@
   <title><![CDATA[yield the dog]]></title>
   <link href="http://yieldthedog.github.com/atom.xml" rel="self"/>
   <link href="http://yieldthedog.github.com/"/>
-  <updated>2012-06-12T22:29:18+02:00</updated>
+  <updated>2012-06-12T22:31:26+02:00</updated>
   <id>http://yieldthedog.github.com/</id>
   <author>
     <name><![CDATA[yield the dog]]></name>
@@ -21,6 +21,9 @@
     <content type="html"><![CDATA[<p>In my <em>old programming days</em> reading source code of libraries that I used was often a hard task. Either the code was closed source or only in binary format.</p>
 
 <p>Today we live in an area in which programmers like to share their code and have the tools to do so. We could not be more lucky. To solve a certain task we can choose from <strong>many different solutions</strong> that may vary in <strong>quality</strong> and <strong>functionality</strong>. If one does not fit the purpose we just use the next one.</p>
+
+<!-- more -->
+
 
 <h2>When unsolvable problems arise</h2>
 
