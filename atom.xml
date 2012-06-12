@@ -4,7 +4,7 @@
   <title><![CDATA[yield the dog]]></title>
   <link href="http://yieldthedog.github.com/atom.xml" rel="self"/>
   <link href="http://yieldthedog.github.com/"/>
-  <updated>2012-05-22T08:07:18+02:00</updated>
+  <updated>2012-06-12T22:29:18+02:00</updated>
   <id>http://yieldthedog.github.com/</id>
   <author>
     <name><![CDATA[yield the dog]]></name>
@@ -12,6 +12,474 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[the lost art of reading source code]]></title>
+    <link href="http://yieldthedog.github.com/blog/2012/06/12/the-lost-art-of-reading-source-code/"/>
+    <updated>2012-06-12T22:32:00+02:00</updated>
+    <id>http://yieldthedog.github.com/blog/2012/06/12/the-lost-art-of-reading-source-code</id>
+    <content type="html"><![CDATA[<p>In my <em>old programming days</em> reading source code of libraries that I used was often a hard task. Either the code was closed source or only in binary format.</p>
+
+<p>Today we live in an area in which programmers like to share their code and have the tools to do so. We could not be more lucky. To solve a certain task we can choose from <strong>many different solutions</strong> that may vary in <strong>quality</strong> and <strong>functionality</strong>. If one does not fit the purpose we just use the next one.</p>
+
+<h2>When unsolvable problems arise</h2>
+
+<p>Most open source solutions have a <strong>solid documentation</strong>, otherwise they could not compete with the <strong>high standard</strong>. Still from times to times I am confronted with problems that are not covered in the documentation and can not be solved with the help of Google. Sometimes a colleague asks me a question, sometimes I find a question on StackOverflow with a problem that the person was not able to solve.</p>
+
+<p>When such a problem arises I like to open the library and <strong>dig in the source code</strong>. I have <a href="http://stackoverflow.com/questions/8112646/raphael-js-2-0-animate-translation-with-variable-inconsistency-noob/8112744#8112744">found</a> <a href="http://stackoverflow.com/questions/7506538/scrollto-with-easing-and-a-callback-function/7506799#7506799">many</a> <a href="http://stackoverflow.com/questions/8022926/jquery-validate-plugin-test-value-for-email-pattern/8023132#8023132">solutions</a> by reading and debugging the code of a library (even of libraries I did not use or know until then). <em>It&#8217;s fantastic</em>. You find yourself in a different, uncomfortable zone and can learn so much by just looking. You can uncover hidden gems or APIs inside your library that where not supposed to be directly visible for the public, or you can find details that are missing in the documentation. In the latter case it should be a good coder&#8217;s duty to help and update the documentation. And you can learn how others try to solve problems which may give you <strong>new perspectives</strong>.</p>
+
+<p>But, you can also get <strong>terrified</strong> by what you are looking at. It happens rather rarely to me. Once in a while I trip over code that is a mess, is horrible to read or debug, or was just written by an unskilled person. Do not get me wrong here. I have deep respect for everyone who is open sourcing a project, but I do not want to use code that is below my standards. I appreciate these moments, because they help me to form an environment in which I can develop at a steady pace. I do not want to get stuck because of library code.</p>
+
+<h2>What you need to start</h2>
+
+<p>Nothing, you do not need anything but <strong>curiosity</strong>. That&#8217;s the fun part. Most stable open source projects have a fantastic code base that is easy to understand and read. In my opinion this has a rather simple reason: If they do not care for code quality, they soon suffer a painful death in the vicious circle of unmanageable code.</p>
+
+<p>You do not need to understand the whole thing at once but most projects have modules or other encapsulated logic that makes it easy to understand a part of the whole.</p>
+
+<p>So what are you waiting for? Head over to the Github and <a href="https://github.com/sinatra/sinatra">check</a> <a href="https://github.com/jquery/jquery">out</a> <a href="https://github.com/ASP-NET-MVC/ASP.NET-Mvc-3">some</a> <a href="https://github.com/git/git">of</a> <a href="https://github.com/DmitryBaranovskiy/raphael">those</a> <a href="https://github.com/antirez/redis">great</a> <a href="https://github.com/nginx/nginx">projects</a>. And the next time you are stuck within a library or framework crack it open and look under the hood.</p>
+
+<p>Want to recommend a good code read? Just leave a comment!</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Interesting Thingys #19]]></title>
+    <link href="http://yieldthedog.github.com/blog/2012/06/08/interesting-thingys-19/"/>
+    <updated>2012-06-08T08:17:00+02:00</updated>
+    <id>http://yieldthedog.github.com/blog/2012/06/08/interesting-thingys-19</id>
+    <content type="html"><![CDATA[<p>Long time no see, this week links from our nearly forgotten category <em>physics</em></p>
+
+<!-- More -->
+
+
+<h3>GIT</h3>
+
+<ul>
+<li><a href="http://stackoverflow.com/questions/927358/git-undo-last-commit?newsletter=1&amp;nlcode=28472%7c4563">Git undo last commit - Stack Overflow</a></li>
+</ul>
+
+
+<h3>HTML5</h3>
+
+<ul>
+<li><a href="http://radar.oreilly.com/2012/06/html5-apps-datajournalism-doj-lawsuit.html">O&#39;Reilly - HTML5 may be winning the war against apps - O&#39;Reilly Radar</a></li>
+</ul>
+
+
+<h3>Ruby</h3>
+
+<ul>
+<li><a href="http://www.unlimitednovelty.com/2012/06/ruby-is-faster-than-python-php-and-perl.html">Unlimited Novelty: Ruby is faster than Python, PHP, and Perl</a></li>
+<li><a href="http://confreaks.com/videos/856-railsconf2012-getting-down-to-earth-geospatial-analysis-with-rails">Getting Down To Earth: Geospatial Analysis With Rails - Daniel Azuma - RailsConf 2012</a> and the <a href="http://www.daniel-azuma.com/blog/archives/256">RailsConf 2012 Talk Notes | Daniel Azuma</a> with tons of links.</li>
+</ul>
+
+
+<h3>Javascript</h3>
+
+<ul>
+<li><a href="http://www.youtube.com/watch?v=Rj49rmc01Hs">Fluent 2012: Brendan Eich, &quot;JavaScript at 17&quot; - YouTube</a></li>
+<li><a href="http://www.adobe.com/devnet/html5/articles/javascript-architecture-requirejs-dependency-management.html?utm_source=javascriptweekly&amp;utm_medium=email">Dependency management with RequireJS | Adobe Developer Connection</a></li>
+<li><a href="http://mohayonao.github.com/timbre/">timbre - JavaScript Library for Objective Sound Programming</a></li>
+<li><a href="http://addyosmani.com/blog/ecmascript-6-resources-for-the-curious-javascripter/">ECMAScript 6 Resources For The Curious JavaScripter</a></li>
+<li><a href="http://www.stevesouders.com/blog/2012/05/22/self-updating-scripts/">Self-updating scripts | High Performance Web Sites</a></li>
+<li><a href="http://destroytoday.com/blog/reasons-for-spinejs/">Destroy Today / 10 reasons why I switched to Spine.js</a></li>
+<li><a href="http://jquerypp.com/">jQuery++</a></li>
+<li><a href="http://hpneo.github.com/gmaps/examples.html">gmaps.js — the easiest way to use Google Maps</a></li>
+<li><a href="http://cnnr.me/b/2012/05/your-first-node-dot-js-module/">Your first node.js module - Connor Montgomery</a></li>
+</ul>
+
+
+<h3>CSS</h3>
+
+<ul>
+<li><a href="http://csswizardry.com/2012/04/the-single-responsibility-principle-applied-to-css/">The single responsibility principle applied to CSS — CSS Wizardry—CSS, Web Standards, Typography, and Grids by Harry Roberts</a></li>
+<li><a href="http://dev.opera.com/articles/view/understanding-the-css-transforms-matrix/">Understanding the CSS Transforms Matrix - Dev.Opera</a></li>
+<li><a href="http://paulrouget.com/e/devtoolsupdate/">Responsive Mode and Layout View in Firefox 15 // by Paul Rouget</a></li>
+<li><a href="http://nicholsonws.com/archive/the-tilde-is-an-amazing-css-selector">The Tilde is an Amazing CSS Selector. - Nicholson Web Software</a></li>
+<li><a href="http://meyerweb.com/eric/thoughts/2012/05/31/gradient-repetition/">Eric&#39;s Archived Thoughts: Gradient Repetition</a></li>
+</ul>
+
+
+<h3>Vim</h3>
+
+<ul>
+<li><a href="http://vim.wikia.com/wiki/Best_Vim_Tips#Easter_eggs">Vim Eastereggs</a></li>
+<li><a href="https://github.com/vim-scripts/Shebang">vim-scripts/Shebang</a></li>
+</ul>
+
+
+<h3>Mobile</h3>
+
+<ul>
+<li><a href="http://www.adobe.com/devnet/html5/articles/native-like-ux-phonegap-app-ui.html">Creating native-like user experiences in PhoneGap with App-UI | Adobe Developer Connection</a></li>
+</ul>
+
+
+<h3>Productivity</h3>
+
+<ul>
+<li><a href="https://www.shortcutfoo.com/">Learn Shortcuts. Vim Commands, Command Line, Unix Commands, Sublime Keys, TextMate Keys, Emacs Keys</a></li>
+</ul>
+
+
+<h3>Databases</h3>
+
+<ul>
+<li><a href="http://dickey.xxx/mysql-is-done-it-s-the-postgres-age">MySQL is done. It&#39;s the Postgres Age. by Jeff Dickey</a></li>
+</ul>
+
+
+<h3>Performance</h3>
+
+<ul>
+<li><a href="http://engineering.twitter.com/2012/05/improving-performance-on-twittercom.html">Twitter Engineering: Improving performance on twitter.com</a></li>
+<li><a href="http://openmymind.net/2012/5/30/Client-Side-vs-Server-Side-Rendering/">Client-Side vs. Server-Side Rendering</a></li>
+</ul>
+
+
+<h3>Programming</h3>
+
+<ul>
+<li><a href="http://www.writemoretests.com/2012/06/code-reviews-that-might-actually-work.html">Code Reviews that might actually work — Write More Tests</a></li>
+<li><a href="https://www.youtube.com/watch?v=G0eBDWigORY&amp;feature=related">Erlang in production: &quot;I wish I&#39;d known that when I started&quot; - Bernard Duggan - YouTube</a></li>
+</ul>
+
+
+<h3>Other</h3>
+
+<ul>
+<li><a href="http://7habitsofhighlyeffectivehackers.blogspot.com.au/2012/05/using-twitter-to-build-password.html">7 Habits of Highly Effective Hackers: Using twitter to build password cracking wordlist</a></li>
+<li><a href="http://hnrankings.info/">Hacker News Rankings</a></li>
+</ul>
+
+
+<h3>Hosting / Server / SPDY</h3>
+
+<ul>
+<li><a href="http://lists.w3.org/Archives/Public/ietf-http-wg/2012AprJun/0498">SPDY Review from Martin Nilsson</a></li>
+<li><a href="http://www.mozilla.org/en-US/firefox/13.0/releasenotes/">Firefox now supports SPDY by default</a></li>
+</ul>
+
+
+<h3>Physics</h3>
+
+<ul>
+<li><a href="http://www.youtube.com/watch?v=og2fHSyWcJI">The Second Copernican Revolution: Our Changing View of Our Place in the Universe - YouTube</a></li>
+<li><a href="http://www.youtube.com/watch?v=_mZQ-5-KYHw">Minute Physics - Picture of the Big Bang (aka Oldest Light in the Universe)</a></li>
+<li><a href="http://www.bigbangregistry.com/">Big Bang Registry</a></li>
+</ul>
+
+
+<h3>Fun</h3>
+
+<ul>
+<li><a href="http://kottke.org/12/06/the-worlds-worst-password-requirements-list">The world&#39;s worst password requirements list</a></li>
+</ul>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Interesting Thingys #18]]></title>
+    <link href="http://yieldthedog.github.com/blog/2012/06/01/interesting-thingys-18/"/>
+    <updated>2012-06-01T09:17:00+02:00</updated>
+    <id>http://yieldthedog.github.com/blog/2012/06/01/interesting-thingys-18</id>
+    <content type="html"><![CDATA[<p>This week we have two new categories in the list: Objective-C and Clojure</p>
+
+<!-- More -->
+
+
+<h3>Objective-C</h3>
+
+<ul>
+<li><a href="https://github.com/mpospese/MPFoldTransition">mpospese / MPFoldTransition</a><br/>
+MPFoldTransition is a set of classes to add folding-style transitions to iOS 5 projects.</li>
+</ul>
+
+
+<h3>GIT</h3>
+
+<ul>
+<li><a href="http://adammck.com/2012/05/16/better-readmes-for-github-forks.html">Better READMEs for GitHub Forks</a></li>
+<li><a href="http://geeksta.net/geeklog/exploring-expressions-emotions-github-commit-messages/">Exploring Expressions of Emotions in GitHub Commit Messages</a><br/>
+An extensive analysis of emotions in Github commit messages</li>
+</ul>
+
+
+<h3>Ruby</h3>
+
+<ul>
+<li><a href="https://github.com/schneems/sextant">schneems / sextant</a><br/>
+Show routes in your Rails app while working in development. Visit http://localhost:3000/rails/routes and you&#8217;ll see an output similar to rake routes.</li>
+<li><a href="http://intridea.com/blog/2012/5/24/building-streaming-rest-apis-with-ruby">Building Streaming REST APIs with Ruby</a></li>
+</ul>
+
+
+<h3>Javascript</h3>
+
+<ul>
+<li><a href="http://updates.html5rocks.com/2012/05/requestAnimationFrame-API-now-with-sub-millisecond-precision">requestAnimationFrame API: now with sub-millisecond precision</a><br/>
+1/60s == 16.666667 ms therefore we need a sub-millisecond precision to match the monitor framerate</li>
+</ul>
+
+
+<h3>CSS</h3>
+
+<ul>
+<li><a href="http://css-tricks.com/examples/ShapesOfCSS/">The shapes of CSS</a><br/>
+shapes solely done in CSS</li>
+</ul>
+
+
+<h3>Vim</h3>
+
+<ul>
+<li><a href="http://www.youtube.com/watch?v=SkdrYWhh-8s&amp;list=PL036AC827C6995617&amp;index=15&amp;feature=plpp_video">Ben Orenstein - Write code faster: expert-level vim (Railsberry 2012)</a> [video]</li>
+</ul>
+
+
+<h3>Other</h3>
+
+<ul>
+<li><a href="https://github.com/adam-p/markdown-here">Markdown here</a><br/>
+Write your email in Markdown, then make it pretty. Markdown Here lets you write email in Markdown and render it before sending.</li>
+<li><a href="http://www.terminally-incoherent.com/blog/2012/05/30/command-line-and-user-friendliness/">Command Line and User Friendliness</a></li>
+<li><a href="http://engineering.twitter.com/2012/05/improving-performance-on-twittercom.html">Improving performance on twitter.com</a></li>
+<li><a href="https://wondernetwork.com/pings/">Ping times between cities</a></li>
+</ul>
+
+
+<h3>Programming</h3>
+
+<ul>
+<li><a href="http://opensoul.org/blog/archives/2012/05/23/why-our-code-smells">Why our code smells</a> [presentation]<br/>
+Odors are communication devices. They exist for a reason and are usually trying to tell us something.</li>
+<li><a href="https://gist.github.com/2841832">Latency numbers every programmer should know</a> [gist]</li>
+</ul>
+
+
+<h3>Hosting / Server / SPDY</h3>
+
+<ul>
+<li><a href="http://fzaninotto.github.com/uptime/">Uptime</a><br/>
+A simple HTTP remote monitoring utility using Node.js and MongoDB.</li>
+</ul>
+
+
+<h3>Fun</h3>
+
+<ul>
+<li><a href="http://www.youtube.com/watch?v=mqp3bWqxDsc">Kintinuous Color</a><br/>
+An extension to our Kintinuous: Spatially Extended KinectFusion system showing real-time fused colored mesh volume generation.</li>
+</ul>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Interesting Thingys #17]]></title>
+    <link href="http://yieldthedog.github.com/blog/2012/05/25/interesting-thingys-17/"/>
+    <updated>2012-05-25T09:17:00+02:00</updated>
+    <id>http://yieldthedog.github.com/blog/2012/05/25/interesting-thingys-17</id>
+    <content type="html"><![CDATA[<p>This week we have two new categories in the list: Objective-C and Clojure</p>
+
+<!-- More -->
+
+
+<h3>Objective-C</h3>
+
+<ul>
+<li><a href="https://github.com/dingbat/nsrails">NSRails</a><br/>
+an Objective-C framework for ActiveRecord like API (crud remote rails objects).</li>
+</ul>
+
+
+<h3>GIT</h3>
+
+<ul>
+<li><a href="https://github.com/blog/1127-github-for-windows">Github for Windows</a><br/>
+The famous Mac tool is now ported to Windows</li>
+</ul>
+
+
+<h3>Ruby</h3>
+
+<ul>
+<li><a href="http://svn.ruby-lang.org/cgi-bin/viewvc.cgi?revision=35672&amp;view=revision">Ruby 1.9 lands NaCl support, can run in Chrome </a></li>
+<li><a href="https://github.com/twitter/activerecord-reputation-system">twitter / activerecord-reputation-system</a><br/>
+The Active Record Reputation System helps you discover more about your application and make better decisions.</li>
+<li><a href="http://37signals.com/svn/posts/3176-three-quick-rails-console-tips">Three quick Rails console tips</a><br/>
+Dive into your app / Try out a helper / Where does that method come from?</li>
+</ul>
+
+
+<h3>Clojure</h3>
+
+<ul>
+<li><a href="http://clojure.com/blog/2012/05/08/reducers-a-library-and-model-for-collection-processing.html">Reducers</a><br/>
+A Library and Model for Collection Processing</li>
+</ul>
+
+
+<h3>HTML5</h3>
+
+<ul>
+<li><a href="http://code.google.com/p/sipml5/">sipml5</a><br/>
+The world&#8217;s first HTML5 SIP client. Written in pure JavaScript.</li>
+<li><a href="http://xing.github.com/wysihtml5/">WYSIHTML5</a><br/>
+A better approach to rich text editing</li>
+<li><a href="http://minimal.be/lab/fluGL/">WebGL 80.000 particles</a><br/>
+Cool WebGL demo with 80.000 particles. Kinda rocks!</li>
+</ul>
+
+
+<h3>Javascript</h3>
+
+<ul>
+<li><a href="http://destroytoday.com/blog/reasons-for-spinejs/">10 reasons why I switched to Spine.js</a></li>
+<li><a href="http://nodetime.com/blog/cpu-profiling-with-nodetime">CPU Profiling with Nodetime</a><br/>
+Introduction to nodetime a profiler for nodejs apps</li>
+<li><a href="http://momentjs.com/">Moment.js</a><br/>
+A lightweight (4.3k) JavaScript library for displaying and manipulating dates and times. E.g.: last <em>Saturday at 6:25</em>. Includes I18N support.</li>
+<li><a href="http://www.stevesouders.com/blog/2012/05/22/self-updating-scripts/">Self-updating scripts</a> - Steve Souders</li>
+</ul>
+
+
+<h3>CSS</h3>
+
+<ul>
+<li><a href="http://nicholsonws.com/archive/the-tilde-is-an-amazing-css-selector">The Tilde is an Amazing CSS Selector</a></li>
+</ul>
+
+
+<h3>Linux</h3>
+
+<ul>
+<li><a href="http://kernelnewbies.org/Linux_3.4">Linux 3.4</a><br/>
+has been released. <a href="https://lkml.org/lkml/2012/5/20/126">Offical announcement</a></li>
+</ul>
+
+
+<h3>Windows</h3>
+
+<ul>
+<li><a href="http://blogs.msdn.com/b/b8/archive/2012/01/16/building-the-next-generation-file-system-for-windows-refs.aspx">Building the next generation file system for Windows: ReFS</a><br/>
+extensive article on Windows 8&#8217;s new file system ReFS</li>
+</ul>
+
+
+<h3>Vim</h3>
+
+<ul>
+<li><a href="http://learnvimscriptthehardway.stevelosh.com/">Learn Vimscript the Hard Way</a> - by Steve Losh<br/>
+Steve Losh is not unknown to the Vim community. His <a href="https://bitbucket.org/sjl/dotfiles/src/7004f9ab85b4/vim">.vimrc</a> was the starting point for many Vim noobs. Learn Vimscript the Hard Way is a short book for users of the Vim editor who want to learn how to customize Vim.</li>
+</ul>
+
+
+<h3>Databases</h3>
+
+<ul>
+<li><a href="http://blog.pingoured.fr/index.php?post/2012/05/20/PostgreSQL-vs-MongoDB">PostgreSQL vs MongoDB</a><br/>
+A comparative tests of postgresql vs mongodb and the <a href="http://news.ycombinator.com/item?id=3998653">HackerNews Discussion</a></li>
+<li><a href="https://vimeo.com/42638638">Intro to Graph Databases</a> [video]<br/>
+A high level introduction to graph databases. This webinar demonstrates how graph databases fit within the NOSQL space, and where they are most appropriately used.</li>
+<li>Map reduce questions and answers <a href="http://www.javacodegeeks.com/2012/05/mapreduce-questions-and-answers-part-1.html">part 1</a> and <a href="http://www.javacodegeeks.com/2012/05/mapreduce-questions-and-answers-part-2.html">part 2</a></li>
+</ul>
+
+
+<h3>Browser</h3>
+
+<ul>
+<li><a href="http://thenextweb.com/google/2012/05/21/google-chrome-overtakes-internet-explorer-as-the-webs-most-used-browser/?awesm=tnw.to_1EUZ">Google Chrome overtakes Internet Explorer as the Web’s most used browser</a><br/>
+Google Chrome has been long expected to leapfrog Microsoft’s Internet Explorer (IE) to take its position as the Web’s most used browser and, according to data from Statcounter, the momentous change of leadership happened last week.</li>
+</ul>
+
+
+<h3>Other</h3>
+
+<ul>
+<li><a href="http://www.nytimes.com/interactive/2012/05/17/business/dealbook/how-the-facebook-offering-compares.html">The Facebook Offering: How It Compares</a></li>
+<li><a href="http://pixelstech.net/article/index.php?id=1337448434">Disposable Email address</a><br/>
+A comparison of disposable email addresses and email forwarding services.</li>
+<li><a href="http://www.economist.com/node/21555571">The best story in development</a><br/>
+Not completely tech related but still worth noting: Africa is experiencing some of the biggest falls in child mortality ever seen, anywhere.</li>
+<li><a href="http://news.ycombinator.com/item?id=3996652">Ask HN: Favorite HN threads of all time</a><br/>
+Cellis asks: Have any Hacker News threads ever truly changed your perspective on life, or technology? Post them please.</li>
+</ul>
+
+
+<h3>Programming</h3>
+
+<ul>
+<li><a href="http://www.antoarts.com/10-ways-to-improve-your-programming-skills/">10 ways to improve your programming skills</a><br/>
+nearly a year old, but still valid points.</li>
+</ul>
+
+
+<h3>Hosting / Server / SPDY</h3>
+
+<ul>
+<li><a href="http://nginx.org/en/CHANGES#1.3.0">Nginx 1.3.0</a></li>
+<li><a href="https://github.com/peterkeen/dokuen">peterkeen / dokuen</a><br/>
+Heroku for the masses</li>
+</ul>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[tmux - productive mouse free development - book review]]></title>
+    <link href="http://yieldthedog.github.com/blog/2012/05/24/tmux-productive-mouse-free-development-book-review/"/>
+    <updated>2012-05-24T08:14:00+02:00</updated>
+    <id>http://yieldthedog.github.com/blog/2012/05/24/tmux-productive-mouse-free-development-book-review</id>
+    <content type="html"><![CDATA[<blockquote><p>tmux is a terminal multiplexer: it enables a number of terminals (or windows), each running a separate program, to be created, accessed, and controlled from a single screen. tmux may be detached from a screen and<br/>continue running in the background, then later reattached.</p><footer><strong>from the tmux homepage,</strong> <cite><a href='http://tmux.sourceforge.net/'>tmux.sourceforge.net/&hellip;</a></cite></footer></blockquote>
+
+
+<!-- more -->
+
+
+<h2>A love hate relationship - a brief history</h2>
+
+<p>A while ago I installed tmux on my Ubuntu box and gave it a try. As always I immediately over used it’s functionality and ended up with a split screen with about eight panes. Each pane was too small to be of much use and I refused to use windows, because I thought that I have my terminal tabs for this. The multiple panes were great, I could easily switch between them, thanks to some keyboard shortcuts, that I copy and pasted blindly into my tmux conf. I got everything I needed.  At least I thought so.</p>
+
+<p>I know that I will get a good beating for the next sentence, but still it’s the truth: I’m a hybrid keyboard and mouse user. So the first shock was pre-programmed. How can I use the mouse to scroll back, <em>f**k</em>, there’s no way. Next one: Ah, I’d like to mark this passage with my mouse and … - <em>f**k</em> - the selection goes right over the other panes.  Ok, let’s rearrange those panes, so I can mark and copy this line and paste… - <em>f**k</em> - I cannot paste with the middle mouse button.</p>
+
+<p>You get the story. The beginning of my tmux relationship didn’t have stumbling blocks but giant boulders. I was rather frustrated and the drawbacks were greater than the advantages. I gave up, end of story.</p>
+
+<p>The really hard thing in the beginning is, that there is no good beginner’s documentation out there. You find a lot of ultimate tmux.confs, but there is nothing out there that gets you started.</p>
+
+<h2>A letter from Andy</h2>
+
+<p>So I let tmux live it’s own life, until recently a letter from PragProg arrived, advertising «tmux - productive mouse free development» by Brian P. Hogan. PragProg had a link to this inspiring video that showed me, how easy it was to accomplish things with tmux.  In this video Brian removes his hands so sporadic from the home row and still shows how to do the basic tmux operations - amazing.</p>
+
+<iframe width="640" height="480" src="http://www.youtube.com/embed/JXwS7z6Dqic" frameborder="0" allowfullscreen></iframe>
+
+
+<p>The book was quite cheap, so I thought: tmux, you get one last try, if you let me down again, you will go to hell.</p>
+
+<h2>Starting slow</h2>
+
+<p>Like in Vim it’s important to start slow. As you cannot remember all commands at once, you need to focus on the basic stuff that gets you going. Copy and pasting stuff gets you nowhere, as long as you do not understand, what it’s for. Brian acknowledges this fact and starts by showing how to create new sessions, windows and panes. No crazy shortcuts just plain tmux commands. What I especially liked was the summary of the commands at the end of each chapter. This helped a lot, when I went back to a chapter to look up a command.</p>
+
+<p>Next he introduces you to the .tmux.conf file and its secrets. This is the starting point of a slowly evolving configuration that is improved throughout the book.</p>
+
+<h2>Gaining velocity</h2>
+
+<p>Scripting customized tmux environments is in my opinion one of the most important chapters, in which Brian shows you, how to build scripts to quickly start your development environment the way you want. He mentions the tmuxinator project, which is one of the most useful tools, when working with tmux. It lets you configure your windows and panes in a simple to read YAML file. It’s no wonder that due to its roots in the Ruby world, tmuxinator has a configuration skeleton for Rails applications, but this can easily be adapted to serve the needs of any project. The introduction to tmuxinator was the breaking point for me. That was, when I started to comprehend, that I could easily build a project specific environment, that reduces the friction when opening a project - pulling in changes form the server, start background processes, open your editor, you named it. Tmuxinator is only the starting point for a tmux noob like me to see and comprehend its power.</p>
+
+<p>The next chapter was one that I would have needed on my first tmux day. It describes how to navigate your buffer, copy and paste and how to communicate with the system clipboard. As with many commands in Vim copy and pasting in tmux uses keys that are rather awkward to use on a German keyboard. [ and ] are just too far out of reach to not disturb you in your normal typing speed.</p>
+
+<h2>Maximum velocity</h2>
+
+<p>The chapter on pair programming was one of those that I looked forward the most, because I saw real power in sharing a session. I was not disappointed. Brain clearly shows the limits in which you can move and presents different techniques to share a session. It is a pity that I had no practical use for it till now, but no question time will come.</p>
+
+<h2>Conclusion</h2>
+
+<p><img class="right" src="http://imagery.pragprog.com/products/291/bhtmux_xlargecover.jpg?1330443523"> The book is rather short with only about 70 pages. Still, it shows you the basic and advanced techniques in tmux that are rather hard to learn your own. I can truly recommend it, if you are like me struggling to find your way through tmux. Along the road Brian showed some useful tricks (not completely tmux related), that can make your life easier, e.g. remapping the useless <kbd>CAPS LOCK</kbd> key to another key - a thing I should have done a long time ago.</p>
+
+<p>So if you like to use a terminal, have many tabs, various ssh sessions open at the same time, go grab a copy of tmux - productive mouse free development and get some order in your chaos.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[The commuting coder]]></title>
@@ -27,7 +495,7 @@
 
 <h2>Reading device</h2>
 
-<p><img class="right" src="https://lh6.googleusercontent.com/-f3gaEXV1aGY/T3IHHywFERI/AAAAAAAAAMM/NqcqMjypLX0/s250/IMG_9879.JPG"> My Kindle has replaced books nearly completely as my main reading device (See <a href="http://yieldthedog.github.com/2012-04-06-kindle-survival-guide">Kindle survival guide</a>). This has mainly two reasons: First its weight and size, and second the ability to switch between various books and articles at will.</p>
+<p><img class="right" src="https://lh6.googleusercontent.com/-f3gaEXV1aGY/T3IHHywFERI/AAAAAAAAAMM/NqcqMjypLX0/s250/IMG_9879.JPG"> My Kindle has replaced books nearly completely as my main reading device (See <a href="http://yieldthedog.github.com/blog/2012/04/06/kindle-survival-guide/">Kindle survival guide</a>). This has mainly two reasons: First its weight and size, and second the ability to switch between various books and articles at will.</p>
 
 <p>With the Kindle I even started reading while walking, what I have never done before. You can simply enlarge the font size, so you can easily read while changing matters of transportation.</p>
 
@@ -1461,450 +1929,6 @@ Genius or a Rock Star.</li>
 
 <ul>
 <li><a href="http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2012/03/02/BUIO1NFAMI.DTL">Are you a &#8220;BroGrammer&#8221;?</a> &#8230;</li>
-</ul>
-
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Interesting Thingys #6]]></title>
-    <link href="http://yieldthedog.github.com/blog/2012/02/27/interesting-thingys-6/"/>
-    <updated>2012-02-27T08:54:00+01:00</updated>
-    <id>http://yieldthedog.github.com/blog/2012/02/27/interesting-thingys-6</id>
-    <content type="html"><![CDATA[<blockquote><p><em>Interesting Thingys</em> is a gazette in the blog that summarizes a week of blog articles, links, specifications, demos, news or more general &#8220;thingys&#8221; that we stumble upon in our journey through the world wide web.</p></blockquote>
-
-<h3>HTML/CSS</h3>
-
-<ul>
-<li><a href="http://html5please.com/">html5please.com</a> - Explore html5 features (categories: supported by browsers, use with caution, fallbacks, polyfills, &#8230;)</li>
-<li><a href="https://github.com/emorikawa/boilerstrap">boilerstrap</a> - Template for HTML5Boilerplate and Twitters Bootstrap CSS (+modernizr, js compression, coffeescript support, sass, less)&#8230; Plus rake-tasks.</li>
-<li><a href="http://tumultco.com/hype/">hype</a> - Interesting editor (GUI) for HTML5/CSS3 Keyframe animations &amp; animated content&#8230; (sorry: mac only)</li>
-<li><a href="http://shinydemos.com/">Shinydemos</a> - New html5 showcase by opera.</li>
-</ul>
-
-
-<!-- more -->
-
-
-<h3>Android + iOS</h3>
-
-<ul>
-<li><a href="http://picture.io/photopickerplus">photopickerplus</a> - free Cross Platform Photopicker Library .. &#8220;pick photo from your favorite photo services, not just from your locally stored ones&#8221;</li>
-</ul>
-
-
-<h3>Javascript</h3>
-
-<ul>
-<li><a href="http://www.sequencejs.com/">sequencejs</a> - Nice jQuery Slider (with parallax effect).</li>
-<li><a href="https://github.com/maccman/ace">ace</a> - Sinatra-style framework for node appications</li>
-<li><a href="http://oscargodson.github.com/EpicEditor/">EpicEditor</a> - A live Markdown Editor in Javascript</li>
-</ul>
-
-
-<h3>Ruby</h3>
-
-<ul>
-<li><a href="https://github.com/paulasmuth/recommendify">recommendify</a> - Recommendation engine in ruby &amp; redis .. Something like &#8220;user that viewed this video also likes&#8230;&#8221;</li>
-<li><a href="https://github.com/fxn/i-told-you-it-was-private">i told you it was private</a> - A ruby module for &#8220;really private methods&#8221;&#8230;</li>
-</ul>
-
-
-<h3>General/Thingys</h3>
-
-<ul>
-<li><a href="http://woolam.org/github-recommendation-service/">github recommendation service</a> - Discover new github repos based on watcher relationships.</li>
-<li><a href="http://xprogramming.com/articles/kate-oneal-what-is-scrum/">what is scrum?!</a> - Long article about &#8220;what is scrum?&#8221; and how to apply it</li>
-<li><a href="http://caines.ca/blog/programming/the-sun-is-setting-on-rails-style-mvc-frameworks/">Server-side MVC Frameworks will die for client-side apps</a> .. apparently.</li>
-</ul>
-
-
-<h3>Tools</h3>
-
-<ul>
-<li><a href="http://www.aboutlinux.info/2005/10/10-seconds-guide-to-bash-shell.html">Bash scripts</a> -  in 10 seconds&#8230; or minutes&#8230; or&#8230;</li>
-<li><a href="http://vimbits.com/">vimbits</a> - upvote/downvote site for vimrc tips&#8217;n&#8217;tricks.</li>
-</ul>
-
-
-<h3>Fun</h3>
-
-<ul>
-<li><a href="http://accessmaincomputerfile.net/">accessmaincomputerfile</a> - A visual study of computer GUI in cinema</li>
-<li><a href="http://visualidiot.com/articles/social-apps">social-apps</a> - The new social app: &#8220;scares off ghosts&#8221; &amp; &#8220;hipster-optimised&#8221; :)</li>
-</ul>
-
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[MSSql to MySql migration with a little help of Rails and PHP]]></title>
-    <link href="http://yieldthedog.github.com/blog/2012/02/22/mssql-to-mysql-migration-with-rails-and-php/"/>
-    <updated>2012-02-22T00:00:00+01:00</updated>
-    <id>http://yieldthedog.github.com/blog/2012/02/22/mssql-to-mysql-migration-with-rails-and-php</id>
-    <content type="html"><![CDATA[<h2>The problem</h2>
-
-<p>You want to migrate a MSSql database to MySql. You have rather large schema and don&#8217;t want to do it by hand.</p>
-
-<!-- more -->
-
-
-<h2>Possible solutions</h2>
-
-<h3>Mysql Migration Toolkit</h3>
-
-<p>The <a href="http://dev.mysql.com/doc/migration-toolkit/en/:">MySql Migration Toolkit</a> look promising at first. You can use a comfortable GUI to select what you want to migrate. The first problems arose, when the toolkit tried to migrate the schema. Obviously my MSSql schema was not compatible with MySql, I found no way to manually correct this errors, so this was a dead end. I have the feeling that the work on this tool has stopped, so maybe that&#8217;s a reason it failed.</p>
-
-<h3>MySql ODBC Connector</h3>
-
-<p>When you install the <a href="http://dev.mysql.com/downloads/connector/odbc/">ODBC Connector</a> for MySql, theory claims, that you can select it from the SQL Management Studio to export data to it. However, the reality was a bit different. When I tried it, there was no MySql entry. Bad luck.</p>
-
-<h2>What worked</h2>
-
-<p>After 6 hours of trial and error and no success with any tools, I gave up.</p>
-
-<p>As the project was based on Rails, I used <code>rake db:schema:dump</code> to get the schema definition from the MSSql server in Ruby code. Afterwards I changed the connection to the MySql server and tried <code>rake db:schema:load</code>. As expected I had no luck, but with the big difference, that now I had some code that I could mangle and massage.</p>
-
-<p>There were only problems that were solved in mere seconds:</p>
-
-<ul>
-<li>an index on varchar(9999)</li>
-<li>unsupported type, where another one could be used</li>
-<li>&#8230;</li>
-</ul>
-
-
-<p>So now I had my schema ready in MySql waiting for some data. As I&#8217;m a long time PHP programmer, too, I knew that PHP lets you easily connect to MySql and MSSql with nearly the same patterns. So I gave it a try and came up with this console script:</p>
-
-<figure class='code'> <div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
-<span class='line-number'>2</span>
-<span class='line-number'>3</span>
-<span class='line-number'>4</span>
-<span class='line-number'>5</span>
-<span class='line-number'>6</span>
-<span class='line-number'>7</span>
-<span class='line-number'>8</span>
-<span class='line-number'>9</span>
-<span class='line-number'>10</span>
-<span class='line-number'>11</span>
-<span class='line-number'>12</span>
-<span class='line-number'>13</span>
-<span class='line-number'>14</span>
-<span class='line-number'>15</span>
-<span class='line-number'>16</span>
-<span class='line-number'>17</span>
-<span class='line-number'>18</span>
-<span class='line-number'>19</span>
-<span class='line-number'>20</span>
-<span class='line-number'>21</span>
-<span class='line-number'>22</span>
-<span class='line-number'>23</span>
-<span class='line-number'>24</span>
-<span class='line-number'>25</span>
-<span class='line-number'>26</span>
-<span class='line-number'>27</span>
-<span class='line-number'>28</span>
-<span class='line-number'>29</span>
-<span class='line-number'>30</span>
-<span class='line-number'>31</span>
-<span class='line-number'>32</span>
-<span class='line-number'>33</span>
-<span class='line-number'>34</span>
-<span class='line-number'>35</span>
-<span class='line-number'>36</span>
-<span class='line-number'>37</span>
-<span class='line-number'>38</span>
-<span class='line-number'>39</span>
-<span class='line-number'>40</span>
-<span class='line-number'>41</span>
-<span class='line-number'>42</span>
-<span class='line-number'>43</span>
-<span class='line-number'>44</span>
-<span class='line-number'>45</span>
-<span class='line-number'>46</span>
-<span class='line-number'>47</span>
-<span class='line-number'>48</span>
-<span class='line-number'>49</span>
-<span class='line-number'>50</span>
-</pre></td><td class='code'><pre><code class='ruby'><span class='line'><span class="o">&lt;</span><span class="p">?</span><span class="n">php</span>
-</span><span class='line'>
-</span><span class='line'><span class="c1">#Connection variables :</span>
-</span><span class='line'><span class="vg">$mysql_host</span> <span class="o">=</span> <span class="s1">&#39;&#39;</span><span class="p">;</span>
-</span><span class='line'><span class="vg">$mysql_user</span> <span class="o">=</span> <span class="s1">&#39;&#39;</span><span class="p">;</span>
-</span><span class='line'><span class="vg">$mysql_password</span> <span class="o">=</span> <span class="s1">&#39;&#39;</span><span class="p">;</span>
-</span><span class='line'><span class="vg">$mysql_database</span> <span class="o">=</span> <span class="s1">&#39;&#39;</span><span class="p">;</span>
-</span><span class='line'><span class="vg">$mysql_link</span> <span class="o">=</span> <span class="n">mysql_connect</span><span class="p">(</span>
-</span><span class='line'>  <span class="vg">$mysql_host</span><span class="p">,</span>
-</span><span class='line'>  <span class="vg">$mysql_user</span><span class="p">,</span>
-</span><span class='line'>  <span class="vg">$mysql_password</span><span class="p">);</span>
-</span><span class='line'>
-</span><span class='line'><span class="vg">$mssql_host</span> <span class="o">=</span> <span class="s1">&#39;&#39;</span><span class="p">;</span>
-</span><span class='line'><span class="vg">$mssql_user</span> <span class="o">=</span> <span class="s1">&#39;&#39;</span><span class="p">;</span>
-</span><span class='line'><span class="vg">$mssql_password</span> <span class="o">=</span> <span class="s1">&#39;&#39;</span><span class="p">;</span>
-</span><span class='line'><span class="vg">$mssql_database</span> <span class="o">=</span> <span class="s1">&#39;&#39;</span><span class="p">;</span>
-</span><span class='line'><span class="vg">$mssql_link</span> <span class="o">=</span> <span class="n">mssql_connect</span><span class="p">(</span>
-</span><span class='line'>  <span class="vg">$mssql_host</span><span class="p">,</span>
-</span><span class='line'>  <span class="vg">$mssql_user</span><span class="p">,</span>
-</span><span class='line'>  <span class="vg">$mssql_password</span><span class="p">);</span>
-</span><span class='line'>
-</span><span class='line'><span class="vg">$tables</span> <span class="o">=</span> <span class="n">array</span><span class="p">(</span><span class="sr">/* LIST THE TABLES YOU WANT TO MIGRATE HERE */</span><span class="p">);</span>
-</span><span class='line'>
-</span><span class='line'><span class="c1">#Select the databases:</span>
-</span><span class='line'><span class="n">mysql_select_db</span><span class="p">(</span><span class="vg">$mysql_database</span><span class="p">);</span>
-</span><span class='line'><span class="n">mssql_select_db</span><span class="p">(</span><span class="vg">$mssql_database</span><span class="p">);</span>
-</span><span class='line'>
-</span><span class='line'><span class="c1">#Migrate the data:</span>
-</span><span class='line'><span class="n">foreach</span><span class="p">(</span><span class="vg">$tables</span> <span class="n">as</span> <span class="vg">$table</span><span class="p">){</span>
-</span><span class='line'>
-</span><span class='line'>  <span class="vg">$m_res</span> <span class="o">=</span> <span class="n">mssql_query</span><span class="p">(</span><span class="s1">&#39;select * from &#39;</span><span class="o">.</span> <span class="vg">$table</span><span class="p">);</span>
-</span><span class='line'>
-</span><span class='line'>  <span class="vg">$j</span> <span class="o">=</span> <span class="mi">0</span><span class="p">;</span>
-</span><span class='line'>
-</span><span class='line'>  <span class="k">while</span><span class="p">(</span><span class="vg">$rec</span> <span class="o">=</span> <span class="n">mssql_fetch_array</span><span class="p">(</span><span class="vg">$m_res</span><span class="p">,</span> <span class="no">MSSQL_NUM</span><span class="p">)){</span>
-</span><span class='line'>      <span class="n">echo</span> <span class="vg">$table</span><span class="p">,</span> <span class="s1">&#39; &gt;&gt; &#39;</span><span class="p">,</span> <span class="vg">$j</span><span class="o">++</span><span class="p">,</span> <span class="s2">&quot;</span><span class="se">\n</span><span class="s2">&quot;</span><span class="p">;</span>
-</span><span class='line'>      <span class="vg">$cols</span> <span class="o">=</span> <span class="n">count</span><span class="p">(</span><span class="vg">$rec</span><span class="p">);</span>
-</span><span class='line'>      <span class="k">for</span><span class="p">(</span><span class="vg">$i</span> <span class="o">=</span> <span class="mi">0</span><span class="p">;</span> <span class="vg">$i</span> <span class="o">&lt;</span> <span class="vg">$cols</span><span class="p">;</span> <span class="vg">$i</span><span class="o">++</span><span class="p">){</span>
-</span><span class='line'>          <span class="k">if</span><span class="p">(</span><span class="n">is_string</span><span class="p">(</span><span class="vg">$rec</span><span class="o">[</span><span class="vg">$i</span><span class="o">]</span><span class="p">)){</span>
-</span><span class='line'>              <span class="vg">$rec</span><span class="o">[</span><span class="vg">$i</span><span class="o">]</span> <span class="o">=</span> <span class="s2">&quot;&#39;&quot;</span> <span class="o">.</span> <span class="n">mysql_real_escape_string</span><span class="p">(</span><span class="vg">$rec</span><span class="o">[</span><span class="vg">$i</span><span class="o">]</span><span class="p">)</span> <span class="o">.</span> <span class="s2">&quot;&#39;&quot;</span><span class="p">;</span>
-</span><span class='line'>          <span class="p">}</span>
-</span><span class='line'>          <span class="k">if</span><span class="p">(</span><span class="n">is_null</span><span class="p">(</span><span class="vg">$rec</span><span class="o">[</span><span class="vg">$i</span><span class="o">]</span><span class="p">))</span> <span class="vg">$rec</span><span class="o">[</span><span class="vg">$i</span><span class="o">]</span> <span class="o">=</span> <span class="s1">&#39;NULL&#39;</span><span class="p">;</span>
-</span><span class='line'>      <span class="p">}</span>
-</span><span class='line'>
-</span><span class='line'>      <span class="vg">$query</span> <span class="o">=</span> <span class="s1">&#39;insert into &#39;</span><span class="o">.</span><span class="vg">$table</span><span class="o">.</span><span class="s2">&quot; values (&quot;</span> <span class="o">.</span> <span class="n">implode</span><span class="p">(</span><span class="s2">&quot;,&quot;</span><span class="p">,</span> <span class="vg">$rec</span><span class="p">)</span> <span class="o">.</span> <span class="s2">&quot;);&quot;</span><span class="p">;</span>
-</span><span class='line'>      <span class="vg">$res</span> <span class="o">=</span> <span class="n">mysql_query</span><span class="p">(</span><span class="vg">$query</span><span class="p">);</span>
-</span><span class='line'>      <span class="k">if</span><span class="p">(</span><span class="o">!</span><span class="vg">$res</span><span class="p">)</span> <span class="n">echo</span> <span class="vg">$query</span><span class="p">,</span> <span class="s1">&#39; &gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt; &#39;</span><span class="p">,</span> <span class="n">mysql_error</span><span class="p">(),</span> <span class="s2">&quot;</span><span class="se">\n</span><span class="s2">&quot;</span><span class="p">;</span>
-</span><span class='line'>  <span class="p">}</span>
-</span><span class='line'>
-</span><span class='line'><span class="p">}</span>
-</span></code></pre></td></tr></table></div></figure>
-
-
-<p>Probably this is not the most performant way to migrate, simply due to the fact that there are no batch inserts, but it lets me easily monitor  errors and progress. The whole process - all errors included - took me less time and energy, that I wasted on research. Being a programmer I normally favor coding over tools. Sometimes the effort isn&#8217;t worth it, this time it was.</p>
-
-<p>My approach should work on any project and is not bound to MySql and MSSql. The solution is only limited by the database connectors that are available for PHP and Ruby (Rails).</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Interesting Thingys #5]]></title>
-    <link href="http://yieldthedog.github.com/blog/2012/02/21/interesting-thingys-5/"/>
-    <updated>2012-02-21T08:54:00+01:00</updated>
-    <id>http://yieldthedog.github.com/blog/2012/02/21/interesting-thingys-5</id>
-    <content type="html"><![CDATA[<blockquote><p><em>Interesting Thingys</em> is a gazette in the blog that summarizes a week of blog articles, links, specifications, demos, news or more general &#8220;thingys&#8221; that we stumble upon in our journey through the world wide web.</p></blockquote>
-
-<h3>CSS/HTML/Frontend</h3>
-
-<ul>
-<li><a href="http://www.html5rocks.com">HTML5Rocks</a> - Updated website of &#8220;HTML5Rocks&#8221; with a bunch of useful information!</li>
-<li><a href="http://darcyclarke.me/development/front-end-job-interview-questions/">Interview Question for Frontend Developers</a></li>
-<li><a href="http://mathiasbynens.be/notes/css-without-html">CSS without HTML</a> - How to build a website without HTML.</li>
-</ul>
-
-
-<!-- more -->
-
-
-<h3>Mobile Development (iOS + Rails)</h3>
-
-<ul>
-<li><a href="http://devcenter.heroku.com/articles/getting-started-ios-development-sinatra-cedar">Tutorial: iOS App + Sinatra Backend + Heroku&#8230;</a></li>
-</ul>
-
-
-<h3>Javascript</h3>
-
-<ul>
-<li><a href="http://www.devthought.com/2012/02/17/npm-tricks/">NPM Tricks</a> - Tricks for the node.js package manager.</li>
-</ul>
-
-
-<h3>Programming / Tools / Allgemein</h3>
-
-<ul>
-<li><a href="http://www.theprojectspot.com/tutorial-post/creating-a-genetic-algorithm-for-beginners/3">How to write a &#8220;Genetic Algorithm&#8221;</a></li>
-<li><a href="http://research.swtch.com/bell-labs">&#8220;Computing History at Bell Labs&#8221;</a> -  Presentation from 1997</li>
-<li><a href="http://www.gnuplotting.org/">gnuplotting.org</a> - what you can do with gnuplot.</li>
-<li><a href="http://versionswitcher.appspot.com/">versionswitcher</a> - switch versions of programming languages or applications (like rvm).</li>
-</ul>
-
-
-<h3>SQL Server (Fun)</h3>
-
-<ul>
-<li><a href="http://pulse.sqlserverpedia.com/blog/an-open-letter-to-anyone-with-sql-server-on-their-resume/">SQL-Server on the resume</a> - &#8220;There is no SQL Server 2003 .. There is no SQL Server 2003&#8221;</li>
-</ul>
-
-
-<h3>WebGL</h3>
-
-<ul>
-<li><a href="http://fridek.github.com/Threejs-Tetris/">3D Tetris in WebGL</a></li>
-</ul>
-
-
-<h3>Ebooks/Knowledge</h3>
-
-<ul>
-<li><a href="http://hackershelf.com">hackershelf</a> - &#8220;A community-curated collection of free books for the intellectual curious&#8221;</li>
-</ul>
-
-
-<h3>Fun</h3>
-
-<ul>
-<li><a href="http://67signals.com/">67signals</a> -  &#8220;37 Signals&#8221; Bashing (&#8230; the inventors of rails)</li>
-<li><a href="http://sphotos.xx.fbcdn.net/hphotos-snc7/395399_10101488712535065_12403557_69228456_559079840_n.jpg">What a software developer does</a></li>
-</ul>
-
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Interesting Thingys #4]]></title>
-    <link href="http://yieldthedog.github.com/blog/2012/02/13/interesting-thingys-4/"/>
-    <updated>2012-02-13T08:54:00+01:00</updated>
-    <id>http://yieldthedog.github.com/blog/2012/02/13/interesting-thingys-4</id>
-    <content type="html"><![CDATA[<blockquote><p><em>Interesting Thingys</em> is a gazette in the blog that summarizes a week of blog articles, links, specifications, demos, news or more general &#8220;thingys&#8221; that we stumble upon in our journey through the world wide web.</p></blockquote>
-
-<h3>Android (+Ruby)</h3>
-
-<ul>
-<li><a href="http://rubysource.com/ruboto-rubys-and-androids-first-born/">Ruby on Android device via Ruboto</a> - &#8230; a little tutorial.</li>
-</ul>
-
-
-<!-- more -->
-
-
-<h3>CSS</h3>
-
-<ul>
-<li><a href="http://colintoh.com/css3-flip-switch">A flip-switch in CSS3</a></li>
-</ul>
-
-
-<h3>Mobile Development / Industry</h3>
-
-<ul>
-<li><a href="http://gizmodo.com/5878942">Article about Instagram</a> - why they do not offer an Android App.</li>
-</ul>
-
-
-<h3>JavaScript</h3>
-
-<ul>
-<li><a href="http://www.turnjs.com">turnjs</a> - Page-Turn animation for HTML.</li>
-<li><a href="http://www.elijahmanor.com/2012/02/differences-between-jquery-bind-vs-live.html">event-binding with jquery</a> - bind(), live(), delegate() &amp; on() &#8230; event-binding with jQuery: differences, pitfalls and performance killer.</li>
-<li><a href="http://www.modernizr.com/news/modernizr-25">modernizr Supercharged</a> -  v2.5 released!.</li>
-<li><a href="https://github.com/chjj/tty.js">tty.js</a> - A terminal for your browser (node.js, socket.io, express).</li>
-</ul>
-
-
-<h3>Ruby</h3>
-
-<ul>
-<li><a href="http://rubyreloaded.com/trickshots/">Ruby trick shots</a> - 24 Ruby tricks you did not know about&#8230; Nice!.</li>
-</ul>
-
-
-<h3>Databases</h3>
-
-<ul>
-<li><a href="http://try.redis-db.com/">try redis!</a> - Redis is a key-value store for advanced data structure like strings, hashes, lists, sets, etc .. Try it in your browser!.</li>
-<li><a href="http://antirez.com/post/redis-manifesto.html">&#8220;The Redis Manifesto&#8221;</a> - Statement about Redis and Software Development: &#8220;code is like a poem&#8221; &amp; &#8220;we optimize for joy&#8221;.</li>
-</ul>
-
-
-<h3>Git</h3>
-
-<ul>
-<li><a href="http://blog.edgeyo.com/2012/02/git-log-in-calendar-view/">visualize git-log</a> -  in a calendar-view (&amp; excel).</li>
-</ul>
-
-
-<h3>Programming</h3>
-
-<ul>
-<li><a href="http://designpepper.com/podcasts-for-hackers">podcasts for hackers</a> - List of programming/startup specific podcasts.</li>
-<li><a href="http://www.dodgycoder.net/2012/02/coding-tricks-of-game-developers.html">programming anecdotes from game developers</a></li>
-</ul>
-
-
-<h3>Fun/physics</h3>
-
-<ul>
-<li><a href="http://jalopnik.com/5883458/how-to-fly-a-soyuz-space-capsule">&#8220;How to fly a Soyuz Space Capsule&#8221;</a> - &#8230; a developer should be able to do that! ;).</li>
-</ul>
-
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Interesting Thingys #3]]></title>
-    <link href="http://yieldthedog.github.com/blog/2012/02/06/interesting-thingys-3/"/>
-    <updated>2012-02-06T08:54:00+01:00</updated>
-    <id>http://yieldthedog.github.com/blog/2012/02/06/interesting-thingys-3</id>
-    <content type="html"><![CDATA[<blockquote><p><em>Interesting Thingys</em> is a gazette in the blog that summarizes a week of blog articles, links, specifications, demos, news or more general &#8220;thingys&#8221; that we stumble upon in our journey through the world wide web.</p></blockquote>
-
-<h3>CSS</h3>
-
-<ul>
-<li><a href="http://css3test.com/">css3test</a> - Tests your browser for CSS3 compatibility.</li>
-<li><a href="http://upstatement.com/blog/2012/01/how-to-approach-a-responsive-design/">how to approach a responsive design</a> - Interesting Article about Responsive Design, example: the Boston Globe website.</li>
-</ul>
-
-
-<!-- more -->
-
-
-<h3>Mobile Web Development</h3>
-
-<ul>
-<li><a href="http://dumaslab.com/2011/05/best-mobile-web-html5-framework-for-mobile-app-development/">mobile app development</a> - A somehow older but interesting comparison of mobile development frameworks (PhoneGap, Titanium, JQTouch, &#8230;).</li>
-</ul>
-
-
-<h3>JavaScript</h3>
-
-<ul>
-<li><a href="http://listjs.com">listjs</a> - make your HTML-Lists/Tables sortable, searchable, filterable, &#8230; using an 8KB javascript!.</li>
-</ul>
-
-
-<h3>Management</h3>
-
-<ul>
-<li><a href="http://www.quora.com/Engineering-Management/Why-are-software-development-task-estimations-regularly-off-by-a-factor-of-2-3">Estimation &amp; Software-Development</a> - a nice comparison. Let&#8217;s take a hike on the coast from San Francisco to Los Angeles.</li>
-</ul>
-
-
-<h3>Physics</h3>
-
-<ul>
-<li><a href="http://www.wired.com/wiredscience/2012/02/minecraft-physics">minecraft physics</a> - Little physics for the minecraft geeks.</li>
-</ul>
-
-
-<h3>Server</h3>
-
-<ul>
-<li><a href="http://matt.might.net/articles/ssh-hacks/">ssh hacks</a> - Not much new but interesting for all that are not used to SSH.</li>
-</ul>
-
-
-<h3>Objective-C / iOS</h3>
-
-<ul>
-<li><a href="http://biasedbit.com/filesystem-vs-coredata-image-cache/">Filesystem vs. CoreData</a> - Benchmark between FileSystem &amp; CoreData storage for images.</li>
-<li><a href="http://kentnguyen.com/ios/what-does-it-take-to-make-an-ios-app/">What does it take to make an iOS app</a> - What makes an iOS app .. and what a customer or project manager thinks about it.</li>
-</ul>
-
-
-<h3>Fun</h3>
-
-<ul>
-<li><a href="http://www.fileformat.info/info/unicode/char/1f4a9/index.htm">&#8220;Pile of Poo&#8221;</a> - as a Unicode Character.</li>
-<li><a href="http://www.youtube.com/watch?feature=player_embedded&amp;v=8WZr6fvtEgk">&#8220;Shit Programmers Say&#8221;&#8230;</a></li>
 </ul>
 
 ]]></content>
