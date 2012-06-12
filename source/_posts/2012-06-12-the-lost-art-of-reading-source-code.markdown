@@ -10,7 +10,7 @@ published: true
 In my _old programming days_ reading source code of libraries that I used was often a hard task. Either the code was closed source or only in binary format.
 
 Today we live in an area in which programmers like to share their code and have the tools to do so. We could not be more lucky. To solve a certain task we can choose from __many different solutions__ that may vary in __quality__ and __functionality__. If one does not fit the purpose we just use the next one.
-
+<!-- more -->
 ##When unsolvable problems arise
 Most open source solutions have a __solid documentation__, otherwise they could not compete with the __high standard__. Still from times to times I am confronted with problems that are not covered in the documentation and can not be solved with the help of Google. Sometimes a colleague asks me a question, sometimes I find a question on StackOverflow with a problem that the person was not able to solve.
 
