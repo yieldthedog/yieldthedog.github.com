@@ -49,6 +49,8 @@ The 20th issue features lots articles on windows, css, javascript, and much more
 ### OS X
 - [CheatSheet](http://www.grandtotal.biz/CheatSheet/)  
   displays a cheatsheet of shortcuts when you hold down the command key
+- [Fish](http://ridiculousfish.com/shell/)
+  Finally, a command line shell for the 90s
 
 ### JavaScript
 - [BackboneConf 2012 Keynote by Jeremy Ashkenas - YouTube](http://www.youtube.com/watch?v=yDmRRJzTo38)
@@ -68,3 +70,13 @@ The 20th issue features lots articles on windows, css, javascript, and much more
    Really fast deployer and server automation tool
 - [Ruby Fiddle](http://rubyfiddle.com/)  
   like jsFiddle for Ruby
+
+### Hosting / Server
+- [AppFog](https://console.appfog.com/login)  
+  Heroku alternative
+- [Xip.IO](http://xip.io/)  
+  xip.io is a magic domain name that provides wildcard DNS for any IP address.
+
+### Time to watch
+- [Zed A. Shaw - The Web Will Die When OOP Dies](https://vimeo.com/43380467)  
+  nice rant on the current front end tech stack
