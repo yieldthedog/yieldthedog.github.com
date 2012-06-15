@@ -57,7 +57,8 @@ The 20th issue features lots articles on windows, css, javascript, and much more
 - [Christian Johansen - Pure, functional JavaScript on Vimeo](https://vimeo.com/43382919)
 - [Socialite.js](http://socialitejs.com/)  
    Socialite provides a very easy way to implement and activate a plethora of social sharing buttons — any time you wish.
-- [gravityonmars/Balloons.IO - Socialite provides a very easy way to implement and activate a plethora of social sharing buttons — any time you wish.](https://github.com/gravityonmars/Balloons.IO)
+- [gravityonmars/Balloons.IO](https://github.com/gravityonmars/Balloons.IO)  
+  Chatserver based on NodeJs, Redis and SocketIO
 - [vdemedes/joconut](https://github.com/vdemedes/joconut)  
   ever load a full page over and over again.
 
