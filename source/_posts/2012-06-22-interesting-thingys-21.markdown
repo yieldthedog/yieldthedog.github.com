@@ -37,7 +37,7 @@ This week some Interesting Thingys from CSS, JavaScript, Ruby, and much more.
 - [javascript - Why are my balls disappearing? - Stack Overflow](http://stackoverflow.com/questions/11066050/why-are-my-balls-disappearing?newsletter=1&nlcode=28472%7c4563)
 - [Introduction to JavaScript | adamonio.us](http://adamonio.us/wexcode/66/introduction-to-javascript/)
 
-### C#
+### C&#35;
 - [The theory behind covariance and contravariance in C# 4 | Blog | TomasP.Net](http://tomasp.net/blog/variance-explained.aspx)
 
 ### Ruby
