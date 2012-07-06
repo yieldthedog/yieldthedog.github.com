@@ -6,18 +6,8 @@ comments: false
 published: true
 categories: "Interesting-Thingys"
 ---
-This week with 
+This week again with tons of new exciting links form the web and programming front…
 <!-- More -->
-
-### Tools
-
-
-### Mac
-
-
-### iOS
-
-### Android
 
 ### JavaScript
 - [jQuery Blog » jQuery Core: Version 1.9 and Beyond](http://blog.jquery.com/2012/06/28/jquery-core-version-1-9-and-beyond/)
@@ -31,6 +21,7 @@ This week with
 ### CSS
 - [How to Create Simple Timed Notifications with CSS Animations](http://tympanus.net/codrops/2012/06/25/timed-notifications-with-css-animations/)
 - [Pondasee: A Front-End Starter Kit with SCSS and Compass](http://tokokoo.github.com/pondasee/)
+- [Ceaser - CSS Easing Animation Tool - Matthew Lein](http://matthewlein.com/ceaser/)
 
 
 ### HTML(5)
@@ -49,6 +40,13 @@ This week with
 - [Pageguide: Create Interactive Guides for Your Pages' Elements](http://tracelytics.github.com/pageguide/)
 
 ### Ruby
+- [Ruby OpenSource Challenge](http://rubyosc.com/)
+- [Vim for Ruby on Rails (and a sexy theme!) - @AstonJ&#39;s Blog](http://astonj.com/tech/vim-for-ruby-rails-and-a-sexy-theme/)
+- [EricR/image_sorcery](https://github.com/EricR/image_sorcery)
+- [augustl/ruby-openssl-cheat-sheet](https://github.com/augustl/ruby-openssl-cheat-sheet)
+
+### Clojure
+- [Shall we use Clojure - my presentation - Andrew Jones](http://www.andrewhjon.es/142343729)
 
 ### Browsers
 - [The Skinny on IE's Automatic Updates Policy](http://paulirish.com/2012/the-skinny-on-ies-update-policy/)
@@ -58,13 +56,15 @@ This week with
 
 ### Databases
 - [PGStrom - PostgreSQL wiki](http://wiki.postgresql.org/wiki/PGStrom)
+- [Google I/O 2012 - SQL vs NoSQL: Battle of the Backends - YouTube](https://www.youtube.com/watch?v=rRoy6I4gKWU)
+- [From Zero to API Cache w Grape &amp; MongoDB in 10 minutes by Daniel Doubrovkine, - YouTube](http://www.youtube.com/watch?v=e9HLflRXMcA)
 
 ### Vim
 - [Ignoring files in vimgrep : vim](http://www.reddit.com/r/vim/comments/vqzqc/ignoring_files_in_vimgrep/)
 
-### Editors and IDEs
-
 ### Miscellaneous
+- [Barkeep - the friendly code review system](http://getbarkeep.org/)
+- [java leap second bug – 30 June / 1 July 2012 – fix » WPKG Blog » Blog Archive](http://blog.wpkg.org/2012/07/01/java-leap-second-bug-30-june-1-july-2012-fix/)
 - [Microsoft on Test the Web Forward](http://blogs.msdn.com/b/ie/archive/2012/06/29/test-the-web-forward.aspx)
 - [Why You Need To Hire Great Developers | benlakey.com](http://benlakey.com/2012/07/01/hire-great-developers/)
 
