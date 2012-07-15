@@ -2,6 +2,7 @@
 layout: post
 title: "command line gems"
 date: 2012-07-15 13:44
+published: false
 comments: true
 categories: command line, linux, zsh, productivity
 ---
@@ -28,7 +29,7 @@ ack is a tool like grep, optimized for programmers, see [betterthangrep](http://
 Send _KILL_ signal to process
 
 ##ctrl+r
-Lots of command line users do not know the __reverse search__ with <kbd>CTRL</kdb> <kbd>r</kdb>. Even more do not know that you can hit it __more than once__ if the first match is not the one you were looking for.
+Lots of command line users do not know the __reverse search__ with <kbd>CTRL</kbd> <kbd>r</kbd>. Even more do not know that you can hit it __more than once__ if the first match is not the one you were looking for.
 
 ##!!
 repeat the last command. This is espacially useful if you forgot to `sudo`.
