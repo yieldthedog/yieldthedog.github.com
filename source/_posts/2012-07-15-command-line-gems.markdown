@@ -7,7 +7,8 @@ comments: true
 categories: command line, linux, zsh, productivity
 ---
 
-As a long time command line lover I have gather a lot of little tools that help me out through the day (and night).
+
+As a long time command line lover I have gather a lot of little tools that help me through out the day (and night). This list represents an unordered and propably incomplete inventory of my command line swiss army knife:
 
 
 - [ssh-copy-id](http://linux.die.net/man/1/ssh-copy-id)  
@@ -68,8 +69,7 @@ convert units
 you do not have to extract an archive of a log if you want to take a short look into it, just use `zless`and `zgrep`
 
 - kill - pause and continue  
-you do not have to always kill a process and restart it, kill can pause and start processes, too:
-
+you do not have to always kill a process and restart it, kill can pause and start processes, too:  
 `kill -STOP PID #to stop`   
 `kill -CONT PID #to continue`
 
@@ -77,14 +77,16 @@ you do not have to always kill a process and restart it, kill can pause and star
 perform simple manipulation of IP addresses
 
 - [watch](http://linux.die.net/man/1/watch)  
-watch – execute a program periodically, showing output fullscreen
-
+watch – execute a program periodically, showing output fullscreen  
 e.g.: `watch -d -n 1 "netstat -an | grep :8080"`
 
 - [multitail](http://linux.die.net/man/1/multitail)  
 if one `tail -f` is not enough
 
 - [z](https://github.com/rupa/z/)  
-tracks your most used directories, based on 'frecency'.
+tracks your most used directories, based on 'frecency' and lets you jump by specifying a fragment.
+
+- [tmux](http://tmux.sourceforge.net/)  
+A terminal multiplexer.
 
 
