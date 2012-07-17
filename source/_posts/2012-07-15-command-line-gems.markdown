@@ -9,7 +9,7 @@ categories: command line, linux, zsh, productivity
 
 
 As a long time command line lover, I have gathered a lot of little tools that help me throughout the day (and night). This list represents an unordered and probably incomplete inventory of my command line swiss army knife:
-
+<!-- more -->
 
 - [ssh-copy-id](http://linux.die.net/man/1/ssh-copy-id)  
   This is one of my favorites and seems to be rather unknown. `ssh-copy-id` helps you to distribute your public keys on remote servers. No more scp-ing, ssh-ing and chmod-ing and wondering what you have forgotten when passwordless ssh does not want to work. If you live on a Mac you have to `brew install ssh-copy-id`.
