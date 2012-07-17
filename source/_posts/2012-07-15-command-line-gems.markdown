@@ -8,7 +8,7 @@ categories: command line, linux, zsh, productivity
 ---
 
 
-As a long time command line lover, I have gathered a lot of little tools that help me throughout the day (and night). This list represents an unordered and probably incomplete inventory of my command line swiss army knife:
+As a long time command line lover, I have gathered a lot of little tools that help me throughout the day (and night). This list represents an unordered and probably incomplete inventory of my command line swiss army knife.
 <!-- more -->
 
 - [ssh-copy-id](http://linux.die.net/man/1/ssh-copy-id)  
@@ -24,12 +24,12 @@ As a long time command line lover, I have gathered a lot of little tools that he
 Oh-my-zsh lets you easily customize your _ZSH_. If you do not use _ZSH_, change your life with `chsh -s /bin/zsh`
 
 - [awk](http://www.grymoire.com/Unix/Awk.html)  
-awk is a tool like grep, only better and optimized for programmers. if there is a pattern, you can easily parse it with awk. see [betterthangrep](http://betterthangrep.com) for more information.
+awk is a tool like grep, only better and optimized for programmers. If there is a pattern, you can easily parse it with awk. see [betterthangrep](http://betterthangrep.com) for more information.
 
 - [kill -9](http://linux.die.net/man/1/kill)  
 Send _KILL_ signal to process
 
-- ctrl+r  
+- ctrl+r
 Lots of command line users do not know the __reverse search__ with <kbd>CTRL</kbd> <kbd>r</kbd>. Even more do not know that you can hit it __more than once__ if the first match is not the one you were looking for.
 
 - !!  
@@ -37,8 +37,8 @@ repeat the last command. This is especially useful if you forgot to `sudo`.
 
 - ssh -f user@host -L LOCAL_PORT:localhost:REMOTE_PORT -N –g  
 create an ssh tunnel between host:REMOTE_PORT and localhost:LOCAL_PORT. especially useful, if the remote-port of the server is not accessible on the web (and if you want to secure the traffic, of course).
-the *-f* switch tells ssh to go into background mode, *-N* to not execute a command on the remote, and *-g* to allow remote hosts to connect to local forwarded ports.
-for a detailed explanation see [ssh tunneling made easy](http://www.revsys.com/writings/quicktips/ssh-tunnel.html)
+The *-f* switch tells ssh to go into background mode, *-N* to not execute a command on the remote, and *-g* to allow remote hosts to connect to local forwarded ports.
+For a detailed explanation see [ssh tunneling made easy](http://www.revsys.com/writings/quicktips/ssh-tunnel.html)
 
 - [sox](http://sox.sourceforge.net/)  
 the Swiss Army knife of sound processing programs. handle various sound formats, apply effects (chorus, delay, etc), adjust volume, tempo, noise-reduction and many more features.
@@ -92,4 +92,5 @@ tracks your most used directories, based on 'frecency' and lets you jump by spec
 - [tmux](http://tmux.sourceforge.net/)  
 A terminal multiplexer. get it (cause screen is dead)!
 
-
+- [ffmpeg](http://ffmpeg.org)
+The swiss army knife of video processing, video recording on the command line. The abilities of ffmpeg reach from capturing single images from a web cam (combine that with a GIT post commit hook and you have your self made [lolcommits](https://github.com/mroth/lolcommits/)) over transcoding video files to recording screencasts (at least under X).
