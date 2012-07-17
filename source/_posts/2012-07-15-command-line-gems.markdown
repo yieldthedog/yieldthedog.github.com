@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "command line gems"
-date: 2012-07-15 13:44
-published: false
+date: 2012-07-17 08:27
+published: true
 comments: true
 categories: command line, linux, zsh, productivity
 ---
