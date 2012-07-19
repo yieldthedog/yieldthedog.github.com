@@ -23,8 +23,11 @@ As a long time command line lover, I have gathered a lot of little tools that he
 - [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh/)  
 Oh-my-zsh lets you easily customize your _ZSH_. If you do not use _ZSH_, change your life with `chsh -s /bin/zsh`
 
+- [ack](http://linux.die.net/man/1/ack)  
+ack is a tool like grep, optimized for programmers, see [betterthangrep](http://betterthangrep.com) for more information.
+
 - [awk](http://www.grymoire.com/Unix/Awk.html)  
-awk is a tool like grep, only better and optimized for programmers. If there is a pattern, you can easily parse it with awk. see [betterthangrep](http://betterthangrep.com) for more information.
+The AWK utility is an interpreted programming language typically used as a data extraction and reporting tool.
 
 - [kill -9](http://linux.die.net/man/1/kill)  
 Send _KILL_ signal to process
@@ -92,5 +95,10 @@ tracks your most used directories, based on 'frecency' and lets you jump by spec
 - [tmux](http://tmux.sourceforge.net/)  
 A terminal multiplexer. get it (cause screen is dead)!
 
-- [ffmpeg](http://ffmpeg.org)
+- [ffmpeg](http://ffmpeg.org)  
 The swiss army knife of video processing, video recording on the command line. The abilities of ffmpeg reach from capturing single images from a web cam (combine that with a GIT post commit hook and you have your self made [lolcommits](https://github.com/mroth/lolcommits/)) over transcoding video files to recording screencasts (at least under X).
+
+__UPDATE__  
+
+fixed the mixup between ack and awk.
+
