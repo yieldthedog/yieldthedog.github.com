@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: productivity | yield the dog]]></title>
+  <link href="http://yieldthedog.github.com/blog/categories/productivity/atom.xml" rel="self"/>
+  <link href="http://yieldthedog.github.com/"/>
+  <updated>2012-07-19T20:57:16+02:00</updated>
+  <id>http://yieldthedog.github.com/</id>
+  <author>
+    <name><![CDATA[yield the dog]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[command line gems]]></title>
+    <link href="http://yieldthedog.github.com/blog/2012/07/17/command-line-gems/"/>
+    <updated>2012-07-17T08:27:00+02:00</updated>
+    <id>http://yieldthedog.github.com/blog/2012/07/17/command-line-gems</id>
+    <content type="html"><![CDATA[<p>As a long time command line lover, I have gathered a lot of little tools that help me throughout the day (and night). This list represents an unordered and probably incomplete inventory of my command line swiss army knife.</p>
+
+<!-- more -->
+
+
+<ul>
+<li><p><a href="http://linux.die.net/man/1/ssh-copy-id">ssh-copy-id</a><br/>
+This is one of my favorites and seems to be rather unknown. <code>ssh-copy-id</code> helps you to distribute your public keys on remote servers. No more scp-ing, ssh-ing and chmod-ing and wondering what you have forgotten when passwordless ssh does not want to work. If you live on a Mac you have to <code>brew install ssh-copy-id</code>.</p></li>
+<li><p><a href="http://htop.sourceforge.net/">htop</a><br/>
+<code>htop</code> greatly improves the old <code>top</code> command with easy sorting and scrolling abilities and a much nicer <em>UI</em></p></li>
+<li><p><a href="http://linux.die.net/man/8/iftop">iftop</a><br/>
+<code>iftop</code> displays bandwidth usage on an interface. E.g. <code>sudo iftop -i eth0</code></p></li>
+<li><p><a href="https://github.com/robbyrussell/oh-my-zsh/">oh-my-zsh</a><br/>
+Oh-my-zsh lets you easily customize your <em>ZSH</em>. If you do not use <em>ZSH</em>, change your life with <code>chsh -s /bin/zsh</code></p></li>
+<li><p><a href="http://linux.die.net/man/1/ack">ack</a><br/>
+ack is a tool like grep, optimized for programmers, see <a href="http://betterthangrep.com">betterthangrep</a> for more information.</p></li>
+<li><p><a href="http://www.grymoire.com/Unix/Awk.html">awk</a><br/>
+The AWK utility is an interpreted programming language typically used as a data extraction and reporting tool.</p></li>
+<li><p><a href="http://linux.die.net/man/1/kill">kill -9</a><br/>
+Send <em>KILL</em> signal to process</p></li>
+<li><p>ctrl+r
+Lots of command line users do not know the <strong>reverse search</strong> with <kbd>CTRL</kbd> <kbd>r</kbd>. Even more do not know that you can hit it <strong>more than once</strong> if the first match is not the one you were looking for.</p></li>
+<li><p>!!<br/>
+repeat the last command. This is especially useful if you forgot to <code>sudo</code>.</p></li>
+<li><p>ssh -f user@host -L LOCAL_PORT:localhost:REMOTE_PORT -N –g<br/>
+create an ssh tunnel between host:REMOTE_PORT and localhost:LOCAL_PORT. especially useful, if the remote-port of the server is not accessible on the web (and if you want to secure the traffic, of course).
+The <em>-f</em> switch tells ssh to go into background mode, <em>-N</em> to not execute a command on the remote, and <em>-g</em> to allow remote hosts to connect to local forwarded ports.
+For a detailed explanation see <a href="http://www.revsys.com/writings/quicktips/ssh-tunnel.html">ssh tunneling made easy</a></p></li>
+<li><p><a href="http://sox.sourceforge.net/">sox</a><br/>
+the Swiss Army knife of sound processing programs. handle various sound formats, apply effects (chorus, delay, etc), adjust volume, tempo, noise-reduction and many more features.
+plus, if combined with a little ruby one-liner, you can do fun stuff like this: <a href="http://twitter.com/notyce/status/124221847595266048">tweet</a></p></li>
+<li><p><a href="http://linux.about.com/library/cmd/blcmdl1_disown.htm">disown -</a><br/>
+disown a process and let it run after you locked out of a session</p></li>
+<li><p><a href="http://linux.die.net/man/8/lsof">lsof</a><br/>
+list open file handles</p></li>
+<li><p>man ascii<br/>
+list <em>ASCII</em> table in octal, decimal and hexadecimal</p></li>
+<li><p><kdb>alt</kdb> <kdb>.</kbd> , $!, $*<br/>
+Get the last argument of the last command with <kdb>alt</kdb> <kdb>.</kbd> or $!. <kdb>alt</kdb> <kdb>.</kbd> can be pressed multiple times to skip through the history. If you want to get all arguments from the last command you can use <code>$*</code>.</p></li>
+<li><p>python -m SimpleHTTPServer 8080 - serves current dir<br/>
+creates a simple http server</p></li>
+<li><p><a href="http://linux.die.net/man/1/strace">strace</a><br/>
+strace is a powerful debugging utility for Linux and some other Unix-like systems, to monitor the system calls used by a program</p></li>
+<li><p><a href="http://www.mplayerhq.hu/design7/news.html">mplayer</a><br/>
+command line media player with a great feature set and minimal footprint</p></li>
+<li><p>units --- man units<br/>
+convert units</p></li>
+<li><p><a href="http://www.thegeekstuff.com/2009/05/zcat-zless-zgrep-zdiff-zcmp-zmore-gzip-file-operations-on-the-compressed-files/">Zcat, Zless, Zgrep, Zdiff</a><br/>
+you do not have to extract an archive of a log if you want to take a short look, just use <code>zless</code>and <code>zgrep</code></p></li>
+<li><p>kill - pause and continue<br/>
+you do not have to always kill a process and restart it, kill can pause and start processes, too:<br/>
+<code>kill -STOP PID #to stop</code> <br/>
+<code>kill -CONT PID #to continue</code></p></li>
+<li><p><a href="http://linux.die.net/man/1/ipcalc">ipcalc</a><br/>
+perform simple manipulation of IP addresses</p></li>
+<li><p><a href="http://linux.die.net/man/1/watch">watch</a><br/>
+watch – execute a program periodically, showing output fullscreen<br/>
+e.g.: <code>watch -d -n 1 "netstat -an | grep :8080"</code></p></li>
+<li><p><a href="http://linux.die.net/man/1/multitail">multitail</a><br/>
+if one <code>tail -f</code> is not enough</p></li>
+<li><p><a href="https://github.com/rupa/z/">z</a><br/>
+tracks your most used directories, based on 'frecency' and lets you jump by specifying a fragment.</p></li>
+<li><p><a href="http://tmux.sourceforge.net/">tmux</a><br/>
+A terminal multiplexer. get it (cause screen is dead)!</p></li>
+<li><p><a href="http://ffmpeg.org">ffmpeg</a><br/>
+The swiss army knife of video processing, video recording on the command line. The abilities of ffmpeg reach from capturing single images from a web cam (combine that with a GIT post commit hook and you have your self made <a href="https://github.com/mroth/lolcommits/">lolcommits</a>) over transcoding video files to recording screencasts (at least under X).</p></li>
+</ul>
+
+
+<p><strong>UPDATE</strong></p>
+
+<p>fixed the mixup between ack and awk.</p>
+]]></content>
+  </entry>
+  
+</feed>

@@ -1,0 +1,325 @@
+
+<!DOCTYPE html>
+<!--[if IEMobile 7 ]><html class="no-js iem7"><![endif]-->
+<!--[if lt IE 9]><html class="no-js lte-ie8"><![endif]-->
+<!--[if (gt IE 8)|(gt IEMobile 7)|!(IEMobile)|!(IE)]><!--><html class="no-js" lang="en"><!--<![endif]-->
+<head>
+  <meta charset="utf-8">
+  <title>command line gems - yield the dog</title>
+  <meta name="author" content="yield the dog">
+
+  
+  <meta name="description" content="As a long time command line lover, I have gathered a lot of little tools that help me throughout the day (and night). This list represents an &hellip;">
+  
+
+  <!-- http://t.co/dKP3o1e -->
+  <meta name="HandheldFriendly" content="True">
+  <meta name="MobileOptimized" content="320">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  
+  <link rel="canonical" href="http://yieldthedog.github.com/blog/2012/07/17/command-line-gems">
+  <link href="/favicon.png" rel="icon">
+  <link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css">
+  <script src="/javascripts/modernizr-2.0.js"></script>
+  <script src="/javascripts/ender.js"></script>
+  <script src="/javascripts/octopress.js" type="text/javascript"></script>
+  <link href="/atom.xml" rel="alternate" title="yield the dog" type="application/atom+xml">
+  <!--Fonts from Google"s Web font directory at http://google.com/webfonts -->
+<link href="http://fonts.googleapis.com/css?family=PT+Serif:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">
+<link href="http://fonts.googleapis.com/css?family=PT+Sans:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">
+
+  
+  <script type="text/javascript">
+    var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-29924121-1']);
+    _gaq.push(['_trackPageview']);
+
+    (function() {
+      var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+      ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+    })();
+  </script>
+
+
+</head>
+
+<body   >
+  <header role="banner"><hgroup>
+  <a href="/"><h1>yield the dog</h1></a>
+  
+</hgroup>
+
+</header>
+  <nav role="navigation"><ul class="subscription" data-subscription="rss">
+  <li><a href="/atom.xml" rel="subscribe-rss" title="subscribe via RSS">RSS</a></li>
+  
+</ul>
+  
+<form action="http://google.com/search" method="get">
+  <fieldset role="search">
+    <input type="hidden" name="q" value="site:yieldthedog.github.com" />
+    <input class="search" type="text" name="q" results="0" placeholder="Search"/>
+  </fieldset>
+</form>
+  
+<ul class="main-navigation">
+  <li><a href="/">Blog</a></li>
+  <li><a href="/blog/categories/interesting-thingys/">Interesting Thingys</a></li>
+  <li><a href="/blog/archives">Archives</a></li>
+  <li><a href="/about">About</a></li>
+</ul>
+
+</nav>
+  <div id="main">
+    <div id="content">
+      <div>
+<article class="hentry" role="article">
+  
+  <header>
+    
+      <h1 class="entry-title">Command Line Gems</h1>
+    
+    
+      <p class="meta">
+        
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2012-07-17T08:27:00+02:00" pubdate data-updated="true">Jul 17<span>th</span>, 2012</time>
+        
+         | <a href="#disqus_thread">Comments</a>
+        
+      </p>
+    
+  </header>
+
+
+<div class="entry-content"><p>As a long time command line lover, I have gathered a lot of little tools that help me throughout the day (and night). This list represents an unordered and probably incomplete inventory of my command line swiss army knife.</p>
+
+<!-- more -->
+
+
+<ul>
+<li><p><a href="http://linux.die.net/man/1/ssh-copy-id">ssh-copy-id</a><br/>
+This is one of my favorites and seems to be rather unknown. <code>ssh-copy-id</code> helps you to distribute your public keys on remote servers. No more scp-ing, ssh-ing and chmod-ing and wondering what you have forgotten when passwordless ssh does not want to work. If you live on a Mac you have to <code>brew install ssh-copy-id</code>.</p></li>
+<li><p><a href="http://htop.sourceforge.net/">htop</a><br/>
+<code>htop</code> greatly improves the old <code>top</code> command with easy sorting and scrolling abilities and a much nicer <em>UI</em></p></li>
+<li><p><a href="http://linux.die.net/man/8/iftop">iftop</a><br/>
+<code>iftop</code> displays bandwidth usage on an interface. E.g. <code>sudo iftop -i eth0</code></p></li>
+<li><p><a href="https://github.com/robbyrussell/oh-my-zsh/">oh-my-zsh</a><br/>
+Oh-my-zsh lets you easily customize your <em>ZSH</em>. If you do not use <em>ZSH</em>, change your life with <code>chsh -s /bin/zsh</code></p></li>
+<li><p><a href="http://linux.die.net/man/1/ack">ack</a><br/>
+ack is a tool like grep, optimized for programmers, see <a href="http://betterthangrep.com">betterthangrep</a> for more information.</p></li>
+<li><p><a href="http://www.grymoire.com/Unix/Awk.html">awk</a><br/>
+The AWK utility is an interpreted programming language typically used as a data extraction and reporting tool.</p></li>
+<li><p><a href="http://linux.die.net/man/1/kill">kill -9</a><br/>
+Send <em>KILL</em> signal to process</p></li>
+<li><p>ctrl+r
+Lots of command line users do not know the <strong>reverse search</strong> with <kbd>CTRL</kbd> <kbd>r</kbd>. Even more do not know that you can hit it <strong>more than once</strong> if the first match is not the one you were looking for.</p></li>
+<li><p>!!<br/>
+repeat the last command. This is especially useful if you forgot to <code>sudo</code>.</p></li>
+<li><p>ssh -f user@host -L LOCAL_PORT:localhost:REMOTE_PORT -N –g<br/>
+create an ssh tunnel between host:REMOTE_PORT and localhost:LOCAL_PORT. especially useful, if the remote-port of the server is not accessible on the web (and if you want to secure the traffic, of course).
+The <em>-f</em> switch tells ssh to go into background mode, <em>-N</em> to not execute a command on the remote, and <em>-g</em> to allow remote hosts to connect to local forwarded ports.
+For a detailed explanation see <a href="http://www.revsys.com/writings/quicktips/ssh-tunnel.html">ssh tunneling made easy</a></p></li>
+<li><p><a href="http://sox.sourceforge.net/">sox</a><br/>
+the Swiss Army knife of sound processing programs. handle various sound formats, apply effects (chorus, delay, etc), adjust volume, tempo, noise-reduction and many more features.
+plus, if combined with a little ruby one-liner, you can do fun stuff like this: <a href="http://twitter.com/notyce/status/124221847595266048">tweet</a></p></li>
+<li><p><a href="http://linux.about.com/library/cmd/blcmdl1_disown.htm">disown -</a><br/>
+disown a process and let it run after you locked out of a session</p></li>
+<li><p><a href="http://linux.die.net/man/8/lsof">lsof</a><br/>
+list open file handles</p></li>
+<li><p>man ascii<br/>
+list <em>ASCII</em> table in octal, decimal and hexadecimal</p></li>
+<li><p><kdb>alt</kdb> <kdb>.</kbd> , $!, $*<br/>
+Get the last argument of the last command with <kdb>alt</kdb> <kdb>.</kbd> or $!. <kdb>alt</kdb> <kdb>.</kbd> can be pressed multiple times to skip through the history. If you want to get all arguments from the last command you can use <code>$*</code>.</p></li>
+<li><p>python -m SimpleHTTPServer 8080 - serves current dir<br/>
+creates a simple http server</p></li>
+<li><p><a href="http://linux.die.net/man/1/strace">strace</a><br/>
+strace is a powerful debugging utility for Linux and some other Unix-like systems, to monitor the system calls used by a program</p></li>
+<li><p><a href="http://www.mplayerhq.hu/design7/news.html">mplayer</a><br/>
+command line media player with a great feature set and minimal footprint</p></li>
+<li><p>units &#8212; man units<br/>
+convert units</p></li>
+<li><p><a href="http://www.thegeekstuff.com/2009/05/zcat-zless-zgrep-zdiff-zcmp-zmore-gzip-file-operations-on-the-compressed-files/">Zcat, Zless, Zgrep, Zdiff</a><br/>
+you do not have to extract an archive of a log if you want to take a short look, just use <code>zless</code>and <code>zgrep</code></p></li>
+<li><p>kill - pause and continue<br/>
+you do not have to always kill a process and restart it, kill can pause and start processes, too:<br/>
+<code>kill -STOP PID #to stop</code> <br/>
+<code>kill -CONT PID #to continue</code></p></li>
+<li><p><a href="http://linux.die.net/man/1/ipcalc">ipcalc</a><br/>
+perform simple manipulation of IP addresses</p></li>
+<li><p><a href="http://linux.die.net/man/1/watch">watch</a><br/>
+watch – execute a program periodically, showing output fullscreen<br/>
+e.g.: <code>watch -d -n 1 "netstat -an | grep :8080"</code></p></li>
+<li><p><a href="http://linux.die.net/man/1/multitail">multitail</a><br/>
+if one <code>tail -f</code> is not enough</p></li>
+<li><p><a href="https://github.com/rupa/z/">z</a><br/>
+tracks your most used directories, based on &#8216;frecency&#8217; and lets you jump by specifying a fragment.</p></li>
+<li><p><a href="http://tmux.sourceforge.net/">tmux</a><br/>
+A terminal multiplexer. get it (cause screen is dead)!</p></li>
+<li><p><a href="http://ffmpeg.org">ffmpeg</a><br/>
+The swiss army knife of video processing, video recording on the command line. The abilities of ffmpeg reach from capturing single images from a web cam (combine that with a GIT post commit hook and you have your self made <a href="https://github.com/mroth/lolcommits/">lolcommits</a>) over transcoding video files to recording screencasts (at least under X).</p></li>
+</ul>
+
+
+<p><strong>UPDATE</strong></p>
+
+<p>fixed the mixup between ack and awk.</p>
+</div>
+
+
+  <footer>
+    <p class="meta">
+      
+  
+
+<span class="byline author vcard">Posted by <span class="fn">yield the dog</span></span>
+
+      
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2012-07-17T08:27:00+02:00" pubdate data-updated="true">Jul 17<span>th</span>, 2012</time>
+      
+
+<span class="categories">
+  
+    <a class='category' href='/blog/categories/command/'>command</a>, <a class='category' href='/blog/categories/line-/'>line,</a>, <a class='category' href='/blog/categories/linux-/'>linux,</a>, <a class='category' href='/blog/categories/productivity/'>productivity</a>, <a class='category' href='/blog/categories/zsh-/'>zsh,</a>
+  
+</span>
+
+
+    </p>
+    
+      <div class="sharing">
+  
+  <a href="http://twitter.com/share" class="twitter-share-button" data-url="http://yieldthedog.github.com/blog/2012/07/17/command-line-gems/" data-via="" data-counturl="http://yieldthedog.github.com/blog/2012/07/17/command-line-gems/" >Tweet</a>
+  
+  
+  
+</div>
+
+    
+    <p class="meta">
+      
+        <a class="basic-alignment left" href="/blog/2012/07/06/interesting-thingys-23/" title="Previous Post: Interesing Thingys 23">&laquo; Interesing Thingys 23</a>
+      
+      
+    </p>
+  </footer>
+</article>
+
+  <section>
+    <h1>Comments</h1>
+    <div id="disqus_thread" aria-live="polite"><noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+</div>
+  </section>
+
+</div>
+
+<aside class="sidebar">
+  
+    <section>
+  <h1>Recent Posts</h1>
+  <ul id="recent_posts">
+    
+      <li class="post">
+        <a href="/blog/2012/07/17/command-line-gems/">command line gems</a>
+      </li>
+    
+      <li class="post">
+        <a href="/blog/2012/07/06/interesting-thingys-23/">Interesing Thingys 23</a>
+      </li>
+    
+      <li class="post">
+        <a href="/blog/2012/06/29/interesting-thingys-22/">Interesing Thingys 22</a>
+      </li>
+    
+      <li class="post">
+        <a href="/blog/2012/06/22/interesting-thingys-21/">Interesing Thingys 21</a>
+      </li>
+    
+      <li class="post">
+        <a href="/blog/2012/06/15/interesting-thingys-20/">Interesing Thingys 20</a>
+      </li>
+    
+  </ul>
+</section>
+
+
+
+
+
+
+  
+</aside>
+
+
+    </div>
+  </div>
+  <footer role="contentinfo"><p>
+  Copyright &copy; 2012 - yield the dog -
+  <span class="credit">Powered by <a href="http://octopress.org">Octopress</a></span> |
+  This blog is not affilated with <a href="http://diamonddogs.cc">the diamond:dogs group</a>
+</p>
+
+</footer>
+  
+
+<script type="text/javascript">
+      var disqus_shortname = 'yieldthedog';
+      
+        
+        // var disqus_developer = 1;
+        var disqus_identifier = 'http://yieldthedog.github.com/blog/2012/07/17/command-line-gems/';
+        var disqus_url = 'http://yieldthedog.github.com/blog/2012/07/17/command-line-gems/';
+        var disqus_script = 'embed.js';
+      
+    (function () {
+      var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+      dsq.src = 'http://' + disqus_shortname + '.disqus.com/' + disqus_script;
+      (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+    }());
+</script>
+
+
+
+
+
+
+
+  <script type="text/javascript">
+    (function(){
+      var twitterWidgets = document.createElement('script');
+      twitterWidgets.type = 'text/javascript';
+      twitterWidgets.async = true;
+      twitterWidgets.src = 'http://platform.twitter.com/widgets.js';
+      document.getElementsByTagName('head')[0].appendChild(twitterWidgets);
+    })();
+  </script>
+
+
+
+
+
+</body>
+</html>
