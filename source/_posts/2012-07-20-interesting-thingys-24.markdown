@@ -3,10 +3,10 @@ layout: post
 title: "Interesing Thingys 24"
 date: 2012-07-20 08:17
 comments: false
-published: false
+published: true
 categories: "Interesting-Thingys"
 ---
-After two weeks again with tons of great links:
+After a two weeks' absence of Interesting Thingys another issue of this beloved serie with tons of great links:
 <!-- More -->
 
 ### JavaScript
