@@ -44,6 +44,7 @@ This week we have a great potpourri of links for you. Check them out…
 
 ### Editors
 - [How to paste text into Vim command line - Stack Overflow](http://stackoverflow.com/questions/3997078/how-to-paste-text-into-vim-command-line/3997110#3997110)
+- [Sublime Text 2 Tips and Shortcuts](http://robdodson.me/blog/2012/06/23/sublime-text-2-tips-and-shortcuts/)
 
 ### Miscellaneous
 - [Videos from NDC 2012 | NDC2012 - Norwegian Developers Conference](http://www.ndcoslo.com/Article/News/2012video)
