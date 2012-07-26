@@ -32,6 +32,7 @@ This week we have a great potpourri of links for you. Check them out…
 
 ### OS X
 - [Fix Mountain Lion 10.8 Python IOError pyconfig.h Error — Gist](https://gist.github.com/3181811)
+- [Get Mountain Lion and Homebrew to Be Happy](https://gist.github.com/3182604)
 
 ### Git
 - [Writing good commit messages · erlang/otp Wiki](https://github.com/erlang/otp/wiki/Writing-good-commit-messages)
