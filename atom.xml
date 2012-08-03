@@ -4,7 +4,7 @@
   <title><![CDATA[yield the dog]]></title>
   <link href="http://yieldthedog.github.com/atom.xml" rel="self"/>
   <link href="http://yieldthedog.github.com/"/>
-  <updated>2012-07-19T20:57:16+02:00</updated>
+  <updated>2012-08-03T07:29:06+02:00</updated>
   <id>http://yieldthedog.github.com/</id>
   <author>
     <name><![CDATA[yield the dog]]></name>
@@ -12,6 +12,322 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Interesing Thingys 26]]></title>
+    <link href="http://yieldthedog.github.com/blog/2012/08/03/interesting-thingys-26/"/>
+    <updated>2012-08-03T08:17:00+02:00</updated>
+    <id>http://yieldthedog.github.com/blog/2012/08/03/interesting-thingys-26</id>
+    <content type="html"><![CDATA[<p>This week a small list of links, it seem&#8217;s to be holiday season…</p>
+
+<!-- More -->
+
+
+<h3>JavaScript</h3>
+
+<ul>
+<li><a href="http://tjholowaychuk.com/post/27984551477/components">Components - TJ Holowaychuk</a></li>
+<li><a href="https://github.com/WebReflection/polpetta">WebReflection/polpetta</a></li>
+<li><a href="http://pragmaticly.github.com/smart-time-ago/">smart-time-ago by pragmaticly</a></li>
+<li><a href="http://net.tutsplus.com/tutorials/javascript-ajax/10-reasons-why-your-projects-should-use-the-dojo-toolkit/">10 Reasons Why Your Projects Should Use the Dojo Toolkit | Nettuts+</a></li>
+</ul>
+
+
+<h3>CSS</h3>
+
+<ul>
+<li><a href="http://css3test.com/">The CSS3 Test</a></li>
+<li><a href="http://demosthenes.info/blog/547/Make-Your-Web-Pages-More-Legible-With-CSS3-Ligatures-and-Kerning-Pairs">demosthenes.info – Make Your Web Pages More Legible With CSS3 Ligatures and Kerning Pairs</a></li>
+<li><a href="http://tympanus.net/codrops/2012/07/20/3d-flipping-circle-with-css3-and-jquery/">3D Flipping Circle with CSS3 and jQuery | Codrops</a></li>
+</ul>
+
+
+<h3>HTML(5)</h3>
+
+<ul>
+<li><a href="http://joshondesign.com/2012/07/24/deepdivegithub">Canvas Deep Dive Source is Released</a></li>
+</ul>
+
+
+<h3>WebDevelopment</h3>
+
+<ul>
+<li><a href="http://www.sitepoint.com/the-basics-of-the-shadow-dom/">The Basics of the Shadow DOM</a></li>
+<li><a href="http://www.campaignmonitor.com/guides/mobile/">Responsive Email Design | Campaign Monitor</a></li>
+<li><a href="http://coderwall.com/p/u7kzua">Alyssa Pohahau : Inconsistent Color Palettes</a></li>
+</ul>
+
+
+<h3>Ruby</h3>
+
+<ul>
+<li><a href="http://tenderlovemaking.com/2012/07/30/is-it-live.html">Is it live? | Tenderlovemaking</a></li>
+<li><a href="http://schneems.com/post/28125445535/active-record-deep-dive">Schneems • Active Record Deep Dive</a></li>
+</ul>
+
+
+<h3>Databases</h3>
+
+<ul>
+<li><a href="http://engineering.spreecast.com/spreecast-redis-failover/">Spreecast &amp; Redis Failover | Spreecast</a></li>
+</ul>
+
+
+<h3>Browsers</h3>
+
+<ul>
+<li><a href="http://code.google.com/p/chromium/issues/detail?can=2&amp;start=0&amp;num=100&amp;q=&amp;colspec=ID%20Pri%20Mstone%20ReleaseBlock%20OS%20Area%20Feature%20Status%20Owner%20Summary&amp;groupby=&amp;sort=&amp;id=136320">Issue 136320 - chromium - HTTP DELETE request loaded from Cache - An open-source browser project to help move the web forward. - Google Project Hosting</a></li>
+</ul>
+
+
+<h3>Miscellaneous</h3>
+
+<ul>
+<li><a href="http://publicdomainreview.org/2012/06/30/france-in-the-year-2000-1899-1910/">France in the year 2000 | The Public Domain Review</a></li>
+<li><a href="http://the.codepoet.ch/what-you-should-know-about-solid/">What you should know about SOLID</a></li>
+</ul>
+
+
+<h2>Your link could be here</h2>
+
+<p>If we missed something special or you just want to promote a site, give us a nudge @ <a href='&#109;&#97;&#105;&#108;t&#111;&#58;%7&#57;&#105;eld&#116;%68%65do%67&#64;gmail&#37;2&#69;c&#37;6&#70;m'>y&#105;eldt&#104;&#101;dog&#64;&#103;mail&#46;&#99;&#111;m</a></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Interesing Thingys 25]]></title>
+    <link href="http://yieldthedog.github.com/blog/2012/07/27/interesting-thingys-25/"/>
+    <updated>2012-07-27T08:17:00+02:00</updated>
+    <id>http://yieldthedog.github.com/blog/2012/07/27/interesting-thingys-25</id>
+    <content type="html"><![CDATA[<p>This week we have a great potpourri of links for you. Check them out…</p>
+
+<!-- More -->
+
+
+<h3>CSS</h3>
+
+<ul>
+<li><a href="http://csswizardry.com/2012/07/shoot-to-kill-css-selector-intent/">Shoot to kill; CSS selector intent — CSS Wizardry—CSS, Web Standards, Typography, and Grids by Harry Roberts</a></li>
+<li><a href="http://meyerweb.com/eric/css/tests/circadients.html">Cicadients</a></li>
+</ul>
+
+
+<h3>HTML(5)</h3>
+
+<ul>
+<li><a href="http://coderwall.com/p/p0nvjw?i=5&amp;p=1&amp;q=">Euan Torano : Creating a semantic breadcrumb using HTML5 microdata</a></li>
+<li><a href="http://palantir.net/blog/responsive-design-s-dirty-little-secret">Responsive Design’s Dirty Little Secret | Palantir.net</a></li>
+<li><a href="http://joshondesign.com/2012/07/24/deepdivegithub">Canvas Deep Dive Source is Released</a></li>
+</ul>
+
+
+<h3>Mobile</h3>
+
+<ul>
+<li><a href="http://phonegap.com/2012/07/20/adobe-phonegap-2-0-released.md//">PhoneGap | Adobe PhoneGap 2.0 Released</a></li>
+</ul>
+
+
+<h3>WebDevelopment</h3>
+
+<ul>
+<li><a href="http://www.coderholic.com/invaluable-command-line-tools-for-web-developers/">Invaluable command line tools for web developers</a></li>
+<li><a href="http://www.spritecow.com/">www.spritecow.com</a></li>
+</ul>
+
+
+<h3>Ruby</h3>
+
+<ul>
+<li><a href="http://playbook.thoughtbot.com/">thoughtbot playbook</a></li>
+<li><a href="http://blog.phusion.nl/2012/07/24/roadmap-preview-1-phusion-passenger-4-0-and-phusion-passenger-enterprise/">Roadmap Preview 1 – Phusion Passenger 4.0 and Phusion Passenger Enterprise – Phusion Corporate Blog</a></li>
+<li><a href="http://robots.thoughtbot.com/post/27572137956/tell-dont-ask">Tell, Don&#39;t Ask</a></li>
+<li><a href="http://jordanhollinger.com/2012/07/23/introducing-graphene">Introducing Graphene / jhollinger</a></li>
+</ul>
+
+
+<h3>OS X</h3>
+
+<ul>
+<li><a href="https://gist.github.com/3181811">Fix Mountain Lion 10.8 Python IOError pyconfig.h Error — Gist</a></li>
+<li><a href="https://gist.github.com/3182604">Get Mountain Lion and Homebrew to Be Happy</a></li>
+</ul>
+
+
+<h3>Git</h3>
+
+<ul>
+<li><a href="https://github.com/erlang/otp/wiki/Writing-good-commit-messages">Writing good commit messages · erlang/otp Wiki</a></li>
+<li><a href="http://who-t.blogspot.co.at/2009/12/on-commit-messages.html">Who-T: On commit messages</a></li>
+</ul>
+
+
+<h3>Databases</h3>
+
+<ul>
+<li><a href="http://wekeroad.com/2012/07/19/postgresql-rising">PostgreSQL Rising</a></li>
+<li><a href="https://github.com/kumarnitin/RedisLive">kumarnitin/RedisLive</a></li>
+</ul>
+
+
+<h3>Editors</h3>
+
+<ul>
+<li><a href="http://stackoverflow.com/questions/3997078/how-to-paste-text-into-vim-command-line/3997110#3997110">How to paste text into Vim command line - Stack Overflow</a></li>
+<li><a href="http://robdodson.me/blog/2012/06/23/sublime-text-2-tips-and-shortcuts/">Sublime Text 2 Tips and Shortcuts</a></li>
+</ul>
+
+
+<h3>Miscellaneous</h3>
+
+<ul>
+<li><a href="http://www.ndcoslo.com/Article/News/2012video">Videos from NDC 2012 | NDC2012 - Norwegian Developers Conference</a></li>
+<li><a href="http://www.jasondavies.com/primos/">El Patrón de los Números Primos: Prime Number Patterns - Jason Davies</a></li>
+<li><a href="http://eranki.tumblr.com/post/27076431887/scaling-lessons-learned-at-dropbox-part-1">Rajiv&#39;s blog - Scaling lessons learned at Dropbox, part 1</a></li>
+<li><a href="http://www.happyprog.com/tdgotchi/">TDGotchi helps you practice TDD while you raise a pet - happyprog</a></li>
+</ul>
+
+
+<h3>Fun</h3>
+
+<ul>
+<li><a href="http://www.alexandrosmaragos.com/2012/07/lightning-captured-at-7207-frames-per.html">Momentum: Lightnings captured at 7,207 &amp; 9,000 frames per second</a></li>
+<li><a href="http://www.youtube.com/watch?v=6guXMfg88Z8&amp;feature=em-uploademail">Higgs Boson Part III: How to Discover a Particle - YouTube</a></li>
+</ul>
+
+
+<h2>Your link could be here</h2>
+
+<p>If we missed something special or you just want to promote a site, give us a nudge @ <a href='&#109;&#97;&#105;&#108;t&#111;&#58;%7&#57;&#105;eld&#116;%68%65do%67&#64;gmail&#37;2&#69;c&#37;6&#70;m'>y&#105;eldt&#104;&#101;dog&#64;&#103;mail&#46;&#99;&#111;m</a></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Interesing Thingys 24]]></title>
+    <link href="http://yieldthedog.github.com/blog/2012/07/20/interesting-thingys-24/"/>
+    <updated>2012-07-20T08:17:00+02:00</updated>
+    <id>http://yieldthedog.github.com/blog/2012/07/20/interesting-thingys-24</id>
+    <content type="html"><![CDATA[<p>After a two weeks&#8217; absence of Interesting Thingys another issue of this beloved serie with tons of great links:</p>
+
+<!-- More -->
+
+
+<h3>JavaScript</h3>
+
+<ul>
+<li><a href="http://blog.jquery.com/2012/07/01/jquery-1-9-and-2-0-tldr-edition/">jQuery Blog » jQuery 1.9 and 2.0 — TL;DR Edition</a></li>
+<li><a href="http://www.twilio.com/blog/2012/06/build-a-phone-controlled-robot-using-node-js-arduino-rn-xv-wifly-arduinoand-twilio.html">Build a Phone-controlled Robot Using Arduino and Twilio</a></li>
+<li><a href="http://www.2ality.com/2012/06/continuation-passing-style.html">Asynchronous programming and continuation-passing style in JavaScript</a></li>
+<li><a href="http://blog.jquery.com/2012/07/04/the-new-sizzle/">jQuery Blog » The New Sizzle</a></li>
+<li><a href="http://wekeroad.com/2012/07/04/try-it-quiet">Try It Quiet</a><br/>
+A complete talk without a word. <a href="http://vimeo.com/43548699">Rob Conery - Real World NodeJS - Creating the Tekpub API on Vimeo</a></li>
+<li><a href="http://blog.argteam.com/coding/hardening-node-js-for-production-part-2-using-nginx-to-avoid-node-js-load/">Hardening node.js for production part 2: using nginx to avoid node.js load | Arg! Team Blog</a></li>
+<li><a href="https://github.com/cowboy/grunt">Grunt</a><br/>
+is a task-based command line build tool for JavaScript projects.</li>
+</ul>
+
+
+<h3>CSS</h3>
+
+<ul>
+<li><a href="http://css-tricks.com/beefing-up-dull-text-in-webkit/">Beefing Up Dull Text in WebKit | CSS-Tricks</a></li>
+<li><a href="http://csswizardry.com/2012/06/the-open-closed-principle-applied-to-css/">The open/closed principle applied to CSS — CSS Wizardry—CSS, Web Standards, Typography, and Grids by Harry Roberts</a></li>
+</ul>
+
+
+<h3>HTML(5)</h3>
+
+<ul>
+<li><a href="http://farhadi.ir/projects/html5sortable/">HTML5 Sortable</a></li>
+<li><a href="http://debeterevormgever.nl/en/articles/html5-elements-ie-without-javascript">HTML5 elements in Internet Explorer without Javascript - de Betere Vormgever</a></li>
+<li><a href="http://www.456bereastreet.com/archive/201206/an_alternative_to_select_elements_as_navigation_in_narrow_viewports/">An alternative to select elements as navigation in narrow viewports | 456 Berea Street</a></li>
+<li><a href="http://cssdeck.com/item/602/html5-canvas-particles-web-matrix">HTML5 Canvas Particles Web Matrix | CSSDeck</a></li>
+<li><a href="http://www.html5rocks.com/en/tutorials/indexeddb/uidatabinding/">Databinding UI Elements with IndexedDB - HTML5 Rocks</a></li>
+<li><a href="http://visual.ly/history-html5">The History of HTML5 | Visual.ly</a></li>
+</ul>
+
+
+<h3>Ruby</h3>
+
+<ul>
+<li><a href="http://www.alphasights.com/apply/ruby-developer-london">Ruby Quiz on Application Form: Ruby on Rails Developer, London</a></li>
+<li><a href="http://www.broadcastingadam.com/2012/07/advanced_caching_revised/">BroadcastingAdam - Advanced Caching in Rails: Revised</a></li>
+<li><a href="http://www.zendesk.com/blog/upgrade-the-road-to-1-9">Zendesk - The Road to 1.9 -</a></li>
+<li><a href="http://bostonrb.org/presentations/five-things-you-didnt-know-your-documentation-tool-could-do">Five Things You Didn&#39;t Know Your Documentation Tool Could Do</a></li>
+</ul>
+
+
+<h3>Clojure</h3>
+
+<ul>
+<li><a href="https://github.com/schani/clojurec">schani/clojurec</a><br/>
+A Clojure implementation on top of C</li>
+</ul>
+
+
+<h3>GO</h3>
+
+<ul>
+<li><a href="http://mikebeale.blogspot.co.at/2012/07/dumping-php-for-go.html">Personal Ramblings: Dumping PHP For Go</a></li>
+</ul>
+
+
+<h3>Browsers</h3>
+
+<ul>
+<li><a href="http://www.learningie8.com/">Learning IE8</a></li>
+</ul>
+
+
+<h3>Databases</h3>
+
+<ul>
+<li><a href="https://github.com/tblobaum/redis-stream">tblobaum/redis-stream</a></li>
+</ul>
+
+
+<h3>Editors</h3>
+
+<ul>
+<li><a href="http://www.chris-granger.com/2012/07/09/light-table-playgrounds-level-up/">Chris Granger - Light Table Playground Levels Up</a></li>
+<li><a href="http://robots.thoughtbot.com/post/27041742805/vim-you-complete-me">Vim, you complete me</a></li>
+<li><a href="http://identi.ca/notice/95457456">Emacs on Android tablet</a></li>
+<li><a href="https://chrome.google.com/webstore/detail/jjdndclgmfdgpiccmlamlicfjmkognne/related">Chrome Web Store - Ninja Authoring Tool</a></li>
+</ul>
+
+
+<h3>Productivity</h3>
+
+<ul>
+<li><a href="http://pivotallabs.com/users/joe/blog/articles/2199-how-we-use-tmux-for-remote-pair-programming">Moore Cowbell - How We Use tmux for Remote Pair Programming</a></li>
+</ul>
+
+
+<h3>Miscellaneous</h3>
+
+<ul>
+<li><a href="http://www.opine.me/a-better-way-to-store-password-hashes/">A better way to store password hashes?</a></li>
+<li><a href="http://www.quicklychat.com/">QuicklyChat</a></li>
+<li><a href="http://blog.asmartbear.com/color-wheels.html">Color Wheels are wrong? How color vision actually works by @ASmartBear</a></li>
+<li><a href="http://www.joelonsoftware.com/items/2012/07/09.html">Software Inventory - Joel on Software</a></li>
+<li><a href="http://blog.trello.com/trello-is-now-500000-strong/">Trello is now 500,000 strong | Trello Blog</a></li>
+<li><a href="http://www.codinghorror.com/blog/2012/07/coding-horror-the-book.html">Coding Horror: Coding Horror: The Book</a></li>
+<li><a href="http://www.tldrlegal.com/">TLDRLegal - Software Licenses Summarized in Plain English</a></li>
+</ul>
+
+
+<h3>Fun</h3>
+
+<ul>
+<li><a href="http://tympanus.net/Development/CassettePlayer/">Old School Cassette Player with HTML5 Audio</a></li>
+</ul>
+
+
+<h2>Your link could be here</h2>
+
+<p>If we missed something special or you just want to promote a site, give us a nudge @ <a href='&#109;&#97;&#105;&#108;t&#111;&#58;%7&#57;&#105;eld&#116;%68%65do%67&#64;gmail&#37;2&#69;c&#37;6&#70;m'>y&#105;eldt&#104;&#101;dog&#64;&#103;mail&#46;&#99;&#111;m</a></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[command line gems]]></title>
@@ -1780,272 +2096,6 @@ Heroku for the masses</li>
 <li><a href="http://superliminal.com/cube/cube.htm">4D Rubik&#8217;s Cube</a></li>
 </ul>
 
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Kindle Survival Guide]]></title>
-    <link href="http://yieldthedog.github.com/blog/2012/04/06/kindle-survival-guide/"/>
-    <updated>2012-04-06T10:47:00+02:00</updated>
-    <id>http://yieldthedog.github.com/blog/2012/04/06/kindle-survival-guide</id>
-    <content type="html"><![CDATA[<p>I own a Kindle for about one year and a half and I must say it has served me quite well. In this time I have read about 20-30 books, have read literally hundreths of articles, used it for browsing the web, sent a tweet, and used it as my main reading device.</p>
-
-<p>What is it that makes an ebook reader superior to a normal book?</p>
-
-<!-- more -->
-
-
-<p><img class="full-width" src="https://lh4.googleusercontent.com/-MnoWQED2tp8/T3IFGz0VXOI/AAAAAAAAALg/WJFwBQAqk8U/s861/IMG_9883.JPG "></p>
-
-<h3>Advantages</h3>
-
-<ul>
-<li><strong><em>Size and weight</em></strong> are a main factor. I can carry it with me all the time in my back bag and I won&#8217;t even notice it&#8217;s weight</li>
-<li><strong><em>Readiness of books</em></strong>: When you buy a book over the internet, it takes a while until you have it in your hands and are able to start reading. With ebooks it&#8217;s different. Buy it, download it, read it. Dead simple and crazy fast.</li>
-<li><strong><em>Your library at your disposal</em></strong>: With 3 gigs of memory, I don&#8217;t care how many books I carry with me. If I need to read a passage, that I have marked or dog eared in the past, I pull out the Kindle and read it.</li>
-</ul>
-
-
-<h3>Disadvantages</h3>
-
-<ul>
-<li><strong><em>Screen size</em></strong>: If the width of the screen was a bit larger - about one cm -, a lot of stuff would be easier to read.</li>
-<li><strong><em>Reading code</em></strong>: Reading code was often kind of weird and awkward. The small width often breaks lines what makes it very hard to read it properly. One ebook I own tried to circumvent this fact by putting all code in images, which you can zoom in. Still not a great experience. But it seems that authors and publishers acknowledge this fact more recently, and try to avoid breaking lines on a Kindle.</li>
-</ul>
-
-
-<h2>Buying books</h2>
-
-<p>I don&#8217;t like to buy books from Amazon. Even though they made their process very easy, they lack one important thing. I do not own the books I buy. They are DRMed and cannot be read on or ported to another device unless you jailbreak your Kindle, what I am not willing to do. This is really bad because it deadlocks me in a situation, in which I will only buy Kindles for the rest of my whole life.</p>
-
-<p>So what to do with this situation? Download books from rapidshare, megaupload, &#8230;.? No! Why not, you ask. Because there are useful alternatives that are at least as good as amazon, with which you support the author and the publisher.</p>
-
-<p>I&#8217;m a developer and I&#8217;m mainly interested in technical books. One publisher of technical books, that stands out is <strong><em><a href="http://pragprog.com">PragProg</a></em></strong> - not because I emphasize their text, but because they offer a quite superior service. Here are the main features:</p>
-
-<ul>
-<li>All ebooks are DRM free and available in various formats</li>
-<li>You can configure your PragProg account to automatically send your purchases and future updates to your free Kindle email address. This can sometimes get annoying when you have purchased a book in beta, which receives updates quite often.</li>
-<li>PragProg can automatically send your ebooks to your Dropbox</li>
-<li>They publish a free magazine</li>
-</ul>
-
-
-<p>Some of the PragProg titles lack chapter markers, which is quite annoying, but all in all they offer a great service. Kudos to Dave and Andy!</p>
-
-<p>Next one is <a href="http://shop.oreilly.com">O&#8217;Reilly</a>. Just like PragProg they offer their whole library in various formats.</p>
-
-<p><a href="http://manning.com">Manning</a> had great problems converting their pbooks to ebooks. For a long time they only offered PDFs that are not very comfortable to read on a Kindle (don&#8217;t even try) and are now slowly reducing the distance to the others.</p>
-
-<p><a href="http://apress.com">Apress</a> - I must admit that I don&#8217;t buy much books from Apress for no special reason. Probably because I&#8217;m not subscribed to their newsletter.</p>
-
-<p><span class='pullquote-right' data-pullquote='They offer discounts and deals.'>
-All of these publishers have one advantage over Amazon in common. They offer discounts and deals. Subscribe to their newsletter, visit their home page and you will be amazed how much you can save. I have read many books just because of discounts and I have stopped reading books because it just did not hurt to put them away when they did not cost that much. With thoose publishers you can purchase books that are not published yet - PragProg calls them <a href="http://pragprog.com/categories/new">beta</a>, O&#8217;Reilly calls them <a href="http://oreily.com/roughcuts">rough cuts</a>. This is kind of nice when the book is dealing with a fast evolving topic, where the book will be out of date as soon as it is published. On the other hand those books are not published for a certain reason: They are not finished. At PragProg you can even follow the progress of a book that&#8217;s currently written (Click on progress of the <a href="http://pragprog.com/book/dnvim/practical-vim">Practical Vim</a> book and take a look at this great <a href="http://raphaeljs.com">RaphaelJS</a> chart).
-</span></p>
-
-<h2>Tools that make your life easier</h2>
-
-<h3>Instapaper</h3>
-
-<p><a href="http://instapaper.com">Instapaper</a> is one of the best companions of your Kindle. It provides a <em>read later</em> bookmarklet that saves an article to a list. Later you can either export the list manually or you can let Instapaper automatically send an email to your free kindle account when a certain amount of new articles is reached. I even use it to send out <a href="https://twitter.com/#!thomaspeklak/status/183086027668336640">tweets</a> for great articles and save them to my <a href="http://evernote.com">Evernote</a> article backlog.</p>
-
-<h3>Calibre</h3>
-
-<p><a href="http://calibre-ebook.com">Calibre</a> is a great tool to manage your ebooks and send them to your device via USB or email. What I especially like is the ability to convert formats. They offer a great support, too. I once filed a feature request and on the next day it was closed. Way to go!</p>
-
-<h3>Pandoc</h3>
-
-<p>Pandoc can be useful if you have an exotic format such as markdown that you want to convert to epub and via Calibre or <a href="http://www.amazon.com/gp/feature.html?ie=UTF8&amp;docId=1000234621">KindleGen</a> to mobi. A direct conversion to mobi is not supported. I used Pandoc to produce my epub/mobi versions of the excellent <a href="http://openmymind.net/2012/1/23/The-Little-Redis-Book/">The Little Redis Book</a> and <a href="http://openmymind.net/2011/3/28/The-Little-MongoDB-Book/">The Little MongoDB Book</a> books. Pandoc is not needed any more for the two &#8220;Little Books&#8221; since they are available as epub.</p>
-
-<h3>You@free.kindle.com</h3>
-
-<p>And last but not least don&#8217;t forget that you own a user@free.kindle.com address to which you can send books and have Amazon automatically deliver them to your device the next time you connect. Works great with PragProg and Instapaper.</p>
-
-<h2>Bugs</h2>
-
-<p>Once in a while I was plagued with the following bug. It manifests itself in the fact that the Kindle leaks battery as hell. Instead of lasting one to two months the charge is wasted after a week. This can happen when the internal search indexer fails to index a document and tries again and again. If you experience the symptom, simply go to your home screen, enter random characters and hit enter to start a search. If the indexer hangs, you will see that a document is currently being processed.</p>
-
-<p>To solve this delete the document from your Kindle and upload it again. In my case that worked 100%.</p>
-
-<h2>Conclusion</h2>
-
-<p>The Kindle and I had a kind of rough start because the ecosystem was not that great one and a half year ago. But it served me well. In the meantime publishers have noticed that they do not have to solely rely on Amazon or another big company. The tools around ebook readers have grown and matured. If my Kindle would break tomorrow, I would not hesitate to replace it with another Kindle or ebook reader. The advantages over a pbook are too big.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Interesting Thingys #11]]></title>
-    <link href="http://yieldthedog.github.com/blog/2012/04/06/interesting-thingys-11/"/>
-    <updated>2012-04-06T08:54:00+02:00</updated>
-    <id>http://yieldthedog.github.com/blog/2012/04/06/interesting-thingys-11</id>
-    <content type="html"><![CDATA[<p>This week with topics from mobile-development, javascript, HTML5 and quantum-physics ..</p>
-
-<!-- More -->
-
-
-<h3>Mobile Development</h3>
-
-<ul>
-<li><a href="http://alexbw.github.com/novocaine/">Novocaine</a> - high performance audio processing (record, play) for iOS / Mac OS X</li>
-<li><a href="http://ole.michelsen.dk/blog/view-source-on-the-ipad-and-iphone/">&#8216;Show Source&#8217; Bookmarklet</a> - a &#8216;view source&#8217; bookmarklet for the iPhone/iPad.</li>
-</ul>
-
-
-<h3>HTML5</h3>
-
-<ul>
-<li><a href="http://lists.whatwg.org/pipermail/whatwg-whatwg.org/2012-March/035239.html?utm_source=html5weekly&amp;utm_medium=email">Canvas v5 API Gets Path Primitives, Ellipses, Dashed Lines, Hit testing, Text on Path, </a></li>
-<li><a href="http://peter.sh/2012/04/color-input-the-network-information-api-and-chromium-20/?utm_source=html5weekly&amp;utm_medium=email">Color input, the Network Information API and Chromium 20</a></li>
-</ul>
-
-
-<h3>JavaScript</h3>
-
-<ul>
-<li><a href="http://obadger.com/pow/">POW</a> - Algorithmic sunburst generator via CSS, canvas and jQuery.</li>
-<li><a href="http://leanpub.com/asyncjs">Async JavaScript</a> - &#8216;Recipes for Event-Driven Code&#8217;, looks like an interesting ebook.</li>
-<li><a href="http://toolbox.no.de/">toolbox.no.de</a> - toolbox for node.js applications. first website if you&#8217;re looking for node.js plugins/modules/etc</li>
-<li><a href="https://github.com/arturadib/shelljs">shell.js</a> -  Unix shell commands for Node.js</li>
-<li><a href="https://github.com/mde/jake">jake</a> - JavaScript build tool, similar to Make or Rake. Built to work with Node.js.</li>
-<li><a href="http://addyosmani.com/blog/backbone-paginator-new-pagination-components-for-backbone-js/">Backbone Paginator</a></li>
-<li><a href="http://blog.dump.ly/post/19819897856/why-node-js-streams-are-awesome">Why node.js streams are awesome</a></li>
-<li><a href="https://github.com/oslego/shadow-dom-regions/blob/master/Lessons-learned.md">Lessons learned with CSS Regions and Shadow DOM</a></li>
-<li><a href="http://pep.briangonzalez.org/">pep.jquery.js</a> - A lightweight plugin for kinetic-drag on mobile/desktop</li>
-</ul>
-
-
-<h3>CSS</h3>
-
-<ul>
-<li><a href="https://developer.mozilla.org/en-US/demos/detail/paperfold-css/launch">Paperfold CSS</a> - fold divs like paper</li>
-</ul>
-
-
-<h3>Database</h3>
-
-<ul>
-<li><a href="http://antirez.com/post/redis-persistence-demystified.html">Redis Persistence demystified</a> - everything you need to know about persistence in Redis (and comparison to MySql and SQLite).</li>
-</ul>
-
-
-<h3>Operating Systems</h3>
-
-<ul>
-<li><a href="http://dmitry.co/index.php?p=./04.Thoughts/07.%20Linux%20on%208bit">Linux on an 8bit micro</a></li>
-</ul>
-
-
-<h3>OS X</h3>
-
-<ul>
-<li><a href="https://gist.github.com/2260182">OSX for Hackers</a> - lots of useful settings you can enable/disable on the command-line for Mac OS X.</li>
-</ul>
-
-
-<h3>Presentations / Talks / Articles</h3>
-
-<ul>
-<li><a href="http://www.slideshare.net/Wolfr/ios-design-a-case-study">iOS Design</a> - &#8216;a case study&#8217;, nice presentation about the design-process for an iOS application.</li>
-<li><a href="http://www.futuristspeaker.com/2012/02/2-billion-jobs-to-disappear-by-2030/">2 Billion Jobs to Disappear by 2030</a> - interesting article about the future of jobs &amp; industries.</li>
-</ul>
-
-
-<h3>Tools</h3>
-
-<ul>
-<li><a href="https://github.com/ftrvxmtrx/split2flac">split2flac</a> - a tool to split one big AP/FLAC/WAV file into several FLAC/M4A/MP3/OGG/WAV tracks, with tagging, renaming and cover images.</li>
-</ul>
-
-
-<h3>Physics</h3>
-
-<ul>
-<li><a href="http://kottke.org/12/04/richard-feynman-no-ordinary-genius">No ordinary genius</a> - a 95min documentary about Richard Feynman, available on youtube.</li>
-<li><a href="http://www.spektrum.de/alias/quantenphysik/einsteins-unbemerkte-revolution/1147602">Einsteins unbemerkte Revolution</a> - german article about &#8216;Verschränkung&#8217; (entanglement) &amp; &#8216;Spukhafte Fernwirkung&#8217; (action at distance) in qunatum-physics.</li>
-</ul>
-
-
-<h3>Fun</h3>
-
-<ul>
-<li><a href="http://blog.intercom.io/whats-in-a-name/">Is it a condom or is it an Android?</a></li>
-<li><a href="http://www.youtube.com/watch?v=QtJ77qsLrpw">Droste effect in Conway&#8217;s Game of Life</a></li>
-<li><a href="http://techlaze.com/2012/03/richard-stallman-to-launch-his-own-fashion-line/">Richard Stallman to launch his own fashion line</a></li>
-</ul>
-
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Keeping a Design Log]]></title>
-    <link href="http://yieldthedog.github.com/blog/2012/03/30/keeping-a-design-log/"/>
-    <updated>2012-03-30T10:35:00+02:00</updated>
-    <id>http://yieldthedog.github.com/blog/2012/03/30/keeping-a-design-log</id>
-    <content type="html"><![CDATA[<p>Ever wondered why it&#8217;s hard for you to argue design decisions? Ever said &#8220;We should not go for that, we had some problems in past projects, but I have no clue what project or problem that was&#8221; in a meeting. Ever made the same design failure twice? I do, or more precise I did but I quit!</p>
-
-<p>Some time ago I was really annoyed of not being able to argue a design decision, and I&#8217;ve no clue what decision that was, with real arguments but with the words &#8220;We just should not do that!&#8221;. So I started by design/architecture log in which I&#8217;m recording as a retrospective design decisions with their consequences and context.</p>
-
-<!-- more -->
-
-
-<p><img class="full-width" src="https://lh4.googleusercontent.com/-lc6XtAHSKlU/T3NwN7D5CaI/AAAAAAAAAMU/PxMov3JKC-Y/s1069/IMG_9885.jpg "></p>
-
-<p>I&#8217;m using <a href="http://evernote.com">Evernote</a> for keeping my design log because I&#8217;m using Evernote for more or less anything I (think I) need to remember, good search support and it&#8217;s mobile apps. So I have my design log searchable and always with me.</p>
-
-<p>I&#8217;m using the following pattern to record my design decision evaluations</p>
-
-<blockquote><h3>Name</h3>
-
-<p>Name the design decision! That is the tricky part. I&#8217;m doing that at last. The name is important for me because I&#8217;m referring to the name in discussions with team members and in discussions with myself.</p>
-
-<h3>Context</h3>
-
-<p>Outline of the context, what forces are involved, what requirements need to be satisfied including non functional requirements.</p>
-
-<h3>Example</h3>
-
-<p>A short example, that helps me best to understand the &#8220;design decision&#8221;.</p>
-
-<h3>Consequences</h3>
-
-<p>What were the consequences of the design decision? Pros and Cons, reflects the requirements and is in context of the forces that led to that decisions.
-What actions need to be taken to avoid/force this pattern?</p></blockquote>
-
-<p>I&#8217;m keeping track of good and bad decisions here. Consequences for me</p>
-
-<ul>
-<li>Frees my mind</li>
-<li>Makes me argue</li>
-<li>Forces reflection on design decisions, even the ones not recognized as decisions</li>
-<li>I can use wise ass terms like &#8220;Limit your Abstractions&#8221; in meetings</li>
-</ul>
-
-
-<p>What it&#8217;s not</p>
-
-<ul>
-<li>It&#8217;s not my personal design patterns catalog, this is more high level</li>
-</ul>
-
-
-<p>And here it is, one example pattern found in my <em>Design Log</em>, &#8221;<strong>The early pragmatic</strong>&#8221;</p>
-
-<blockquote><h3>Early pragmatic</h3>
-
-<p>When starting a project early decisions I take are too pragmatic. This leads to missing abstractions early in the process. Which leads to an eroding architecture and design, which makes the whole project an inconsistent pile of non decisions.</p>
-
-<h3>Example</h3>
-
-<p>Workflow/State Machine implementation in Project XXX (I left that out for reasons&#8230;)</p>
-
-<h3>Consequences</h3>
-
-<ul>
-<li>Figure out a catalog of limited abstractions early. Decide which to use.</li>
-<li>Reflect on missing abstractions or infrastructure!</li>
-<li>Make it a ritual to check the code for missing abstractions, leaky abstractions or duplications! Use an (automated) duplicate code finder!</li>
-<li>Don&#8217;t over architecture, a clear defined list of abstractions will do it.</li>
-</ul>
-</blockquote>
 ]]></content>
   </entry>
   

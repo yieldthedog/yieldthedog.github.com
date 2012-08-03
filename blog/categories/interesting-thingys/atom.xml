@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Interesting-Thingys | yield the dog]]></title>
   <link href="http://yieldthedog.github.com/blog/categories/interesting-thingys/atom.xml" rel="self"/>
   <link href="http://yieldthedog.github.com/"/>
-  <updated>2012-07-19T20:57:16+02:00</updated>
+  <updated>2012-08-03T07:29:06+02:00</updated>
   <id>http://yieldthedog.github.com/</id>
   <author>
     <name><![CDATA[yield the dog]]></name>
@@ -12,6 +12,322 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Interesing Thingys 26]]></title>
+    <link href="http://yieldthedog.github.com/blog/2012/08/03/interesting-thingys-26/"/>
+    <updated>2012-08-03T08:17:00+02:00</updated>
+    <id>http://yieldthedog.github.com/blog/2012/08/03/interesting-thingys-26</id>
+    <content type="html"><![CDATA[<p>This week a small list of links, it seem's to be holiday season…</p>
+
+<!-- More -->
+
+
+<h3>JavaScript</h3>
+
+<ul>
+<li><a href="http://tjholowaychuk.com/post/27984551477/components">Components - TJ Holowaychuk</a></li>
+<li><a href="https://github.com/WebReflection/polpetta">WebReflection/polpetta</a></li>
+<li><a href="http://pragmaticly.github.com/smart-time-ago/">smart-time-ago by pragmaticly</a></li>
+<li><a href="http://net.tutsplus.com/tutorials/javascript-ajax/10-reasons-why-your-projects-should-use-the-dojo-toolkit/">10 Reasons Why Your Projects Should Use the Dojo Toolkit | Nettuts+</a></li>
+</ul>
+
+
+<h3>CSS</h3>
+
+<ul>
+<li><a href="http://css3test.com/">The CSS3 Test</a></li>
+<li><a href="http://demosthenes.info/blog/547/Make-Your-Web-Pages-More-Legible-With-CSS3-Ligatures-and-Kerning-Pairs">demosthenes.info – Make Your Web Pages More Legible With CSS3 Ligatures and Kerning Pairs</a></li>
+<li><a href="http://tympanus.net/codrops/2012/07/20/3d-flipping-circle-with-css3-and-jquery/">3D Flipping Circle with CSS3 and jQuery | Codrops</a></li>
+</ul>
+
+
+<h3>HTML(5)</h3>
+
+<ul>
+<li><a href="http://joshondesign.com/2012/07/24/deepdivegithub">Canvas Deep Dive Source is Released</a></li>
+</ul>
+
+
+<h3>WebDevelopment</h3>
+
+<ul>
+<li><a href="http://www.sitepoint.com/the-basics-of-the-shadow-dom/">The Basics of the Shadow DOM</a></li>
+<li><a href="http://www.campaignmonitor.com/guides/mobile/">Responsive Email Design | Campaign Monitor</a></li>
+<li><a href="http://coderwall.com/p/u7kzua">Alyssa Pohahau : Inconsistent Color Palettes</a></li>
+</ul>
+
+
+<h3>Ruby</h3>
+
+<ul>
+<li><a href="http://tenderlovemaking.com/2012/07/30/is-it-live.html">Is it live? | Tenderlovemaking</a></li>
+<li><a href="http://schneems.com/post/28125445535/active-record-deep-dive">Schneems • Active Record Deep Dive</a></li>
+</ul>
+
+
+<h3>Databases</h3>
+
+<ul>
+<li><a href="http://engineering.spreecast.com/spreecast-redis-failover/">Spreecast &amp; Redis Failover | Spreecast</a></li>
+</ul>
+
+
+<h3>Browsers</h3>
+
+<ul>
+<li><a href="http://code.google.com/p/chromium/issues/detail?can=2&amp;start=0&amp;num=100&amp;q=&amp;colspec=ID%20Pri%20Mstone%20ReleaseBlock%20OS%20Area%20Feature%20Status%20Owner%20Summary&amp;groupby=&amp;sort=&amp;id=136320">Issue 136320 - chromium - HTTP DELETE request loaded from Cache - An open-source browser project to help move the web forward. - Google Project Hosting</a></li>
+</ul>
+
+
+<h3>Miscellaneous</h3>
+
+<ul>
+<li><a href="http://publicdomainreview.org/2012/06/30/france-in-the-year-2000-1899-1910/">France in the year 2000 | The Public Domain Review</a></li>
+<li><a href="http://the.codepoet.ch/what-you-should-know-about-solid/">What you should know about SOLID</a></li>
+</ul>
+
+
+<h2>Your link could be here</h2>
+
+<p>If we missed something special or you just want to promote a site, give us a nudge @ <a href='&#109;&#97;&#105;&#108;t&#111;&#58;%7&#57;&#105;eld&#116;%68%65do%67&#64;gmail&#37;2&#69;c&#37;6&#70;m'>y&#105;eldt&#104;&#101;dog&#64;&#103;mail&#46;&#99;&#111;m</a></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Interesing Thingys 25]]></title>
+    <link href="http://yieldthedog.github.com/blog/2012/07/27/interesting-thingys-25/"/>
+    <updated>2012-07-27T08:17:00+02:00</updated>
+    <id>http://yieldthedog.github.com/blog/2012/07/27/interesting-thingys-25</id>
+    <content type="html"><![CDATA[<p>This week we have a great potpourri of links for you. Check them out…</p>
+
+<!-- More -->
+
+
+<h3>CSS</h3>
+
+<ul>
+<li><a href="http://csswizardry.com/2012/07/shoot-to-kill-css-selector-intent/">Shoot to kill; CSS selector intent — CSS Wizardry—CSS, Web Standards, Typography, and Grids by Harry Roberts</a></li>
+<li><a href="http://meyerweb.com/eric/css/tests/circadients.html">Cicadients</a></li>
+</ul>
+
+
+<h3>HTML(5)</h3>
+
+<ul>
+<li><a href="http://coderwall.com/p/p0nvjw?i=5&amp;p=1&amp;q=">Euan Torano : Creating a semantic breadcrumb using HTML5 microdata</a></li>
+<li><a href="http://palantir.net/blog/responsive-design-s-dirty-little-secret">Responsive Design’s Dirty Little Secret | Palantir.net</a></li>
+<li><a href="http://joshondesign.com/2012/07/24/deepdivegithub">Canvas Deep Dive Source is Released</a></li>
+</ul>
+
+
+<h3>Mobile</h3>
+
+<ul>
+<li><a href="http://phonegap.com/2012/07/20/adobe-phonegap-2-0-released.md//">PhoneGap | Adobe PhoneGap 2.0 Released</a></li>
+</ul>
+
+
+<h3>WebDevelopment</h3>
+
+<ul>
+<li><a href="http://www.coderholic.com/invaluable-command-line-tools-for-web-developers/">Invaluable command line tools for web developers</a></li>
+<li><a href="http://www.spritecow.com/">www.spritecow.com</a></li>
+</ul>
+
+
+<h3>Ruby</h3>
+
+<ul>
+<li><a href="http://playbook.thoughtbot.com/">thoughtbot playbook</a></li>
+<li><a href="http://blog.phusion.nl/2012/07/24/roadmap-preview-1-phusion-passenger-4-0-and-phusion-passenger-enterprise/">Roadmap Preview 1 – Phusion Passenger 4.0 and Phusion Passenger Enterprise – Phusion Corporate Blog</a></li>
+<li><a href="http://robots.thoughtbot.com/post/27572137956/tell-dont-ask">Tell, Don&#39;t Ask</a></li>
+<li><a href="http://jordanhollinger.com/2012/07/23/introducing-graphene">Introducing Graphene / jhollinger</a></li>
+</ul>
+
+
+<h3>OS X</h3>
+
+<ul>
+<li><a href="https://gist.github.com/3181811">Fix Mountain Lion 10.8 Python IOError pyconfig.h Error — Gist</a></li>
+<li><a href="https://gist.github.com/3182604">Get Mountain Lion and Homebrew to Be Happy</a></li>
+</ul>
+
+
+<h3>Git</h3>
+
+<ul>
+<li><a href="https://github.com/erlang/otp/wiki/Writing-good-commit-messages">Writing good commit messages · erlang/otp Wiki</a></li>
+<li><a href="http://who-t.blogspot.co.at/2009/12/on-commit-messages.html">Who-T: On commit messages</a></li>
+</ul>
+
+
+<h3>Databases</h3>
+
+<ul>
+<li><a href="http://wekeroad.com/2012/07/19/postgresql-rising">PostgreSQL Rising</a></li>
+<li><a href="https://github.com/kumarnitin/RedisLive">kumarnitin/RedisLive</a></li>
+</ul>
+
+
+<h3>Editors</h3>
+
+<ul>
+<li><a href="http://stackoverflow.com/questions/3997078/how-to-paste-text-into-vim-command-line/3997110#3997110">How to paste text into Vim command line - Stack Overflow</a></li>
+<li><a href="http://robdodson.me/blog/2012/06/23/sublime-text-2-tips-and-shortcuts/">Sublime Text 2 Tips and Shortcuts</a></li>
+</ul>
+
+
+<h3>Miscellaneous</h3>
+
+<ul>
+<li><a href="http://www.ndcoslo.com/Article/News/2012video">Videos from NDC 2012 | NDC2012 - Norwegian Developers Conference</a></li>
+<li><a href="http://www.jasondavies.com/primos/">El Patrón de los Números Primos: Prime Number Patterns - Jason Davies</a></li>
+<li><a href="http://eranki.tumblr.com/post/27076431887/scaling-lessons-learned-at-dropbox-part-1">Rajiv&#39;s blog - Scaling lessons learned at Dropbox, part 1</a></li>
+<li><a href="http://www.happyprog.com/tdgotchi/">TDGotchi helps you practice TDD while you raise a pet - happyprog</a></li>
+</ul>
+
+
+<h3>Fun</h3>
+
+<ul>
+<li><a href="http://www.alexandrosmaragos.com/2012/07/lightning-captured-at-7207-frames-per.html">Momentum: Lightnings captured at 7,207 &amp; 9,000 frames per second</a></li>
+<li><a href="http://www.youtube.com/watch?v=6guXMfg88Z8&amp;feature=em-uploademail">Higgs Boson Part III: How to Discover a Particle - YouTube</a></li>
+</ul>
+
+
+<h2>Your link could be here</h2>
+
+<p>If we missed something special or you just want to promote a site, give us a nudge @ <a href='&#109;&#97;&#105;&#108;t&#111;&#58;%7&#57;&#105;eld&#116;%68%65do%67&#64;gmail&#37;2&#69;c&#37;6&#70;m'>y&#105;eldt&#104;&#101;dog&#64;&#103;mail&#46;&#99;&#111;m</a></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Interesing Thingys 24]]></title>
+    <link href="http://yieldthedog.github.com/blog/2012/07/20/interesting-thingys-24/"/>
+    <updated>2012-07-20T08:17:00+02:00</updated>
+    <id>http://yieldthedog.github.com/blog/2012/07/20/interesting-thingys-24</id>
+    <content type="html"><![CDATA[<p>After a two weeks' absence of Interesting Thingys another issue of this beloved serie with tons of great links:</p>
+
+<!-- More -->
+
+
+<h3>JavaScript</h3>
+
+<ul>
+<li><a href="http://blog.jquery.com/2012/07/01/jquery-1-9-and-2-0-tldr-edition/">jQuery Blog » jQuery 1.9 and 2.0 — TL;DR Edition</a></li>
+<li><a href="http://www.twilio.com/blog/2012/06/build-a-phone-controlled-robot-using-node-js-arduino-rn-xv-wifly-arduinoand-twilio.html">Build a Phone-controlled Robot Using Arduino and Twilio</a></li>
+<li><a href="http://www.2ality.com/2012/06/continuation-passing-style.html">Asynchronous programming and continuation-passing style in JavaScript</a></li>
+<li><a href="http://blog.jquery.com/2012/07/04/the-new-sizzle/">jQuery Blog » The New Sizzle</a></li>
+<li><a href="http://wekeroad.com/2012/07/04/try-it-quiet">Try It Quiet</a><br/>
+A complete talk without a word. <a href="http://vimeo.com/43548699">Rob Conery - Real World NodeJS - Creating the Tekpub API on Vimeo</a></li>
+<li><a href="http://blog.argteam.com/coding/hardening-node-js-for-production-part-2-using-nginx-to-avoid-node-js-load/">Hardening node.js for production part 2: using nginx to avoid node.js load | Arg! Team Blog</a></li>
+<li><a href="https://github.com/cowboy/grunt">Grunt</a><br/>
+is a task-based command line build tool for JavaScript projects.</li>
+</ul>
+
+
+<h3>CSS</h3>
+
+<ul>
+<li><a href="http://css-tricks.com/beefing-up-dull-text-in-webkit/">Beefing Up Dull Text in WebKit | CSS-Tricks</a></li>
+<li><a href="http://csswizardry.com/2012/06/the-open-closed-principle-applied-to-css/">The open/closed principle applied to CSS — CSS Wizardry—CSS, Web Standards, Typography, and Grids by Harry Roberts</a></li>
+</ul>
+
+
+<h3>HTML(5)</h3>
+
+<ul>
+<li><a href="http://farhadi.ir/projects/html5sortable/">HTML5 Sortable</a></li>
+<li><a href="http://debeterevormgever.nl/en/articles/html5-elements-ie-without-javascript">HTML5 elements in Internet Explorer without Javascript - de Betere Vormgever</a></li>
+<li><a href="http://www.456bereastreet.com/archive/201206/an_alternative_to_select_elements_as_navigation_in_narrow_viewports/">An alternative to select elements as navigation in narrow viewports | 456 Berea Street</a></li>
+<li><a href="http://cssdeck.com/item/602/html5-canvas-particles-web-matrix">HTML5 Canvas Particles Web Matrix | CSSDeck</a></li>
+<li><a href="http://www.html5rocks.com/en/tutorials/indexeddb/uidatabinding/">Databinding UI Elements with IndexedDB - HTML5 Rocks</a></li>
+<li><a href="http://visual.ly/history-html5">The History of HTML5 | Visual.ly</a></li>
+</ul>
+
+
+<h3>Ruby</h3>
+
+<ul>
+<li><a href="http://www.alphasights.com/apply/ruby-developer-london">Ruby Quiz on Application Form: Ruby on Rails Developer, London</a></li>
+<li><a href="http://www.broadcastingadam.com/2012/07/advanced_caching_revised/">BroadcastingAdam - Advanced Caching in Rails: Revised</a></li>
+<li><a href="http://www.zendesk.com/blog/upgrade-the-road-to-1-9">Zendesk - The Road to 1.9 -</a></li>
+<li><a href="http://bostonrb.org/presentations/five-things-you-didnt-know-your-documentation-tool-could-do">Five Things You Didn&#39;t Know Your Documentation Tool Could Do</a></li>
+</ul>
+
+
+<h3>Clojure</h3>
+
+<ul>
+<li><a href="https://github.com/schani/clojurec">schani/clojurec</a><br/>
+A Clojure implementation on top of C</li>
+</ul>
+
+
+<h3>GO</h3>
+
+<ul>
+<li><a href="http://mikebeale.blogspot.co.at/2012/07/dumping-php-for-go.html">Personal Ramblings: Dumping PHP For Go</a></li>
+</ul>
+
+
+<h3>Browsers</h3>
+
+<ul>
+<li><a href="http://www.learningie8.com/">Learning IE8</a></li>
+</ul>
+
+
+<h3>Databases</h3>
+
+<ul>
+<li><a href="https://github.com/tblobaum/redis-stream">tblobaum/redis-stream</a></li>
+</ul>
+
+
+<h3>Editors</h3>
+
+<ul>
+<li><a href="http://www.chris-granger.com/2012/07/09/light-table-playgrounds-level-up/">Chris Granger - Light Table Playground Levels Up</a></li>
+<li><a href="http://robots.thoughtbot.com/post/27041742805/vim-you-complete-me">Vim, you complete me</a></li>
+<li><a href="http://identi.ca/notice/95457456">Emacs on Android tablet</a></li>
+<li><a href="https://chrome.google.com/webstore/detail/jjdndclgmfdgpiccmlamlicfjmkognne/related">Chrome Web Store - Ninja Authoring Tool</a></li>
+</ul>
+
+
+<h3>Productivity</h3>
+
+<ul>
+<li><a href="http://pivotallabs.com/users/joe/blog/articles/2199-how-we-use-tmux-for-remote-pair-programming">Moore Cowbell - How We Use tmux for Remote Pair Programming</a></li>
+</ul>
+
+
+<h3>Miscellaneous</h3>
+
+<ul>
+<li><a href="http://www.opine.me/a-better-way-to-store-password-hashes/">A better way to store password hashes?</a></li>
+<li><a href="http://www.quicklychat.com/">QuicklyChat</a></li>
+<li><a href="http://blog.asmartbear.com/color-wheels.html">Color Wheels are wrong? How color vision actually works by @ASmartBear</a></li>
+<li><a href="http://www.joelonsoftware.com/items/2012/07/09.html">Software Inventory - Joel on Software</a></li>
+<li><a href="http://blog.trello.com/trello-is-now-500000-strong/">Trello is now 500,000 strong | Trello Blog</a></li>
+<li><a href="http://www.codinghorror.com/blog/2012/07/coding-horror-the-book.html">Coding Horror: Coding Horror: The Book</a></li>
+<li><a href="http://www.tldrlegal.com/">TLDRLegal - Software Licenses Summarized in Plain English</a></li>
+</ul>
+
+
+<h3>Fun</h3>
+
+<ul>
+<li><a href="http://tympanus.net/Development/CassettePlayer/">Old School Cassette Player with HTML5 Audio</a></li>
+</ul>
+
+
+<h2>Your link could be here</h2>
+
+<p>If we missed something special or you just want to promote a site, give us a nudge @ <a href='&#109;&#97;&#105;&#108;t&#111;&#58;%7&#57;&#105;eld&#116;%68%65do%67&#64;gmail&#37;2&#69;c&#37;6&#70;m'>y&#105;eldt&#104;&#101;dog&#64;&#103;mail&#46;&#99;&#111;m</a></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Interesing Thingys 23]]></title>
@@ -268,363 +584,6 @@
 <li><a href="http://en.wikipedia.org/wiki/Sexy_prime">Sexy prime - Wikipedia, the free encyclopedia</a></li>
 <li><a href="http://www.extremetech.com/extreme/131640-infinite-capacity-wireless-vortex-beams-carry-2-5-terabits-per-second">Infinite-capacity wireless vortex beams carry 2.5 terabits per second | ExtremeTech</a></li>
 <li><a href="http://lucumr.pocoo.org/2012/6/26/disconnects-are-good-for-you/">ZeroMQ: Disconnects are Good for You | Armin Ronacher&#39;s Thoughts and Writings</a></li>
-</ul>
-
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Interesing Thingys 21]]></title>
-    <link href="http://yieldthedog.github.com/blog/2012/06/22/interesting-thingys-21/"/>
-    <updated>2012-06-22T08:17:00+02:00</updated>
-    <id>http://yieldthedog.github.com/blog/2012/06/22/interesting-thingys-21</id>
-    <content type="html"><![CDATA[<p>This week some Interesting Thingys from CSS, JavaScript, Ruby, and much more.</p>
-
-<!-- More -->
-
-
-<h3>Vim</h3>
-
-<ul>
-<li><a href="https://github.com/alevchuk/vim-clutch">Vim Clutch</a><br/>
-Give Vim a pedal to speed up your typing</li>
-</ul>
-
-
-<h3>Programming</h3>
-
-<ul>
-<li><a href="http://www.yosefk.com/blog/i-cant-believe-im-praising-tcl.html?">I can’t believe I’m praising Tcl</a></li>
-<li><a href="http://www.noverse.com/blog/2012/06/how-to-write-a-good-bug-report/">How to write a good bug report - Noverse</a></li>
-<li><a href="http://www.codedevelopr.com/50-web-developer-documentation-manuals-you-need-to-know-about/">50 Web Developer Documentation Manuals You Need To Know About</a></li>
-<li><a href="http://infiniteundo.com/post/25326999628/falsehoods-programmers-believe-about-time">Falsehoods programmers believe about time: Noah Sussman: Infinite Undo</a><br/>
-This is kind of a fun one, at least as long as it does not happen to you.</li>
-</ul>
-
-
-<h3>HTML</h3>
-
-<ul>
-<li><a href="http://stackoverflow.com/questions/11093943/is-it-possible-to-make-a-div-50px-less-than-100-in-css?newsletter=1&amp;nlcode=28472%7c4563">html - Is it possible to make a div 50px less than 100% in CSS? - Stack Overflow</a></li>
-</ul>
-
-
-<h3>CSS</h3>
-
-<ul>
-<li><a href="http://meyerweb.com/eric/thoughts/2012/06/12/combining-nth-of-type-with-negation/">Eric&#39;s Archived Thoughts: Combining ‘nth-of-type()’ With Negation</a></li>
-<li><a href="http://photon.attasi.com/">Photon | CSS 3D Lighting Engine</a></li>
-<li><a href="http://tympanus.net/Tutorials/3DHoverEffects/index.html">3D Thumbnail Hover Effects</a></li>
-<li><a href="http://www.igvita.com/2012/06/14/debunking-responsive-css-performance-myths/">Debunking Responsive CSS Performance Myths - igvita.com</a></li>
-</ul>
-
-
-<h3>JavaScript</h3>
-
-<ul>
-<li><a href="https://github.com/jashkenas/coffee-script/pull/2370">Pull Request #2370: Allow dashes in identifiers, mangle them. by paulmillr · jashkenas/coffee-script</a></li>
-<li><a href="http://addyosmani.github.com/backbone-aura/">Backbone Aura by addyosmani</a></li>
-<li><a href="http://softwaremaniacs.org/soft/highlight/en/">highlight.js</a></li>
-<li><a href="http://seuratjs.com/">SeuratJS - A Raphaël plugin for creating beautiful pointilized animations.</a></li>
-<li><a href="http://perka.github.com/backbone-ui/">Backbone UI</a></li>
-<li><a href="http://stackoverflow.com/questions/11066050/why-are-my-balls-disappearing?newsletter=1&amp;nlcode=28472%7c4563">javascript - Why are my balls disappearing? - Stack Overflow</a></li>
-<li><a href="http://adamonio.us/wexcode/66/introduction-to-javascript/">Introduction to JavaScript | adamonio.us</a></li>
-</ul>
-
-
-<h3>C&#35;</h3>
-
-<ul>
-<li><a href="http://tomasp.net/blog/variance-explained.aspx">The theory behind covariance and contravariance in C# 4 | Blog | TomasP.Net</a></li>
-</ul>
-
-
-<h3>Ruby</h3>
-
-<ul>
-<li><a href="http://myronmars.to/n/dev-blog/2012/06/rspecs-new-expectation-syntax">Myron Marston » RSpec&#39;s New Expectation Syntax</a></li>
-<li><a href="http://tenderlovemaking.com/2012/06/18/removing-config-threadsafe.html">Removing config.threadsafe! | Tenderlovemaking</a></li>
-<li><a href="http://www.rubypluspl.us/2012/06/ubuntu-1204-ruby-on-rails-development.html">ruby++: Ubuntu 12.04 Ruby on Rails Development Environment</a></li>
-<li><a href="https://github.com/fredwu/api_taster">fredwu/api_taster</a><br/>
-A quick and easy way to visually test out your Rails application's API.</li>
-<li><a href="https://github.com/ruby-talks/talks">ruby-talks/talks</a>  <br/>
-now your ruby and command-line tools can talk with you</li>
-</ul>
-
-
-<h3>GIT</h3>
-
-<ul>
-<li><a href="http://coderwall.com/p/euwpig?i=3&amp;p=1&amp;t=git">Filipe Kiss : A better git log</a></li>
-</ul>
-
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Interesing Thingys 20]]></title>
-    <link href="http://yieldthedog.github.com/blog/2012/06/15/interesting-thingys-20/"/>
-    <updated>2012-06-15T08:17:00+02:00</updated>
-    <id>http://yieldthedog.github.com/blog/2012/06/15/interesting-thingys-20</id>
-    <content type="html"><![CDATA[<p>The 20th issue features lots articles on windows, css, javascript, and much more.</p>
-
-<!-- More -->
-
-
-<h3>Windows Console</h3>
-
-<ul>
-<li><a href="http://code.google.com/p/conemu-maximus5/">ConEmu - Windows console emulator with multiple consoles tabs</a></li>
-<li><a href="http://sourceforge.net/projects/console/">Windows console window enhancement. Last stable release 2005-09-22!!! The beta works great!</a></li>
-<li><a href="https://github.com/bmatzelle/gow/wiki/">Gow (Gnu On Windows)</a><br/>
- is the lightweight alternative to Cygwin</li>
-</ul>
-
-
-<h3>Databases</h3>
-
-<ul>
-<li><a href="http://sqlfiddle.com/">SQL Fiddle</a><br/>
-like jsFiddle but for SQL</li>
-</ul>
-
-
-<h3>Programming</h3>
-
-<ul>
-<li><a href="http://www.cs.washington.edu/education/courses/cse590n/10au/hanenberg-oopsla2010.pdf">Study of 49 programmers: static type system had no effect on development time</a></li>
-<li><a href="http://www.aosabook.org/en/nginx.html">The Architecture of Open Source Applications (Volume 2): nginx</a></li>
-<li><a href="https://github.com/ericmoritz/wsdemo/blob/master/results.md">wsdemo/results.md at master · ericmoritz/wsdemo</a> - <a href="https://github.com/ericmoritz/wsdemo/blob/results-v1/results.md">previous results</a><br/>
-C10K Websocket Test: testing Erlang, Java, Go, NodeJs, Python, Haskel</li>
-</ul>
-
-
-<h3>CSS</h3>
-
-<ul>
-<li><a href="https://developer.apple.com/technologies/ios6/">iOS 6 Adds Web Audio API and CSS Filters to Safari</a></li>
-<li><a href="http://www.inserthtml.com/2012/06/css-filters/">CSS3 Filters: Altering HTML and Images with just CSS | InsertHTML</a></li>
-<li><a href="http://trac.webkit.org/changeset/120154">Webkit - Implement CSS Variables Standard</a></li>
-<li><a href="https://github.com/necolas/idiomatic-css">necolas/idiomatic-css</a><br/>
-Principles of writing consistent, idiomatic CSS</li>
-<li><a href="http://gradientfinder.com/">GradientFinder - Convert your Images into CSS Gradients</a></li>
-<li><a href="https://github.com/jorgebastida/glue">jorgebastida/glue</a><br/>
- Glue is a simple command line tool to generate CSS sprites</li>
-</ul>
-
-
-<h3>Java</h3>
-
-<ul>
-<li><a href="http://programmers.stackexchange.com/questions/102090/why-isnt-java-used-for-modern-web-application-development">Why isn&#39;t Java used for modern web application development? - Programmers Stackexchange</a></li>
-</ul>
-
-
-<h3>Vim</h3>
-
-<ul>
-<li><a href="http://blog.sanctum.geek.nz/advanced-vim-macros/">Advanced Vim macros | Arabesque</a></li>
-</ul>
-
-
-<h3>Clojure</h3>
-
-<ul>
-<li><a href="https://github.com/nathanmarz/cascalog">nathanmarz/cascalog</a><br/>
- Cascalog is a fully-featured data processing and querying library for Clojure or Java. The main use cases for Cascalog are processing &quot;Big Data&quot; on top of Hadoop or doing analysis on your local computer.</li>
-</ul>
-
-
-<h3>OS X</h3>
-
-<ul>
-<li><a href="http://www.grandtotal.biz/CheatSheet/">CheatSheet</a><br/>
-displays a cheatsheet of shortcuts when you hold down the command key</li>
-<li><a href="http://ridiculousfish.com/shell/">Fish</a>
-Finally, a command line shell for the 90s</li>
-</ul>
-
-
-<h3>JavaScript</h3>
-
-<ul>
-<li><a href="http://www.youtube.com/watch?v=yDmRRJzTo38">BackboneConf 2012 Keynote by Jeremy Ashkenas - YouTube</a></li>
-<li><a href="https://vimeo.com/43382919">Christian Johansen - Pure, functional JavaScript on Vimeo</a></li>
-<li><a href="http://socialitejs.com/">Socialite.js</a><br/>
- Socialite provides a very easy way to implement and activate a plethora of social sharing buttons — any time you wish.</li>
-<li><a href="https://github.com/gravityonmars/Balloons.IO">gravityonmars/Balloons.IO</a><br/>
-Chatserver based on NodeJs, Redis and SocketIO</li>
-<li><a href="https://github.com/vdemedes/joconut">vdemedes/joconut</a><br/>
-ever load a full page over and over again.</li>
-</ul>
-
-
-<h3>Ruby</h3>
-
-<ul>
-<li><a href="https://vimeo.com/43590847">Keynote - Yukihiro Matsumoto on Vimeo @ Euroku</a></li>
-<li><a href="http://robots.thoughtbot.com/post/24882797476/introducing-the-giant-robots-smashing-into-other-giant">Introducing the Giant Robots Smashing into other Giant Robots Podcast</a></li>
-<li><a href="http://solnic.eu/2012/06/10/part-of-datamapper-2-is-done-announcing-virtus-0-5-0.html">Part of DataMapper 2 Is Done – Announcing Virtus 0.5.0</a><br/>
-solnic.eu - Attributes on Steroids for Plain Old Ruby Objects</li>
-<li><a href="http://nadarei.co/mina/">Mina</a><br/>
- Really fast deployer and server automation tool</li>
-<li><a href="http://rubyfiddle.com/">Ruby Fiddle</a><br/>
-like jsFiddle for Ruby</li>
-</ul>
-
-
-<h3>Hosting / Server</h3>
-
-<ul>
-<li><a href="https://console.appfog.com/login">AppFog</a><br/>
-Heroku alternative</li>
-<li><a href="http://xip.io/">Xip.IO</a><br/>
-xip.io is a magic domain name that provides wildcard DNS for any IP address.</li>
-</ul>
-
-
-<h3>Time to watch</h3>
-
-<ul>
-<li><a href="https://vimeo.com/43380467">Zed A. Shaw - The Web Will Die When OOP Dies</a><br/>
-nice rant on the current front end tech stack</li>
-</ul>
-
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Interesting Thingys #19]]></title>
-    <link href="http://yieldthedog.github.com/blog/2012/06/08/interesting-thingys-19/"/>
-    <updated>2012-06-08T08:17:00+02:00</updated>
-    <id>http://yieldthedog.github.com/blog/2012/06/08/interesting-thingys-19</id>
-    <content type="html"><![CDATA[<p>Long time no see, this week links from our nearly forgotten category <em>physics</em></p>
-
-<!-- More -->
-
-
-<h3>GIT</h3>
-
-<ul>
-<li><a href="http://stackoverflow.com/questions/927358/git-undo-last-commit?newsletter=1&amp;nlcode=28472%7c4563">Git undo last commit - Stack Overflow</a></li>
-</ul>
-
-
-<h3>HTML5</h3>
-
-<ul>
-<li><a href="http://radar.oreilly.com/2012/06/html5-apps-datajournalism-doj-lawsuit.html">O&#39;Reilly - HTML5 may be winning the war against apps - O&#39;Reilly Radar</a></li>
-</ul>
-
-
-<h3>Ruby</h3>
-
-<ul>
-<li><a href="http://www.unlimitednovelty.com/2012/06/ruby-is-faster-than-python-php-and-perl.html">Unlimited Novelty: Ruby is faster than Python, PHP, and Perl</a></li>
-<li><a href="http://confreaks.com/videos/856-railsconf2012-getting-down-to-earth-geospatial-analysis-with-rails">Getting Down To Earth: Geospatial Analysis With Rails - Daniel Azuma - RailsConf 2012</a> and the <a href="http://www.daniel-azuma.com/blog/archives/256">RailsConf 2012 Talk Notes | Daniel Azuma</a> with tons of links.</li>
-</ul>
-
-
-<h3>Javascript</h3>
-
-<ul>
-<li><a href="http://www.youtube.com/watch?v=Rj49rmc01Hs">Fluent 2012: Brendan Eich, &quot;JavaScript at 17&quot; - YouTube</a></li>
-<li><a href="http://www.adobe.com/devnet/html5/articles/javascript-architecture-requirejs-dependency-management.html?utm_source=javascriptweekly&amp;utm_medium=email">Dependency management with RequireJS | Adobe Developer Connection</a></li>
-<li><a href="http://mohayonao.github.com/timbre/">timbre - JavaScript Library for Objective Sound Programming</a></li>
-<li><a href="http://addyosmani.com/blog/ecmascript-6-resources-for-the-curious-javascripter/">ECMAScript 6 Resources For The Curious JavaScripter</a></li>
-<li><a href="http://www.stevesouders.com/blog/2012/05/22/self-updating-scripts/">Self-updating scripts | High Performance Web Sites</a></li>
-<li><a href="http://destroytoday.com/blog/reasons-for-spinejs/">Destroy Today / 10 reasons why I switched to Spine.js</a></li>
-<li><a href="http://jquerypp.com/">jQuery++</a></li>
-<li><a href="http://hpneo.github.com/gmaps/examples.html">gmaps.js — the easiest way to use Google Maps</a></li>
-<li><a href="http://cnnr.me/b/2012/05/your-first-node-dot-js-module/">Your first node.js module - Connor Montgomery</a></li>
-</ul>
-
-
-<h3>CSS</h3>
-
-<ul>
-<li><a href="http://csswizardry.com/2012/04/the-single-responsibility-principle-applied-to-css/">The single responsibility principle applied to CSS — CSS Wizardry—CSS, Web Standards, Typography, and Grids by Harry Roberts</a></li>
-<li><a href="http://dev.opera.com/articles/view/understanding-the-css-transforms-matrix/">Understanding the CSS Transforms Matrix - Dev.Opera</a></li>
-<li><a href="http://paulrouget.com/e/devtoolsupdate/">Responsive Mode and Layout View in Firefox 15 // by Paul Rouget</a></li>
-<li><a href="http://nicholsonws.com/archive/the-tilde-is-an-amazing-css-selector">The Tilde is an Amazing CSS Selector. - Nicholson Web Software</a></li>
-<li><a href="http://meyerweb.com/eric/thoughts/2012/05/31/gradient-repetition/">Eric&#39;s Archived Thoughts: Gradient Repetition</a></li>
-</ul>
-
-
-<h3>Vim</h3>
-
-<ul>
-<li><a href="http://vim.wikia.com/wiki/Best_Vim_Tips#Easter_eggs">Vim Eastereggs</a></li>
-<li><a href="https://github.com/vim-scripts/Shebang">vim-scripts/Shebang</a></li>
-</ul>
-
-
-<h3>Mobile</h3>
-
-<ul>
-<li><a href="http://www.adobe.com/devnet/html5/articles/native-like-ux-phonegap-app-ui.html">Creating native-like user experiences in PhoneGap with App-UI | Adobe Developer Connection</a></li>
-</ul>
-
-
-<h3>Productivity</h3>
-
-<ul>
-<li><a href="https://www.shortcutfoo.com/">Learn Shortcuts. Vim Commands, Command Line, Unix Commands, Sublime Keys, TextMate Keys, Emacs Keys</a></li>
-</ul>
-
-
-<h3>Databases</h3>
-
-<ul>
-<li><a href="http://dickey.xxx/mysql-is-done-it-s-the-postgres-age">MySQL is done. It&#39;s the Postgres Age. by Jeff Dickey</a></li>
-</ul>
-
-
-<h3>Performance</h3>
-
-<ul>
-<li><a href="http://engineering.twitter.com/2012/05/improving-performance-on-twittercom.html">Twitter Engineering: Improving performance on twitter.com</a></li>
-<li><a href="http://openmymind.net/2012/5/30/Client-Side-vs-Server-Side-Rendering/">Client-Side vs. Server-Side Rendering</a></li>
-</ul>
-
-
-<h3>Programming</h3>
-
-<ul>
-<li><a href="http://www.writemoretests.com/2012/06/code-reviews-that-might-actually-work.html">Code Reviews that might actually work — Write More Tests</a></li>
-<li><a href="https://www.youtube.com/watch?v=G0eBDWigORY&amp;feature=related">Erlang in production: &quot;I wish I&#39;d known that when I started&quot; - Bernard Duggan - YouTube</a></li>
-</ul>
-
-
-<h3>Other</h3>
-
-<ul>
-<li><a href="http://7habitsofhighlyeffectivehackers.blogspot.com.au/2012/05/using-twitter-to-build-password.html">7 Habits of Highly Effective Hackers: Using twitter to build password cracking wordlist</a></li>
-<li><a href="http://hnrankings.info/">Hacker News Rankings</a></li>
-</ul>
-
-
-<h3>Hosting / Server / SPDY</h3>
-
-<ul>
-<li><a href="http://lists.w3.org/Archives/Public/ietf-http-wg/2012AprJun/0498">SPDY Review from Martin Nilsson</a></li>
-<li><a href="http://www.mozilla.org/en-US/firefox/13.0/releasenotes/">Firefox now supports SPDY by default</a></li>
-</ul>
-
-
-<h3>Physics</h3>
-
-<ul>
-<li><a href="http://www.youtube.com/watch?v=og2fHSyWcJI">The Second Copernican Revolution: Our Changing View of Our Place in the Universe - YouTube</a></li>
-<li><a href="http://www.youtube.com/watch?v=_mZQ-5-KYHw">Minute Physics - Picture of the Big Bang (aka Oldest Light in the Universe)</a></li>
-<li><a href="http://www.bigbangregistry.com/">Big Bang Registry</a></li>
-</ul>
-
-
-<h3>Fun</h3>
-
-<ul>
-<li><a href="http://kottke.org/12/06/the-worlds-worst-password-requirements-list">The world&#39;s worst password requirements list</a></li>
 </ul>
 
 ]]></content>
