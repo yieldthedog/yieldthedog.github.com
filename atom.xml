@@ -4,7 +4,7 @@
   <title><![CDATA[yield the dog]]></title>
   <link href="http://yieldthedog.github.com/atom.xml" rel="self"/>
   <link href="http://yieldthedog.github.com/"/>
-  <updated>2012-08-03T07:29:06+02:00</updated>
+  <updated>2012-08-10T07:53:44+02:00</updated>
   <id>http://yieldthedog.github.com/</id>
   <author>
     <name><![CDATA[yield the dog]]></name>
@@ -12,6 +12,186 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Interesing Thingys 27]]></title>
+    <link href="http://yieldthedog.github.com/blog/2012/08/10/interesting-thingys-27/"/>
+    <updated>2012-08-10T00:00:00+02:00</updated>
+    <id>http://yieldthedog.github.com/blog/2012/08/10/interesting-thingys-27</id>
+    <content type="html"><![CDATA[<p>What a week! Here comes a massive link bomb, <em>behold</em>!</p>
+
+<!-- More -->
+
+
+<h3>JavaScript</h3>
+
+<ul>
+<li><a href="http://crossrider.com/">Build Cross Browser Extensions with JavaScript &amp; jQuery - Crossrider.com</a></li>
+<li><a href="https://plus.google.com/104437754419996754779/posts/MnGwHkYr8Vj">Mike West - Google+ - An experimental Content Security Policy feature detection…</a></li>
+<li><a href="http://blog.carbonfive.com/2012/07/25/asynchronous-javascript-testing-in-jasmine-mocha-and-vows/">Asynchronous JavaScript Testing in Jasmine, Mocha, and Vows | The Carbon Emitter</a></li>
+<li><a href="http://www.nczonline.net/blog/2012/08/01/a-critical-review-of-ecmascript-6-quasi-literals/">A critical review of ECMAScript 6 quasi-literals | NCZOnline</a></li>
+<li><a href="http://blog.stevensanderson.com/2012/08/01/rich-javascript-applications-the-seven-frameworks-throne-of-js-2012/">Rich JavaScript Applications – the Seven Frameworks (Throne of JS, 2012) - Steve Sanderson’s blog - As seen on YouTube™</a></li>
+<li><a href="http://www.sencha.com/blog/automating-unit-tests/">Automating Unit Tests | Blog | Sencha</a></li>
+<li><a href="http://jquerygeo.com/">jQuery Geo - JavaScript mapping API</a></li>
+<li><a href="http://blog.caustik.com/2012/04/08/scaling-node-js-to-100k-concurrent-connections/">Scaling node.js to 100k concurrent connections! | caustik&#39;s blog</a></li>
+<li><a href="http://www.justgage.com/">justGage.com - JustGage is a handy JavaScript plugin for generating and animating nice &amp; clean gauges.</a></li>
+<li><a href="http://google-opensource.blogspot.de/2012/08/leak-finder-new-tool-for-javascript.html">Leak Finder: a new tool for JavaScript - Google Open Source Blog</a></li>
+<li><a href="http://weblog.bocoup.com/getting-bitwise-with-javascript/">Getting Bitwise with JavaScript - Bocoup</a></li>
+<li><a href="http://viget.com/inspire/managing-javascript-on-responsive-websites">Managing JavaScript on Responsive Websites | Viget</a></li>
+</ul>
+
+
+<h4>Libraries &amp;&amp; Tools</h4>
+
+<ul>
+<li><a href="http://jamjs.org/">Jam - The JavaScript package manager</a></li>
+<li><a href="http://jquerymobile.com/blog/2012/08/01/announcing-jquery-mobile-1-2-0-alpha/">Announcing jQuery Mobile 1.2.0 Alpha | jQuery Mobile</a></li>
+<li><a href="http://briantford.com/blog/angular-d3.html">Using the D3.js Visualization Library with AngularJS</a></li>
+<li><a href="http://www.meteor.com/blog/2012/08/08/search-engine-optimization">Meteor 0.3.9 - Search engine optimization</a></li>
+<li><a href="http://emberjs.com/blog/2012/08/03/ember-1-0-prerelease/">Ember.js - Ember 1.0 Prerelease</a></li>
+<li><a href="https://github.com/swank-js/swank-js">swank-js/swank-js</a><br/>
+swank-js provides SLIME REPL and other development tools</li>
+<li><a href="https://github.com/lipka/piecon">lipka/piecon</a>
+ tiny javascript library for generating progress pie charts in your favicon</li>
+</ul>
+
+
+<h3>CSS</h3>
+
+<ul>
+<li><a href="https://github.com/redroot/holmes">redroot/holmes</a></li>
+<li><a href="http://css-tricks.com/poll-results-how-do-you-order-your-css-properties/">Poll Results: How do you order your CSS properties? | CSS-Tricks</a></li>
+<li><a href="http://csscomb.com/">Greatest tool for sorting CSS properties in specific order</a></li>
+<li><a href="http://demosthenes.info/blog/532/Convert-Images-To-Black-And-White-With-CSS">demosthenes.info – Convert Images To Black And White With CSS</a></li>
+</ul>
+
+
+<h3>HTML(5)</h3>
+
+<ul>
+<li><a href="http://updates.html5rocks.com/2012/07/Drag-and-drop-a-folder-onto-Chrome-now-available">Drag and drop a folder onto Chrome now available - HTML5Rocks Updates</a></li>
+<li><a href="http://www.html5rocks.com/en/tutorials/webgl/globe/">Making of the World Wonders 3D Globe - HTML5 Rocks</a></li>
+<li><a href="http://www.netmagazine.com/features/five-things-you-didnt-know-web-could-do">Five things you didn&#39;t know the web could do | Feature | .net magazine</a></li>
+<li><a href="http://supertux.diporg.com/">Supertux Web Preview - HTML5 port</a></li>
+<li><a href="http://updates.html5rocks.com/2012/08/Quick-FAQs-on-input-type-date-in-Google-Chrome">Quick FAQs on input[type=date] in Google Chrome - HTML5Rocks Updates</a></li>
+<li><a href="http://lab.hakim.se/radar/">Radar - An audio-visual HTML experiment</a></li>
+</ul>
+
+
+<h3>Mobile</h3>
+
+<ul>
+<li><a href="http://www.markus-falk.com/mobile-frameworks-comparison-chart/">Mobile Frameworks Comparison Chart</a></li>
+</ul>
+
+
+<h3>WebDevelopment</h3>
+
+<ul>
+<li><a href="https://github.com/ZeitOnline/briefkasten">ZeitOnline/briefkasten</a><br/>
+a reasonably secure web application for submitting content anonymously</li>
+<li><a href="http://www.stumbleupon.com/su/6MgwBK/responsify.it/">Responsify.it - A responsive template generator - StumbleUpon</a></li>
+<li><a href="http://designshack.net/articles/accessibility/should-we-kill-the-captcha/">Should We Kill the CAPTCHA? | Design Shack</a></li>
+<li><a href="http://karthikv.github.com/nodefront/">Nodefront by karthikv</a></li>
+</ul>
+
+
+<h3>Ruby</h3>
+
+<ul>
+<li><a href="http://blog.phusion.nl/2012/08/03/why-rails-4-live-streaming-is-a-big-deal/#.UCOsahXZNko">Why Rails 4 Live Streaming is a big deal – Phusion Corporate Blog</a></li>
+<li><a href="http://metaskills.net/2012/08/07/synchronized-times-in-ruby-and-javascript-acceptance-tests-using-capybara-timecop-and-sinon.js/">Synchronized Times In Ruby &amp; JavaScript Acceptance Tests Using Capybara, Timecop &amp; Sinon.JS @MetaSkills.net</a></li>
+</ul>
+
+
+<h3>Clojure</h3>
+
+<ul>
+<li><a href="https://gist.github.com/3217582">sudoku_compact.clj — Gist - Sudoku solver in33 lines of Clojure</a></li>
+</ul>
+
+
+<h3>Databases</h3>
+
+<ul>
+<li><a href="http://dev.mysql.com/doc/refman/5.6/en/news-5-6-6.html">Memcached in Mysql 5.6 -MySQL :: MySQL 5.6 Reference Manual :: D.1.1 Changes in MySQL 5.6.6 (Not yet released, Milestone 9)</a></li>
+</ul>
+
+
+<h3>Browsers</h3>
+
+<ul>
+<li><a href="https://sites.google.com/a/chromium.org/dev/developers/web-platform-status">Web Platform Status (chromestatus.com) - The Chromium Projects</a></li>
+</ul>
+
+
+<h3>Editors</h3>
+
+<ul>
+<li><a href="http://code.google.com/p/vimwiki/">vimwiki - Personal Wiki for Vim - Google Project Hosting</a></li>
+<li><a href="http://www.reddit.com/r/vim/comments/xpm2f/a_mapping_to_ease_the_editcompileedit_workflow/">A mapping to ease the edit/compile/edit workflow : vim</a></li>
+<li><a href="https://github.com/textmate/textmate">textmate/textmate - is open source now</a></li>
+<li><a href="http://ecukes.info/">Ecukes - Ecukes is a testing tool for Emacs based on Cucumber.</a></li>
+</ul>
+
+
+<h3>Productivity</h3>
+
+<ul>
+<li><a href="http://ss64.com/osx/syntax-bashkeyboard.html">bash terminal Keyboard shortcuts</a></li>
+</ul>
+
+
+<h3>Miscellaneous</h3>
+
+<ul>
+<li><a href="https://plus.google.com/101960720994009339267/posts/R58WgWwN9jp">Rob Pike - Google+ - A lesson in shortcuts. Long ago, as the design of the Unix…</a><br/>
+Rob explains the origin of dot files</li>
+<li><a href="http://ianstormtaylor.com/design-tip-never-use-black/">Design Tip: Never Use Black by Ian Storm Taylor</a></li>
+<li><a href="http://blog.ircmaxell.com/2012/08/reinvent-wheel.html">ircmaxell&#39;s blog: Reinvent The Wheel!</a></li>
+<li><a href="http://halide-lang.org/">Halide</a></li>
+</ul>
+
+
+<h3>Security</h3>
+
+<ul>
+<li><a href="http://www.troyhunt.com/2012/07/lessons-in-website-security-anti.html">Troy Hunt: Lessons in website security anti-patterns by Tesco</a></li>
+</ul>
+
+
+<h3>SPDY</h3>
+
+<ul>
+<li><a href="http://cto.kaazing.com/2012/08/06/speedy-and-websockets-3/">SPDY and WebSockets | The CTO&#39;s Blog</a></li>
+<li><a href="http://blog.bugsnag.com/2012/08/05/spdy-on-rails/">SPDY on Rails - Bugsnag Blog</a></li>
+</ul>
+
+
+<h3>Hacking</h3>
+
+<ul>
+<li><a href="http://gist.io/">gist.io</a><br/>
+Writing for hackers</li>
+<li><a href="http://stevehanov.ca/blog/index.php?id=133">Give your Commodore 64 new life with an SD card reader - Steve Hanov&#39;s Programming Blog</a></li>
+<li><a href="http://www.p01.org/releases/MATRAKA/matraka.png.html">Self Extracting Png » Checkout the source.</a></li>
+</ul>
+
+
+<h3>Watching</h3>
+
+<ul>
+<li><a href="http://www.impressivewebs.com/10-conference-videos-for-front-end-developers/">10 Conference Videos for Front-End Developers | Impressive Webs</a></li>
+<li><a href="http://www.youtube.com/watch?v=dsMCVMVTdn0">TED Talk - Michael Hansmeyer: Building unimaginable shapes</a></li>
+<li><a href="https://vimeo.com/44773888">Breaking Good Habits - Harry Roberts</a></li>
+</ul>
+
+
+<h2>Your link could be here</h2>
+
+<p>If we missed something special or you just want to promote a site, give us a nudge @ <a href='&#109;&#97;&#105;&#108;t&#111;&#58;%7&#57;&#105;eld&#116;%68%65do%67&#64;gmail&#37;2&#69;c&#37;6&#70;m'>y&#105;eldt&#104;&#101;dog&#64;&#103;mail&#46;&#99;&#111;m</a></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Interesing Thingys 26]]></title>
@@ -2007,95 +2187,6 @@ Heroku for the masses</li>
 <h5>Stuff, stuff, stuff&#8230;</h5>
 
 <p><img class="full-width" src="https://lh6.googleusercontent.com/-PKWNCeLPUBc/T3AMRTTYxOI/AAAAAAAAG-0/d5-HgTy17Ic/s1069/IMG_9877.JPG "></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Interesting Thingys #12]]></title>
-    <link href="http://yieldthedog.github.com/blog/2012/04/17/interesting-thingys-12/"/>
-    <updated>2012-04-17T11:54:00+02:00</updated>
-    <id>http://yieldthedog.github.com/blog/2012/04/17/interesting-thingys-12</id>
-    <content type="html"><![CDATA[<p>This week with topics from HTML5, JavaScript, CSS, Git, Vim, and much more.</p>
-
-<!-- More -->
-
-
-<h3>HTML5</h3>
-
-<ul>
-<li><a href="http://www.adobe.com/devnet/html5/articles/javascript-motion-detection.html">JavaScript motion detection</a></li>
-<li><a href="http://blogs.msdn.com/b/davrous/archive/2012/04/06/modernizing-your-html5-canvas-games-with-offline-apis-file-apis-css3-amp-hardware-scaling.aspx">Modernizing your HTML5 Canvas games Part 1: hardware scaling &amp; CSS3</a></li>
-<li><a href="http://www.luxanimals.com/blog/article/combining_easel_box2d">Combining Easel.js and Box2d in Canvas</a></li>
-<li><a href="http://blogs.msdn.com/b/davrous/archive/2012/04/06/modernizing-your-html5-canvas-games-with-offline-apis-file-apis-css3-amp-hardware-scaling.aspx">Modernizing your HTML5 Canvas games Part 1: hardware scaling &amp; CSS3 - David Rousset - Site Home - MSDN Blogs</a></li>
-</ul>
-
-
-<h3>JavaScript</h3>
-
-<ul>
-<li><a href="http://www.meteor.com/">Metor</a> - is a set of new technologies for building top-quality webapps in a fraction of the time, whether you&#8217;re an expert developer or just getting started. Watch the <a href="http://www.meteor.com/screencast">introduction video</a>.</li>
-<li><a href="https://github.com/rwldrn/idiomatic.js">idiomatic.js</a></li>
-<li><a href="http://www.adobe.com/devnet/html5/articles/javascript-motion-detection.html">JavaScript motion detection | Adobe Developer Connection</a></li>
-</ul>
-
-
-<h3>CSS</h3>
-
-<ul>
-<li><a href="http://csscience.com/responsiveslidercss3/">Responsive CSS3 Slider Without Javascript</a></li>
-<li><a href="http://coding.smashingmagazine.com/2012/04/11/css-sprites-revisited/">CSS Sprites Revisited</a></li>
-</ul>
-
-
-<h3>Browsers</h3>
-
-<ul>
-<li><a href="http://updates.html5rocks.com/2012/04/Big-boost-to-DOM-performance---WebKit-s-innerHTML-is-240-faster">Big boost to DOM performance - WebKit&#8217;s innerHTML is 240% faster</a></li>
-</ul>
-
-
-<h3>Operating Systems</h3>
-
-<ul>
-<li><a href="http://duartes.org/gustavo/blog/post/how-computers-boot-up">How Computers Boot Up</a></li>
-</ul>
-
-
-<h3>Git</h3>
-
-<ul>
-<li><a href="https://github.com/blog/1081-instantly-beautiful-project-pages"> Instantly Beautiful Project Pages - Github</a></li>
-</ul>
-
-
-<h3>Presentations / Talks / Articles</h3>
-
-<ul>
-<li><a href="http://vhardy.github.com/presentations/html5-community-meet-up-2012/">Slides from HTML5 community meetup</a> - presents some next generation CSS stuff: filters, shaders - future, when will thou come?</li>
-</ul>
-
-
-<h3>Tools</h3>
-
-<ul>
-<li><a href="http://thenounproject.com/">The noun project</a></li>
-</ul>
-
-
-<h3>Vim</h3>
-
-<ul>
-<li><a href="http://shawnbiddle.com/devblog/archive/using-vimdiff-with-git">Using Vimdiff With Git</a></li>
-<li><a href="http://visualstudiomagazine.com/articles/2012/04/09/write-faster-code-by-adding-vim-to-visual-studio.aspx">Write Faster Code by Adding VIM to Visual Studio</a></li>
-</ul>
-
-
-<h3>Fun</h3>
-
-<ul>
-<li><a href="http://superliminal.com/cube/cube.htm">4D Rubik&#8217;s Cube</a></li>
-</ul>
-
 ]]></content>
   </entry>
   
