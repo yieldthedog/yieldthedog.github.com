@@ -10,7 +10,8 @@ This week two projects turned 1.0, normalize.css and goliath.
 <!-- More -->
 ### JavaScript
 - [Javascript Fundamentals: Development for Absolute Beginners | Channel 9](http://channel9.msdn.com/Series/Javascript-Fundamentals-Development-for-Absolute-Beginners)
-- [square/cane - Fails your build if code quality thresholds are not met.](https://github.com/square/cane)
+- [square/cane](https://github.com/square/cane)  
+  Fails your build if code quality thresholds are not met.
 - [AngularJS and the Goodfilms mobile site - Part 1 - Bad films are bad](http://goodfil.ms/blog/posts/2012/08/13/angularjs-and-the-goodfilms-mobile-site-part-1/)
 - [Automating Unit Tests | Blog | Sencha](http://www.sencha.com/blog/automating-unit-tests/#date:14:00)
 - [Nipster! npm search tool for Node.js](http://eirikb.github.com/nipster/#)
@@ -34,7 +35,8 @@ This week two projects turned 1.0, normalize.css and goliath.
 - [WebRTC is almost here, and it will change the web | VentureBeat](http://venturebeat.com/2012/08/13/webrtc-is-almost-here-and-it-will-change-the-web/)
 - [A Primer on Responsive Design | UX Magazine](http://uxmag.com/articles/a-primer-on-responsive-design)
 - [Media Query Snippets - list of media queries](http://nmsdvid.com/snippets/)
-- [cjdsie/wirefy - Wirefy is a responsive wireframe boilerplate for rapidly experimenting with layouts to create the best user experience.](https://github.com/cjdsie/wirefy)
+- [cjdsie/wirefy](https://github.com/cjdsie/wirefy)  
+  Wirefy is a responsive wireframe boilerplate for rapidly experimenting with layouts to create the best user experience.
 - [The Many Faces of ‘Mobile First’ | Brad Frost Web](http://bradfrostweb.com/blog/mobile/the-many-faces-of-mobile-first/)
 - [Glazing ribbon screensaver effect in HTML5 canvas](http://thecodeplayer.com/walkthrough/glazing-ribbon-screensaver-effect-in-html5-canvas)
 - [Dazed Digital - Field Project](http://www.dazeddigital.com/projects/fuelband/)
@@ -52,11 +54,13 @@ This week two projects turned 1.0, normalize.css and goliath.
 - [postrank-labs/goliath - v1.0](https://github.com/postrank-labs/goliath/)
 - [RubySource | Narihiro Nakamura: Ruby’s GC InnovatorRubySource](http://rubysource.com/narihiro-nakamura-rubys-gc-innovator/)
 - [065 RR Functional vs Object Oriented Programming with Michael Feathers](http://rubyrogues.com/065-rr-functional-vs-object-oriented-programming-with-michael-feathers/)
-- [Plinq/big_spoon - Adds before and after hooks to any method, because that&#39;s just how things should be](https://github.com/Plinq/big_spoon)
+- [Plinq/big_spoon](https://github.com/Plinq/big_spoon)  
+  Adds before and after hooks to any method, because that&#39;s just how things should be
 - [Haskell-like list comprehensions in Ruby — Gist](https://gist.github.com/3356675)
 
 ### Java
-- [pcpratts/rootbeer1 - The Rootbeer GPU Compiler makes it easy to use Graphics Processing Units from within Java.](https://github.com/pcpratts/rootbeer1)
+- [pcpratts/rootbeer1](https://github.com/pcpratts/rootbeer1)  
+  The Rootbeer GPU Compiler makes it easy to use Graphics Processing Units from within Java.
 
 ### Databases
 - [HBase FuzzyRowFilter: Alternative to Secondary Indexes « Sematext Blog](http://blog.sematext.com/2012/08/09/consider-using-fuzzyrowfilter-when-in-need-for-secondary-indexes-in-hbase/)
@@ -74,7 +78,8 @@ This week two projects turned 1.0, normalize.css and goliath.
   gitk like plugin for vim / fugutive
 
 ### Tools
-- [maccman/go - Go is a super simple Sinatra URL shortener for use behind the firewall.](https://github.com/maccman/go)
+- [maccman/go](https://github.com/maccman/go)  
+  Go is a super simple Sinatra URL shortener for use behind the firewall.
 
 ### Programming
 - [nsf/gocode](https://github.com/nsf/gocode)  
