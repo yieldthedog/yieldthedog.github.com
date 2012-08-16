@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Interesing Thingys 27"
-date: 2012-08-10 08:17
+aate: 2012-08-10 08:17
 comments: false
 published: true
 categories: "Interesting-Thingys"
