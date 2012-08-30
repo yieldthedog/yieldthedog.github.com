@@ -200,7 +200,7 @@ This weeks list was assembled with a little help from [heroku](http://heroku.com
 - **[Principles of User Interface Design](http://bokardo.com/principles-of-user-interface-design/)**  
     <small>20 principles - easy to understand</small>
 - **[Lobsters](https://lobste.rs/)**  
-    <small>Yehuda Katz releases Lobsters - a hackernews alternative</small>
+    <small>a hackernews alternative</small>
 
 ## Fun
 
