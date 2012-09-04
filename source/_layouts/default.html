@@ -4,7 +4,15 @@
   <header role="banner">{% include header.html %}</header>
   <nav role="navigation">{% include navigation.html %}</nav>
   <div id="main">
-    <div id="content">
+    <div id="content" class="
+      {% unless category == '0' %}
+        {% if post %}
+          {{ post.categories | join:' ' | downcase }}
+        {% else %}
+          {{ page.categories | join:' ' | downcase }}
+        {% endif %}
+      {% endunless %}
+      ">
       {{ content | expand_urls: root_url }}
     </div>
   </div>
