@@ -107,7 +107,9 @@ clear:both}
 		-ms-transition: opacity .25s ease-in-out;
 		transition: opacity .25s ease-in-out;
 		z-index: 1000;
-		border-radius: 0 10px;
+		border:1px solid rgba(10,10,10, .55);
+		border-radius: 15px 0;
+		box-shadow: 2px 2px 3px 1px rgba(50,50,50,.4);
 		font-size:12px;
 		font-weight: normal;
 	}
@@ -115,7 +117,7 @@ clear:both}
 	strong:hover + small{
 		left: 25%;
 		opacity: 1;
-		-webkit-animation-duration: 1s;
+		-webkit-animation-duration: .75s;
 		-webkit-animation-name: blip;
 	}
 }
@@ -123,10 +125,10 @@ clear:both}
 
 @-webkit-keyframes blip {
 	0% { -webkit-transform: scale(0); opacity:0}
-	80% { -webkit-transform: scale(0); opacity:0}
+	80% { -webkit-transform: scale(0); opacity:0;-webkit-filter: blur(19px);}
 	90% { -webkit-transform: scale(1); opacity:1}
 	93% { -webkit-transform: scale(1.1); }
 	95% { -webkit-transform: scale(1.05); }
-	100% { -webkit-transform: scale(1); }
+	100% { -webkit-transform: scale(1); -webkit-filter: blur(0); }
 }
 
