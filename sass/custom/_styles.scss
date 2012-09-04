@@ -119,6 +119,10 @@ clear:both}
 		opacity: 1;
 		-webkit-animation-duration: .75s;
 		-webkit-animation-name: blip;
+		-moz-animation-duration: .75s;
+		-moz-animation-name: blip;
+		animation-duration: .75s;
+		animation-name: blip;
 	}
 }
 
@@ -130,5 +134,23 @@ clear:both}
 	93% { -webkit-transform: scale(1.1); }
 	95% { -webkit-transform: scale(1.05); }
 	100% { -webkit-transform: scale(1); -webkit-filter: blur(0); }
+}
+
+@-moz-keyframes blip {
+	0% { -moz-transform: scale(0); opacity:0}
+	80% { -moz-transform: scale(0); opacity:0;-moz-filter: blur(19px);}
+	90% { -moz-transform: scale(1); opacity:1}
+	93% { -moz-transform: scale(1.1); }
+	95% { -moz-transform: scale(1.05); }
+	100% { -moz-transform: scale(1); -moz-filter: blur(0); }
+}
+
+@keyframes blip {
+	0% { transform: scale(0); opacity:0}
+	80% { transform: scale(0); opacity:0;filter: blur(19px);}
+	90% { transform: scale(1); opacity:1}
+	93% { transform: scale(1.1); }
+	95% { transform: scale(1.05); }
+	100% { transform: scale(1); filter: blur(0); }
 }
 
