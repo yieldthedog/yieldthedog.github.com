@@ -16,8 +16,6 @@ This time with description popups. Hover over a link to see details.
     <small>Everything you think you know about data binding — and every trick MVC libraries are using to pull it off — is about to be flipped on its head.</small>
 - **[JavaScript Design Patterns: Decorator - Rob Dodson talks internets](http://robdodson.me/blog/2012/08/27/javascript-design-patterns-decorator/)**
     <small>This time the a short overview on the decorator pattern</small>
-- **[Meny - CSS 3D fold-in menu concept](http://lab.hakim.se/meny/)**
-    <small>3d fold-in menu </small>
 - **[nbartlomiej/foggy](https://github.com/nbartlomiej/foggy)**
     <small>Foggy is a jQuery plugin for blurring page elements. It supports IE (8 and up), Firefox, Safari and Chrome.</small>
 - **[Infinity.js](http://airbnb.github.com/infinity/)**
@@ -39,6 +37,8 @@ This time with description popups. Hover over a link to see details.
     <small>show and hide stuff with the :target selector</small>
 - **[Bourbon Neat](http://thoughtbot.com/neat/)**
     <small>Neat is an open source fluid grid framework built on top of Sass and Bourbon using em units and golden ratios.</small>
+- **[Meny - CSS 3D fold-in menu concept](http://lab.hakim.se/meny/)**
+    <small>3d fold-in menu </small>
 
 ## HTML (5)
 
