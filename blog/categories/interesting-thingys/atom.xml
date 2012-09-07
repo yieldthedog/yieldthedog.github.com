@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Interesting-Thingys | yield the dog]]></title>
   <link href="http://yieldthedog.github.com/blog/categories/interesting-thingys/atom.xml" rel="self"/>
   <link href="http://yieldthedog.github.com/"/>
-  <updated>2012-09-04T21:36:34+02:00</updated>
+  <updated>2012-09-07T06:14:01+02:00</updated>
   <id>http://yieldthedog.github.com/</id>
   <author>
     <name><![CDATA[yield the dog]]></name>
@@ -12,6 +12,240 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Interesing Thingys 31]]></title>
+    <link href="http://yieldthedog.github.com/blog/2012/09/07/interesting-thingys-31/"/>
+    <updated>2012-09-07T08:17:00+02:00</updated>
+    <id>http://yieldthedog.github.com/blog/2012/09/07/interesting-thingys-31</id>
+    <content type="html"><![CDATA[<p>This time with description popups. Hover over a link to see details.</p>
+
+<!-- More -->
+
+
+<h2>JavaScript</h2>
+
+<ul>
+<li><strong><a href="http://weblog.bocoup.com/javascript-object-observe/">JavaScript Objectobserve - Bocoup</a></strong>
+  <small>Everything you think you know about data binding — and every trick MVC libraries are using to pull it off — is about to be flipped on its head.</small></li>
+<li><strong><a href="http://robdodson.me/blog/2012/08/27/javascript-design-patterns-decorator/">JavaScript Design Patterns: Decorator - Rob Dodson talks internets</a></strong>
+  <small>This time the a short overview on the decorator pattern</small></li>
+<li><strong><a href="https://github.com/nbartlomiej/foggy">nbartlomiej/foggy</a></strong>
+  <small>Foggy is a jQuery plugin for blurring page elements. It supports IE (8 and up), Firefox, Safari and Chrome.</small></li>
+<li><strong><a href="http://airbnb.github.com/infinity/">Infinity.js</a></strong>
+  <small>is a UITableView for the web: it speeds up scrolling through long lists and keeps your infinite feeds smooth and stable for your users</small></li>
+<li><strong><a href="http://dev.opera.com/articles/view/xhr2/">Introduction to XMLHttpRequest Level 2 - Dev.Opera</a></strong>
+  <small>XMLHttpRequest allows developers to make HTTP and HTTPS requests and modify the current page without reloading it. Submitting forms and retrieving additional content are two common uses.</small></li>
+<li><strong><a href="http://mrdoob.com/projects/code-editor/">Real time Three.js coding</a></strong>
+  <small>Try it</small></li>
+<li><strong><a href="https://github.com/WickyNilliams/enquire.js">WickyNilliams/enquire.js</a></strong>
+  <small>enquire.js is a pure javascript framework for programmatically responding to CSS media queries.</small></li>
+<li><strong><a href="https://www.youtube.com/watch?v=w65UDTzKwaY">Extensible jQuery Plugin Development by Shane Riley - YouTube</a></strong>
+  <small>Have you ever had to exclude an element from a collection so you could run a plugin method with two different sets of arguments? Have you ever had to modify someone else's (or maybe your own) plugin for a specific use case and felt dirty for doing so?</small></li>
+<li><strong><a href="http://blog.nodejs.org/2012/08/22/node-v0-8-8-stable/">Node Version 0.8.8 (stable)</a></strong>
+  <small>* V8: upgrade to 3.11.10.19 * npm: upgrade to 1.1.59 * windows: fix uninitialized memory access in uv_update_time() (Bert Belder) * unix, windows: fix memory corruption in fs-poll.c (Ben Noordhuis) * unix: fix integer overflow in uv_hrtime (Tim Holy) * sunos: fix uv_cpu_info() on x86_64 (Ben Noordhuis) * tls: update default cipher list (Ben Noordhuis) * unix: Fix llvm and older gcc duplicate symbol warnings (Bert Belder) * fs: fix use after free in stat watcher (Ben Noordhuis) * build: Fix using manually compiled gcc on OS X (Nathan Rajlich) * windows: make junctions work again (Bert Belder)</small></li>
+</ul>
+
+
+<h2>CSS</h2>
+
+<ul>
+<li><strong><a href="http://css-tricks.com/css-target-for-off-screen-designs/">CSS :target for Off-Screen Designs | CSS-Tricks</a></strong>
+  <small>show and hide stuff with the :target selector</small></li>
+<li><strong><a href="http://thoughtbot.com/neat/">Bourbon Neat</a></strong>
+  <small>Neat is an open source fluid grid framework built on top of Sass and Bourbon using em units and golden ratios.</small></li>
+<li><strong><a href="http://lab.hakim.se/meny/">Meny - CSS 3D fold-in menu concept</a></strong>
+  <small>3d fold-in menu </small></li>
+</ul>
+
+
+<h2>HTML (5)</h2>
+
+<ul>
+<li><strong><a href="https://github.com/h5bp/html5-boilerplate/blob/v4.0.0/CHANGELOG.md">HTML5-Boilerplate v4.0.0</a></strong>
+  <small>see the full changlog</small></li>
+<li><strong><a href="http://aws.typepad.com/aws/2012/08/amazon-s3-cross-origin-resource-sharing.html">Amazon S3 - Cross Origin Resource Sharing Support</a></strong>
+  <small>This enables you to build frontends the interact directly with S3 without the need of a proxy server.</small></li>
+<li><strong><a href="http://www.netmagazine.com/tutorials/make-disaster-proof-html5-forms">Make disaster-proof HTML5 forms | Tutorial | .net magazine</a></strong>
+  <small>Shwetank Dixit of Opera Software explains how to use localStorage to save data offline so that what a user types into the form isn’t lost if disaster strikes </small></li>
+</ul>
+
+
+<h2>Web Development</h2>
+
+<ul>
+<li><strong><a href="http://f2em.com/">A Front End Engineer's Manifesto</a></strong>
+  <small>Read and agree or disagree....</small></li>
+</ul>
+
+
+<h2>Mobile Development</h2>
+
+<ul>
+<li><strong><a href="http://bitboxer.de/2012/09/01/in-wich-i-rant-about-developing-on-android/">In wich I rant about developing on Android | Bitboxer</a></strong>
+  <small>android vs. ios development</small></li>
+<li><strong><a href="https://github.com/clayallsopp/twittermotion">clayallsopp/twittermotion - TwitterMotion, a RubyMotion Wrapper</a></strong>
+  <small>not yet fully compatible</small></li>
+</ul>
+
+
+<h2>Ruby</h2>
+
+<ul>
+<li><strong><a href="http://blog.steveklabnik.com/posts/2012-09-01-random-ruby-tricks--struct-new">Random Ruby Tricks: Struct.new - Literate Programming</a></strong>
+  <small>some examples and explanations on Structs and OStructs</small></li>
+<li><strong><a href="https://github.com/c00lryguy/cacheable_attr">c00lryguy/cacheable_attr</a></strong>
+  <small>Allow any Ruby object's attributes to be cacheable</small></li>
+<li><strong><a href="http://manwithcode.com/222/programming-with-ruby-episode-17-getting-advanced/">Programming With Ruby Episode 17, Getting Advanced | Man With Code</a></strong>
+  <small>Covered In This Episode: Symbols, eval, Bindings, Running Other Programs, Safe Levels</small></li>
+<li><strong><a href="http://media.pragprog.com/titles/fr_quiz/1800.pdf">Best of Ruby Quiz - Volume One</a></strong>
+  <small>PragProg has compiled RubyQuiz into a PDF</small></li>
+<li><strong><a href="http://www.rojotek.com/blog/2012/09/04/writing-beautiful-rspec-matchers/">Writing Beautiful RSpec Matchers - Rob@Rojotek</a></strong>
+  <small>thoughtbot have created a really nice set of custom matchers for RSpec.  The Shoulda matchers make writing tests for rails models beautiful and clean.</small></li>
+<li><strong><a href="http://blog.headius.com/2012/09/avoiding-hash-lookups-in-ruby.html">Headius: Avoiding Hash Lookups in a Ruby Implementation</a></strong>
+  <small>Really interesting writeup by Charles Nutter on why hash tables are not the answer to every (optimization) question.. in fact, anything but!</small></li>
+<li><strong><a href="http://reverbhq.com/blog/2012/08/activeadmin-0-5-0-is-released/">Active Admin 0.5.0 has been released! | REVERB</a></strong>
+  <small>a long anticipated update has finaly come</small></li>
+<li><strong><a href="http://blog.hashrocket.com/posts/recursive-sql-in-activerecord">Using Recursive SQL with ActiveRecord trees - The Hashrocket Blog</a></strong>
+  <small>When you have an ActiveRecord tree structure, using the WITH syntax for recursive SQL can provide large performance boons, especially when a tree get several levels deep.</small></li>
+<li><strong><a href="http://jmettraux.github.com/2012-09-03-ruote-2.3.0.html">ruote 2.3.0 released</a></strong>
+  <small>new version of the ruby workflow engine</small></li>
+</ul>
+
+
+<h2>Python</h2>
+
+<ul>
+<li><strong><a href="http://myadventuresincoding.wordpress.com/2011/01/02/creating-a-rest-api-in-python-using-bottle-and-mongodb/">Creating a REST API in Python using Bottle and MongoDB</a></strong>
+  <small>REST API in python using bottle </small></li>
+</ul>
+
+
+<h2>Browsers</h2>
+
+<ul>
+<li><strong><a href="http://www.google.com/intl/en/chrome/timemachine/">Chrome Time Machine</a></strong>
+  <small>an interactive journey through Chrome's history</small></li>
+</ul>
+
+
+<h2>Shell</h2>
+
+<ul>
+<li><strong><a href="http://blog.lagentz.com/general/automate-your-shell-scripts-using-inotify-and-inotifywait/">Automate your shell scripts using inotifywait | La Gentz Blog</a></strong>
+  <small>... or the poor man's IFTTT</small></li>
+</ul>
+
+
+<h2>Linux</h2>
+
+<ul>
+<li><strong><a href="http://nicolargo.github.com/glances/">Glances by nicolargo</a></strong>
+  <small>Glances is a CLI curses based monitoring tool for GNU/Linux and BSD OS.</small></li>
+<li><strong><a href="http://www.catonmat.net/download/gnu-coreutils-cheat-sheet.pdf">GNU Core utils cheatsheet</a></strong>
+  <small>A cheatsheet for the most common tools</small></li>
+</ul>
+
+
+<h2>Programming</h2>
+
+<ul>
+<li><strong><a href="https://gist.github.com/2934374">Language Compare F#, Ocaml, Scala, Clojure, Ruby and Haskell - Simple AST example — Gist</a></strong>
+  <small>Interesting read, there should be more like this</small></li>
+<li><strong><a href="http://nikhilm.github.com/uvbook/">An Introduction to libuv</a></strong>
+  <small>The library behind node.js</small></li>
+</ul>
+
+
+<h2>Databases</h2>
+
+<ul>
+<li><strong><a href="https://gist.github.com/3619146">Don't use MongoDB</a></strong>
+  <small>an open letter with some very bad experiences </small></li>
+<li><strong><a href="http://news.ycombinator.com/item?id=3202959">Use MongoDB!</a></strong>
+  <small>a response to the "Don't use MongoDB" gist, from the CTO of 10gen</small></li>
+</ul>
+
+
+<h2>Git</h2>
+
+<ul>
+<li><strong><a href="http://daniel.hahler.de/deploying-a-website-using-git-via-ssh-remote">Deploying a website using Git via SSH remote</a></strong>
+  <small>simple deployment with post-recieve hook</small></li>
+</ul>
+
+
+<h2>Tools</h2>
+
+<ul>
+<li><strong><a href="https://github.com/malditogeek/astor-collector">malditogeek/astor-collector</a></strong>
+  <small>An alternative to StatsD/Graphite.</small></li>
+<li><strong><a href="https://github.com/malditogeek/astor-dashboard">malditogeek/astor-dashboard</a></strong>
+  <small>Real-time metric visualisation for Astor</small></li>
+</ul>
+
+
+<h2>Performance</h2>
+
+<ul>
+<li><strong><a href="https://github.com/blog/1252-how-we-keep-github-fast">How we keep GitHub fast</a></strong>
+  <small>The most important factor in web application design is responsiveness. And the first step toward responsiveness is speed. But speed within a web application is </small></li>
+</ul>
+
+
+<h2>Watching</h2>
+
+<ul>
+<li><strong><a href="https://www.usenix.org/conference/usenixsecurity12/feasibility-side-channel-attacks-brain-computer-interfaces">On the Feasibility of Side-Channel Attacks with Brain-Computer Interfaces | USENIX</a></strong>
+  <small>The security risks involved in using consumer-grade BCI devices have never been studied and the impact of malicious software with access to the device is unexplored.</small></li>
+<li><strong><a href="https://www.youtube.com/watch?v=Nj628ufciSc">Epic Linux Community Song Featuring Linus Torvalds - YouTube</a></strong>
+  <small>The community rallied together at LinuxCon and CloudOpen around song. Yes, a collaborative song, featuring Linus Torvalds, that shares at least one way we feel about the old way of building software.</small></li>
+<li><strong><a href="http://www.ted.com/talks/shyam_sankar_the_rise_of_human_computer_cooperation.html">Shyam Sankar: The rise of human-computer cooperation | Video on TED.com</a></strong>
+  <small>Human-Machine-Symbiosis, is it the future?</small></li>
+</ul>
+
+
+<h2>Reading</h2>
+
+<ul>
+<li><strong><a href="http://pragprog.com/magazines">PragProg Magazine Issue #39, September 2012 is out</a></strong>
+  <small>Topics: Thinking Functionally with Haskell, Tales from the Ops Side, US Visa: My First iPhone App Grab is in your favorite format</small></li>
+<li><strong><a href="http://www.golang-book.com/">An Introduction to Programming in Go</a></strong>
+  <small>read the online version</small></li>
+</ul>
+
+
+<h2>Miscellaneous</h2>
+
+<ul>
+<li><strong><a href="http://garysieling.com/blog/detecting-pitches-in-music-with-r">Detecting Pitches in music with R — Gary Sieling</a></strong>
+  <small>Just some lines of R suffice for this task</small></li>
+<li><strong><a href="https://gregmoreno.wordpress.com/2012/09/05/mining-twitter-data-with-ruby-mongodb-and-map-reduce/">Mining Twitter data with Ruby, MongoDB and Map-Reduce | Greg Moreno</a></strong>
+  <small>n is the best time to tweet? If you care about reaching a lot of users, the best time probably is when your followers are also tweeting. In this exercise,we will try to figure out the day and time users are the most active. Since there is no way for us to do this for all users in the twitterverse, we will only use the users we follow as our sample.</small></li>
+</ul>
+
+
+<h2>Markdown</h2>
+
+<ul>
+<li><strong><a href="http://heckyesmarkdown.com/">Heck Yes Markdown</a></strong>
+  <small>convert a webpage into markdown</small></li>
+</ul>
+
+
+<h2>Fun</h2>
+
+<ul>
+<li><strong><a href="http://royal.pingdom.com/2012/08/15/fun-and-unusual-http-response-headers/">Fun and unusual HTTP response headers</a></strong>
+  <small>I like "X-Powered-By: Bananas and Rum"</small></li>
+</ul>
+
+
+<h2>Your link could be here</h2>
+
+<p>If we missed something special or you just want to promote a site, give us a nudge @ <a href='&#109;&#97;&#105;&#108;t&#111;&#58;%7&#57;&#105;eld&#116;%68%65do%67&#64;gmail&#37;2&#69;c&#37;6&#70;m'>y&#105;eldt&#104;&#101;dog&#64;&#103;mail&#46;&#99;&#111;m</a></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Interesing Thingys 30]]></title>
@@ -739,87 +973,6 @@ Writing for hackers</li>
 <li><a href="http://www.impressivewebs.com/10-conference-videos-for-front-end-developers/">10 Conference Videos for Front-End Developers | Impressive Webs</a></li>
 <li><a href="http://www.youtube.com/watch?v=dsMCVMVTdn0">TED Talk - Michael Hansmeyer: Building unimaginable shapes</a></li>
 <li><a href="https://vimeo.com/44773888">Breaking Good Habits - Harry Roberts</a></li>
-</ul>
-
-
-<h2>Your link could be here</h2>
-
-<p>If we missed something special or you just want to promote a site, give us a nudge @ <a href='&#109;&#97;&#105;&#108;t&#111;&#58;%7&#57;&#105;eld&#116;%68%65do%67&#64;gmail&#37;2&#69;c&#37;6&#70;m'>y&#105;eldt&#104;&#101;dog&#64;&#103;mail&#46;&#99;&#111;m</a></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Interesing Thingys 26]]></title>
-    <link href="http://yieldthedog.github.com/blog/2012/08/03/interesting-thingys-26/"/>
-    <updated>2012-08-03T08:17:00+02:00</updated>
-    <id>http://yieldthedog.github.com/blog/2012/08/03/interesting-thingys-26</id>
-    <content type="html"><![CDATA[<p>This week a small list of links, it seem's to be holiday season…</p>
-
-<!-- More -->
-
-
-<h3>JavaScript</h3>
-
-<ul>
-<li><a href="http://tjholowaychuk.com/post/27984551477/components">Components - TJ Holowaychuk</a></li>
-<li><a href="https://github.com/WebReflection/polpetta">WebReflection/polpetta</a></li>
-<li><a href="http://pragmaticly.github.com/smart-time-ago/">smart-time-ago by pragmaticly</a></li>
-<li><a href="http://net.tutsplus.com/tutorials/javascript-ajax/10-reasons-why-your-projects-should-use-the-dojo-toolkit/">10 Reasons Why Your Projects Should Use the Dojo Toolkit | Nettuts+</a></li>
-</ul>
-
-
-<h3>CSS</h3>
-
-<ul>
-<li><a href="http://css3test.com/">The CSS3 Test</a></li>
-<li><a href="http://demosthenes.info/blog/547/Make-Your-Web-Pages-More-Legible-With-CSS3-Ligatures-and-Kerning-Pairs">demosthenes.info – Make Your Web Pages More Legible With CSS3 Ligatures and Kerning Pairs</a></li>
-<li><a href="http://tympanus.net/codrops/2012/07/20/3d-flipping-circle-with-css3-and-jquery/">3D Flipping Circle with CSS3 and jQuery | Codrops</a></li>
-</ul>
-
-
-<h3>HTML(5)</h3>
-
-<ul>
-<li><a href="http://joshondesign.com/2012/07/24/deepdivegithub">Canvas Deep Dive Source is Released</a></li>
-</ul>
-
-
-<h3>WebDevelopment</h3>
-
-<ul>
-<li><a href="http://www.sitepoint.com/the-basics-of-the-shadow-dom/">The Basics of the Shadow DOM</a></li>
-<li><a href="http://www.campaignmonitor.com/guides/mobile/">Responsive Email Design | Campaign Monitor</a></li>
-<li><a href="http://coderwall.com/p/u7kzua">Alyssa Pohahau : Inconsistent Color Palettes</a></li>
-</ul>
-
-
-<h3>Ruby</h3>
-
-<ul>
-<li><a href="http://tenderlovemaking.com/2012/07/30/is-it-live.html">Is it live? | Tenderlovemaking</a></li>
-<li><a href="http://schneems.com/post/28125445535/active-record-deep-dive">Schneems • Active Record Deep Dive</a></li>
-</ul>
-
-
-<h3>Databases</h3>
-
-<ul>
-<li><a href="http://engineering.spreecast.com/spreecast-redis-failover/">Spreecast &amp; Redis Failover | Spreecast</a></li>
-</ul>
-
-
-<h3>Browsers</h3>
-
-<ul>
-<li><a href="http://code.google.com/p/chromium/issues/detail?can=2&amp;start=0&amp;num=100&amp;q=&amp;colspec=ID%20Pri%20Mstone%20ReleaseBlock%20OS%20Area%20Feature%20Status%20Owner%20Summary&amp;groupby=&amp;sort=&amp;id=136320">Issue 136320 - chromium - HTTP DELETE request loaded from Cache - An open-source browser project to help move the web forward. - Google Project Hosting</a></li>
-</ul>
-
-
-<h3>Miscellaneous</h3>
-
-<ul>
-<li><a href="http://publicdomainreview.org/2012/06/30/france-in-the-year-2000-1899-1910/">France in the year 2000 | The Public Domain Review</a></li>
-<li><a href="http://the.codepoet.ch/what-you-should-know-about-solid/">What you should know about SOLID</a></li>
 </ul>
 
 
