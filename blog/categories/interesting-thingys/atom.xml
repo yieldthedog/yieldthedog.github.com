@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Interesting-Thingys | yield the dog]]></title>
   <link href="http://yieldthedog.github.com/blog/categories/interesting-thingys/atom.xml" rel="self"/>
   <link href="http://yieldthedog.github.com/"/>
-  <updated>2012-09-07T06:14:01+02:00</updated>
+  <updated>2012-09-14T10:26:30+02:00</updated>
   <id>http://yieldthedog.github.com/</id>
   <author>
     <name><![CDATA[yield the dog]]></name>
@@ -12,6 +12,210 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Interesting Thingys 32]]></title>
+    <link href="http://yieldthedog.github.com/blog/2012/09/14/interesting-thingys-32/"/>
+    <updated>2012-09-14T08:17:00+02:00</updated>
+    <id>http://yieldthedog.github.com/blog/2012/09/14/interesting-thingys-32</id>
+    <content type="html"><![CDATA[<p>This week's links feature again a wide variety of good reads and fabulous tools. Enjoy!</p>
+
+<!-- More -->
+
+
+<h2>JavaScript</h2>
+
+<ul>
+<li><strong><a href="https://github.com/fredwu/skinny-coffee-machine">fredwu/skinny-coffee-machine</a></strong>
+  <small>A simple state machine with observers.</small></li>
+<li><strong><a href="https://github.com/pufuwozu/bilby.js">pufuwozu/bilby.js</a></strong>
+  <small>Serious functional programming library for JavaScript. </small></li>
+<li><strong><a href="https://github.com/michaelficarra/CoffeeScriptRedux">michaelficarra/CoffeeScriptRedux</a></strong>
+  <small>rewrite of the CoffeeScript compiler with proper compiler design principles and a focus on robustness and extensibility</small></li>
+<li><strong><a href="http://tympanus.net/codrops/2012/09/03/bookblock-a-content-flip-plugin/">BookBlock: A Content Flip Plugin | Codrops</a></strong>
+  <small>A jQuery plugin that will create a booklet-like component that let's you navigate through its items by flipping the pages.</small></li>
+<li><strong><a href="https://github.com/davist11/jQuery-Stickem">davist11/jQuery-Stickem</a></strong>
+  <small>Make items sticky as you scroll, to a point.</small></li>
+<li><strong><a href="https://github.com/uxebu/bonsai">uxebu/bonsai</a></strong>
+  <small>BonsaiJS is a graphics library and renderer</small></li>
+</ul>
+
+
+<h2>CSS</h2>
+
+<ul>
+<li><strong><a href="https://speakerdeck.com/u/csswizardry/p/big-css">Big CSS // Speaker Deck</a></strong>
+  <small>Harry Roberts about writing BIG-Css files</small></li>
+<li><strong><a href="http://www.css3files.com/gradient/">gradient: All the CSS3 properties explained | css3files.com</a></strong>
+  <small>everything you wanted to know about gradients</small></li>
+<li><strong><a href="http://updates.html5rocks.com/2012/09/Stacking-Changes-Coming-to-position-fixed-elements">Stacking Changes Coming to position:fixed elements - HTML5Rocks Updates</a></strong>
+  <small>A recent spec change is going to slightly change the layout behavior of position:fixed elements.</small></li>
+<li><strong><a href="http://charliepark.org/css-only-sticky-headers/">CSS-Only Sticky Headers for Tables, Using ‘position: sticky’</a></strong>
+  <small>sticky table headers with just css, a dream from the past come true</small></li>
+<li><strong><a href="http://charliepark.org/css-only-sticky-headers/">CSS-Only Sticky Headers for Tables, Using ‘position: sticky’</a></strong>
+  <small>sticky table headers with just css, a dream from the past come true</small></li>
+</ul>
+
+
+<h2>HTML (5)</h2>
+
+<ul>
+<li><strong><a href="http://ericbidelman.tumblr.com/post/31140607367/mashups-using-cors-and-responsetype-document">Mashups using CORS and responseType='document' - Eric Bidelman</a></strong>
+  <small>XHR2 CORS == mashup</small></li>
+</ul>
+
+
+<h2>Web Development</h2>
+
+<ul>
+<li><strong><a href="http://yeoman.io/">Yeoman - Modern workflows for modern webapps</a></strong>
+  <small>Yeoman is a robust and opinionated set of tools, libraries, and a workflow that can help developers quickly build beautiful, compelling web apps.</small></li>
+<li><strong><a href="http://www.simpl.info/">simpl.info</a></strong>
+  <small>aims to provide the simplest possible examples of HTML, CSS and JavaScript.</small></li>
+<li><strong><a href="http://twitter.github.com/bower/">BOWER</a></strong>
+  <small>THE BROWSER PACKAGE MANAGER html, css, and javascript</small></li>
+<li><strong><a href="http://uxdesign.smashingmagazine.com/2012/09/11/sticky-menus-are-quicker-to-navigate/">Sticky Menus Are Quicker To Navigate | Smashing UX Design</a></strong>
+  <small>Usability study on sticky menus</small></li>
+<li><strong><a href="http://bradfrost.github.com/this-is-responsive/resources.html">Responsive Web Design Resources | This Is Responsive</a></strong>
+  <small>Your ultimate responsive Webdesign Starterkit</small></li>
+</ul>
+
+
+<h2>Mobile Development</h2>
+
+<ul>
+<li><strong><a href="https://github.com/square/seismic">square/seismic</a></strong>
+  <small>Android device shake detection. </small></li>
+<li><strong><a href="https://github.com/mattt/SkyLab">mattt/SkyLab</a></strong>
+  <small>Multivariate </small></li>
+<li><strong><a href="http://www.awwwards.com/creative-ui-design-examples-for-great-ux.html">Creative UI Design Examples for Great UX | Awwwards</a></strong>
+  <small>some great UI designs</small></li>
+<li><strong><a href="http://pragmaticstudio.com/screencasts/rubymotion">The Pragmatic Studio | RubyMotion Screencast</a></strong>
+  <small>PragProg has compiled a 50min screencast on RubyMotion</small></li>
+</ul>
+
+
+<h2>Ruby</h2>
+
+<ul>
+<li><strong><a href="http://chrismccord.github.com/labrador/">Labrador</a></strong>
+  <small>a web-based database client for your rails apps .. nicely integrated with pow </small></li>
+<li><strong><a href="http://www.rubyinside.com/the-end-of-monkeypatching-4570.html">The End of Monkeypatching</a></strong>
+  <small>Monkey-patching is so 2010. We're in the future, and with Github and Bundler there is now rarely a need to monkey-patch Ruby code in your applications.</small></li>
+<li><strong><a href="https://github.com/mattt/houston">mattt/houston</a></strong>
+  <small>Apple Push Notifications</small></li>
+<li><strong><a href="http://blog.daniellobato.me/2012/09/code-tuning-a-programming-pearl-in-ruby/">Code Tuning, a programming pearl in Ruby | Daniel Lobato</a></strong>
+  <small>optimizing a simple sequential search through an array</small></li>
+<li><strong><a href="http://greyblake.com/blog/2012/09/06/pg-power-activerecord-extension-for-postgresql/">pg_power - ActiveRecord extension for PostgreSQL - Sergey Potapov</a></strong>
+  <small>Use PostgresSQL schemas in your Rails project. Add comments to PostgreSQL database with Rails migrations. Use foreign keys (we imported foreigner functionality and made it schema aware). Use partial indexes. Add indexes concurrently.</small></li>
+<li><strong><a href="https://github.com/burke/zeus">burke/zeus</a></strong>
+  <small>Boot any rails app in under a second. </small></li>
+<li><strong><a href="http://blog.steveklabnik.com/posts/2012-09-09-random-ruby-tricks--class-new">Random Ruby Tricks: Class.new - Literate Programming</a></strong>
+  <small>If you didn't know, classes are first-class objects in Ruby:</small></li>
+</ul>
+
+
+<h2>Node.js</h2>
+
+<ul>
+<li><strong><a href="http://jamescarr.github.com/mongoosastic/">Mongoosastic</a></strong>
+  <small>Full text search for mongoose with elasticsearch</small></li>
+<li><strong><a href="http://blog.evantahler.com/production-deployment-with-node-js-clusters">» Production Deployment with node.js Clusters Bricolage</a></strong>
+  <small>Detailed article on how to deploy node with cluser support on production</small></li>
+<li><strong><a href="http://clock.co.uk/tech-blogs/upstart-and-nodejs">Upstart and Node.js by Iain Grant</a></strong>
+  <small>how to get node up and running with upstart</small></li>
+</ul>
+
+
+<h2>Browsers</h2>
+
+<ul>
+<li><strong><a href="http://trac.webkit.org/changeset/127864">Changeset 127864 – WebKit - SCSS support</a></strong>
+  <small>This change modifies the existing CSS highlighter to support SCSS as well. The "text/x-scss" mime-type is assigned to SASSSource.</small></li>
+<li><strong><a href="http://www.stevesouders.com/blog/2012/09/10/clearing-browser-data/">Clearing Browser Data | High Performance Web Sites</a></strong>
+  <small>a comprehensive writeup on browser caches</small></li>
+</ul>
+
+
+<h2>Shell</h2>
+
+<ul>
+<li><strong><a href="http://lists.freebsd.org/pipermail/freebsd-current/2010-August/019310.html">why GNU grep is fast</a></strong>
+  <small>the grep internals</small></li>
+<li><strong><a href="https://github.com/erikw/tmux-powerline">erikw/tmux-powerline</a></strong>
+  <small>Statusbar configuration for tmux that looks like vim-powerline and consist of dynamic segments.</small></li>
+<li><strong><a href="http://xiki.org/">Xiki</a></strong>
+  <small>A shell console with GUI features. Xiki does what shell consoles do, but lets you edit everything at any time. It's trivial to make your own commands and menus to access other tools.</small></li>
+</ul>
+
+
+<h2>Audio</h2>
+
+<ul>
+<li><strong><a href="http://www.xiph.org/press/2012/rfc-6716/">September 11, 2012: Opus audio codec is now RFC6716, Opus 1.0.1 reference source released</a></strong>
+  <small>IETF standardizes the Opus audio codec as RFC 6716 Opus reference implementation 1.0.1 released</small></li>
+</ul>
+
+
+<h2>Programming</h2>
+
+<ul>
+<li><strong><a href="https://www.facebook.com/notes/kent-beck/naming-from-the-outside-in/464270190272517">Naming From the Outside In - Kent Beck</a></strong>
+  <small>Name methods from the caller's perspective</small></li>
+</ul>
+
+
+<h2>Databases</h2>
+
+<ul>
+<li><strong><a href="https://github.com/TylerBrock/mongo-hacker">TylerBrock/mongo-hacker</a></strong>
+  <small>MongoDB Shell Enhancements for Hackers</small></li>
+<li><strong><a href="http://petrohi.me/post/30848036722/scaling-out-postgres-partitioning">Scaling out Postgres, Part 1: Partitioning</a></strong>
+  <small>detailed article on how to partition PostGresql</small></li>
+<li><strong><a href="http://petrohi.me/post/31406330720/scaling-out-postgres-routing">Scaling out Postgres, Part 2: Routing</a></strong>
+  <small>Part 2 describes the way to store and retrieve date in a shared environment</small></li>
+</ul>
+
+
+<h2>Editors</h2>
+
+<ul>
+<li><strong><a href="http://www.vimninjas.com/2012/09/12/switch/">Code substitution done right - Switch.vim - Vim plugins, tips, tricks and tutorials</a></strong>
+  <small>Switch.vim by Andrew Radev is a highly customizable plugin that will help you do substitutions faster than ever.</small></li>
+<li><strong><a href="https://github.com/sergeche/emmet-sublime">sergeche/emmet-sublime</a></strong>
+  <small>A work-in-progress official plugin for Sublime Text 2 with upcoming Emmet toolkit, previously called Zen Coding. This plugin will eventually replace current plugin: https://github.com/sublimator/ZenCoding</small></li>
+</ul>
+
+
+<h2>Tools</h2>
+
+<ul>
+<li><strong><a href="http://www.cheatsheetapp.com/CheatSheet/">Mac OSX Shortcut CheatSheet</a></strong>
+  <small>Just hold the ⌘-Key a bit longer to get a list of all active short cuts of the current application.</small></li>
+</ul>
+
+
+<h2>Watching</h2>
+
+<ul>
+<li><strong><a href="http://www.youtube.com/channel/UCP9g4dLR7xt6KzCYntNqYcw">Malcolm Wallace - Functional Programming</a></strong>
+  <small>Functional Programming talks at conferences such as ICFP.</small></li>
+</ul>
+
+
+<h2>Miscellaneous</h2>
+
+<ul>
+<li><strong><a href="http://www.ownedcore.com/forums/world-of-warcraft/world-of-warcraft-general/375573-looking-inside-your-screenshots.html">OwnedCore - World of Warcraft Exploits, Hacks, Bots and Guides</a></strong>
+  <small>Looking inside your screenshots</small></li>
+</ul>
+
+
+<h2>Your link could be here</h2>
+
+<p>If we missed something special or you just want to promote a site, give us a nudge @ <a href='&#109;&#97;&#105;&#108;t&#111;&#58;%7&#57;&#105;eld&#116;%68%65do%67&#64;gmail&#37;2&#69;c&#37;6&#70;m'>y&#105;eldt&#104;&#101;dog&#64;&#103;mail&#46;&#99;&#111;m</a></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Interesing Thingys 31]]></title>
@@ -793,186 +997,6 @@ WebGL visualization of small arms and amunition trade</li>
 
 <ul>
 <li><a href="https://bugzilla.mozilla.org/show_bug.cgi?id=765645">765645 – Millions of web pages use the -moz-opacity:0.7 tag and in javascript. It&#39;s broken now since FF 13.01. Please can you &quot;alias&quot; it back into your main browser code. Thanks.</a></li>
-</ul>
-
-
-<h2>Your link could be here</h2>
-
-<p>If we missed something special or you just want to promote a site, give us a nudge @ <a href='&#109;&#97;&#105;&#108;t&#111;&#58;%7&#57;&#105;eld&#116;%68%65do%67&#64;gmail&#37;2&#69;c&#37;6&#70;m'>y&#105;eldt&#104;&#101;dog&#64;&#103;mail&#46;&#99;&#111;m</a></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Interesing Thingys 27]]></title>
-    <link href="http://yieldthedog.github.com/blog/2012/08/10/interesting-thingys-27/"/>
-    <updated>2012-08-10T00:00:00+02:00</updated>
-    <id>http://yieldthedog.github.com/blog/2012/08/10/interesting-thingys-27</id>
-    <content type="html"><![CDATA[<p>What a week! Here comes a massive link bomb, <em>behold</em>!</p>
-
-<!-- More -->
-
-
-<h3>JavaScript</h3>
-
-<ul>
-<li><a href="http://crossrider.com/">Build Cross Browser Extensions with JavaScript &amp; jQuery - Crossrider.com</a></li>
-<li><a href="https://plus.google.com/104437754419996754779/posts/MnGwHkYr8Vj">Mike West - Google+ - An experimental Content Security Policy feature detection…</a></li>
-<li><a href="http://blog.carbonfive.com/2012/07/25/asynchronous-javascript-testing-in-jasmine-mocha-and-vows/">Asynchronous JavaScript Testing in Jasmine, Mocha, and Vows | The Carbon Emitter</a></li>
-<li><a href="http://www.nczonline.net/blog/2012/08/01/a-critical-review-of-ecmascript-6-quasi-literals/">A critical review of ECMAScript 6 quasi-literals | NCZOnline</a></li>
-<li><a href="http://blog.stevensanderson.com/2012/08/01/rich-javascript-applications-the-seven-frameworks-throne-of-js-2012/">Rich JavaScript Applications – the Seven Frameworks (Throne of JS, 2012) - Steve Sanderson’s blog - As seen on YouTube™</a></li>
-<li><a href="http://www.sencha.com/blog/automating-unit-tests/">Automating Unit Tests | Blog | Sencha</a></li>
-<li><a href="http://jquerygeo.com/">jQuery Geo - JavaScript mapping API</a></li>
-<li><a href="http://blog.caustik.com/2012/04/08/scaling-node-js-to-100k-concurrent-connections/">Scaling node.js to 100k concurrent connections! | caustik&#39;s blog</a></li>
-<li><a href="http://www.justgage.com/">justGage.com - JustGage is a handy JavaScript plugin for generating and animating nice &amp; clean gauges.</a></li>
-<li><a href="http://google-opensource.blogspot.de/2012/08/leak-finder-new-tool-for-javascript.html">Leak Finder: a new tool for JavaScript - Google Open Source Blog</a></li>
-<li><a href="http://weblog.bocoup.com/getting-bitwise-with-javascript/">Getting Bitwise with JavaScript - Bocoup</a></li>
-<li><a href="http://viget.com/inspire/managing-javascript-on-responsive-websites">Managing JavaScript on Responsive Websites | Viget</a></li>
-</ul>
-
-
-<h4>Libraries &amp;&amp; Tools</h4>
-
-<ul>
-<li><a href="http://jamjs.org/">Jam - The JavaScript package manager</a></li>
-<li><a href="http://jquerymobile.com/blog/2012/08/01/announcing-jquery-mobile-1-2-0-alpha/">Announcing jQuery Mobile 1.2.0 Alpha | jQuery Mobile</a></li>
-<li><a href="http://briantford.com/blog/angular-d3.html">Using the D3.js Visualization Library with AngularJS</a></li>
-<li><a href="http://www.meteor.com/blog/2012/08/08/search-engine-optimization">Meteor 0.3.9 - Search engine optimization</a></li>
-<li><a href="http://emberjs.com/blog/2012/08/03/ember-1-0-prerelease/">Ember.js - Ember 1.0 Prerelease</a></li>
-<li><a href="https://github.com/swank-js/swank-js">swank-js/swank-js</a><br/>
-swank-js provides SLIME REPL and other development tools</li>
-<li><a href="https://github.com/lipka/piecon">lipka/piecon</a>
- tiny javascript library for generating progress pie charts in your favicon</li>
-</ul>
-
-
-<h3>CSS</h3>
-
-<ul>
-<li><a href="https://github.com/redroot/holmes">redroot/holmes</a></li>
-<li><a href="http://css-tricks.com/poll-results-how-do-you-order-your-css-properties/">Poll Results: How do you order your CSS properties? | CSS-Tricks</a></li>
-<li><a href="http://csscomb.com/">Greatest tool for sorting CSS properties in specific order</a></li>
-<li><a href="http://demosthenes.info/blog/532/Convert-Images-To-Black-And-White-With-CSS">demosthenes.info – Convert Images To Black And White With CSS</a></li>
-</ul>
-
-
-<h3>HTML(5)</h3>
-
-<ul>
-<li><a href="http://updates.html5rocks.com/2012/07/Drag-and-drop-a-folder-onto-Chrome-now-available">Drag and drop a folder onto Chrome now available - HTML5Rocks Updates</a></li>
-<li><a href="http://www.html5rocks.com/en/tutorials/webgl/globe/">Making of the World Wonders 3D Globe - HTML5 Rocks</a></li>
-<li><a href="http://www.netmagazine.com/features/five-things-you-didnt-know-web-could-do">Five things you didn&#39;t know the web could do | Feature | .net magazine</a></li>
-<li><a href="http://supertux.diporg.com/">Supertux Web Preview - HTML5 port</a></li>
-<li><a href="http://updates.html5rocks.com/2012/08/Quick-FAQs-on-input-type-date-in-Google-Chrome">Quick FAQs on input[type=date] in Google Chrome - HTML5Rocks Updates</a></li>
-<li><a href="http://lab.hakim.se/radar/">Radar - An audio-visual HTML experiment</a></li>
-</ul>
-
-
-<h3>Mobile</h3>
-
-<ul>
-<li><a href="http://www.markus-falk.com/mobile-frameworks-comparison-chart/">Mobile Frameworks Comparison Chart</a></li>
-</ul>
-
-
-<h3>WebDevelopment</h3>
-
-<ul>
-<li><a href="https://github.com/ZeitOnline/briefkasten">ZeitOnline/briefkasten</a><br/>
-a reasonably secure web application for submitting content anonymously</li>
-<li><a href="http://www.stumbleupon.com/su/6MgwBK/responsify.it/">Responsify.it - A responsive template generator - StumbleUpon</a></li>
-<li><a href="http://designshack.net/articles/accessibility/should-we-kill-the-captcha/">Should We Kill the CAPTCHA? | Design Shack</a></li>
-<li><a href="http://karthikv.github.com/nodefront/">Nodefront by karthikv</a></li>
-</ul>
-
-
-<h3>Ruby</h3>
-
-<ul>
-<li><a href="http://blog.phusion.nl/2012/08/03/why-rails-4-live-streaming-is-a-big-deal/#.UCOsahXZNko">Why Rails 4 Live Streaming is a big deal – Phusion Corporate Blog</a></li>
-<li><a href="http://metaskills.net/2012/08/07/synchronized-times-in-ruby-and-javascript-acceptance-tests-using-capybara-timecop-and-sinon.js/">Synchronized Times In Ruby &amp; JavaScript Acceptance Tests Using Capybara, Timecop &amp; Sinon.JS @MetaSkills.net</a></li>
-</ul>
-
-
-<h3>Clojure</h3>
-
-<ul>
-<li><a href="https://gist.github.com/3217582">sudoku_compact.clj — Gist - Sudoku solver in33 lines of Clojure</a></li>
-</ul>
-
-
-<h3>Databases</h3>
-
-<ul>
-<li><a href="http://dev.mysql.com/doc/refman/5.6/en/news-5-6-6.html">Memcached in Mysql 5.6 -MySQL :: MySQL 5.6 Reference Manual :: D.1.1 Changes in MySQL 5.6.6 (Not yet released, Milestone 9)</a></li>
-</ul>
-
-
-<h3>Browsers</h3>
-
-<ul>
-<li><a href="https://sites.google.com/a/chromium.org/dev/developers/web-platform-status">Web Platform Status (chromestatus.com) - The Chromium Projects</a></li>
-</ul>
-
-
-<h3>Editors</h3>
-
-<ul>
-<li><a href="http://code.google.com/p/vimwiki/">vimwiki - Personal Wiki for Vim - Google Project Hosting</a></li>
-<li><a href="http://www.reddit.com/r/vim/comments/xpm2f/a_mapping_to_ease_the_editcompileedit_workflow/">A mapping to ease the edit/compile/edit workflow : vim</a></li>
-<li><a href="https://github.com/textmate/textmate">textmate/textmate - is open source now</a></li>
-<li><a href="http://ecukes.info/">Ecukes - Ecukes is a testing tool for Emacs based on Cucumber.</a></li>
-</ul>
-
-
-<h3>Productivity</h3>
-
-<ul>
-<li><a href="http://ss64.com/osx/syntax-bashkeyboard.html">bash terminal Keyboard shortcuts</a></li>
-</ul>
-
-
-<h3>Miscellaneous</h3>
-
-<ul>
-<li><a href="https://plus.google.com/101960720994009339267/posts/R58WgWwN9jp">Rob Pike - Google+ - A lesson in shortcuts. Long ago, as the design of the Unix…</a><br/>
-Rob explains the origin of dot files</li>
-<li><a href="http://ianstormtaylor.com/design-tip-never-use-black/">Design Tip: Never Use Black by Ian Storm Taylor</a></li>
-<li><a href="http://blog.ircmaxell.com/2012/08/reinvent-wheel.html">ircmaxell&#39;s blog: Reinvent The Wheel!</a></li>
-<li><a href="http://halide-lang.org/">Halide</a></li>
-</ul>
-
-
-<h3>Security</h3>
-
-<ul>
-<li><a href="http://www.troyhunt.com/2012/07/lessons-in-website-security-anti.html">Troy Hunt: Lessons in website security anti-patterns by Tesco</a></li>
-</ul>
-
-
-<h3>SPDY</h3>
-
-<ul>
-<li><a href="http://cto.kaazing.com/2012/08/06/speedy-and-websockets-3/">SPDY and WebSockets | The CTO&#39;s Blog</a></li>
-<li><a href="http://blog.bugsnag.com/2012/08/05/spdy-on-rails/">SPDY on Rails - Bugsnag Blog</a></li>
-</ul>
-
-
-<h3>Hacking</h3>
-
-<ul>
-<li><a href="http://gist.io/">gist.io</a><br/>
-Writing for hackers</li>
-<li><a href="http://stevehanov.ca/blog/index.php?id=133">Give your Commodore 64 new life with an SD card reader - Steve Hanov&#39;s Programming Blog</a></li>
-<li><a href="http://www.p01.org/releases/MATRAKA/matraka.png.html">Self Extracting Png » Checkout the source.</a></li>
-</ul>
-
-
-<h3>Watching</h3>
-
-<ul>
-<li><a href="http://www.impressivewebs.com/10-conference-videos-for-front-end-developers/">10 Conference Videos for Front-End Developers | Impressive Webs</a></li>
-<li><a href="http://www.youtube.com/watch?v=dsMCVMVTdn0">TED Talk - Michael Hansmeyer: Building unimaginable shapes</a></li>
-<li><a href="https://vimeo.com/44773888">Breaking Good Habits - Harry Roberts</a></li>
 </ul>
 
 
