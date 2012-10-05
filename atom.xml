@@ -4,7 +4,7 @@
   <title><![CDATA[yield the dog]]></title>
   <link href="http://yieldthedog.github.com/atom.xml" rel="self"/>
   <link href="http://yieldthedog.github.com/"/>
-  <updated>2012-09-14T10:26:30+02:00</updated>
+  <updated>2012-10-05T06:17:21+02:00</updated>
   <id>http://yieldthedog.github.com/</id>
   <author>
     <name><![CDATA[yield the dog]]></name>
@@ -12,6 +12,492 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Interesting Thingys 35]]></title>
+    <link href="http://yieldthedog.github.com/blog/2012/10/05/interesting-thingys-35/"/>
+    <updated>2012-10-05T08:17:00+02:00</updated>
+    <id>http://yieldthedog.github.com/blog/2012/10/05/interesting-thingys-35</id>
+    <content type="html"><![CDATA[<p>Another round of Interesting Thingys. This week&#8217;s new releases: rvn, underscorejs, inuit.css and Microsoft&#8217;s TypeScript.</p>
+
+<!-- More -->
+
+
+<h2>JavaScript</h2>
+
+<ul>
+<li><strong><a href="http://benalman.com/news/2012/09/partial-application-in-javascript/">Ben Alman » Partial Application in JavaScript</a></strong>
+  <small>Introduction to some functional programming concepts in JavaScirpt</small></li>
+<li><strong><a href="http://underscorejs.org/#changelog">Underscore.js</a></strong>
+  <small>Version 1.4.0 with tons of new features</small></li>
+</ul>
+
+
+<h2>CSS</h2>
+
+<ul>
+<li><strong><a href="https://github.com/necolas/suit-utils">necolas/suit-utils · GitHub</a></strong>
+  <small>Utility classes for common, reusable, low-level CSS traits</small></li>
+<li><strong><a href="http://csscomb.com/">The Greatest tool for sorting CSS properties in specific order</a></strong>
+  <small>sort css properties with support for various editors</small></li>
+<li><strong><a href="https://github.com/csswizardry/inuit.css">csswizardry/inuit.css</a></strong>
+  <small>Version 4.0 is out, now based on Sass</small></li>
+<li><strong><a href="http://alteredqualia.com/css-shaders/article/">Getting started with CSS custom filters (CSS shaders)</a></strong>
+  <small>CSS custom filters (formerly known as CSS shaders) are a new browser feature for applying user-created visual effects to elements of HTML document.</small></li>
+</ul>
+
+
+<h2>HTML (5)</h2>
+
+<ul>
+<li><strong><a href="http://www.hongkiat.com/blog/html5-loginpage/">HTML5 Tutorial: Login Page with HTML5 Forms</a></strong>
+  <small>shows which attributes can help to provide a solid login from</small></li>
+<li><strong><a href="http://caniuse.com/feed/136">CanIUse: Data contributions via GitHub</a></strong>
+  <small>Just make a puill request</small></li>
+</ul>
+
+
+<h2>Web Development</h2>
+
+<ul>
+<li><strong><a href="http://blogs.msdn.com/b/somasegar/archive/2012/10/01/typescript-javascript-development-at-application-scale.aspx">TypeScript: JavaScript Development at Application Scale - Somasegar&#8217;s blog - Site Home - MSDN Blogs</a></strong>
+  <small>MS introduces new language for the web</small></li>
+<li><strong><a href="http://pagespeed-velocity2011.appspot.com/#1">Web Site Acceleration with Page Speed Technologies</a></strong>
+  <small>combining scripts to one file does not seem to be the fastest solution</small></li>
+</ul>
+
+
+<h2>Mobile Development</h2>
+
+<ul>
+<li><strong><a href="https://github.com/mattt/shenzhen">mattt/shenzhen</a></strong>
+  <small>CLI for Building </small></li>
+<li><strong><a href="https://plus.google.com/u/0/115133653231679625609/posts/Px3bQdQ2HDu">Addy Osmani - Google - The Current State Of Remote Debugging For Mobile Remote…</a></strong>
+  <small>Addy lists some tools that help debugging mobile web apps</small></li>
+<li><strong><a href="http://cantina.co/2012/03/06/ios-5-native-scrolling-grins-and-gothcas/">iOS 5 Native Scrolling–Grins</a></strong>
+  <small>on -webkit-overflow-scrolling: touch and it&#8217;s friends</small></li>
+<li><strong><a href="https://github.com/ole/RemoteViewControllers">ole/RemoteViewControllers</a></strong>
+  <small>Introspection of the private and undocumented remote view controllers feature in iOS 6</small></li>
+</ul>
+
+
+<h2>Ruby</h2>
+
+<ul>
+<li><strong><a href="https://github.com/steveklabnik/turbolinks_test">steveklabnik/turbolinks_test</a></strong>
+  <small>Testing the turbolinks implementation</small></li>
+<li><strong><a href="http://www.engineyard.com/blog/2012/rvm-1-16/">RVM 1.16 - Engine Yard Blog | Engine Yard Blog</a></strong>
+  <small>The most exciting new addition is binary ruby installs. Precompiled on RVM&#8217;s servers</small></li>
+<li><strong><a href="http://blog.carbonfive.com/2012/10/02/enumerator-rubys-versatile-iterator/">Enumerator: Ruby’s Versatile Iterator | The Carbon Emitter</a></strong>
+  <small>A walkthrough of Ruby&#8217;s Enumerator</small></li>
+</ul>
+
+
+<h2>Node.js</h2>
+
+<ul>
+<li><strong><a href="https://github.com/dshaw/replify">dshaw/replify</a></strong>
+  <small>Easily add a REPL to your Node.js app</small></li>
+<li><strong><a href="https://github.com/cthackers/adm-zip">cthackers/adm-zip</a></strong>
+  <small>A Javascript implementation of zip for nodejs. Allows user to create or extract zip files both in memory or to/from disk </small></li>
+<li><strong><a href="https://github.com/substack/comandante">substack/comandante</a></strong>
+  <small>Spawn commands returning a duplex stream. Emit stderr when the command exits with a non-zero code. </small></li>
+<li><strong><a href="https://github.com/isaacs/readable-stream">isaacs/readable-stream</a></strong>
+  <small>Take a sneak peek into Node.js&#8217;s readable streams</small></li>
+</ul>
+
+
+<h2>Programming</h2>
+
+<ul>
+<li><strong><a href="http://programmers.stackexchange.com/questions/103659/how-can-one-manage-thousands-of-if-then-else-rules">design - How can one manage thousands of IF&#8230;THEN&#8230;ELSE rules? - Programmers</a></strong>
+  <small>With some interesting answers</small></li>
+</ul>
+
+
+<h2>Tools</h2>
+
+<ul>
+<li><strong><a href="http://ascii.io/">Share Your Terminal With No Fuss - ascii.io</a></strong>
+  <small>record your terminal and share it on ascii.io</small></li>
+</ul>
+
+
+<h2>Watching</h2>
+
+<ul>
+<li><strong><a href="http://vimeo.com/49484333">Readable code - and the long lost secret of how to achieve it on Vimeo</a></strong>
+  <small>Self explaining method names, fluent interfaces, DSLs, helpful frameworks&#8230; We are always looking for ways to make our code more readable. But in our quest, we seem to have forgotten something. The most effective way to make any code more readable. I wish to demonstrate this long lost secret.</small></li>
+<li><strong><a href="http://www.youtube.com/user/lxjs2012">lxjs2012</a></strong>
+  <small>all videos from Lisbon Javascript 2012</small></li>
+<li><strong><a href="http://www.youtube.com/watch?v=R-BX4N8egEc">Harry Roberts &#8211; Big CSS - YouTube</a></strong>
+  <small>Big CSS talk given at Canvas Conf</small></li>
+<li><strong><a href="http://channel9.msdn.com/posts/Anders-Hejlsberg-Introducing-TypeScript">Anders Hejlsberg: Introducing TypeScript | Channel 9</a></strong>
+  <small>Nice talk and overview of TypeScript by Anders Hejlsberg</small></li>
+<li><strong><a href="http://vimeo.com/47682405">RTCWeb Explained on Vimeo</a></strong>
+  <small>The video explains a bit about what is going on at IETF and W3C around standardization of interactive voice, video, and data in web browsers.</small></li>
+</ul>
+
+
+<h2>Listening</h2>
+
+<ul>
+<li><strong><a href="http://thisdeveloperslife.com/post/2-0-9-drama">This Developer&#8217;s Life - 2.0.9 Drama</a></strong>
+  <small>Where does drama come from? How do we react to it? How much drama can be created by simple semicolon? This week we explore The Great Semicolon Affair. </small></li>
+</ul>
+
+
+<h2>Reading</h2>
+
+<ul>
+<li><strong><a href="http://rainypixels.com/words/the-story-of-the-new-microsoft-com/">The Story of the New Microsoft.com</a></strong>
+  <small>Some words about the new and responsive Microsoft.com Homepage</small></li>
+<li><strong><a href="http://lifelibertytech.com/2012/10/02/the-lost-steve-jobs-speech-from-1983-foreshadowing-wireless-networking-the-ipad-and-the-app-store/">The “Lost” Steve Jobs Speech from 1983</a></strong>
+  <small>Great speech from Steve Jobs foreshadowing Wireless Networking, the iPad, and the App Store.</small></li>
+</ul>
+
+
+<h2>Miscellaneous</h2>
+
+<ul>
+<li><strong><a href="https://github.com/blog/1264-introducing-the-command-bar">Introducing the Command Bar</a></strong>
+  <small>A new way to interact with Github</small></li>
+</ul>
+
+
+<h2>Fun</h2>
+
+<ul>
+<li><strong><a href="http://stackoverflow.com/questions/12675147/xkcd-style-graphs-in-r?newsletter=1">ggplot2 - xkcd style graphs in R - Stack Overflow</a></strong>
+  <small>folk have figured out how to make xkcd style graphs in mathematica and LaTeX. Can we do it in R? Ggplot2-ers? A geom_xkcd and/or theme_xkcd?</small></li>
+</ul>
+
+
+<h2>Your link could be here</h2>
+
+<p>If we missed something special or you just want to promote a site, give us a nudge @ <a href='&#109;&#97;&#105;&#108;t&#111;&#58;%7&#57;&#105;eld&#116;%68%65do%67&#64;gmail&#37;2&#69;c&#37;6&#70;m'>y&#105;eldt&#104;&#101;dog&#64;&#103;mail&#46;&#99;&#111;m</a></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Interesting Thingys 34]]></title>
+    <link href="http://yieldthedog.github.com/blog/2012/09/28/interesting-thingys-34/"/>
+    <updated>2012-09-28T08:17:00+02:00</updated>
+    <id>http://yieldthedog.github.com/blog/2012/09/28/interesting-thingys-34</id>
+    <content type="html"><![CDATA[<p>And another issue of Interesting Thingys…</p>
+
+<!-- More -->
+
+
+<h2>JavaScript</h2>
+
+<ul>
+<li><strong><a href="http://markdalgleish.com/2012/09/test-driven-node-js-development-with-grunt/">Test-Driven Node.js Development with Grunt - Mark Dalgleish</a></strong>
+  <small>describes how to set up a node project with Grunt and use it to test your app</small></li>
+<li><strong><a href="https://github.com/angular/angularjs-batarang">angular/angularjs-batarang</a></strong>
+  <small>ChromeExtension to debug AngularJS apps</small></li>
+<li><strong><a href="http://www.nczonline.net/blog/2012/09/25/ecmascript-6-collections-part-1-sets/">ECMAScript 6 collections, Part 1: Sets | NCZOnline</a></strong>
+  <small>nice walkthrough of JavaScript&#8217;s sets</small></li>
+<li><strong><a href="http://lucumr.pocoo.org/2012/9/24/websockets-101/">Websockets 101 | Armin Ronacher&#8217;s Thoughts and Writings</a></strong>
+  <small>Interested in the internals of websockets?</small></li>
+<li><strong><a href="https://github.com/appjs/appjs">appjs/appjs</a></strong>
+  <small>AppJS is a sort of SDK to develop desktop applications using Node.js melded with Chromium.</small></li>
+<li><strong><a href="https://github.com/awgreenblatt/reveal-shaders">awgreenblatt/reveal-shaders</a></strong>
+  <small>Reveal.js presentation using CSS Shaders for transitions</small></li>
+<li><strong><a href="https://github.com/cujojs/when">cujojs/when</a></strong>
+  <small>tiny Promise library that works in the browser and node.js </small></li>
+</ul>
+
+
+<h2>CSS</h2>
+
+<ul>
+<li><strong><a href="http://css-tricks.com/old-flexbox-and-new-flexbox/">&#8220;Old&#8221; Flexbox and &#8220;New&#8221; Flexbox | CSS-Tricks</a></strong>
+  <small>Solves some of the confusion</small></li>
+<li><strong><a href="https://github.com/clearleft/clearless">clearleft/clearless</a></strong>
+  <small>A collection of reusable LESS mixins</small></li>
+</ul>
+
+
+<h2>HTML (5)</h2>
+
+<ul>
+<li><strong><a href="http://www.aaronlumsden.com/articles/7-html5-features-that-you-may-not-know-about/">7 HTML5 features that you may not know about Aaron Lumsden | Aaronlumsden.com</a></strong>
+  <small>Link prefetching, download, hidden, output, &#8230;</small></li>
+</ul>
+
+
+<h2>Web Development</h2>
+
+<ul>
+<li><strong><a href="https://github.com/peric/GetCountries">peric/GetCountries</a></strong>
+  <small>This script will generate MySQL &#8220;Countries&#8221; table depending on what fields you select. All data is fetched from geonames.org</small></li>
+<li><strong><a href="http://www.adobe.com/devnet/edge-inspect/articles/browser-testing-across-devices-with-adobe-edge-inspect.html">Browser testing across devices with Adobe Edge Inspect | Adobe Developer Connection</a></strong>
+  <small>Introduction to Adobe Edge&#8217;s capabilities to test accross browsers</small></li>
+<li><strong><a href="http://worrydream.com/LearnableProgramming/">Learnable Programming - Bret Victor</a></strong>
+  <small>A very, veeeeery long article that builds on the concepts shown in &#8216;Inventing on principle&#8217;</small></li>
+<li><strong><a href="https://github.com/cubiq/infiniwall">cubiq/infiniwall</a></strong>
+  <small>Infinite, loopable, lazy loaded, 360° scroller for desktop and mobile</small></li>
+</ul>
+
+
+<h2>Mobile Development</h2>
+
+<ul>
+<li><strong><a href="https://github.com/simonmaddox/GoogleTransit-iOS6">simonmaddox/GoogleTransit-iOS6</a></strong>
+  <small>Use Google Maps for Mobile&#8217;s Transit Directions in iOS6&#8217;s Maps.app</small></li>
+<li><strong><a href="http://blog.rubymotion.com/post/31917526853/rubymotion-gets-ios-6-iphone-5-debugger">RubyMotion gets iOS 6, iPhone 5, debugger - RubyMotion Blog</a></strong>
+  <small>A big update on RubyMotion.</small></li>
+<li><strong><a href="http://stackoverflow.com/questions/12506897/is-ios6-safari-caching-ajax-results">Is iOS6 Safari caching $.ajax results? - Stack Overflow</a></strong>
+  <small>Good to know</small></li>
+</ul>
+
+
+<h2>Ruby</h2>
+
+<ul>
+<li><strong><a href="http://code.google.com/p/ruby-security/wiki/Guide">Guide - ruby-security - Ruby Security Reviewer&#8217;s Guide - Ruby: Security Reviewer&#8217;s Guide - Google Project Hosting</a></strong>
+  <small>A Google Ruby Security guide…</small></li>
+<li><strong><a href="https://github.com/mattt/rack-smart-app-banner">mattt/rack-smart-app-banner</a></strong>
+  <small>Rack middleware to automatically include code for Smart App Banner, introduced in iOS 6</small></li>
+<li><strong><a href="http://po-ru.com/diary/rubys-magic-underscore/">po-ru.com: Ruby’s magic underscore</a></strong>
+  <small>use _ to hide unused variables</small></li>
+<li><strong><a href="https://github.com/rails/turbolinks">rails/turbolinks</a></strong>
+  <small>Turbolinks makes following links in your web application faster (use with Rails Asset Pipeline) </small></li>
+</ul>
+
+
+<h2>Node.js</h2>
+
+<ul>
+<li><strong><a href="https://github.com/indutny/node-spdy">indutny/node-spdy</a></strong>
+  <small>now works with express sessions</small></li>
+<li><strong><a href="http://deployd.com/">Deployd</a></strong>
+  <small>Deployd is a platform that makes building complex backends simple.</small></li>
+<li><strong><a href="http://dailyjs.com/2012/09/13/express-3-csrf-tutorial/">DailyJS: Express 3 Tutorial: Contact Forms with CSRF</a></strong>
+  <small>practical introduction to writing Express 3 applications complete with CSRF protection</small></li>
+</ul>
+
+
+<h2>Clojure</h2>
+
+<ul>
+<li><strong><a href="https://github.com/cgrand/utils">cgrand/utils</a></strong>
+  <small>useful functions and extensible macros</small></li>
+</ul>
+
+
+<h2>Browsers</h2>
+
+<ul>
+<li><strong><a href="http://dvcs.w3.org/hg/speech-api/raw-file/tip/speechapi.html">Speech JavaScript API Specification - now available in Chrome</a></strong>
+  <small>The Speech JS API is now available in Chrome Dev in about:flags</small></li>
+</ul>
+
+
+<h2>Databases</h2>
+
+<ul>
+<li><strong><a href="https://github.com/jmikola/mongoqp">jmikola/mongoqp · GitHub</a></strong>
+  <small>A frontend for MongoDB&#8217;s query profiler collection.</small></li>
+</ul>
+
+
+<h2>Security</h2>
+
+<ul>
+<li><strong><a href="http://forum.xda-developers.com/showthread.php?t=1904629">[VULNERABILITY] Remote wipe via iframe USSD trigger - xda-developers</a></strong>
+  <small>Remote wiping Android devices via iframes</small></li>
+</ul>
+
+
+<h2>Watching</h2>
+
+<ul>
+<li><strong><a href="http://vimeo.com/49384334">Pure JavaScript on Vimeo</a></strong>
+  <small>Christian Johansen on functional JavaScript </small></li>
+<li><strong><a href="http://emacsrocks.com/e12.html">&#8216;Working with HTML&#8217; - Emacs Rocks!</a></strong>
+  <small>new episode on HTML</small></li>
+<li><strong><a href="http://confreaks.com/videos/1109-gogaruco2012-writing-a-rails-engine">Writing a Rails Engine - Erik Michaels-Ober - Golden Gate Ruby Conference 2012</a></strong>
+  <small>As of Rails 3.2, plugins are officially deprecated. They have been replaced by Rails Engines, a class of public methods for hooking into Rails applications.</small></li>
+</ul>
+
+
+<h2>Reading</h2>
+
+<ul>
+<li><strong><a href="http://www.theatlantic.com/technology/archive/2012/09/how-google-builds-its-maps-and-what-it-means-for-the-future-of-everything/261913/">How Google Builds Its Maps - and What It Means for the Future of Everything</a></strong>
+  <small>theatlantic.com about the work behind Google Maps</small></li>
+</ul>
+
+
+<h2>Interview</h2>
+
+<ul>
+<li><strong><a href="http://typicalprogrammer.com/?p=143">Typical Programmer - Linus Torvalds goes off on Linux and Git</a></strong>
+  <small>Linus Torvalds on Git and Linux</small></li>
+</ul>
+
+
+<h2>Your link could be here</h2>
+
+<p>If we missed something special or you just want to promote a site, give us a nudge @ <a href='&#109;&#97;&#105;&#108;t&#111;&#58;%7&#57;&#105;eld&#116;%68%65do%67&#64;gmail&#37;2&#69;c&#37;6&#70;m'>y&#105;eldt&#104;&#101;dog&#64;&#103;mail&#46;&#99;&#111;m</a></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Interesting Thingys 33]]></title>
+    <link href="http://yieldthedog.github.com/blog/2012/09/21/interesting-thingys-33/"/>
+    <updated>2012-09-21T08:17:00+02:00</updated>
+    <id>http://yieldthedog.github.com/blog/2012/09/21/interesting-thingys-33</id>
+    <content type="html"><![CDATA[<p>Like every week we have collected great thingys for you, read on…</p>
+
+<!-- More -->
+
+
+<h2>JavaScript</h2>
+
+<ul>
+<li><strong><a href="https://github.com/madrobby/pragmatic.js">madrobby/pragmatic.js</a></strong>
+  <small>Pragmatic rules for writing JavaScript</small></li>
+<li><strong><a href="https://github.com/p01/mmd.js">p01/mmd.js</a></strong>
+  <small>mmd.js is a standalone minimalist Markdown parser written in ~860 bytes of JavaScript.</small></li>
+<li><strong><a href="http://kilon.org/blog/2012/08/testing-backbone-requirejs-applications-with-jasmine/">Testing Backbone RequireJS Applications with Jasmine | Simple Thoughts</a></strong>
+  <small>Writing tests for your code may not reduce the number of bugs, but it will make fixing the bugs you inevitably find easier.</small></li>
+<li><strong><a href="http://jbrewer.github.com/Responsive-Measure/">Responsive Measure: A jQuery plugin for responsive typography</a></strong>
+  <small>A jQuery plugin for generating a responsive ideal measure.</small></li>
+</ul>
+
+
+<h2>CSS</h2>
+
+<ul>
+<li><strong><a href="http://blog.millermedeiros.com/solid-css/">SOLID CSS | Blog | Miller Medeiros</a></strong>
+  <small>What is the best way to have a solid CSS base?</small></li>
+<li><strong><a href="http://css-tricks.com/examples/ShapesOfCSS/">The Shapes of CSS</a></strong>
+  <small>Nice collection of shapes that can be achieved with CSS</small></li>
+</ul>
+
+
+<h2>HTML (5)</h2>
+
+<ul>
+<li><strong><a href="http://tympanus.net/Tutorials/TypographyStyles/index.html">Creative Web Typography Styles</a></strong>
+  <small>nice examples of what you can do with fonts and css</small></li>
+<li><strong><a href="http://ericbidelman.tumblr.com/post/31486670538/creating-webm-video-from-getusermedia">Creating .webm video from getUserMedia() - Eric Bidelman</a></strong>
+  <small>That&#8217;s cool. Javascript&#8217;s possibilities expand everyday</small></li>
+<li><strong><a href="https://gist.github.com/3723309">Spotlight bookmarklet — Gist</a></strong>
+  <small>A bookmarklet that produces a spotlight with CSS clip path</small></li>
+</ul>
+
+
+<h2>Web Development</h2>
+
+<ul>
+<li><strong><a href="https://github.com/videlalvaro/gifsockets">videlalvaro/gifsockets</a></strong>
+  <small>Real Time communication library using Animated Gifs as a transport™</small></li>
+<li><strong><a href="http://sindresorhus.com/bower-components/">Bower components</a></strong>
+  <small>Search for bower components</small></li>
+<li><strong><a href="https://docs.google.com/document/pub?id=1GWTMLjqQsQS45FWwqNG9ztQTdGF48hQYpjQHR_d1WsI">iPhone 5 website teardown: How Apple compresses video using JPEG, JSON, and canvas</a></strong>
+  <small>interesting read on how and why they did use a canvas instead of a video element</small></li>
+<li><strong><a href="http://www.mobilexweb.com/blog/iphone-5-ios-6-html5-developers">iPhone 5 and iOS 6 for HTML5 developers, a big step forward: web inspector, new APIs and more | Breaking the Mobile Web</a></strong>
+  <small>New Features in iOS 6 for Webdevelopers</small></li>
+</ul>
+
+
+<h2>Mobile Development</h2>
+
+<ul>
+<li><strong><a href="http://google-opensource.blogspot.co.at/2012/09/j2objc-java-to-ios-objective-c.html">J2ObjC: A Java to iOS Objective-C translator</a></strong>
+  <small>open source release of J2ObjC, a Google-authored translator that converts Java source code into Objective-C source for iPhone/iPad applications.</small></li>
+<li><strong><a href="http://lists.w3.org/Archives/Public/public-coremob/2012Sep/0021.html">Perf Feedback - What&#8217;s slowing down Mobile Facebook from Tobie Langel on 2012-09-15 (public-coremob@w3.org from September 2012)</a></strong>
+  <small>Facebook engineer talks about what&#8217;s missing in Mobile Web Development</small></li>
+<li><strong><a href="https://github.com/rubymotion/BubbleWrap">rubymotion/BubbleWrap</a></strong>
+  <small>ActiveSupport for RubyMotion</small></li>
+</ul>
+
+
+<h2>Ruby</h2>
+
+<ul>
+<li><strong><a href="https://github.com/headius/fastruby">headius/fastruby</a></strong>
+  <small>A Ruby static compiler.</small></li>
+<li><strong><a href="https://github.com/rails/rails/commit/c49d959e9d40101f1712a452004695f4ce27d84c">pull request #7251 from rails/integrate-strong_parameters</a></strong>
+  <small>strongparameters instead of attr_accesible</small></li>
+<li><strong><a href="http://reefpoints.dockyard.com/ruby/2012/09/18/rails-4-sneak-peek-postgresql-array-support.html">Rails 4.0 Sneak Peek: PostgreSQL array support</a></strong>
+  <small>How Rails 4 can take advantage of PostgreSQL&#8217;s arrays</small></li>
+<li><strong><a href="http://bostonrb.org/presentations/what-to-expect-in-rails-40">What to Expect in Rails 4.0</a></strong>
+  <small>presentation @ boston ruby group</small></li>
+</ul>
+
+
+<h2>Browsers</h2>
+
+<ul>
+<li><strong><a href="https://blog.mozilla.org/javascript/2012/09/12/ionmonkey-in-firefox-18/">IonMonkey in Firefox 18 | JavaScript</a></strong>
+  <small>JS performance boost for FF 18</small></li>
+<li><strong><a href="http://500.chromeexperiments.com/">Chrome Experiment #500</a></strong>
+  <small>500 chrome experiments have been submitted. Chrome is celebrating</small></li>
+<li><strong><a href="http://googleappsupdates.blogspot.co.at/2012/09/supporting-modern-browsers-internet.html">Google Apps update alerts: Supporting modern browsers: Internet Explorer 8 support discontinued</a></strong>
+  <small>the journey continues</small></li>
+</ul>
+
+
+<h2>Shell</h2>
+
+<ul>
+<li><strong><a href="http://mosh.mit.edu/">Mosh: the mobile shell</a></strong>
+  <small>Remote terminal application that allows roaming, supports intermittent connectivity, and provides intelligent local echo and line editing of user keystrokes. Mosh is a replacement for SSH. It&#8217;s more robust and responsive, especially over Wi-Fi, cellular, and long-distance links.</small></li>
+</ul>
+
+
+<h2>Editors</h2>
+
+<ul>
+<li><strong><a href="https://github.com/defaultxr/tracker.el">defaultxr/tracker.el</a></strong>
+  <small>an osc music tracker/sequencer for emacs</small></li>
+<li><strong><a href="https://plus.google.com/u/0/117663020319348671498/posts/NRTPUeqTxyw">My Sublime Text Configuration A few people have recently…</a></strong>
+  <small>Some Sublime 2 gems</small></li>
+<li><strong><a href="http://tarantsov.com/blog/2012/02/sublime-text-workflow-that-beats-coda-and-espresso/">Andrey Tarantsov: Sublime Text Workflow That Beats Coda and Espresso</a></strong>
+  <small>Get up and running with Sublime</small></li>
+</ul>
+
+
+<h2>Watching</h2>
+
+<ul>
+<li><strong><a href="http://www.ted.com/talks/lang/en/seth_godin_on_sliced_bread.html">Seth Godin: How to get your ideas to spread | Video on TED.com</a></strong>
+  <small>In a world of too many options and too little time, our obvious choice is to just ignore the ordinary stuff. Marketing guru Seth Godin spells out why, when it comes to getting our attention, bad or bizarre ideas are more successful than boring ones.</small></li>
+<li><strong><a href="http://www.ted.com/talks/lang/en/jason_fried_why_work_doesn_t_happen_at_work.html">Jason Fried: Why work doesn&#8217;t happen at work | Video on TED.com</a></strong>
+  <small>Jason Fried has a radical theory of working: that the office isn&#8217;t a good place to do it.</small></li>
+<li><strong><a href="http://vimeo.com/49092644">Zen and the Art of TDD</a></strong>
+  <small>A 25 minute walk through the top 5 reasons to do TDD, with a focus on examples in JavaScript. </small></li>
+<li><strong><a href="http://vimeo.com/49434697">Sophisticated Views: How Ember&#8217;s View Layer Handles the Complex Problems on Vimeo</a></strong>
+  <small>What to do when a webapp gets complicated?</small></li>
+</ul>
+
+
+<h2>Miscellaneous</h2>
+
+<ul>
+<li><strong><a href="http://www.youtube.com/watch?v=q76r-3z4Ckk">Clockwork - K&#8217;nex Ball Machine - YouTube</a></strong>
+  <small>K&#8217;nex Ball Machine</small></li>
+</ul>
+
+
+<h2>Statistics</h2>
+
+<ul>
+<li><strong><a href="https://github.com/mavam/stat-cookbook">mavam/stat-cookbook</a></strong>
+  <small>The probability and statistics cookbook contains a succinct representation of various topics in probability theory and statistics. It provides a comprehensive mathematical reference reduced to its essence, rather than aiming for elaborate explanations.</small></li>
+</ul>
+
+
+<h2>Your link could be here</h2>
+
+<p>If we missed something special or you just want to promote a site, give us a nudge @ <a href='&#109;&#97;&#105;&#108;t&#111;&#58;%7&#57;&#105;eld&#116;%68%65do%67&#64;gmail&#37;2&#69;c&#37;6&#70;m'>y&#105;eldt&#104;&#101;dog&#64;&#103;mail&#46;&#99;&#111;m</a></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Interesting Thingys 32]]></title>
@@ -2325,298 +2811,6 @@ A simple HTTP remote monitoring utility using Node.js and MongoDB.</li>
 An extension to our Kintinuous: Spatially Extended KinectFusion system showing real-time fused colored mesh volume generation.</li>
 </ul>
 
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Interesting Thingys #17]]></title>
-    <link href="http://yieldthedog.github.com/blog/2012/05/25/interesting-thingys-17/"/>
-    <updated>2012-05-25T09:17:00+02:00</updated>
-    <id>http://yieldthedog.github.com/blog/2012/05/25/interesting-thingys-17</id>
-    <content type="html"><![CDATA[<p>This week we have two new categories in the list: Objective-C and Clojure</p>
-
-<!-- More -->
-
-
-<h3>Objective-C</h3>
-
-<ul>
-<li><a href="https://github.com/dingbat/nsrails">NSRails</a><br/>
-an Objective-C framework for ActiveRecord like API (crud remote rails objects).</li>
-</ul>
-
-
-<h3>GIT</h3>
-
-<ul>
-<li><a href="https://github.com/blog/1127-github-for-windows">Github for Windows</a><br/>
-The famous Mac tool is now ported to Windows</li>
-</ul>
-
-
-<h3>Ruby</h3>
-
-<ul>
-<li><a href="http://svn.ruby-lang.org/cgi-bin/viewvc.cgi?revision=35672&amp;view=revision">Ruby 1.9 lands NaCl support, can run in Chrome </a></li>
-<li><a href="https://github.com/twitter/activerecord-reputation-system">twitter / activerecord-reputation-system</a><br/>
-The Active Record Reputation System helps you discover more about your application and make better decisions.</li>
-<li><a href="http://37signals.com/svn/posts/3176-three-quick-rails-console-tips">Three quick Rails console tips</a><br/>
-Dive into your app / Try out a helper / Where does that method come from?</li>
-</ul>
-
-
-<h3>Clojure</h3>
-
-<ul>
-<li><a href="http://clojure.com/blog/2012/05/08/reducers-a-library-and-model-for-collection-processing.html">Reducers</a><br/>
-A Library and Model for Collection Processing</li>
-</ul>
-
-
-<h3>HTML5</h3>
-
-<ul>
-<li><a href="http://code.google.com/p/sipml5/">sipml5</a><br/>
-The world&#8217;s first HTML5 SIP client. Written in pure JavaScript.</li>
-<li><a href="http://xing.github.com/wysihtml5/">WYSIHTML5</a><br/>
-A better approach to rich text editing</li>
-<li><a href="http://minimal.be/lab/fluGL/">WebGL 80.000 particles</a><br/>
-Cool WebGL demo with 80.000 particles. Kinda rocks!</li>
-</ul>
-
-
-<h3>Javascript</h3>
-
-<ul>
-<li><a href="http://destroytoday.com/blog/reasons-for-spinejs/">10 reasons why I switched to Spine.js</a></li>
-<li><a href="http://nodetime.com/blog/cpu-profiling-with-nodetime">CPU Profiling with Nodetime</a><br/>
-Introduction to nodetime a profiler for nodejs apps</li>
-<li><a href="http://momentjs.com/">Moment.js</a><br/>
-A lightweight (4.3k) JavaScript library for displaying and manipulating dates and times. E.g.: last <em>Saturday at 6:25</em>. Includes I18N support.</li>
-<li><a href="http://www.stevesouders.com/blog/2012/05/22/self-updating-scripts/">Self-updating scripts</a> - Steve Souders</li>
-</ul>
-
-
-<h3>CSS</h3>
-
-<ul>
-<li><a href="http://nicholsonws.com/archive/the-tilde-is-an-amazing-css-selector">The Tilde is an Amazing CSS Selector</a></li>
-</ul>
-
-
-<h3>Linux</h3>
-
-<ul>
-<li><a href="http://kernelnewbies.org/Linux_3.4">Linux 3.4</a><br/>
-has been released. <a href="https://lkml.org/lkml/2012/5/20/126">Offical announcement</a></li>
-</ul>
-
-
-<h3>Windows</h3>
-
-<ul>
-<li><a href="http://blogs.msdn.com/b/b8/archive/2012/01/16/building-the-next-generation-file-system-for-windows-refs.aspx">Building the next generation file system for Windows: ReFS</a><br/>
-extensive article on Windows 8&#8217;s new file system ReFS</li>
-</ul>
-
-
-<h3>Vim</h3>
-
-<ul>
-<li><a href="http://learnvimscriptthehardway.stevelosh.com/">Learn Vimscript the Hard Way</a> - by Steve Losh<br/>
-Steve Losh is not unknown to the Vim community. His <a href="https://bitbucket.org/sjl/dotfiles/src/7004f9ab85b4/vim">.vimrc</a> was the starting point for many Vim noobs. Learn Vimscript the Hard Way is a short book for users of the Vim editor who want to learn how to customize Vim.</li>
-</ul>
-
-
-<h3>Databases</h3>
-
-<ul>
-<li><a href="http://blog.pingoured.fr/index.php?post/2012/05/20/PostgreSQL-vs-MongoDB">PostgreSQL vs MongoDB</a><br/>
-A comparative tests of postgresql vs mongodb and the <a href="http://news.ycombinator.com/item?id=3998653">HackerNews Discussion</a></li>
-<li><a href="https://vimeo.com/42638638">Intro to Graph Databases</a> [video]<br/>
-A high level introduction to graph databases. This webinar demonstrates how graph databases fit within the NOSQL space, and where they are most appropriately used.</li>
-<li>Map reduce questions and answers <a href="http://www.javacodegeeks.com/2012/05/mapreduce-questions-and-answers-part-1.html">part 1</a> and <a href="http://www.javacodegeeks.com/2012/05/mapreduce-questions-and-answers-part-2.html">part 2</a></li>
-</ul>
-
-
-<h3>Browser</h3>
-
-<ul>
-<li><a href="http://thenextweb.com/google/2012/05/21/google-chrome-overtakes-internet-explorer-as-the-webs-most-used-browser/?awesm=tnw.to_1EUZ">Google Chrome overtakes Internet Explorer as the Web’s most used browser</a><br/>
-Google Chrome has been long expected to leapfrog Microsoft’s Internet Explorer (IE) to take its position as the Web’s most used browser and, according to data from Statcounter, the momentous change of leadership happened last week.</li>
-</ul>
-
-
-<h3>Other</h3>
-
-<ul>
-<li><a href="http://www.nytimes.com/interactive/2012/05/17/business/dealbook/how-the-facebook-offering-compares.html">The Facebook Offering: How It Compares</a></li>
-<li><a href="http://pixelstech.net/article/index.php?id=1337448434">Disposable Email address</a><br/>
-A comparison of disposable email addresses and email forwarding services.</li>
-<li><a href="http://www.economist.com/node/21555571">The best story in development</a><br/>
-Not completely tech related but still worth noting: Africa is experiencing some of the biggest falls in child mortality ever seen, anywhere.</li>
-<li><a href="http://news.ycombinator.com/item?id=3996652">Ask HN: Favorite HN threads of all time</a><br/>
-Cellis asks: Have any Hacker News threads ever truly changed your perspective on life, or technology? Post them please.</li>
-</ul>
-
-
-<h3>Programming</h3>
-
-<ul>
-<li><a href="http://www.antoarts.com/10-ways-to-improve-your-programming-skills/">10 ways to improve your programming skills</a><br/>
-nearly a year old, but still valid points.</li>
-</ul>
-
-
-<h3>Hosting / Server / SPDY</h3>
-
-<ul>
-<li><a href="http://nginx.org/en/CHANGES#1.3.0">Nginx 1.3.0</a></li>
-<li><a href="https://github.com/peterkeen/dokuen">peterkeen / dokuen</a><br/>
-Heroku for the masses</li>
-</ul>
-
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[tmux - productive mouse free development - book review]]></title>
-    <link href="http://yieldthedog.github.com/blog/2012/05/24/tmux-productive-mouse-free-development-book-review/"/>
-    <updated>2012-05-24T08:14:00+02:00</updated>
-    <id>http://yieldthedog.github.com/blog/2012/05/24/tmux-productive-mouse-free-development-book-review</id>
-    <content type="html"><![CDATA[<blockquote><p>tmux is a terminal multiplexer: it enables a number of terminals (or windows), each running a separate program, to be created, accessed, and controlled from a single screen. tmux may be detached from a screen and<br/>continue running in the background, then later reattached.</p><footer><strong>from the tmux homepage,</strong> <cite><a href='http://tmux.sourceforge.net/'>tmux.sourceforge.net/&hellip;</a></cite></footer></blockquote>
-
-
-<!-- more -->
-
-
-<h2>A love hate relationship - a brief history</h2>
-
-<p>A while ago I installed tmux on my Ubuntu box and gave it a try. As always I immediately over used it’s functionality and ended up with a split screen with about eight panes. Each pane was too small to be of much use and I refused to use windows, because I thought that I have my terminal tabs for this. The multiple panes were great, I could easily switch between them, thanks to some keyboard shortcuts, that I copy and pasted blindly into my tmux conf. I got everything I needed.  At least I thought so.</p>
-
-<p>I know that I will get a good beating for the next sentence, but still it’s the truth: I’m a hybrid keyboard and mouse user. So the first shock was pre-programmed. How can I use the mouse to scroll back, <em>f**k</em>, there’s no way. Next one: Ah, I’d like to mark this passage with my mouse and … - <em>f**k</em> - the selection goes right over the other panes.  Ok, let’s rearrange those panes, so I can mark and copy this line and paste… - <em>f**k</em> - I cannot paste with the middle mouse button.</p>
-
-<p>You get the story. The beginning of my tmux relationship didn’t have stumbling blocks but giant boulders. I was rather frustrated and the drawbacks were greater than the advantages. I gave up, end of story.</p>
-
-<p>The really hard thing in the beginning is, that there is no good beginner’s documentation out there. You find a lot of ultimate tmux.confs, but there is nothing out there that gets you started.</p>
-
-<h2>A letter from Andy</h2>
-
-<p>So I let tmux live it’s own life, until recently a letter from PragProg arrived, advertising «tmux - productive mouse free development» by Brian P. Hogan. PragProg had a link to this inspiring video that showed me, how easy it was to accomplish things with tmux.  In this video Brian removes his hands so sporadic from the home row and still shows how to do the basic tmux operations - amazing.</p>
-
-<iframe width="640" height="480" src="http://www.youtube.com/embed/JXwS7z6Dqic" frameborder="0" allowfullscreen></iframe>
-
-
-<p>The book was quite cheap, so I thought: tmux, you get one last try, if you let me down again, you will go to hell.</p>
-
-<h2>Starting slow</h2>
-
-<p>Like in Vim it’s important to start slow. As you cannot remember all commands at once, you need to focus on the basic stuff that gets you going. Copy and pasting stuff gets you nowhere, as long as you do not understand, what it’s for. Brian acknowledges this fact and starts by showing how to create new sessions, windows and panes. No crazy shortcuts just plain tmux commands. What I especially liked was the summary of the commands at the end of each chapter. This helped a lot, when I went back to a chapter to look up a command.</p>
-
-<p>Next he introduces you to the .tmux.conf file and its secrets. This is the starting point of a slowly evolving configuration that is improved throughout the book.</p>
-
-<h2>Gaining velocity</h2>
-
-<p>Scripting customized tmux environments is in my opinion one of the most important chapters, in which Brian shows you, how to build scripts to quickly start your development environment the way you want. He mentions the tmuxinator project, which is one of the most useful tools, when working with tmux. It lets you configure your windows and panes in a simple to read YAML file. It’s no wonder that due to its roots in the Ruby world, tmuxinator has a configuration skeleton for Rails applications, but this can easily be adapted to serve the needs of any project. The introduction to tmuxinator was the breaking point for me. That was, when I started to comprehend, that I could easily build a project specific environment, that reduces the friction when opening a project - pulling in changes form the server, start background processes, open your editor, you named it. Tmuxinator is only the starting point for a tmux noob like me to see and comprehend its power.</p>
-
-<p>The next chapter was one that I would have needed on my first tmux day. It describes how to navigate your buffer, copy and paste and how to communicate with the system clipboard. As with many commands in Vim copy and pasting in tmux uses keys that are rather awkward to use on a German keyboard. [ and ] are just too far out of reach to not disturb you in your normal typing speed.</p>
-
-<h2>Maximum velocity</h2>
-
-<p>The chapter on pair programming was one of those that I looked forward the most, because I saw real power in sharing a session. I was not disappointed. Brain clearly shows the limits in which you can move and presents different techniques to share a session. It is a pity that I had no practical use for it till now, but no question time will come.</p>
-
-<h2>Conclusion</h2>
-
-<p><img class="right" src="http://imagery.pragprog.com/products/291/bhtmux_xlargecover.jpg?1330443523"> The book is rather short with only about 70 pages. Still, it shows you the basic and advanced techniques in tmux that are rather hard to learn your own. I can truly recommend it, if you are like me struggling to find your way through tmux. Along the road Brian showed some useful tricks (not completely tmux related), that can make your life easier, e.g. remapping the useless <kbd>CAPS LOCK</kbd> key to another key - a thing I should have done a long time ago.</p>
-
-<p>So if you like to use a terminal, have many tabs, various ssh sessions open at the same time, go grab a copy of tmux - productive mouse free development and get some order in your chaos.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[The commuting coder]]></title>
-    <link href="http://yieldthedog.github.com/blog/2012/05/22/the-commuting-coder/"/>
-    <updated>2012-05-22T08:32:00+02:00</updated>
-    <id>http://yieldthedog.github.com/blog/2012/05/22/the-commuting-coder</id>
-    <content type="html"><![CDATA[<h3>Essential tools to effectively use your time while stuck commuting</h3>
-
-<p>As a long time user of public transportation on my way to work and back I have grown myself a tool chain that helps me use my time more effectively. In this article I want to present the things I use and hope to get some inspiration from you.</p>
-
-<!-- more -->
-
-
-<h2>Reading device</h2>
-
-<p><img class="right" src="https://lh6.googleusercontent.com/-f3gaEXV1aGY/T3IHHywFERI/AAAAAAAAAMM/NqcqMjypLX0/s250/IMG_9879.JPG"> My Kindle has replaced books nearly completely as my main reading device (See <a href="http://yieldthedog.github.com/blog/2012/04/06/kindle-survival-guide/">Kindle survival guide</a>). This has mainly two reasons: First its weight and size, and second the ability to switch between various books and articles at will.</p>
-
-<p>With the Kindle I even started reading while walking, what I have never done before. You can simply enlarge the font size, so you can easily read while changing matters of transportation.</p>
-
-<br class="clear">
-
-
-<h2>A lightweight notebook</h2>
-
-<p><img class="right" src="https://lh6.googleusercontent.com/-K3fyUQLWrks/T3IHGREfUpI/AAAAAAAAAL0/cx41SDfziX4/s250/IMG_9882.JPGa"> If you want to use a computer, do not go out and by a large one.  Everything that’s heavier than two kilograms is too much to carry around all day. Go small and lightweight. I am the happy owner of a MacBook Air and would not exchange it for another device. It’s the first notebook I own that does not matter, if it is in my back bag all day</p>
-
-<br class="clear">
-
-
-<p>Stuff to do with your notebook:</p>
-
-<h3>Coding</h3>
-
-<p>Obviously this wasn’t a hard one, but be aware that you should prepare your device for offline use, if you don’t happen to own a wireless modem.</p>
-
-<ul>
-<li>get all the documentation to your device, you do not want to get stuck on a problem, simply due to the fact, that you do not know a method name, a method signature, &#8230; <a href="http://kapeli.com/dash/">Dash</a> can help you out in this case.</li>
-<li>use a DVCS. That was again a no brainer.</li>
-<li>&#8230;</li>
-</ul>
-
-
-<h3>Watching</h3>
-
-<p><img class="right" src="https://lh3.googleusercontent.com/-ubzsjKiVsnQ/T3IHF2-mInI/AAAAAAAAALw/gmB9VjNuMGo/s250/IMG_9881.JPG"> There are times, when you don’t have the power or will to read or even code. That’s the time to lean back and watch. There are tons of screencasts out there. Either go to the iTunes store and search for stuff you are interested in or simply do a Google search.</p>
-
-<p>Stuff I like to watch include: <a href="http://railscasts.com">Railscasts</a>, <a href="http://vimcasts.org">Vimcasts</a>, <a href="http://screencasts.org">Screencasts</a>.</p>
-
-<p>Besides screencasts there are lots of conference videos:</p>
-
-<ul>
-<li><a href="http://confreaks.com">Confreaks</a> - offer hundreths of high quality ruby related videos</li>
-<li>Youtube Channels: <a href="http://www.youtube.com/user/GoogleDevelopers">Google Developers</a>, <a href="http://www.youtube.com/user/OreillyMedia">O&#8217;Reilly Media</a>, <a href="http://www.youtube.com/user/GoogleTechTalks">Google Tech Talks</a>, <a href="http://www.youtube.com/user/minutephysics">Minute Physics</a> - of course those can not be downloaded. Here the excellent <a href="http://jdownload.org">jDownloader</a> is your friend.</li>
-<li><a href="http://blip.tv/jsconfeu">JS ConfEu</a> and <a href="http://blip.tv/jsconf">JS Conf</a>(these also include NodeConf videos)</li>
-</ul>
-
-
-<h2>MP3 player</h2>
-
-<p>When you are just too tired to open your eyes, you can sill lean back, relax and listen to one of the high quality podcasts out there:</p>
-
-<ul>
-<li><a href="http://thechangelog.com/">The Changelog</a></li>
-<li><a href="http://5by5.tv/">5by5</a> offer a varity of podcasts</li>
-<li><a href="http://feeds.feedburner.com/GoogleDeveloperPodcast">Google Developer Podcast</a></li>
-<li><a href="http://blip.tv/clojure/rss/itunes">Clojure</a></li>
-<li><a href="http://feeds.feedburner.com/LargeHadronColliderPodcast">CERN - Large Hadron Collider Podcast</a></li>
-<li><a href="http://feeds.feedburner.com/JavascriptJabber">JavaScript Jabber</a></li>
-<li><a href="http://feeds.feedburner.com/NodeUp">NodeUp</a></li>
-<li><a href="http://ruby5.envylabs.com/">Ruby5</a></li>
-<li>&#8230;</li>
-</ul>
-
-
-<h2>Earphone, earplug</h2>
-
-<p><img class="right" src="https://lh4.googleusercontent.com/-uWi5UiLtwPo/T3IHFr9M0OI/AAAAAAAAALs/_nhDH9cvCO8/s250/IMG_9880.JPG" title="" > From time to time you happen to sit nearby someone rather loud and chatty, who prevents you from being focused on the task you do. These are the times, when earplugs come in very handy, otherwise the distraction will win. If you happen to watch or listen to something make sure, you have earphones that shield you from any disturbing ambient noise.</p>
-
-<h2>Todos / Ideas / Backlog</h2>
-
-<p>While being in isolation new ideas come to my mind all the time or stuff I want to do or to look up. Or I just remember that I want to ask someone an important question. That’s when it’s handy to have some sort of way to track down those thoughts. It does not matter, if it’s a simple text file, a todo list app or a piece of paper to write down your thoughts - it’s just important to not forget these thoughts and leave them unused.</p>
-
-<h2>Give me inspiration</h2>
-
-<p>So let’s hear from you. What’s the stuff that makes you a productive coder while commuting?</p>
 ]]></content>
   </entry>
   
