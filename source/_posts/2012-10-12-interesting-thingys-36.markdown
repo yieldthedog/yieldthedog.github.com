@@ -1,6 +1,6 @@
 --- 
 layout: post 
-title: "Interesting Thingys 35" 
+title: "Interesting Thingys 36" 
 date: 2012-10-12 8:17 
 comments: false 
 published: true 
