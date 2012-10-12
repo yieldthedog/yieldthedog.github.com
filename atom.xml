@@ -4,7 +4,7 @@
   <title><![CDATA[yield the dog]]></title>
   <link href="http://yieldthedog.github.com/atom.xml" rel="self"/>
   <link href="http://yieldthedog.github.com/"/>
-  <updated>2012-10-05T06:17:21+02:00</updated>
+  <updated>2012-10-12T06:23:14+02:00</updated>
   <id>http://yieldthedog.github.com/</id>
   <author>
     <name><![CDATA[yield the dog]]></name>
@@ -12,6 +12,192 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Interesting Thingys 35]]></title>
+    <link href="http://yieldthedog.github.com/blog/2012/10/12/interesting-thingys-36/"/>
+    <updated>2012-10-12T08:17:00+02:00</updated>
+    <id>http://yieldthedog.github.com/blog/2012/10/12/interesting-thingys-36</id>
+    <content type="html"><![CDATA[<p>Lots of things to watch and listen this week…</p>
+
+<!-- More -->
+
+
+<h2>JavaScript</h2>
+
+<ul>
+<li><strong><a href="https://github.com/jsoverson/grunt-strip">jsoverson/grunt-strip</a></strong>
+  <small>Strip JavaScript nodes (like console.*) out of your source code</small></li>
+<li><strong><a href="http://blog.innovatejs.com/?page_id=7">XLSC.js - Blog | innovateJS</a></strong>
+  <small>XLSX.js is a library that converts base64 strings into object representations of XLSX spreadsheets, and vice versa.</small></li>
+<li><strong><a href="http://killdream.github.com/blog/2011/10/understanding-javascript-oop/">Understanding JavaScript OOP — Sorella&#8217;s Basement</a></strong>
+  <small>A detailed walkthrough of Objects in JavaScript</small></li>
+<li><strong><a href="https://github.com/angular-ui/angular-ui">angular-ui/angular-ui</a></strong>
+  <small>AngularUI - The companion suite for AngularJS </small></li>
+<li><strong><a href="https://github.com/felixge/faster-than-c">felixge/faster-than-c</a></strong>
+  <small>alk outline: Faster than C? Parsing binary data in JavaScript.</small></li>
+<li><strong><a href="http://buildnewgames.com/optimizing-websockets-bandwidth/">Optimizing WebSockets Bandwidth - Build New Games</a></strong>
+  <small>great writeup on optimizing websocket bandwidth</small></li>
+<li><strong><a href="http://fitvidsjs.com/">FitVids.JS</a></strong>
+  <small>A lightweight, easy-to-use jQuery plugin for fluid width video embeds.</small></li>
+<li><strong><a href="https://github.com/mozilla/pdf.js">mozilla/pdf.js</a></strong>
+  <small>JavaScript pdf reader</small></li>
+<li><strong><a href="https://github.com/mudcube/Event.js">mudcube/Event.js</a></strong>
+  <small>Multi-touch events library, and abstractions—click, dblclick, dbltap, tap, longpress, drag, swipe, pinch, rotate, shake. For pointer events, each listener can handle anywhere from 1 to 12 fingers at a time. </small></li>
+<li><strong><a href="http://blog.jqueryui.com/2012/10/jquery-ui-1-9-0/">jQuery UI 1.9.0 | jQuery UI Blog</a></strong>
+  <small>Finally out</small></li>
+<li><strong><a href="http://brendaneich.github.com/Strange-Loop-2012/#/">The State of JavaScript</a></strong>
+  <small>Brendan Eich / Strange Loop 2012 - ES 7 preview</small></li>
+</ul>
+
+
+<h2>CSS</h2>
+
+<ul>
+<li><strong><a href="http://codepen.io/jaysalvat/pen/HaqBf">Mona Lisa</a></strong>
+  <small>.. in css. it&#8217;s art!</small></li>
+<li><strong><a href="https://github.com/csswizardry/CSS-Guidelines">csswizardry/CSS-Guidelines</a></strong>
+  <small>High-level guidelines from writing manageable, maintainable CSS</small></li>
+<li><strong><a href="http://demo.agektmr.com/flexbox/">CSS Flexbox Please!</a></strong>
+  <small>Interactively test flexbox layouts</small></li>
+<li><strong><a href="http://cssfilters.appspot.com/#/152003">Abstract Painting with CSS Filters</a></strong>
+  <small>nice drawing with css filters</small></li>
+</ul>
+
+
+<h2>Web Development</h2>
+
+<ul>
+<li><strong><a href="http://www.elijahmanor.com/2012/10/dont-initialize-all-things-in.html">Web Dev .NET: Don&#8217;t Initialize All the Things in jQuery.ready()</a></strong>
+  <small>A thing I have been doing for years</small></li>
+<li><strong><a href="http://dev.opera.com/articles/view/css3-vs-jquery-animations/">CSS3 vs jQuery Animations</a></strong>
+  <small>A small Challenge between CSS3 and jQuery Animations</small></li>
+<li><strong><a href="http://www1.webplatform.org/">WebPlatform.org — Your Web, documented</a></strong>
+  <small>We are an open community of developers building resources for a better web, regardless of brand, browser or platform. Anyone can contribute and each person who does makes us stronger. Together we can continue to drive innovation on the Web to serve the greater good. It starts here, with you.</small></li>
+<li><strong><a href="http://coenraets.org/blog/2012/10/creating-a-rest-api-using-node-js-express-and-mongodb/?utm_source=rss">Creating a REST API using Node.js, Express, and MongoDB</a></strong>
+  <small>Creating a REST API using Node.js, Express, and MongoDB</small></li>
+<li><strong><a href="http://blog.webplatform.org/2012/10/one-small-step/">One Small Step | Web Platform Blog</a></strong>
+  <small>Webplatform.org launched. A new resource for Webdevelopers.</small></li>
+<li><strong><a href="http://blog.netvlies.nl/design-interactie/retina-revolution/">Retina revolution</a></strong>
+  <small>Interesting technique for Retina Images</small></li>
+</ul>
+
+
+<h2>Mobile Development</h2>
+
+<ul>
+<li><strong><a href="http://blog.javierusobiaga.com/stop-using-the-viewport-tag-until-you-know-ho">Stop using the viewport meta tag (until you know how to use it) - htmlboy</a></strong>
+  <small>Good write-up about the pitfalls of blindly including a viewport meta tag into your site. </small></li>
+</ul>
+
+
+<h2>Ruby</h2>
+
+<ul>
+<li><strong><a href="https://speakerdeck.com/u/jeg2/p/10-things-you-didnt-know-ruby-could-do">10 Things You Didn&#8217;t Know Ruby Could do // Speaker Deck</a></strong>
+  <small>No, wait there are 42, no One Hundred And One things&#8230;.</small></li>
+</ul>
+
+
+<h2>Go</h2>
+
+<ul>
+<li><strong><a href="http://mmcgrana.github.com/2012/09/go-by-example-timers-and-tickers.html">Go by Example: Timers and Tickers</a></strong>
+  <small>We often want to execute Go code at some point in the future, or repeatedly at some interval. Go’s built-in timer and ticker features make both of these tasks easy. </small></li>
+</ul>
+
+
+<h2>PHP</h2>
+
+<ul>
+<li><strong><a href="https://github.com/JosephLenton/PHP-Error">JosephLenton/PHP-Error</a></strong>
+  <small>Improve Error Reporting for PHP </small></li>
+</ul>
+
+
+<h2>Programming</h2>
+
+<ul>
+<li><strong><a href="http://www.starling-software.com/employment/programmer-competency-matrix.html">Programmer Competency Matrix</a></strong>
+  <small>Can you put programmers in a matrix?</small></li>
+</ul>
+
+
+<h2>Databases</h2>
+
+<ul>
+<li><strong><a href="http://emptysquare.net/blog/optimizing-mongodb-compound-indexes/">Optimizing MongoDB Compound Indexes | A. Jesse Jiryu Davis</a></strong>
+  <small>How do you create the best index for a complex MongoDB query?</small></li>
+</ul>
+
+
+<h2>Git</h2>
+
+<ul>
+<li><strong><a href="http://forum.xda-developers.com/showthread.php?t=1870470">[APP][2.1 ] Gidder - Git server for Android - xda-developers</a></strong>
+  <small>Gidder is a Git server implementation for Android that works on top of a SSH server. Access your code anywhere anytime using your Android device. </small></li>
+</ul>
+
+
+<h2>Editors</h2>
+
+<ul>
+<li><strong><a href="http://www.h-online.com/open/news/item/NetBeans-7-3-s-HTML5-App-Dev-features-go-into-beta-1723548.html">NetBeans 7.3&#8217;s HTML5 App Dev features go into beta - The H Open: News and Features</a></strong>
+  <small>with JavaScript support</small></li>
+</ul>
+
+
+<h2>Performance</h2>
+
+<ul>
+<li><strong><a href="http://googledevelopers.blogspot.co.at/2012/10/make-web-faster-with-modpagespeed-now.html">Make the web faster with mod_pagespeed, now out of Beta - Google Developers Blog</a></strong>
+  <small>Make the web faster with mod_pagespeed, now out of Beta</small></li>
+<li><strong><a href="http://www.igvita.com/2012/10/10/automating-web-performance-with-mod_pagespeed/">Automating Web Performance with mod_pagespeed - igvita.com</a></strong>
+  <small>how mod_pagespeed works under the hood?</small></li>
+</ul>
+
+
+<h2>Watching</h2>
+
+<ul>
+<li><strong><a href="http://www.youtube.com/watch?v=pX1cO2XhMrg">LEGO 3D Milling Machine - &#8220;3D Printer&#8221; - YouTube</a></strong>
+  <small>Lego 3D Printer</small></li>
+<li><strong><a href="http://www.infoq.com/presentations/Innovation">Innovation: What Every Developer Absolutely Needs to Know</a></strong>
+  <small>Steve Vinoski discusses innovation and product life cycles, how they affects the market and someone’s products, and what one should know in order to succeed in a very competitive landscape. </small></li>
+<li><strong><a href="http://blog.nodejs.org/2012/09/30/bert-belder-libuv-lxjs-2012/">Bert Belder - libuv at LXJS 2012</a></strong>
+  <small>Talking about libuv internals</small></li>
+<li><strong><a href="http://www.youtube.com/watch?v=Trr95ij1358">JavaScript: Enter The Dragon - Dmitry Baranovskiy - YouTube</a></strong>
+  <small>Dmitry Baranovskiy, Raphael JS&#8217;s author, talks about JavaScript&#8217;s possibilities</small></li>
+<li><strong><a href="http://www.youtube.com/watch?v=eL5o4PFuxTY">The Lazy Programmer&#8217;s Guide to Secure Computing - YouTube</a></strong>
+  <small>From the comments: He is a funny guy :) This video makes me﻿ want to perfect my laziness :)=</small></li>
+<li><strong><a href="https://www.destroyallsoftware.com/talks/wat">Wat — Destroy All Software Talks</a></strong>
+  <small>A lightning talk by Gary Bernhardt from CodeMash 2012</small></li>
+</ul>
+
+
+<h2>Listening</h2>
+
+<ul>
+<li><strong><a href="http://channel9.msdn.com/Blogs/Charles/Erik-Meijer-and-Robert-Griesemer-Go">E2E: Erik Meijer and Robert Griesemer - Going Go | Charles | Channel 9</a></strong>
+  <small>Erik interviews Go language designer Robert Griesemer</small></li>
+<li><strong><a href="http://www.hnpod.com/episodes/hnpod-12-what-makes-a-good-programmer-mozilla-persona-startup-growth-with-alex-muir-paul-kinlan-and-dan-shipper">HN Podcast | HNpod 12: What Makes A Good Programmer, Mozilla Persona, Startup=Growth with Alex Muir, Paul Kinlan, and Dan Shipper</a></strong>
+  <small>Guests: Alex Muir, Entrepreneur and Developer (Original creator of HNpod) Paul Kinlan Senior Developer Advocate at Google </small></li>
+</ul>
+
+
+<h2>Reading</h2>
+
+<ul>
+<li><strong><a href="http://blog.webplatform.org/2012/10/building-web-platforms-infrastructure/">Building Web Platform’s Infrastructure</a></strong>
+  <small>Some technical Details about the new webplattform.org</small></li>
+</ul>
+
+
+<h2>Your link could be here</h2>
+
+<p>If we missed something special or you just want to promote a site, give us a nudge @ <a href='&#109;&#97;&#105;&#108;t&#111;&#58;%7&#57;&#105;eld&#116;%68%65do%67&#64;gmail&#37;2&#69;c&#37;6&#70;m'>y&#105;eldt&#104;&#101;dog&#64;&#103;mail&#46;&#99;&#111;m</a></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Interesting Thingys 35]]></title>
@@ -2712,103 +2898,6 @@ nice rant on the current front end tech stack</li>
 
 <ul>
 <li><a href="http://kottke.org/12/06/the-worlds-worst-password-requirements-list">The world&#39;s worst password requirements list</a></li>
-</ul>
-
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Interesting Thingys #18]]></title>
-    <link href="http://yieldthedog.github.com/blog/2012/06/01/interesting-thingys-18/"/>
-    <updated>2012-06-01T09:17:00+02:00</updated>
-    <id>http://yieldthedog.github.com/blog/2012/06/01/interesting-thingys-18</id>
-    <content type="html"><![CDATA[<p>This week we have two new categories in the list: Objective-C and Clojure</p>
-
-<!-- More -->
-
-
-<h3>Objective-C</h3>
-
-<ul>
-<li><a href="https://github.com/mpospese/MPFoldTransition">mpospese / MPFoldTransition</a><br/>
-MPFoldTransition is a set of classes to add folding-style transitions to iOS 5 projects.</li>
-</ul>
-
-
-<h3>GIT</h3>
-
-<ul>
-<li><a href="http://adammck.com/2012/05/16/better-readmes-for-github-forks.html">Better READMEs for GitHub Forks</a></li>
-<li><a href="http://geeksta.net/geeklog/exploring-expressions-emotions-github-commit-messages/">Exploring Expressions of Emotions in GitHub Commit Messages</a><br/>
-An extensive analysis of emotions in Github commit messages</li>
-</ul>
-
-
-<h3>Ruby</h3>
-
-<ul>
-<li><a href="https://github.com/schneems/sextant">schneems / sextant</a><br/>
-Show routes in your Rails app while working in development. Visit http://localhost:3000/rails/routes and you&#8217;ll see an output similar to rake routes.</li>
-<li><a href="http://intridea.com/blog/2012/5/24/building-streaming-rest-apis-with-ruby">Building Streaming REST APIs with Ruby</a></li>
-</ul>
-
-
-<h3>Javascript</h3>
-
-<ul>
-<li><a href="http://updates.html5rocks.com/2012/05/requestAnimationFrame-API-now-with-sub-millisecond-precision">requestAnimationFrame API: now with sub-millisecond precision</a><br/>
-1/60s == 16.666667 ms therefore we need a sub-millisecond precision to match the monitor framerate</li>
-</ul>
-
-
-<h3>CSS</h3>
-
-<ul>
-<li><a href="http://css-tricks.com/examples/ShapesOfCSS/">The shapes of CSS</a><br/>
-shapes solely done in CSS</li>
-</ul>
-
-
-<h3>Vim</h3>
-
-<ul>
-<li><a href="http://www.youtube.com/watch?v=SkdrYWhh-8s&amp;list=PL036AC827C6995617&amp;index=15&amp;feature=plpp_video">Ben Orenstein - Write code faster: expert-level vim (Railsberry 2012)</a> [video]</li>
-</ul>
-
-
-<h3>Other</h3>
-
-<ul>
-<li><a href="https://github.com/adam-p/markdown-here">Markdown here</a><br/>
-Write your email in Markdown, then make it pretty. Markdown Here lets you write email in Markdown and render it before sending.</li>
-<li><a href="http://www.terminally-incoherent.com/blog/2012/05/30/command-line-and-user-friendliness/">Command Line and User Friendliness</a></li>
-<li><a href="http://engineering.twitter.com/2012/05/improving-performance-on-twittercom.html">Improving performance on twitter.com</a></li>
-<li><a href="https://wondernetwork.com/pings/">Ping times between cities</a></li>
-</ul>
-
-
-<h3>Programming</h3>
-
-<ul>
-<li><a href="http://opensoul.org/blog/archives/2012/05/23/why-our-code-smells">Why our code smells</a> [presentation]<br/>
-Odors are communication devices. They exist for a reason and are usually trying to tell us something.</li>
-<li><a href="https://gist.github.com/2841832">Latency numbers every programmer should know</a> [gist]</li>
-</ul>
-
-
-<h3>Hosting / Server / SPDY</h3>
-
-<ul>
-<li><a href="http://fzaninotto.github.com/uptime/">Uptime</a><br/>
-A simple HTTP remote monitoring utility using Node.js and MongoDB.</li>
-</ul>
-
-
-<h3>Fun</h3>
-
-<ul>
-<li><a href="http://www.youtube.com/watch?v=mqp3bWqxDsc">Kintinuous Color</a><br/>
-An extension to our Kintinuous: Spatially Extended KinectFusion system showing real-time fused colored mesh volume generation.</li>
 </ul>
 
 ]]></content>
