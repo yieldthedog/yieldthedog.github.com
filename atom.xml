@@ -4,7 +4,7 @@
   <title><![CDATA[yield the dog]]></title>
   <link href="http://yieldthedog.github.com/atom.xml" rel="self"/>
   <link href="http://yieldthedog.github.com/"/>
-  <updated>2012-10-12T20:10:32+02:00</updated>
+  <updated>2012-10-19T07:39:25+01:00</updated>
   <id>http://yieldthedog.github.com/</id>
   <author>
     <name><![CDATA[yield the dog]]></name>
@@ -14,9 +14,117 @@
 
   
   <entry>
+    <title type="html"><![CDATA[Interesting Thingys 37]]></title>
+    <link href="http://yieldthedog.github.com/blog/2012/10/19/interesting-thingys-37/"/>
+    <updated>2012-10-19T08:17:00+01:00</updated>
+    <id>http://yieldthedog.github.com/blog/2012/10/19/interesting-thingys-37</id>
+    <content type="html"><![CDATA[<p>This week just a small compilation of new and valuable links.</p>
+
+<!-- More -->
+
+
+<h2>JavaScript</h2>
+
+<ul>
+<li><strong><a href="https://brendaneich.com/2012/10/harmony-of-dreams-come-true/">Harmony of Dreams Come True | Brendan Eich</a></strong>
+  <small>ES6 overview</small></li>
+<li><strong><a href="http://www.nczonline.net/blog/2012/10/09/ecmascript-6-collections-part-2-maps/">ECMAScript 6 collections, Part 2: Maps | NCZOnline</a></strong>
+  <small>Deep dive into ES6 maps</small></li>
+<li><strong><a href="http://jonobr1.github.com/Physics/">Physics for JavaScript</a></strong>
+  <small>A two-dimensional port into JavaScript of the popular Traer Physics Library from Processing. </small></li>
+</ul>
+
+
+<h2>CSS</h2>
+
+<ul>
+<li><strong><a href="http://demosthenes.info/blog/598/boxshadow-property-vs-dropshadow-filter-a-complete-comparison">demosthenes.info – box-shadow property vs. drop-shadow filter: a complete comparison</a></strong>
+  <small>Great outline of the differences between box-shadow and filter:dropshadow</small></li>
+<li><strong><a href="http://ianstormtaylor.com/oocss-plus-sass-is-the-best-way-to-css/">OOCSS Sass = The best way to CSS by Ian Storm Taylor</a></strong>
+  <small>Combining OOCSS and Sass gives you super powers.</small></li>
+</ul>
+
+
+<h2>HTML (5)</h2>
+
+<ul>
+<li><strong><a href="http://ykifle.github.com/audiograph/">Audiograph</a></strong>
+  <small>A GUI for messing with the Web Audio API </small></li>
+</ul>
+
+
+<h2>Mobile Development</h2>
+
+<ul>
+<li><strong><a href="http://eclipsesource.com/blogs/2012/08/14/debugging-javascript-on-android-and-ios/">Debugging JavaScript on Android and iOS « EclipseSource Blog</a></strong>
+  <small>Great roundup of mobile web debugging approaches. </small></li>
+</ul>
+
+
+<h2>Ruby</h2>
+
+<ul>
+<li><strong><a href="http://blog.codeclimate.com/blog/2012/10/17/7-ways-to-decompose-fat-activerecord-models/">7 Ways to Decompose Fat ActiveRecord Models - Code Climate Blog</a></strong>
+  <small>1. Extract Value Objects, 2. Extract Service Objects, 3. Extract Form Objects, &#8230;</small></li>
+</ul>
+
+
+<h2>Node.js</h2>
+
+<ul>
+<li><strong><a href="http://senecajs.org/">Seneca by nodejsdublin</a></strong>
+  <small>A Node.js toolkit for building Minimum Viable Products</small></li>
+<li><strong><a href="https://github.com/dominictarr/scuttlebutt">dominictarr/scuttlebutt</a></strong>
+  <small>A base class that makes implementing datastructures for real-time replication easy.</small></li>
+</ul>
+
+
+<h2>Editors</h2>
+
+<ul>
+<li><strong><a href="http://www.moolenaar.net/habits.html">Vim: Seven habits of effective text editing</a></strong>
+  <small>Old but still valueable</small></li>
+</ul>
+
+
+<h2>Watching</h2>
+
+<ul>
+<li><strong><a href="http://www.youtube.com/playlist?list=PL7xs98_4dUoBR6otIilfEnBEePDBV1sro">Barcelona Ruby Conference 2012</a></strong>
+  <small>Some videos from Baruco on YouTube</small></li>
+<li><strong><a href="https://www.youtube.com/watch?feature=player_embedded">i3 - An Improved Tiling Window Manager - YouTube</a></strong>
+  <small>i3 Window Manager Google Tech Talk</small></li>
+<li><strong><a href="http://www.youtube.com/watch?v=lQAV3bPOYHo">LXJS 2012 - James Halliday - Harnessing The Awesome Power Of Streams - YouTube</a></strong>
+  <small>streams all over</small></li>
+</ul>
+
+
+<h2>Miscellaneous</h2>
+
+<ul>
+<li><strong><a href="http://googleblog.blogspot.de/2012/10/googles-data-centers-inside-look.html">Google’s data centers: an inside look | Official Google Blog</a></strong>
+  <small>A look into Google&#8217;s data center</small></li>
+</ul>
+
+
+<h2>Fun</h2>
+
+<ul>
+<li><strong><a href="http://lab.aerotwist.com/webgl/audio-room/">Audio Room</a></strong>
+  <small>Very nice demo</small></li>
+</ul>
+
+
+<h2>Your link could be here</h2>
+
+<p>If we missed something special or you just want to promote a site, give us a nudge @ <a href='&#109;&#97;&#105;&#108;t&#111;&#58;%7&#57;&#105;eld&#116;%68%65do%67&#64;gmail&#37;2&#69;c&#37;6&#70;m'>y&#105;eldt&#104;&#101;dog&#64;&#103;mail&#46;&#99;&#111;m</a></p>
+]]></content>
+  </entry>
+  
+  <entry>
     <title type="html"><![CDATA[Interesting Thingys 36]]></title>
     <link href="http://yieldthedog.github.com/blog/2012/10/12/interesting-thingys-36/"/>
-    <updated>2012-10-12T08:17:00+02:00</updated>
+    <updated>2012-10-12T08:17:00+01:00</updated>
     <id>http://yieldthedog.github.com/blog/2012/10/12/interesting-thingys-36</id>
     <content type="html"><![CDATA[<p>Lots of things to watch and listen this week…</p>
 
@@ -202,7 +310,7 @@
   <entry>
     <title type="html"><![CDATA[Interesting Thingys 35]]></title>
     <link href="http://yieldthedog.github.com/blog/2012/10/05/interesting-thingys-35/"/>
-    <updated>2012-10-05T08:17:00+02:00</updated>
+    <updated>2012-10-05T08:17:00+01:00</updated>
     <id>http://yieldthedog.github.com/blog/2012/10/05/interesting-thingys-35</id>
     <content type="html"><![CDATA[<p>Another round of Interesting Thingys. This week&#8217;s new releases: rvn, underscorejs, inuit.css and Microsoft&#8217;s TypeScript.</p>
 
@@ -368,7 +476,7 @@
   <entry>
     <title type="html"><![CDATA[Interesting Thingys 34]]></title>
     <link href="http://yieldthedog.github.com/blog/2012/09/28/interesting-thingys-34/"/>
-    <updated>2012-09-28T08:17:00+02:00</updated>
+    <updated>2012-09-28T08:17:00+01:00</updated>
     <id>http://yieldthedog.github.com/blog/2012/09/28/interesting-thingys-34</id>
     <content type="html"><![CDATA[<p>And another issue of Interesting Thingys…</p>
 
@@ -534,7 +642,7 @@
   <entry>
     <title type="html"><![CDATA[Interesting Thingys 33]]></title>
     <link href="http://yieldthedog.github.com/blog/2012/09/21/interesting-thingys-33/"/>
-    <updated>2012-09-21T08:17:00+02:00</updated>
+    <updated>2012-09-21T08:17:00+01:00</updated>
     <id>http://yieldthedog.github.com/blog/2012/09/21/interesting-thingys-33</id>
     <content type="html"><![CDATA[<p>Like every week we have collected great thingys for you, read on…</p>
 
@@ -688,7 +796,7 @@
   <entry>
     <title type="html"><![CDATA[Interesting Thingys 32]]></title>
     <link href="http://yieldthedog.github.com/blog/2012/09/14/interesting-thingys-32/"/>
-    <updated>2012-09-14T08:17:00+02:00</updated>
+    <updated>2012-09-14T08:17:00+01:00</updated>
     <id>http://yieldthedog.github.com/blog/2012/09/14/interesting-thingys-32</id>
     <content type="html"><![CDATA[<p>This week&#8217;s links feature again a wide variety of good reads and fabulous tools. Enjoy!</p>
 
@@ -892,7 +1000,7 @@
   <entry>
     <title type="html"><![CDATA[Interesing Thingys 31]]></title>
     <link href="http://yieldthedog.github.com/blog/2012/09/07/interesting-thingys-31/"/>
-    <updated>2012-09-07T08:17:00+02:00</updated>
+    <updated>2012-09-07T08:17:00+01:00</updated>
     <id>http://yieldthedog.github.com/blog/2012/09/07/interesting-thingys-31</id>
     <content type="html"><![CDATA[<p>This time with description popups. Hover over a link to see details.</p>
 
@@ -1126,7 +1234,7 @@
   <entry>
     <title type="html"><![CDATA[Interesing Thingys 30]]></title>
     <link href="http://yieldthedog.github.com/blog/2012/08/31/interesting-thingys-30/"/>
-    <updated>2012-08-31T08:17:00+02:00</updated>
+    <updated>2012-08-31T08:17:00+01:00</updated>
     <id>http://yieldthedog.github.com/blog/2012/08/31/interesting-thingys-30</id>
     <content type="html"><![CDATA[<p>This weeks list was assembled with a little help from <a href="http://heroku.com">heroku</a></p>
 
@@ -1331,7 +1439,7 @@
   <entry>
     <title type="html"><![CDATA[Interesing Thingys 29]]></title>
     <link href="http://yieldthedog.github.com/blog/2012/08/24/interesting-thingys-29/"/>
-    <updated>2012-08-24T00:00:00+02:00</updated>
+    <updated>2012-08-24T00:00:00+01:00</updated>
     <id>http://yieldthedog.github.com/blog/2012/08/24/interesting-thingys-29</id>
     <content type="html"><![CDATA[<p>What a week! Lots of exciting new stuff went on in the web community, read on…</p>
 
@@ -1502,7 +1610,7 @@ play full screen video as web site background</li>
   <entry>
     <title type="html"><![CDATA[Interesing Thingys 28]]></title>
     <link href="http://yieldthedog.github.com/blog/2012/08/17/interesting-thingys-28/"/>
-    <updated>2012-08-17T00:00:00+02:00</updated>
+    <updated>2012-08-17T00:00:00+01:00</updated>
     <id>http://yieldthedog.github.com/blog/2012/08/17/interesting-thingys-28</id>
     <content type="html"><![CDATA[<p>This week two projects turned 1.0, normalize.css and goliath.</p>
 
@@ -1681,7 +1789,7 @@ WebGL visualization of small arms and amunition trade</li>
   <entry>
     <title type="html"><![CDATA[Interesing Thingys 27]]></title>
     <link href="http://yieldthedog.github.com/blog/2012/08/10/interesting-thingys-27/"/>
-    <updated>2012-08-10T00:00:00+02:00</updated>
+    <updated>2012-08-10T00:00:00+01:00</updated>
     <id>http://yieldthedog.github.com/blog/2012/08/10/interesting-thingys-27</id>
     <content type="html"><![CDATA[<p>What a week! Here comes a massive link bomb, <em>behold</em>!</p>
 
@@ -1861,7 +1969,7 @@ Writing for hackers</li>
   <entry>
     <title type="html"><![CDATA[Interesing Thingys 26]]></title>
     <link href="http://yieldthedog.github.com/blog/2012/08/03/interesting-thingys-26/"/>
-    <updated>2012-08-03T08:17:00+02:00</updated>
+    <updated>2012-08-03T08:17:00+01:00</updated>
     <id>http://yieldthedog.github.com/blog/2012/08/03/interesting-thingys-26</id>
     <content type="html"><![CDATA[<p>This week a small list of links, it seem&#8217;s to be holiday season…</p>
 
@@ -1942,7 +2050,7 @@ Writing for hackers</li>
   <entry>
     <title type="html"><![CDATA[Interesing Thingys 25]]></title>
     <link href="http://yieldthedog.github.com/blog/2012/07/27/interesting-thingys-25/"/>
-    <updated>2012-07-27T08:17:00+02:00</updated>
+    <updated>2012-07-27T08:17:00+01:00</updated>
     <id>http://yieldthedog.github.com/blog/2012/07/27/interesting-thingys-25</id>
     <content type="html"><![CDATA[<p>This week we have a great potpourri of links for you. Check them out…</p>
 
@@ -2050,7 +2158,7 @@ Writing for hackers</li>
   <entry>
     <title type="html"><![CDATA[Interesing Thingys 24]]></title>
     <link href="http://yieldthedog.github.com/blog/2012/07/20/interesting-thingys-24/"/>
-    <updated>2012-07-20T08:17:00+02:00</updated>
+    <updated>2012-07-20T08:17:00+01:00</updated>
     <id>http://yieldthedog.github.com/blog/2012/07/20/interesting-thingys-24</id>
     <content type="html"><![CDATA[<p>After a two weeks&#8217; absence of Interesting Thingys another issue of this beloved serie with tons of great links:</p>
 
@@ -2177,7 +2285,7 @@ A Clojure implementation on top of C</li>
   <entry>
     <title type="html"><![CDATA[command line gems]]></title>
     <link href="http://yieldthedog.github.com/blog/2012/07/17/command-line-gems/"/>
-    <updated>2012-07-17T08:27:00+02:00</updated>
+    <updated>2012-07-17T08:27:00+01:00</updated>
     <id>http://yieldthedog.github.com/blog/2012/07/17/command-line-gems</id>
     <content type="html"><![CDATA[<p>As a long time command line lover, I have gathered a lot of little tools that help me throughout the day (and night). This list represents an unordered and probably incomplete inventory of my command line swiss army knife.</p>
 
@@ -2257,7 +2365,7 @@ The swiss army knife of video processing, video recording on the command line. T
   <entry>
     <title type="html"><![CDATA[Interesing Thingys 23]]></title>
     <link href="http://yieldthedog.github.com/blog/2012/07/06/interesting-thingys-23/"/>
-    <updated>2012-07-06T08:17:00+02:00</updated>
+    <updated>2012-07-06T08:17:00+01:00</updated>
     <id>http://yieldthedog.github.com/blog/2012/07/06/interesting-thingys-23</id>
     <content type="html"><![CDATA[<p>This week again with tons of new exciting links form the web and programming front…</p>
 
@@ -2379,7 +2487,7 @@ The swiss army knife of video processing, video recording on the command line. T
   <entry>
     <title type="html"><![CDATA[Interesing Thingys 22]]></title>
     <link href="http://yieldthedog.github.com/blog/2012/06/29/interesting-thingys-22/"/>
-    <updated>2012-06-29T08:17:00+02:00</updated>
+    <updated>2012-06-29T08:17:00+01:00</updated>
     <id>http://yieldthedog.github.com/blog/2012/06/29/interesting-thingys-22</id>
     <content type="html"><![CDATA[<p>This week with an uncountable number of various categories…</p>
 
@@ -2517,7 +2625,7 @@ The swiss army knife of video processing, video recording on the command line. T
   <entry>
     <title type="html"><![CDATA[Interesing Thingys 21]]></title>
     <link href="http://yieldthedog.github.com/blog/2012/06/22/interesting-thingys-21/"/>
-    <updated>2012-06-22T08:17:00+02:00</updated>
+    <updated>2012-06-22T08:17:00+01:00</updated>
     <id>http://yieldthedog.github.com/blog/2012/06/22/interesting-thingys-21</id>
     <content type="html"><![CDATA[<p>This week some Interesting Thingys from CSS, JavaScript, Ruby, and much more.</p>
 
@@ -2605,7 +2713,7 @@ now your ruby and command-line tools can talk with you</li>
   <entry>
     <title type="html"><![CDATA[Interesing Thingys 20]]></title>
     <link href="http://yieldthedog.github.com/blog/2012/06/15/interesting-thingys-20/"/>
-    <updated>2012-06-15T08:17:00+02:00</updated>
+    <updated>2012-06-15T08:17:00+01:00</updated>
     <id>http://yieldthedog.github.com/blog/2012/06/15/interesting-thingys-20</id>
     <content type="html"><![CDATA[<p>The 20th issue features lots articles on windows, css, javascript, and much more.</p>
 
@@ -2737,7 +2845,7 @@ nice rant on the current front end tech stack</li>
   <entry>
     <title type="html"><![CDATA[the lost art of reading source code]]></title>
     <link href="http://yieldthedog.github.com/blog/2012/06/12/the-lost-art-of-reading-source-code/"/>
-    <updated>2012-06-12T22:32:00+02:00</updated>
+    <updated>2012-06-12T22:32:00+01:00</updated>
     <id>http://yieldthedog.github.com/blog/2012/06/12/the-lost-art-of-reading-source-code</id>
     <content type="html"><![CDATA[<p>In my <em>old programming days</em> reading source code of libraries that I used was often a hard task. Either the code was closed source or only in binary format.</p>
 
@@ -2763,143 +2871,6 @@ nice rant on the current front end tech stack</li>
 <p>So what are you waiting for? Head over to the Github and <a href="https://github.com/sinatra/sinatra">check</a> <a href="https://github.com/jquery/jquery">out</a> <a href="https://github.com/ASP-NET-MVC/ASP.NET-Mvc-3">some</a> <a href="https://github.com/git/git">of</a> <a href="https://github.com/DmitryBaranovskiy/raphael">those</a> <a href="https://github.com/antirez/redis">great</a> <a href="https://github.com/nginx/nginx">projects</a>. And the next time you are stuck within a library or framework crack it open and look under the hood.</p>
 
 <p>Want to recommend a good code read? Just leave a comment!</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Interesting Thingys #19]]></title>
-    <link href="http://yieldthedog.github.com/blog/2012/06/08/interesting-thingys-19/"/>
-    <updated>2012-06-08T08:17:00+02:00</updated>
-    <id>http://yieldthedog.github.com/blog/2012/06/08/interesting-thingys-19</id>
-    <content type="html"><![CDATA[<p>Long time no see, this week links from our nearly forgotten category <em>physics</em></p>
-
-<!-- More -->
-
-
-<h3>GIT</h3>
-
-<ul>
-<li><a href="http://stackoverflow.com/questions/927358/git-undo-last-commit?newsletter=1&amp;nlcode=28472%7c4563">Git undo last commit - Stack Overflow</a></li>
-</ul>
-
-
-<h3>HTML5</h3>
-
-<ul>
-<li><a href="http://radar.oreilly.com/2012/06/html5-apps-datajournalism-doj-lawsuit.html">O&#39;Reilly - HTML5 may be winning the war against apps - O&#39;Reilly Radar</a></li>
-</ul>
-
-
-<h3>Ruby</h3>
-
-<ul>
-<li><a href="http://www.unlimitednovelty.com/2012/06/ruby-is-faster-than-python-php-and-perl.html">Unlimited Novelty: Ruby is faster than Python, PHP, and Perl</a></li>
-<li><a href="http://confreaks.com/videos/856-railsconf2012-getting-down-to-earth-geospatial-analysis-with-rails">Getting Down To Earth: Geospatial Analysis With Rails - Daniel Azuma - RailsConf 2012</a> and the <a href="http://www.daniel-azuma.com/blog/archives/256">RailsConf 2012 Talk Notes | Daniel Azuma</a> with tons of links.</li>
-</ul>
-
-
-<h3>Javascript</h3>
-
-<ul>
-<li><a href="http://www.youtube.com/watch?v=Rj49rmc01Hs">Fluent 2012: Brendan Eich, &quot;JavaScript at 17&quot; - YouTube</a></li>
-<li><a href="http://www.adobe.com/devnet/html5/articles/javascript-architecture-requirejs-dependency-management.html?utm_source=javascriptweekly&amp;utm_medium=email">Dependency management with RequireJS | Adobe Developer Connection</a></li>
-<li><a href="http://mohayonao.github.com/timbre/">timbre - JavaScript Library for Objective Sound Programming</a></li>
-<li><a href="http://addyosmani.com/blog/ecmascript-6-resources-for-the-curious-javascripter/">ECMAScript 6 Resources For The Curious JavaScripter</a></li>
-<li><a href="http://www.stevesouders.com/blog/2012/05/22/self-updating-scripts/">Self-updating scripts | High Performance Web Sites</a></li>
-<li><a href="http://destroytoday.com/blog/reasons-for-spinejs/">Destroy Today / 10 reasons why I switched to Spine.js</a></li>
-<li><a href="http://jquerypp.com/">jQuery++</a></li>
-<li><a href="http://hpneo.github.com/gmaps/examples.html">gmaps.js — the easiest way to use Google Maps</a></li>
-<li><a href="http://cnnr.me/b/2012/05/your-first-node-dot-js-module/">Your first node.js module - Connor Montgomery</a></li>
-</ul>
-
-
-<h3>CSS</h3>
-
-<ul>
-<li><a href="http://csswizardry.com/2012/04/the-single-responsibility-principle-applied-to-css/">The single responsibility principle applied to CSS — CSS Wizardry—CSS, Web Standards, Typography, and Grids by Harry Roberts</a></li>
-<li><a href="http://dev.opera.com/articles/view/understanding-the-css-transforms-matrix/">Understanding the CSS Transforms Matrix - Dev.Opera</a></li>
-<li><a href="http://paulrouget.com/e/devtoolsupdate/">Responsive Mode and Layout View in Firefox 15 // by Paul Rouget</a></li>
-<li><a href="http://nicholsonws.com/archive/the-tilde-is-an-amazing-css-selector">The Tilde is an Amazing CSS Selector. - Nicholson Web Software</a></li>
-<li><a href="http://meyerweb.com/eric/thoughts/2012/05/31/gradient-repetition/">Eric&#39;s Archived Thoughts: Gradient Repetition</a></li>
-</ul>
-
-
-<h3>Vim</h3>
-
-<ul>
-<li><a href="http://vim.wikia.com/wiki/Best_Vim_Tips#Easter_eggs">Vim Eastereggs</a></li>
-<li><a href="https://github.com/vim-scripts/Shebang">vim-scripts/Shebang</a></li>
-</ul>
-
-
-<h3>Mobile</h3>
-
-<ul>
-<li><a href="http://www.adobe.com/devnet/html5/articles/native-like-ux-phonegap-app-ui.html">Creating native-like user experiences in PhoneGap with App-UI | Adobe Developer Connection</a></li>
-</ul>
-
-
-<h3>Productivity</h3>
-
-<ul>
-<li><a href="https://www.shortcutfoo.com/">Learn Shortcuts. Vim Commands, Command Line, Unix Commands, Sublime Keys, TextMate Keys, Emacs Keys</a></li>
-</ul>
-
-
-<h3>Databases</h3>
-
-<ul>
-<li><a href="http://dickey.xxx/mysql-is-done-it-s-the-postgres-age">MySQL is done. It&#39;s the Postgres Age. by Jeff Dickey</a></li>
-</ul>
-
-
-<h3>Performance</h3>
-
-<ul>
-<li><a href="http://engineering.twitter.com/2012/05/improving-performance-on-twittercom.html">Twitter Engineering: Improving performance on twitter.com</a></li>
-<li><a href="http://openmymind.net/2012/5/30/Client-Side-vs-Server-Side-Rendering/">Client-Side vs. Server-Side Rendering</a></li>
-</ul>
-
-
-<h3>Programming</h3>
-
-<ul>
-<li><a href="http://www.writemoretests.com/2012/06/code-reviews-that-might-actually-work.html">Code Reviews that might actually work — Write More Tests</a></li>
-<li><a href="https://www.youtube.com/watch?v=G0eBDWigORY&amp;feature=related">Erlang in production: &quot;I wish I&#39;d known that when I started&quot; - Bernard Duggan - YouTube</a></li>
-</ul>
-
-
-<h3>Other</h3>
-
-<ul>
-<li><a href="http://7habitsofhighlyeffectivehackers.blogspot.com.au/2012/05/using-twitter-to-build-password.html">7 Habits of Highly Effective Hackers: Using twitter to build password cracking wordlist</a></li>
-<li><a href="http://hnrankings.info/">Hacker News Rankings</a></li>
-</ul>
-
-
-<h3>Hosting / Server / SPDY</h3>
-
-<ul>
-<li><a href="http://lists.w3.org/Archives/Public/ietf-http-wg/2012AprJun/0498">SPDY Review from Martin Nilsson</a></li>
-<li><a href="http://www.mozilla.org/en-US/firefox/13.0/releasenotes/">Firefox now supports SPDY by default</a></li>
-</ul>
-
-
-<h3>Physics</h3>
-
-<ul>
-<li><a href="http://www.youtube.com/watch?v=og2fHSyWcJI">The Second Copernican Revolution: Our Changing View of Our Place in the Universe - YouTube</a></li>
-<li><a href="http://www.youtube.com/watch?v=_mZQ-5-KYHw">Minute Physics - Picture of the Big Bang (aka Oldest Light in the Universe)</a></li>
-<li><a href="http://www.bigbangregistry.com/">Big Bang Registry</a></li>
-</ul>
-
-
-<h3>Fun</h3>
-
-<ul>
-<li><a href="http://kottke.org/12/06/the-worlds-worst-password-requirements-list">The world&#39;s worst password requirements list</a></li>
-</ul>
-
 ]]></content>
   </entry>
   
