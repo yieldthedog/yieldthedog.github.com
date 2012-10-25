@@ -4,7 +4,7 @@
   <title><![CDATA[yield the dog]]></title>
   <link href="http://yieldthedog.github.com/atom.xml" rel="self"/>
   <link href="http://yieldthedog.github.com/"/>
-  <updated>2012-10-19T07:39:25+01:00</updated>
+  <updated>2012-10-26T00:32:00+02:00</updated>
   <id>http://yieldthedog.github.com/</id>
   <author>
     <name><![CDATA[yield the dog]]></name>
@@ -14,9 +14,163 @@
 
   
   <entry>
+    <title type="html"><![CDATA[Interesting Thingys 38]]></title>
+    <link href="http://yieldthedog.github.com/blog/2012/10/26/interesting-thingys-38/"/>
+    <updated>2012-10-26T08:17:00+02:00</updated>
+    <id>http://yieldthedog.github.com/blog/2012/10/26/interesting-thingys-38</id>
+    <content type="html"><![CDATA[<p>This week&#8217;s new releases: Redis, Gitlab, Jruby, Meteor</p>
+
+<!-- More -->
+
+
+<h2>JavaScript</h2>
+
+<ul>
+<li><strong><a href="http://callbackhell.com/">Callback Hell</a></strong>
+  <small>What can you do against callback hell?</small></li>
+<li><strong><a href="https://github.com/jsantell/dancer.js">jsantell/dancer.js</a></strong>
+  <small>high-level audio API, designed to make sweet visualizations</small></li>
+</ul>
+
+
+<h2>CSS</h2>
+
+<ul>
+<li><strong><a href="https://github.com/zythum/css3-bookTurnPage">zythum/css3-bookTurnPage</a></strong>
+  <small>Turn pages like in a book</small></li>
+<li><strong><a href="http://www.adobe.com/devnet/html5/articles/css-filterlab.html">Introducing CSS FilterLab | Adobe Developer Connection</a></strong>
+  <small>CSS FilterLab is a browser-based tool that lets you play with CSS filters</small></li>
+<li><strong><a href="http://exacttarget.github.com/fuelux/">Fuel UX</a></strong>
+  <small>Lightweight Javascript controls for Bootstrap</small></li>
+<li><strong><a href="http://csswizardry.com/2012/10/a-classless-class-on-using-more-classes-in-your-html/">A classless class—on using more classes in your HTML — CSS Wizardry—CSS, Web Standards, Typography, and Grids by Harry Roberts</a></strong>
+  <small>This article is a pretty basic one, but it’s aimed at developers struggling to shake the idea that classes in your HTML are somehow a bad thing. Quite often, developers new to OOCSS find it hard to transition from adding no classes to anything to adding as many as you need (i.e. a lot more than you were). </small></li>
+<li><strong><a href="http://codetheory.in/the-real-beauty-of-css3-box-shadows/">The Real Beauty of CSS3 Box Shadows | Code Theory</a></strong>
+  <small>You might have used CSS3 box shadows several times to create some pretty looking drop shadows like you do in Photoshop. That’s great! But do you even know how it can be used for some other mind boggling purposes ? If not, then you are definitely going to like what I am about to show you.</small></li>
+<li><strong><a href="http://coding.smashingmagazine.com/2012/10/23/road-reusable-html-components/">The Road To Reusable HTML Components | Smashing Coding</a></strong>
+  <small>How to make your html more reusable&#8230;</small></li>
+</ul>
+
+
+<h2>HTML (5)</h2>
+
+<ul>
+<li><strong><a href="http://www.smartjava.org/content/exploring-html5-web-audio-visualizing-sound">Exploring the HTML5 Web Audio: visualizing sound | Smartjava.org</a></strong>
+  <small>A walkthrough of building a volume meter, a frequency spectrum graph, and a time based spectrogram.</small></li>
+<li><strong><a href="http://pitchfork.com/features/cover-story/reader/bat-for-lashes/">&#8220;Bat for Lashes&#8221; on Pitchfork</a></strong>
+  <small>very nicely done cover-story of the new album &#8220;glitter in the dark&#8221; by Bat For Lashes</small></li>
+</ul>
+
+
+<h2>Web Development</h2>
+
+<ul>
+<li><strong><a href="http://www.netmagazine.com/features/your-mobile-site-slower-you-think">Your mobile site is slower than you think | Feature | .net magazine</a></strong>
+  <small>Comparison between desktop and smartphone / tablet </small></li>
+</ul>
+
+
+<h2>Ruby</h2>
+
+<ul>
+<li><strong><a href="http://jruby.org/2012/10/22/jruby-1-7-0.html">JRuby 1.7.0. Released — JRuby.org</a></strong>
+  <small>1.9.3 is now our default runtime mode (–1.8 is needed for 1.8.7 support) Ruby standard library updated to 1.9.3p286 Many 1.9.x compatibility fixes Support for invokedynamic</small></li>
+<li><strong><a href="https://github.com/glucero/fusuma">glucero/fusuma</a></strong>
+  <small>window management for OSX</small></li>
+</ul>
+
+
+<h2>Node.js</h2>
+
+<ul>
+<li><strong><a href="https://github.com/dominictarr/stream-punks">dominictarr/stream-punks</a></strong>
+  <small>discussion repo for streams</small></li>
+<li><strong><a href="https://github.com/dshaw/repl-client">dshaw/repl-client</a></strong>
+  <small>REPL client with tab completion and history. A simple, npm installable alternative to netcat (nc) and socat. </small></li>
+<li><strong><a href="http://www.meteor.com/blog/2012/10/17/meteor-050-authentication-user-accounts-new-screencast">Meteor 0.5</a></strong>
+  <small>now with authentication</small></li>
+<li><strong><a href="https://github.com/jgautier/firmata">jgautier/firmata</a></strong>
+  <small>firmata protocol implemented in javascript </small></li>
+<li><strong><a href="https://github.com/dominictarr/through">dominictarr/through · GitHub</a></strong>
+  <small>simple way to create a ReadableWritable stream that works</small></li>
+<li><strong><a href="https://github.com/Leonidas-from-XIV/node-xml2js">Leonidas-from-XIV/node-xml2js</a></strong>
+  <small>Simple XML to JavaScript object converter.</small></li>
+<li><strong><a href="https://github.com/bkw/node-dronestream">bkw/node-dronestream</a></strong>
+  <small>Realtime video feed from ar.parrot 2.0 drones in pure javascript. Successor of nodecopter-stream</small></li>
+<li><strong><a href="https://github.com/dominictarr/convoy-stream">dominictarr/convoy-stream</a></strong>
+  <small>A meta-stream for sending multiple streams down a single stream. Like mux-demux except in series instead of in parallel.</small></li>
+<li><strong><a href="http://tjholowaychuk.com/post/34189797102/express-3-0">Express 3.0</a></strong>
+  <small>Express 3.0 is here (finally) and while it is mostly a refinement release, between it and Connect 2.x there are some helpful new features.</small></li>
+<li><strong><a href="http://maxogden.com/scraping-with-node.html">Scraping with Node</a></strong>
+  <small>One of the the best parts about server side JavaScript is the lack of the DOM, but sometimes you need to parse HTML in your node programs.</small></li>
+<li><strong><a href="https://github.com/ariya/grunt-jsvalidate">ariya/grunt-jsvalidate</a></strong>
+  <small>Grunt task to validate JavaScript source</small></li>
+</ul>
+
+
+<h2>Programming</h2>
+
+<ul>
+<li><strong><a href="http://jakevdp.github.com/blog/2012/10/07/xkcd-style-plots-in-matplotlib/">XKCD-style plots in Matplotlib - Pythonic Perambulations</a></strong>
+  <small>Python Matplotlib meets XKCD</small></li>
+<li><strong><a href="http://gitlabhq.com/">GITLAB: Self Hosted Git Management Application</a></strong>
+  <small>Self hosted git web interface</small></li>
+</ul>
+
+
+<h2>Databases</h2>
+
+<ul>
+<li><strong><a href="http://redis.io/download#2.6.0">Redis 2.6</a></strong>
+  <small>edis 2.6 features support for Lua scripting, milliseconds precision expires, improved memory usage, unlimited number of clients, improved AOF generation, better performance, a number of new commands and features.</small></li>
+</ul>
+
+
+<h2>Git</h2>
+
+<ul>
+<li><strong><a href="http://blog.gitlabhq.com/gitlab-3-dot-0-released/">GitLab 3 - GITLAB Blog</a></strong>
+  <small>GitLab version 3.0 released with tons of new features</small></li>
+</ul>
+
+
+<h2>Watching</h2>
+
+<ul>
+<li><strong><a href="http://vimeo.com/album/2106741/video/51120680">The State of Open Source Monitoring: The good, the bad, the fucking terrible, and a glimpse into our future. on Vimeo</a></strong>
+  <small>Talk about monitoring tools</small></li>
+<li><strong><a href="http://blog.teamtreehouse.com/treehouse-friends-paul-irish">Treehouse Friends: Paul Irish - Treehouse Blog</a></strong>
+  <small>Treehouse Friends is a series of interviews with interesting people in the web design and dev fields and other industry experts.</small></li>
+<li><strong><a href="http://confreaks.com/videos/1228-aloharuby2012-keynote-rails-4-and-the-future-of-web">Keynote - Rails 4 and the Future of Web - Aaron Patterson - Aloha Ruby Conf 2012</a></strong>
+  <small>What&#8217;s new in Rails 4? How does Rails 4 fit in to the future of web development? Why are cats so important to the development of Ruby and Rails? All these questions and more will be answered if you attend this talk. Seats are limited, so act now!</small></li>
+</ul>
+
+
+<h2>Mobile Webdevelopment</h2>
+
+<ul>
+<li><strong><a href="http://mobile.smashingmagazine.com/2012/10/08/the-semantic-responsive-design-navicon/">The Semantic, Responsive Navicon</a></strong>
+  <small>A good read about the right Icon for mobile Navigation</small></li>
+</ul>
+
+
+<h2>Deployment</h2>
+
+<ul>
+<li><strong><a href="http://layervault.tumblr.com/post/33781162425/divergence">Divergence</a></strong>
+  <small>deploy and test multiple feature-branches at the same time - with git and rack </small></li>
+</ul>
+
+
+<h2>Your link could be here</h2>
+
+<p>If we missed something special or you just want to promote a site, give us a nudge @ <a href='&#109;&#97;&#105;&#108;t&#111;&#58;%7&#57;&#105;eld&#116;%68%65do%67&#64;gmail&#37;2&#69;c&#37;6&#70;m'>y&#105;eldt&#104;&#101;dog&#64;&#103;mail&#46;&#99;&#111;m</a></p>
+]]></content>
+  </entry>
+  
+  <entry>
     <title type="html"><![CDATA[Interesting Thingys 37]]></title>
     <link href="http://yieldthedog.github.com/blog/2012/10/19/interesting-thingys-37/"/>
-    <updated>2012-10-19T08:17:00+01:00</updated>
+    <updated>2012-10-19T08:17:00+02:00</updated>
     <id>http://yieldthedog.github.com/blog/2012/10/19/interesting-thingys-37</id>
     <content type="html"><![CDATA[<p>This week just a small compilation of new and valuable links.</p>
 
@@ -124,7 +278,7 @@
   <entry>
     <title type="html"><![CDATA[Interesting Thingys 36]]></title>
     <link href="http://yieldthedog.github.com/blog/2012/10/12/interesting-thingys-36/"/>
-    <updated>2012-10-12T08:17:00+01:00</updated>
+    <updated>2012-10-12T08:17:00+02:00</updated>
     <id>http://yieldthedog.github.com/blog/2012/10/12/interesting-thingys-36</id>
     <content type="html"><![CDATA[<p>Lots of things to watch and listen this week…</p>
 
@@ -310,7 +464,7 @@
   <entry>
     <title type="html"><![CDATA[Interesting Thingys 35]]></title>
     <link href="http://yieldthedog.github.com/blog/2012/10/05/interesting-thingys-35/"/>
-    <updated>2012-10-05T08:17:00+01:00</updated>
+    <updated>2012-10-05T08:17:00+02:00</updated>
     <id>http://yieldthedog.github.com/blog/2012/10/05/interesting-thingys-35</id>
     <content type="html"><![CDATA[<p>Another round of Interesting Thingys. This week&#8217;s new releases: rvn, underscorejs, inuit.css and Microsoft&#8217;s TypeScript.</p>
 
@@ -476,7 +630,7 @@
   <entry>
     <title type="html"><![CDATA[Interesting Thingys 34]]></title>
     <link href="http://yieldthedog.github.com/blog/2012/09/28/interesting-thingys-34/"/>
-    <updated>2012-09-28T08:17:00+01:00</updated>
+    <updated>2012-09-28T08:17:00+02:00</updated>
     <id>http://yieldthedog.github.com/blog/2012/09/28/interesting-thingys-34</id>
     <content type="html"><![CDATA[<p>And another issue of Interesting Thingys…</p>
 
@@ -642,7 +796,7 @@
   <entry>
     <title type="html"><![CDATA[Interesting Thingys 33]]></title>
     <link href="http://yieldthedog.github.com/blog/2012/09/21/interesting-thingys-33/"/>
-    <updated>2012-09-21T08:17:00+01:00</updated>
+    <updated>2012-09-21T08:17:00+02:00</updated>
     <id>http://yieldthedog.github.com/blog/2012/09/21/interesting-thingys-33</id>
     <content type="html"><![CDATA[<p>Like every week we have collected great thingys for you, read on…</p>
 
@@ -796,7 +950,7 @@
   <entry>
     <title type="html"><![CDATA[Interesting Thingys 32]]></title>
     <link href="http://yieldthedog.github.com/blog/2012/09/14/interesting-thingys-32/"/>
-    <updated>2012-09-14T08:17:00+01:00</updated>
+    <updated>2012-09-14T08:17:00+02:00</updated>
     <id>http://yieldthedog.github.com/blog/2012/09/14/interesting-thingys-32</id>
     <content type="html"><![CDATA[<p>This week&#8217;s links feature again a wide variety of good reads and fabulous tools. Enjoy!</p>
 
@@ -1000,7 +1154,7 @@
   <entry>
     <title type="html"><![CDATA[Interesing Thingys 31]]></title>
     <link href="http://yieldthedog.github.com/blog/2012/09/07/interesting-thingys-31/"/>
-    <updated>2012-09-07T08:17:00+01:00</updated>
+    <updated>2012-09-07T08:17:00+02:00</updated>
     <id>http://yieldthedog.github.com/blog/2012/09/07/interesting-thingys-31</id>
     <content type="html"><![CDATA[<p>This time with description popups. Hover over a link to see details.</p>
 
@@ -1234,7 +1388,7 @@
   <entry>
     <title type="html"><![CDATA[Interesing Thingys 30]]></title>
     <link href="http://yieldthedog.github.com/blog/2012/08/31/interesting-thingys-30/"/>
-    <updated>2012-08-31T08:17:00+01:00</updated>
+    <updated>2012-08-31T08:17:00+02:00</updated>
     <id>http://yieldthedog.github.com/blog/2012/08/31/interesting-thingys-30</id>
     <content type="html"><![CDATA[<p>This weeks list was assembled with a little help from <a href="http://heroku.com">heroku</a></p>
 
@@ -1439,7 +1593,7 @@
   <entry>
     <title type="html"><![CDATA[Interesing Thingys 29]]></title>
     <link href="http://yieldthedog.github.com/blog/2012/08/24/interesting-thingys-29/"/>
-    <updated>2012-08-24T00:00:00+01:00</updated>
+    <updated>2012-08-24T00:00:00+02:00</updated>
     <id>http://yieldthedog.github.com/blog/2012/08/24/interesting-thingys-29</id>
     <content type="html"><![CDATA[<p>What a week! Lots of exciting new stuff went on in the web community, read on…</p>
 
@@ -1610,7 +1764,7 @@ play full screen video as web site background</li>
   <entry>
     <title type="html"><![CDATA[Interesing Thingys 28]]></title>
     <link href="http://yieldthedog.github.com/blog/2012/08/17/interesting-thingys-28/"/>
-    <updated>2012-08-17T00:00:00+01:00</updated>
+    <updated>2012-08-17T00:00:00+02:00</updated>
     <id>http://yieldthedog.github.com/blog/2012/08/17/interesting-thingys-28</id>
     <content type="html"><![CDATA[<p>This week two projects turned 1.0, normalize.css and goliath.</p>
 
@@ -1789,7 +1943,7 @@ WebGL visualization of small arms and amunition trade</li>
   <entry>
     <title type="html"><![CDATA[Interesing Thingys 27]]></title>
     <link href="http://yieldthedog.github.com/blog/2012/08/10/interesting-thingys-27/"/>
-    <updated>2012-08-10T00:00:00+01:00</updated>
+    <updated>2012-08-10T00:00:00+02:00</updated>
     <id>http://yieldthedog.github.com/blog/2012/08/10/interesting-thingys-27</id>
     <content type="html"><![CDATA[<p>What a week! Here comes a massive link bomb, <em>behold</em>!</p>
 
@@ -1969,7 +2123,7 @@ Writing for hackers</li>
   <entry>
     <title type="html"><![CDATA[Interesing Thingys 26]]></title>
     <link href="http://yieldthedog.github.com/blog/2012/08/03/interesting-thingys-26/"/>
-    <updated>2012-08-03T08:17:00+01:00</updated>
+    <updated>2012-08-03T08:17:00+02:00</updated>
     <id>http://yieldthedog.github.com/blog/2012/08/03/interesting-thingys-26</id>
     <content type="html"><![CDATA[<p>This week a small list of links, it seem&#8217;s to be holiday season…</p>
 
@@ -2050,7 +2204,7 @@ Writing for hackers</li>
   <entry>
     <title type="html"><![CDATA[Interesing Thingys 25]]></title>
     <link href="http://yieldthedog.github.com/blog/2012/07/27/interesting-thingys-25/"/>
-    <updated>2012-07-27T08:17:00+01:00</updated>
+    <updated>2012-07-27T08:17:00+02:00</updated>
     <id>http://yieldthedog.github.com/blog/2012/07/27/interesting-thingys-25</id>
     <content type="html"><![CDATA[<p>This week we have a great potpourri of links for you. Check them out…</p>
 
@@ -2158,7 +2312,7 @@ Writing for hackers</li>
   <entry>
     <title type="html"><![CDATA[Interesing Thingys 24]]></title>
     <link href="http://yieldthedog.github.com/blog/2012/07/20/interesting-thingys-24/"/>
-    <updated>2012-07-20T08:17:00+01:00</updated>
+    <updated>2012-07-20T08:17:00+02:00</updated>
     <id>http://yieldthedog.github.com/blog/2012/07/20/interesting-thingys-24</id>
     <content type="html"><![CDATA[<p>After a two weeks&#8217; absence of Interesting Thingys another issue of this beloved serie with tons of great links:</p>
 
@@ -2285,7 +2439,7 @@ A Clojure implementation on top of C</li>
   <entry>
     <title type="html"><![CDATA[command line gems]]></title>
     <link href="http://yieldthedog.github.com/blog/2012/07/17/command-line-gems/"/>
-    <updated>2012-07-17T08:27:00+01:00</updated>
+    <updated>2012-07-17T08:27:00+02:00</updated>
     <id>http://yieldthedog.github.com/blog/2012/07/17/command-line-gems</id>
     <content type="html"><![CDATA[<p>As a long time command line lover, I have gathered a lot of little tools that help me throughout the day (and night). This list represents an unordered and probably incomplete inventory of my command line swiss army knife.</p>
 
@@ -2365,7 +2519,7 @@ The swiss army knife of video processing, video recording on the command line. T
   <entry>
     <title type="html"><![CDATA[Interesing Thingys 23]]></title>
     <link href="http://yieldthedog.github.com/blog/2012/07/06/interesting-thingys-23/"/>
-    <updated>2012-07-06T08:17:00+01:00</updated>
+    <updated>2012-07-06T08:17:00+02:00</updated>
     <id>http://yieldthedog.github.com/blog/2012/07/06/interesting-thingys-23</id>
     <content type="html"><![CDATA[<p>This week again with tons of new exciting links form the web and programming front…</p>
 
@@ -2487,7 +2641,7 @@ The swiss army knife of video processing, video recording on the command line. T
   <entry>
     <title type="html"><![CDATA[Interesing Thingys 22]]></title>
     <link href="http://yieldthedog.github.com/blog/2012/06/29/interesting-thingys-22/"/>
-    <updated>2012-06-29T08:17:00+01:00</updated>
+    <updated>2012-06-29T08:17:00+02:00</updated>
     <id>http://yieldthedog.github.com/blog/2012/06/29/interesting-thingys-22</id>
     <content type="html"><![CDATA[<p>This week with an uncountable number of various categories…</p>
 
@@ -2625,7 +2779,7 @@ The swiss army knife of video processing, video recording on the command line. T
   <entry>
     <title type="html"><![CDATA[Interesing Thingys 21]]></title>
     <link href="http://yieldthedog.github.com/blog/2012/06/22/interesting-thingys-21/"/>
-    <updated>2012-06-22T08:17:00+01:00</updated>
+    <updated>2012-06-22T08:17:00+02:00</updated>
     <id>http://yieldthedog.github.com/blog/2012/06/22/interesting-thingys-21</id>
     <content type="html"><![CDATA[<p>This week some Interesting Thingys from CSS, JavaScript, Ruby, and much more.</p>
 
@@ -2713,7 +2867,7 @@ now your ruby and command-line tools can talk with you</li>
   <entry>
     <title type="html"><![CDATA[Interesing Thingys 20]]></title>
     <link href="http://yieldthedog.github.com/blog/2012/06/15/interesting-thingys-20/"/>
-    <updated>2012-06-15T08:17:00+01:00</updated>
+    <updated>2012-06-15T08:17:00+02:00</updated>
     <id>http://yieldthedog.github.com/blog/2012/06/15/interesting-thingys-20</id>
     <content type="html"><![CDATA[<p>The 20th issue features lots articles on windows, css, javascript, and much more.</p>
 
@@ -2839,38 +2993,6 @@ xip.io is a magic domain name that provides wildcard DNS for any IP address.</li
 nice rant on the current front end tech stack</li>
 </ul>
 
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[the lost art of reading source code]]></title>
-    <link href="http://yieldthedog.github.com/blog/2012/06/12/the-lost-art-of-reading-source-code/"/>
-    <updated>2012-06-12T22:32:00+01:00</updated>
-    <id>http://yieldthedog.github.com/blog/2012/06/12/the-lost-art-of-reading-source-code</id>
-    <content type="html"><![CDATA[<p>In my <em>old programming days</em> reading source code of libraries that I used was often a hard task. Either the code was closed source or only in binary format.</p>
-
-<p>Today we live in a world in which programmers like to share their code and have the tools to do so. We could not be more lucky. To solve a certain task we can choose from <strong>many different solutions</strong> that may vary in <strong>quality</strong> and <strong>functionality</strong>. If one does not fit the purpose we just use the next one.</p>
-
-<!-- more -->
-
-
-<h2>When unsolvable problems arise</h2>
-
-<p>Most open source solutions have a <strong>solid documentation</strong>, otherwise they could not compete with the <strong>high standard</strong>. Still from times to times I am confronted with problems that are not covered in the documentation and can not be solved with the help of Google. Sometimes a colleague asks me a question, sometimes I find a question on StackOverflow with a problem that the person was not able to solve.</p>
-
-<p>When such a problem arises I like to open the library and <strong>dig in the source code</strong>. I have <a href="http://stackoverflow.com/questions/8112646/raphael-js-2-0-animate-translation-with-variable-inconsistency-noob/8112744#8112744">found</a> <a href="http://stackoverflow.com/questions/7506538/scrollto-with-easing-and-a-callback-function/7506799#7506799">many</a> <a href="http://stackoverflow.com/questions/8022926/jquery-validate-plugin-test-value-for-email-pattern/8023132#8023132">solutions</a> by reading and debugging the code of a library (even of libraries I did not use or know until then). <em>It&#8217;s fantastic</em>. You find yourself in a different, uncomfortable zone and can learn so much by just reading. You can uncover hidden gems or APIs inside your library that where not supposed to be directly visible for the public, or you can find details that are missing in the documentation. In the latter case it should be a good coder&#8217;s duty to help and update the documentation. And you can learn how others try to solve problems which may give you <strong>new perspectives</strong>.</p>
-
-<p>But, you can also get <strong>terrified</strong> by what you are looking at. It happens rather rarely to me. Once in a while I trip over code that is a mess, is horrible to read or debug, or was just written by an unskilled person. Do not get me wrong here. I have deep respect for everyone who is open sourcing a project, but I do not want to use code that is below my standards. I appreciate these moments, because they help me to form an environment in which I can develop at a steady pace. I do not want to get stuck because of library code.</p>
-
-<h2>What you need to start</h2>
-
-<p>Nothing, you do not need anything but <strong>curiosity</strong>. That&#8217;s the fun part. Most stable open source projects have a fantastic code base that is easy to understand and read. In my opinion this has a rather simple reason: If they do not care for code quality, they soon suffer a painful death in the vicious circle of unmanageable code.</p>
-
-<p>You do not need to understand the whole thing at once but most projects have modules or other encapsulated logic that makes it easy to understand a part of the whole.</p>
-
-<p>So what are you waiting for? Head over to the Github and <a href="https://github.com/sinatra/sinatra">check</a> <a href="https://github.com/jquery/jquery">out</a> <a href="https://github.com/ASP-NET-MVC/ASP.NET-Mvc-3">some</a> <a href="https://github.com/git/git">of</a> <a href="https://github.com/DmitryBaranovskiy/raphael">those</a> <a href="https://github.com/antirez/redis">great</a> <a href="https://github.com/nginx/nginx">projects</a>. And the next time you are stuck within a library or framework crack it open and look under the hood.</p>
-
-<p>Want to recommend a good code read? Just leave a comment!</p>
 ]]></content>
   </entry>
   
