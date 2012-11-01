@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Interesting-Thingys | yield the dog]]></title>
   <link href="http://yieldthedog.github.com/blog/categories/interesting-thingys/atom.xml" rel="self"/>
   <link href="http://yieldthedog.github.com/"/>
-  <updated>2012-10-26T00:32:00+02:00</updated>
+  <updated>2012-11-01T22:06:14+01:00</updated>
   <id>http://yieldthedog.github.com/</id>
   <author>
     <name><![CDATA[yield the dog]]></name>
@@ -12,6 +12,140 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Interesting Thingys 39]]></title>
+    <link href="http://yieldthedog.github.com/blog/2012/11/02/interesting-thingys-40/"/>
+    <updated>2012-11-02T08:17:00+01:00</updated>
+    <id>http://yieldthedog.github.com/blog/2012/11/02/interesting-thingys-40</id>
+    <content type="html"><![CDATA[<p>This week is home cinema week, lots of new stuff to watch…</p>
+
+<!-- More -->
+
+
+<h2>JavaScript</h2>
+
+<ul>
+<li><strong><a href="http://doctrina.org/Javascript-Function-Invocation-Patterns.html">JavaScript: Function Invocation Patterns</a></strong>
+  <small>Method Invocation, Function Invocation, Constructor Invocation, Apply And Call Invocation</small></li>
+<li><strong><a href="https://github.com/latentflip/violin">latentflip/violin</a></strong>
+  <small>This is a very early stage project looking at instrumenting and visualizing JavaScript execution. </small></li>
+</ul>
+
+
+<h2>CSS</h2>
+
+<ul>
+<li><strong><a href="http://soulwire.github.com/Makisu/">Makisu ~ CSS 3D Dropdown Concept</a></strong>
+  <small>interesting dropdown</small></li>
+<li><strong><a href="http://trac.webkit.org/changeset/132321">CSS Reload - Changeset 132321 – WebKit</a></strong>
+  <small>CSS reload on Sass save</small></li>
+<li><strong><a href="http://tympanus.net/Development/Slicebox/index4.html">Slicebox - 3D Image Slider</a></strong>
+  <small>nice</small></li>
+<li><strong><a href="http://disruptive-innovations.com/zoo/customers/CSSWG/Priorities.html">CSS Priorities 2012-oct-17</a></strong>
+  <small>CSSWG voted on the next priorities</small></li>
+</ul>
+
+
+<h2>HTML5</h2>
+
+<ul>
+<li><strong><a href="http://enotionz.github.com/jscii/">Jscii</a></strong>
+  <small>Ascii art stream directly from your camera</small></li>
+<li><strong><a href="http://demo.agektmr.com/datalist/">datalist experiment</a></strong>
+  <small>By using <datalist>, you can define a list of suggestions you want the user to select from. Users can optionally select from your suggestions as well as typing it by themselves.</small></li>
+</ul>
+
+
+<h2>Web Development</h2>
+
+<ul>
+<li><strong><a href="https://github.com/codylindley/frontend-tools">codylindley/frontend-tools - Landscaping With Frontend Development Tools</a></strong>
+  <small>An opinionated list of tools for frontend (i.e. html, js, css) desktop/laptop (i.e. does not include tablet or phone yet) web development </small></li>
+<li><strong><a href="http://coding.smashingmagazine.com/2012/10/29/powerful-command-line-tools-developers/">Powerful Command Line Tools For Developers | Smashing Coding</a></strong>
+  <small>Tools to make your life easier</small></li>
+</ul>
+
+
+<h2>Node.js</h2>
+
+<ul>
+<li><strong><a href="https://github.com/vesln/r...e">vesln/r...e</a></strong>
+  <small>Powerful Range implementation. Node.js </small></li>
+<li><strong><a href="https://github.com/Gozala/reducers">Gozala/reducers</a></strong>
+  <small>A library for collection processing</small></li>
+<li><strong><a href="https://github.com/Reactive-Extensions/RxJS">Reactive-Extensions/RxJS</a></strong>
+  <small>The Reactive Extensions for JavaScript</small></li>
+<li><strong><a href="http://blog.nodeknockout.com/post/34710903021/restify">node.js knockout, Restify</a></strong>
+  <small>The count down to Node Knockout goes to the next round. This time with an in depth article on Restify</small></li>
+<li><strong><a href="https://github.com/arunoda/chrome-node">arunoda/chrome-node</a></strong>
+  <small>NodeJS Runtime for Chrome - To Use with Chrome's Packaged apps.</small></li>
+</ul>
+
+
+<h2>Programming</h2>
+
+<ul>
+<li><strong><a href="http://www.kyleisom.net/blog/2012/10/17/syntax-off/">:syntax off - EDOOFUS</a></strong>
+  <small>on turning syntax highlighting off by default</small></li>
+<li><strong><a href="http://www.evanmiller.org/why-i-program-in-erlang.html">Why I Program In Erlang</a></strong>
+  <small>An Erlang programmer's story</small></li>
+</ul>
+
+
+<h2>Git</h2>
+
+<ul>
+<li><strong><a href="http://git-htmldocs.googlecode.com/git/RelNotes/1.8.0.txt">GIt 1.8.0</a></strong>
+  <small>With lots of new features</small></li>
+</ul>
+
+
+<h2>Watching</h2>
+
+<ul>
+<li><strong><a href="http://www.youtube.com/watch?feature=player_embedded">Pumpktris - YouTube</a></strong>
+  <small>Geeky Halloween Idea, Tetris Pumpkin</small></li>
+<li><strong><a href="https://www.youtube.com/watch?v=Lsg84NtJbmI">So, You Want to be a Front-End Engineer - YouTube</a></strong>
+  <small>David Mosher digs into 'the most volatile programming platform the world has ever known</small></li>
+<li><strong><a href="https://hacks.mozilla.org/2012/10/leave-no-one-behind-with-html5-presentation-at-ffwd-pro-in-zagreb-croatia/">Leave No One Behind with HTML5 – presentation at FFWD.PRO in Zagreb, Croatia ✩ Mozilla Hacks – the Web developer blog</a></strong>
+  <small>This talk will cover a number of the new possibilities of HTML5, but with the perspective of making sure you can reach as many users as possible without just building for the latest web browsers and devices.</small></li>
+<li><strong><a href="http://simurai.com/post/34144004589/flexbox-web-apps">My short talk how CSS Flexbox will help creating... | simurai</a></strong>
+  <small>how CSS Flexbox will help creating “flexible” Web Apps</small></li>
+<li><strong><a href="http://confreaks.com/videos/1229-aloharuby2012-git-and-github-secrets">Git and GitHub Secrets</a></strong>
+  <small>Zach Holman reveals some Git Secrets at Aloha Conf</small></li>
+</ul>
+
+
+<h2>Miscellaneous</h2>
+
+<ul>
+<li><strong><a href="http://tirania.org/blog/archive/2012/Oct-22.html">Mono 3.0 is out - Miguel de Icaza</a></strong>
+  <small>open source .NET takes a leap forward</small></li>
+<li><strong><a href="http://yuzhikov.com/articles/BlurredImagesRestoration1.htm">Restoration of defocused and blurred images. Yuzhikov.com</a></strong>
+  <small>Intreseting writup on how to unblur images</small></li>
+<li><strong><a href="http://www.kitchensoap.com/2012/10/25/on-being-a-senior-engineer/">On Being A Senior Engineer</a></strong>
+  <small>Etsy's SVP of Technical Operations shares a lot of insights about what it is to be a senior engineer.</small></li>
+<li><strong><a href="https://github.com/blog/1303-github-game-off">GitHub Game Off</a></strong>
+  <small>You have the entire month of November to create a web-based game loosely built around one or more of the following themes: forking (or forks) branching (or branches) cloning (or clones) pushing pulling</small></li>
+<li><strong><a href="http://www.igvita.com/2012/10/31/simple-spdy-and-npn-negotiation-with-haproxy/">Simple SPDY and NPN Negotiation with HAProxy - igvita.com</a></strong>
+  <small>How to use SPDY behind HAProxy with Next Protocol Negotiation</small></li>
+</ul>
+
+
+<h2>Fun</h2>
+
+<ul>
+<li><strong><a href="http://sketchpad.io/sketch2.1/?server=test">Sketchpad—Draw online</a></strong>
+  <small>Nice drawing tool</small></li>
+</ul>
+
+
+<h2>Your link could be here</h2>
+
+<p>If we missed something special or you just want to promote a site, give us a nudge @ <a href='&#109;&#97;&#105;&#108;t&#111;&#58;%7&#57;&#105;eld&#116;%68%65do%67&#64;gmail&#37;2&#69;c&#37;6&#70;m'>y&#105;eldt&#104;&#101;dog&#64;&#103;mail&#46;&#99;&#111;m</a></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Interesting Thingys 38]]></title>
@@ -618,172 +752,6 @@
 <ul>
 <li><strong><a href="http://stackoverflow.com/questions/12675147/xkcd-style-graphs-in-r?newsletter=1">ggplot2 - xkcd style graphs in R - Stack Overflow</a></strong>
   <small>folk have figured out how to make xkcd style graphs in mathematica and LaTeX. Can we do it in R? Ggplot2-ers? A geom_xkcd and/or theme_xkcd?</small></li>
-</ul>
-
-
-<h2>Your link could be here</h2>
-
-<p>If we missed something special or you just want to promote a site, give us a nudge @ <a href='&#109;&#97;&#105;&#108;t&#111;&#58;%7&#57;&#105;eld&#116;%68%65do%67&#64;gmail&#37;2&#69;c&#37;6&#70;m'>y&#105;eldt&#104;&#101;dog&#64;&#103;mail&#46;&#99;&#111;m</a></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Interesting Thingys 34]]></title>
-    <link href="http://yieldthedog.github.com/blog/2012/09/28/interesting-thingys-34/"/>
-    <updated>2012-09-28T08:17:00+02:00</updated>
-    <id>http://yieldthedog.github.com/blog/2012/09/28/interesting-thingys-34</id>
-    <content type="html"><![CDATA[<p>And another issue of Interesting Thingys…</p>
-
-<!-- More -->
-
-
-<h2>JavaScript</h2>
-
-<ul>
-<li><strong><a href="http://markdalgleish.com/2012/09/test-driven-node-js-development-with-grunt/">Test-Driven Node.js Development with Grunt - Mark Dalgleish</a></strong>
-  <small>describes how to set up a node project with Grunt and use it to test your app</small></li>
-<li><strong><a href="https://github.com/angular/angularjs-batarang">angular/angularjs-batarang</a></strong>
-  <small>ChromeExtension to debug AngularJS apps</small></li>
-<li><strong><a href="http://www.nczonline.net/blog/2012/09/25/ecmascript-6-collections-part-1-sets/">ECMAScript 6 collections, Part 1: Sets | NCZOnline</a></strong>
-  <small>nice walkthrough of JavaScript's sets</small></li>
-<li><strong><a href="http://lucumr.pocoo.org/2012/9/24/websockets-101/">Websockets 101 | Armin Ronacher's Thoughts and Writings</a></strong>
-  <small>Interested in the internals of websockets?</small></li>
-<li><strong><a href="https://github.com/appjs/appjs">appjs/appjs</a></strong>
-  <small>AppJS is a sort of SDK to develop desktop applications using Node.js melded with Chromium.</small></li>
-<li><strong><a href="https://github.com/awgreenblatt/reveal-shaders">awgreenblatt/reveal-shaders</a></strong>
-  <small>Reveal.js presentation using CSS Shaders for transitions</small></li>
-<li><strong><a href="https://github.com/cujojs/when">cujojs/when</a></strong>
-  <small>tiny Promise library that works in the browser and node.js </small></li>
-</ul>
-
-
-<h2>CSS</h2>
-
-<ul>
-<li><strong><a href="http://css-tricks.com/old-flexbox-and-new-flexbox/">"Old" Flexbox and "New" Flexbox | CSS-Tricks</a></strong>
-  <small>Solves some of the confusion</small></li>
-<li><strong><a href="https://github.com/clearleft/clearless">clearleft/clearless</a></strong>
-  <small>A collection of reusable LESS mixins</small></li>
-</ul>
-
-
-<h2>HTML (5)</h2>
-
-<ul>
-<li><strong><a href="http://www.aaronlumsden.com/articles/7-html5-features-that-you-may-not-know-about/">7 HTML5 features that you may not know about Aaron Lumsden | Aaronlumsden.com</a></strong>
-  <small>Link prefetching, download, hidden, output, ...</small></li>
-</ul>
-
-
-<h2>Web Development</h2>
-
-<ul>
-<li><strong><a href="https://github.com/peric/GetCountries">peric/GetCountries</a></strong>
-  <small>This script will generate MySQL "Countries" table depending on what fields you select. All data is fetched from geonames.org</small></li>
-<li><strong><a href="http://www.adobe.com/devnet/edge-inspect/articles/browser-testing-across-devices-with-adobe-edge-inspect.html">Browser testing across devices with Adobe Edge Inspect | Adobe Developer Connection</a></strong>
-  <small>Introduction to Adobe Edge's capabilities to test accross browsers</small></li>
-<li><strong><a href="http://worrydream.com/LearnableProgramming/">Learnable Programming - Bret Victor</a></strong>
-  <small>A very, veeeeery long article that builds on the concepts shown in 'Inventing on principle'</small></li>
-<li><strong><a href="https://github.com/cubiq/infiniwall">cubiq/infiniwall</a></strong>
-  <small>Infinite, loopable, lazy loaded, 360° scroller for desktop and mobile</small></li>
-</ul>
-
-
-<h2>Mobile Development</h2>
-
-<ul>
-<li><strong><a href="https://github.com/simonmaddox/GoogleTransit-iOS6">simonmaddox/GoogleTransit-iOS6</a></strong>
-  <small>Use Google Maps for Mobile's Transit Directions in iOS6's Maps.app</small></li>
-<li><strong><a href="http://blog.rubymotion.com/post/31917526853/rubymotion-gets-ios-6-iphone-5-debugger">RubyMotion gets iOS 6, iPhone 5, debugger - RubyMotion Blog</a></strong>
-  <small>A big update on RubyMotion.</small></li>
-<li><strong><a href="http://stackoverflow.com/questions/12506897/is-ios6-safari-caching-ajax-results">Is iOS6 Safari caching $.ajax results? - Stack Overflow</a></strong>
-  <small>Good to know</small></li>
-</ul>
-
-
-<h2>Ruby</h2>
-
-<ul>
-<li><strong><a href="http://code.google.com/p/ruby-security/wiki/Guide">Guide - ruby-security - Ruby Security Reviewer's Guide - Ruby: Security Reviewer's Guide - Google Project Hosting</a></strong>
-  <small>A Google Ruby Security guide…</small></li>
-<li><strong><a href="https://github.com/mattt/rack-smart-app-banner">mattt/rack-smart-app-banner</a></strong>
-  <small>Rack middleware to automatically include code for Smart App Banner, introduced in iOS 6</small></li>
-<li><strong><a href="http://po-ru.com/diary/rubys-magic-underscore/">po-ru.com: Ruby’s magic underscore</a></strong>
-  <small>use _ to hide unused variables</small></li>
-<li><strong><a href="https://github.com/rails/turbolinks">rails/turbolinks</a></strong>
-  <small>Turbolinks makes following links in your web application faster (use with Rails Asset Pipeline) </small></li>
-</ul>
-
-
-<h2>Node.js</h2>
-
-<ul>
-<li><strong><a href="https://github.com/indutny/node-spdy">indutny/node-spdy</a></strong>
-  <small>now works with express sessions</small></li>
-<li><strong><a href="http://deployd.com/">Deployd</a></strong>
-  <small>Deployd is a platform that makes building complex backends simple.</small></li>
-<li><strong><a href="http://dailyjs.com/2012/09/13/express-3-csrf-tutorial/">DailyJS: Express 3 Tutorial: Contact Forms with CSRF</a></strong>
-  <small>practical introduction to writing Express 3 applications complete with CSRF protection</small></li>
-</ul>
-
-
-<h2>Clojure</h2>
-
-<ul>
-<li><strong><a href="https://github.com/cgrand/utils">cgrand/utils</a></strong>
-  <small>useful functions and extensible macros</small></li>
-</ul>
-
-
-<h2>Browsers</h2>
-
-<ul>
-<li><strong><a href="http://dvcs.w3.org/hg/speech-api/raw-file/tip/speechapi.html">Speech JavaScript API Specification - now available in Chrome</a></strong>
-  <small>The Speech JS API is now available in Chrome Dev in about:flags</small></li>
-</ul>
-
-
-<h2>Databases</h2>
-
-<ul>
-<li><strong><a href="https://github.com/jmikola/mongoqp">jmikola/mongoqp · GitHub</a></strong>
-  <small>A frontend for MongoDB's query profiler collection.</small></li>
-</ul>
-
-
-<h2>Security</h2>
-
-<ul>
-<li><strong><a href="http://forum.xda-developers.com/showthread.php?t=1904629">[VULNERABILITY] Remote wipe via iframe USSD trigger - xda-developers</a></strong>
-  <small>Remote wiping Android devices via iframes</small></li>
-</ul>
-
-
-<h2>Watching</h2>
-
-<ul>
-<li><strong><a href="http://vimeo.com/49384334">Pure JavaScript on Vimeo</a></strong>
-  <small>Christian Johansen on functional JavaScript </small></li>
-<li><strong><a href="http://emacsrocks.com/e12.html">'Working with HTML' - Emacs Rocks!</a></strong>
-  <small>new episode on HTML</small></li>
-<li><strong><a href="http://confreaks.com/videos/1109-gogaruco2012-writing-a-rails-engine">Writing a Rails Engine - Erik Michaels-Ober - Golden Gate Ruby Conference 2012</a></strong>
-  <small>As of Rails 3.2, plugins are officially deprecated. They have been replaced by Rails Engines, a class of public methods for hooking into Rails applications.</small></li>
-</ul>
-
-
-<h2>Reading</h2>
-
-<ul>
-<li><strong><a href="http://www.theatlantic.com/technology/archive/2012/09/how-google-builds-its-maps-and-what-it-means-for-the-future-of-everything/261913/">How Google Builds Its Maps - and What It Means for the Future of Everything</a></strong>
-  <small>theatlantic.com about the work behind Google Maps</small></li>
-</ul>
-
-
-<h2>Interview</h2>
-
-<ul>
-<li><strong><a href="http://typicalprogrammer.com/?p=143">Typical Programmer - Linus Torvalds goes off on Linux and Git</a></strong>
-  <small>Linus Torvalds on Git and Linux</small></li>
 </ul>
 
 
