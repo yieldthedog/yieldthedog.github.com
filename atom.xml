@@ -4,7 +4,7 @@
   <title><![CDATA[yield the dog]]></title>
   <link href="http://yieldthedog.github.com/atom.xml" rel="self"/>
   <link href="http://yieldthedog.github.com/"/>
-  <updated>2012-11-01T22:10:32+01:00</updated>
+  <updated>2012-12-07T06:31:04+01:00</updated>
   <id>http://yieldthedog.github.com/</id>
   <author>
     <name><![CDATA[yield the dog]]></name>
@@ -12,6 +12,490 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Interesting Thingys 43]]></title>
+    <link href="http://yieldthedog.github.com/blog/2012/12/07/interesting-thingys-43/"/>
+    <updated>2012-12-07T08:17:00+01:00</updated>
+    <id>http://yieldthedog.github.com/blog/2012/12/07/interesting-thingys-43</id>
+    <content type="html"><![CDATA[<p>We have a new Thingys submitter on board. Expect more iOS, Objective C and Raspberry Pi links to come&#8230;</p>
+
+<!-- More -->
+
+
+<h2>JavaScript</h2>
+
+<ul>
+<li><strong><a href="http://updates.html5rocks.com/2012/11/Respond-to-change-with-Object-observe">Respond to change with Object.observe - HTML5Rocks Updates</a></strong>
+  <small>Lots of JavaScript frameworks using MVC or MDV need to respond to changes to the objects that model the state inside a web application. This capability is a fundamental part of a data-binding model.</small></li>
+<li><strong><a href="http://blog.angularjs.org/2012/11/angularjs-example-applications.html">AngularJS Example Applications | AngularJS</a></strong>
+  <small>4 Angular examples</small></li>
+<li><strong><a href="http://coding.smashingmagazine.com/2012/11/05/writing-fast-memory-efficient-javascript/">Writing Fast, Memory-Efficient JavaScript | Smashing Coding</a></strong>
+  <small> As you develop, if you care about memory usage and performance, you should be aware of some of what’s going on in your user’s browser’s JavaScript engine behind the scenes.</small></li>
+<li><strong><a href="https://github.com/ynakajima/ttf.js">ynakajima/ttf.js</a></strong>
+  <small>A JavaScript TrueType font engine</small></li>
+<li><strong><a href="http://blog.rodneyrehm.de/archives/19-jQuery-The-Little-Things-2.html">jQuery - The Little Things - 2</a></strong>
+  <small>very interesting read about, how to improve your jQuery source</small></li>
+</ul>
+
+
+<h2>CSS</h2>
+
+<ul>
+<li><strong><a href="http://csswizardry.com/2012/11/code-smells-in-css/">Code smells in CSS — CSS Wizardry—CSS, Web Standards, Typography, and Grids by Harry Roberts</a></strong>
+  <small>Harry Roberts compiled a list of code smells in CSS like Undoing styles, Magic numbers</small></li>
+</ul>
+
+
+<h2>HTML5</h2>
+
+<ul>
+<li><strong><a href="http://www.andrespagella.com/introduction-particle-systems-html5-canvas">An Introduction to Particle Systems/Generators using the HTML5 Canvas object</a></strong>
+  <small>In its most elemental form, particle systems are composed by two main objects: A particle object, which will represent every individual particle, and a generator, which will generate particles themselves.</small></li>
+</ul>
+
+
+<h2>Web Development</h2>
+
+<ul>
+<li><strong><a href="http://blog.alexmaccaw.com/the-next-web">5 APIs that will transform the Web in 2013 | Alex MacCaw</a></strong>
+  <small>CSS Filters, Autocompletion API, ChromeApps</small></li>
+</ul>
+
+
+<h2>Ruby</h2>
+
+<ul>
+<li><strong><a href="http://blog.remarkablelabs.com/2012/11/rails-4-countdown-to-2013">Rails 4 Countdown to 2013 | The Remarkable Labs Blog</a></strong>
+  <small>With the impending release of Ruby on Rails 4, it looks like a lot of developers will be updating their web applications in the coming new year.</small></li>
+</ul>
+
+
+<h2>Node.js</h2>
+
+<ul>
+<li><strong><a href="http://semu.github.com/noduino/">Noduino</a></strong>
+  <small>Control Arduino with Node.js, WebSockets and HTML5</small></li>
+<li><strong><a href="https://github.com/JosephMoniz/node-ipc-stream">JosephMoniz/node-ipc-stream · GitHub</a></strong>
+  <small>A stream wrapper around IPC channels for forked instances</small></li>
+</ul>
+
+
+<h2>Objective C</h2>
+
+<ul>
+<li><strong><a href="http://www.cocoacontrols.com/posts/cocoa-controls-now-supports-cocoapods?utm_source=feedburner">Cocoa Controls now supports CocoaPods</a></strong>
+  <small>The famous Cocoa Controls site now supports CocoaPods, the dependency management tool for Objective-C projects. </small></li>
+<li><strong><a href="http://www.cocoacontrols.com/platforms/ios/controls/nui?utm_source=feedburner">NUI for iOS</a></strong>
+  <small>NUI lets you style iOS apps using a style sheet, similar to CSS, allowing you to style an entire app in minutes.</small></li>
+</ul>
+
+
+<h2>Watching</h2>
+
+<ul>
+<li><strong><a href="http://www.youtube.com/watch?v=SWQdSEferz8">SPDY and the Road Towards HTTP 2.0 - YouTube</a></strong>
+  <small>What lies ahead for HTTP 2.0? Ilya Grigorik, developer advocate at Google, talks about the future of HTTP and what improvements SPDY brings to the table in this video from HTML5 Dev Conf. </small></li>
+<li><strong><a href="http://www.youtube.com/watch?v=XfK4aBF7tEI">9 Databases in 45 Minutes - YouTube</a></strong>
+  <small>Presentation given at SORT 2012 by Miles Pomeroy, Chad Maughan, and Jonathan Geddes. </small></li>
+</ul>
+
+
+<h2>Reading</h2>
+
+<ul>
+<li><strong><a href="http://net.tutsplus.com/articles/interviews/chatting-with-obama-for-americas-director-of-frontend-development-daniel-ryan/">Chatting with Obama For America’s Director of Frontend Development: Daniel Ryan</a></strong>
+  <small>Interview on nettuts</small></li>
+<li><strong><a href="http://product.voxmedia.com/post/25113965826/introducing-syllabus-vox-medias-s3-powered-liveblog">Introducing Syllabus, Vox Media&#8217;s S3-powered liveblog platform</a></strong>
+  <small>A quick look behind The Verges Liveblogging plattform</small></li>
+</ul>
+
+
+<h2>Miscellaneous</h2>
+
+<ul>
+<li><strong><a href="http://www.catonmat.net/blog/bash-one-liners-explained-part-five/">Bash One-Liners Explained, Part V: Navigating around - good coders code, great reuse</a></strong>
+  <small>If you don&#8217;t know to navigate in your command line this is for you</small></li>
+</ul>
+
+
+<h2>Raspberry Pi</h2>
+
+<ul>
+<li><strong><a href="http://www.raspberrypi.org/archives/2665">Wednesday grab bag | Raspberry Pi</a></strong>
+  <small>Some nice Raspberry Pi Projects.</small></li>
+<li><strong><a href="http://thedigitallifestyle.com/w/index.php/2012/08/02/control-xmbc-on-a-raspberry-pi-via-the-tvs-remote-with-hdmi-cec/">XMBC Raspberry Pi remote control</a></strong>
+  <small>Control XMBC on a Raspberry Pi via the TVs remote with HDMI-CEC</small></li>
+</ul>
+
+
+<h2>Your link could be here</h2>
+
+<p>If we missed something special or you just want to promote a site, give us a nudge @ <a href='&#109;&#97;&#105;&#108;t&#111;&#58;%7&#57;&#105;eld&#116;%68%65do%67&#64;gmail&#37;2&#69;c&#37;6&#70;m'>y&#105;eldt&#104;&#101;dog&#64;&#103;mail&#46;&#99;&#111;m</a></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Interesting Thingys 42]]></title>
+    <link href="http://yieldthedog.github.com/blog/2012/11/30/interesting-thingys-42/"/>
+    <updated>2012-11-30T08:17:00+01:00</updated>
+    <id>http://yieldthedog.github.com/blog/2012/11/30/interesting-thingys-42</id>
+    <content type="html"><![CDATA[<p>After two weeks of no thingys we are back with another fine collection of links.</p>
+
+<!-- More -->
+
+
+<h2>JavaScript</h2>
+
+<ul>
+<li><strong><a href="http://weblog.raganwald.com/JQuery-Combinators/">jQuery Combinators by raganwald</a></strong>
+  <small>jQuery Combinators adds five very useful methods to every jQuery selection: tap, into, select, ergo and when. These allow you to use your own functions as if they were built-in jQuery methods, which makes your code cleaner and more &#8220;jQuery-like.&#8221;</small></li>
+<li><strong><a href="https://github.com/raganwald/homoiconic/blob/master/2012/11/refactoring_to_jquery_combinators.md">homoiconic/2012/11/refactoring_to_jquery_combinators.md at master · raganwald/homoiconic</a></strong>
+  <small>jQuery is a general-purpose library that provides a number of browser-specific functions. Its core functionality manipulates selections of DOM entities in a fluent style. There are four fundamental operations on a selection:</small></li>
+<li><strong><a href="http://addyosmani.com/blog/a-few-new-things-coming-to-javascript/">A Few New Things Coming To JavaScript</a></strong>
+  <small>a compilation of what is coming next</small></li>
+<li><strong><a href="https://github.com/codrops/Calendario">codrops/Calendario</a></strong>
+  <small>A jQuery calendar plugin for creating flexible calendars.</small></li>
+<li><strong><a href="http://fabien-d.github.com/alertify.js/">alertifyjs - An unobtrusive customizable JavaScript notification system</a></strong>
+  <small>An unobtrusive customizable JavaScript notification system</small></li>
+</ul>
+
+
+<h2>CSS</h2>
+
+<ul>
+<li><strong><a href="http://www.impressivewebs.com/ie10-css-hacks/">IE10 CSS Hacks | Impressive Webs</a></strong>
+  <small>No conditional comments in IE 10. But there are still hacks.</small></li>
+</ul>
+
+
+<h2>Web Development</h2>
+
+<ul>
+<li><strong><a href="http://vimeo.com/53073654#at=0">Secrets of the Chrome Developer Tools on Vimeo</a></strong>
+  <small>The Developer Tools built into Google Chrome provide powerful ways to understand, debug, and profile web applications.</small></li>
+<li><strong><a href="http://fontcustom.com/">Font Custom</a></strong>
+  <small>Generate custom icon webfonts from the comfort of the command line. </small></li>
+<li><strong><a href="http://net.tutsplus.com/tutorials/chrome-dev-tools-networking-and-the-console/">Chrome Dev Tools</a></strong>
+  <small>Networking and the Console | Nettuts </small></li>
+</ul>
+
+
+<h2>Ruby</h2>
+
+<ul>
+<li><strong><a href="http://blog.wyeworks.com/2012/11/13/rails-4-compilation-links/">Rails 4 links compilation -</a></strong>
+  <small>compilation of interesting links where you will find information that is not very well known. There are pull requests, issues, commits, examples, posts, videos and more about Rails 4.</small></li>
+<li><strong><a href="http://blog.headius.com/2012/11/refining-ruby.html">Headius: Refining Ruby</a></strong>
+  <small>Charles Nutter on Ruby 2.0&#8217;s refinements</small></li>
+<li><strong><a href="http://blog.steveklabnik.com/posts/2012-11-22-introducing-the-rails-api-project">Introducing the Rails API Project - Literate Programming</a></strong>
+  <small>That&#8217;s why I&#8217;m happy to introduce Rails API: a set of tools to build excellent APIs for both heavy Javascript applications as well as non-Web API clients.</small></li>
+</ul>
+
+
+<h2>Node.js</h2>
+
+<ul>
+<li><strong><a href="https://github.com/maxogden/websocket-stream">maxogden/websocket-stream</a></strong>
+  <small>websockets with the node stream api </small></li>
+<li><strong><a href="http://blog.nodeknockout.com/post/36076501016/node-knockout-winners">node.js knockout, Node Knockout Winners!</a></strong>
+  <small>We’re excited to announce the winners of Node Knockout! Here are the champions among the 167 entries submitted this year.</small></li>
+<li><strong><a href="http://clock.co.uk/tech-blogs/how-to-create-a-private-npmjs-repository">How to create a private npm.js repository by Tom Gallacher</a></strong>
+  <small>npmjs.org never goes down Or so I thought.</small></li>
+<li><strong><a href="http://diy.github.com/wizardry/">Wizardry by diy</a></strong>
+  <small>Wizardry is a task-based library for GraphicsMagick / ImageMagick that focuses on simplicity and getting one thing done right: processing images.</small></li>
+</ul>
+
+
+<h2>Java</h2>
+
+<ul>
+<li><strong><a href="https://github.com/flatland/drip">flatland/drip · GitHub</a></strong>
+  <small>Fast JVM launching without the hassle of persistent JVMs.</small></li>
+</ul>
+
+
+<h2>Programming</h2>
+
+<ul>
+<li><strong><a href="http://www.recursivity.com/blog/2012/10/28/ides-are-a-language-smell/">IDEs Are a Language Smell</a></strong>
+  <small>A nice rant on IDEs</small></li>
+</ul>
+
+
+<h2>Databases</h2>
+
+<ul>
+<li><strong><a href="http://christiankvalheim.com/post/35293863731/the-wonderful-world-of-geo-spatial-indexes-in-mongodb">Software Ramblings, The wonderful world of GEO spatial indexes in MongoDB</a></strong>
+  <small>MongoDB has native support for geospatial indexes and extensions to the query language to support a lot of different ways of querying your geo spatial documents</small></li>
+</ul>
+
+
+<h2>DotNet</h2>
+
+<ul>
+<li><strong><a href="http://1code.codeplex.com/Wikipage?ProjectName=1code">Microsoft All-In-One Code Framework - a centralized code sample library - Home</a></strong>
+  <small>Code sample library</small></li>
+</ul>
+
+
+<h2>Your link could be here</h2>
+
+<p>If we missed something special or you just want to promote a site, give us a nudge @ <a href='&#109;&#97;&#105;&#108;t&#111;&#58;%7&#57;&#105;eld&#116;%68%65do%67&#64;gmail&#37;2&#69;c&#37;6&#70;m'>y&#105;eldt&#104;&#101;dog&#64;&#103;mail&#46;&#99;&#111;m</a></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Interesting Thingys 41]]></title>
+    <link href="http://yieldthedog.github.com/blog/2012/11/16/interesting-thingys-41/"/>
+    <updated>2012-11-16T08:17:00+01:00</updated>
+    <id>http://yieldthedog.github.com/blog/2012/11/16/interesting-thingys-41</id>
+    <content type="html"><![CDATA[<p>This week with an exciting collection of thingys</p>
+
+<!-- More -->
+
+
+<h2>JavaScript</h2>
+
+<ul>
+<li><strong><a href="https://github.com/guillaumepotier/Garlic.js">guillaumepotier/Garlic.js</a></strong>
+  <small>Garlic.js allows you to automatically persist your forms&#8217; text and select field values locally, until the form is submitted. This way, your users don&#8217;t lose any precious data if they accidentally close their tab or browser.</small></li>
+<li><strong><a href="https://github.com/melanke/Watch.JS">melanke/Watch.JS</a></strong>
+  <small>watch the changes of any object or attribut</small></li>
+<li><strong><a href="http://ianww.com/blog/programming/optimizing-three-js-performance-simulating-tens-of-thousands-of-independent-moving-objects/">Optimizing Three.js Performance: Simulating Tens Of Thousands Of Independent Moving Objects</a></strong>
+  <small>explains how to make a star field in three.js that doesn&#8217;t suck cpu as hell</small></li>
+</ul>
+
+
+<h2>HTML5</h2>
+
+<ul>
+<li><strong><a href="http://www.splio.com/responsive/">responsive design</a></strong>
+  <small>10 basics tips .. in an infographic</small></li>
+<li><strong><a href="http://www.html5rocks.com/en/tutorials/pagevisibility/intro/">Using the PageVisibility API - HTML5 Rocks</a></strong>
+  <small>Use visibility api to pause and resume scripts</small></li>
+</ul>
+
+
+<h2>Web Development</h2>
+
+<ul>
+<li><strong><a href="http://www.netmagazine.com/features/optimising-retina-10-essential-tools">Optimising for Retina: 10 essential tools | Feature | .net magazine</a></strong>
+  <small>how to get fit for the retina web</small></li>
+<li><strong><a href="http://laurakalbag.com/display-none/">display: none</a></strong>
+  <small>Or The things you think are common knowledge but really they aren’t.</small></li>
+<li><strong><a href="https://plus.google.com/u/0/115133653231679625609/posts/N1xsFBWMDA5">Addy Osmani - Google - Chrome: Easier Web App Debugging With Multi-User Profiles …</a></strong>
+  <small>Use Chrome&#8217;s user profiles to easy testing</small></li>
+</ul>
+
+
+<h2>Mobile Development</h2>
+
+<ul>
+<li><strong><a href="https://github.com/mattt/TransformerKit">mattt/TransformerKit</a></strong>
+  <small>Transforming Ordinary Code into Awesomesauce </small></li>
+<li><strong><a href="https://github.com/luisobo/Nocilla">luisobo/Nocilla</a></strong>
+  <small>Stunning HTTP stubbing for iOS. Testing HTTP requests has never been easier. </small></li>
+</ul>
+
+
+<h2>Node.js</h2>
+
+<ul>
+<li><strong><a href="http://nodeknockout.com/">2012 — Node.js Knockout</a></strong>
+  <small>finished this week, check out the projects</small></li>
+<li><strong><a href="https://github.com/hughsk/colony">hughsk/colony</a></strong>
+  <small>In-browser network graphs representing the links between your Node.js code and its dependencies. </small></li>
+</ul>
+
+
+<h2>Programming</h2>
+
+<ul>
+<li><strong><a href="http://programmers.stackexchange.com/questions/173441/what-triggered-the-popularity-of-lambda-functions-in-modern-mainstream-programmi">history - What triggered the popularity of lambda functions in modern mainstream programming languages? - Programmers</a></strong>
+  <small>with interesting answers</small></li>
+<li><strong><a href="http://www.theserverside.de/singleton-pattern-in-java/">Singleton Pattern in Java</a></strong>
+  <small>About java singletons &#8230;</small></li>
+</ul>
+
+
+<h2>Git</h2>
+
+<ul>
+<li><strong><a href="http://johnkary.net/git-add-p-the-most-powerful-git-feature-youre-not-using-yet/">git add -p: The most powerful git feature you’re not using yet | John Kary</a></strong>
+  <small>enter the realm of patch mode</small></li>
+</ul>
+
+
+<h2>Editors</h2>
+
+<ul>
+<li><strong><a href="http://www.chris-granger.com/2012/11/05/meet-the-new-light-table/">Chris Granger - Meet the new Light Table</a></strong>
+  <small>Chris Granger is heavily hacking on LightTable</small></li>
+</ul>
+
+
+<h2>Watching</h2>
+
+<ul>
+<li><strong><a href="http://vimeo.com/52996554">Wheatley</a></strong>
+  <small>Automated JavaScript refactoring</small></li>
+</ul>
+
+
+<h2>iOS</h2>
+
+<ul>
+<li><strong><a href="http://www.fastcompany.com/3002676/magical-tech-behind-paper-ipads-color-mixing-perfection">color-mixing in &#8220;paper&#8221; for ipad</a></strong>
+  <small>very interesting article about the new color-mixing functionality in the &#8220;paper&#8221; ipad application</small></li>
+</ul>
+
+
+<h2>IPhone</h2>
+
+<ul>
+<li><strong><a href="http://www.shervinemami.info/armAssembly.html#howto">ARM Assembly Code on the iPhone</a></strong>
+  <small>.. if you dare!</small></li>
+</ul>
+
+
+<h2>Your link could be here</h2>
+
+<p>If we missed something special or you just want to promote a site, give us a nudge @ <a href='&#109;&#97;&#105;&#108;t&#111;&#58;%7&#57;&#105;eld&#116;%68%65do%67&#64;gmail&#37;2&#69;c&#37;6&#70;m'>y&#105;eldt&#104;&#101;dog&#64;&#103;mail&#46;&#99;&#111;m</a></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Interesting Thingys 40]]></title>
+    <link href="http://yieldthedog.github.com/blog/2012/11/09/interesting-thingys-40/"/>
+    <updated>2012-11-09T08:17:00+01:00</updated>
+    <id>http://yieldthedog.github.com/blog/2012/11/09/interesting-thingys-40</id>
+    <content type="html"><![CDATA[<p>This week we have 22 links in 12 categories. Seems to be a record in link to category ratio…</p>
+
+<!-- More -->
+
+
+<h2>JavaScript</h2>
+
+<ul>
+<li><strong><a href="https://github.com/vhiremath4/Tock">vhiremath4/Tock</a></strong>
+  <small>Timeout and interval javascript manager.</small></li>
+<li><strong><a href="https://github.com/TradeMe/bootup.js">TradeMe/bootup.js</a></strong>
+  <small>Cache and load static files from local storage.</small></li>
+</ul>
+
+
+<h2>CSS</h2>
+
+<ul>
+<li><strong><a href="http://www.456bereastreet.com/archive/201210/how_to_line_wrap_text_in_legend_elements_even_in_ie/">How to line wrap text in legend elements, even in IE | 456 Berea Street</a></strong>
+  <small>tutle says it all</small></li>
+<li><strong><a href="http://blogs.atlassian.com/2012/11/rounded-corners-and-gradients-in-ie10-the-4-missing-pixels/">Rounded Corners and Gradients in IE10: The 4 Missing Pixels | Atlassian Blogs</a></strong>
+  <small>Do we still need to hack IE?</small></li>
+<li><strong><a href="http://zomigi.com/blog/future-css-layout-fowd/">zomigi.com » The Future of CSS Layout</a></strong>
+  <small> presentation at Future of Web Design conference</small></li>
+</ul>
+
+
+<h2>Web Development</h2>
+
+<ul>
+<li><strong><a href="http://responsive.vermilion.com/compare.php">Responsive CSS Framework Comparison: Bootstrap, Foundation, Skeleton</a></strong>
+  <small>Which CSS-Framework should i use? Here&#8217;s thelist!</small></li>
+<li><strong><a href="http://blog.chromium.org/2012/11/introducing-tcp-listen-new-api-for.html">Chromium Blog: Introducing TCP Listen, a new API for Chrome packaged apps</a></strong>
+  <small>now packaged apps can listen to you</small></li>
+</ul>
+
+
+<h2>Mobile Development</h2>
+
+<ul>
+<li><strong><a href="https://github.com/kylehickinson/reflect">kylehickinson/reflect</a></strong>
+  <small>Reflect is a service that uses Bonjour discovery to allow you to send file data from your Mac to iOS devices.</small></li>
+<li><strong><a href="http://maker.github.com/ratchet/">Ratchet</a></strong>
+  <small>Prototype iPhone apps with simple HTML, CSS and JS components.</small></li>
+</ul>
+
+
+<h2>Ruby</h2>
+
+<ul>
+<li><strong><a href="http://www.kickstarter.com/projects/1225193080/the-ruby-20-walkthrough">The Ruby 2.0 Walkthrough by Peter Cooper — Kickstarter</a></strong>
+  <small>The ultimate screencast and written guide to what&#8217;s new and different in Ruby 2.0 compared to Ruby 1.9 </small></li>
+</ul>
+
+
+<h2>Node.js</h2>
+
+<ul>
+<li><strong><a href="https://github.com/vesln/cyclop">vesln/cyclop</a></strong>
+  <small>Highly focused async. Does one thing&#8230; like a boss.</small></li>
+<li><strong><a href="http://nodeca.github.com/babelfish/">babelfish 0.1.1 API documentation</a></strong>
+  <small>nternationalisation with easy syntax for node.js. Classic solutions use multiple phrases for plurals. But we define plurals inline - that&#8217;s more compact, and easier to maintain. Also, phrases are grouped into nested scopes, like in Ruby.</small></li>
+<li><strong><a href="https://hacks.mozilla.org/2012/11/tracking-down-memory-leaks-in-node-js-a-node-js-holiday-season/">Tracking Down Memory Leaks in Node.js – A Node.JS Holiday Season ✩ Mozilla Hacks – the Web developer blog</a></strong>
+  <small>presents some tools to track your memory consumption</small></li>
+<li><strong><a href="https://github.com/substack/secure-peer">substack/secure-peer · GitHub</a></strong>
+  <small>Create encrypted peer-to-peer streams using public key cryptography and signing.</small></li>
+</ul>
+
+
+<h2>Databases</h2>
+
+<ul>
+<li><strong><a href="http://rsmith.co/2012/11/05/mongodb-gotchas-and-how-to-avoid-them/">MongoDB Gotchas</a></strong>
+  <small>title says all</small></li>
+</ul>
+
+
+<h2>Watching</h2>
+
+<ul>
+<li><strong><a href="http://www.infoq.com/presentations/Performance-V8-Dart">Pushing The Limits of Web Browsers … or Why Speed Matters</a></strong>
+  <small>Lars Bak presents several language virtual machines (Self, Strongtalk, Hotspot), why they matter and how they influenced V8 and Dart. His talk is centered on performance. </small></li>
+<li><strong><a href="http://channel9.msdn.com/Events/Build/2012/3-132">50 performance tricks to make your HTML5 apps and sites faster | Build 2012 | Channel 9</a></strong>
+  <small>in 59min and 5sec</small></li>
+</ul>
+
+
+<h2>Fun</h2>
+
+<ul>
+<li><strong><a href="http://wheningit.tumblr.com/">When in git</a></strong>
+  <small>:D</small></li>
+<li><strong><a href="http://eightbitbeats.com/">eight bit beats</a></strong>
+  <small>have fun composing beats</small></li>
+</ul>
+
+
+<h2>iOS</h2>
+
+<ul>
+<li><strong><a href="http://www.luanova.org/ioswithlua">iOS Programming with Lua</a></strong>
+  <small>use Lua for iOS development</small></li>
+</ul>
+
+
+<h2>UX</h2>
+
+<ul>
+<li><strong><a href="http://www.slideshare.net/billwscott/lean-ux-antipatterns">Lean UX Anti-Patterns</a></strong>
+  <small>lean UX anti-patterns .. some very good insights and tips .. (in a somewhat strange presentation).</small></li>
+</ul>
+
+
+<h2>GIT</h2>
+
+<ul>
+<li><strong><a href="http://coderwall.com/p/aoowpg">Prevent sensitive data</a></strong>
+  <small>.. nice git-tip from ben tadiar.</small></li>
+</ul>
+
+
+<h2>Your link could be here</h2>
+
+<p>If we missed something special or you just want to promote a site, give us a nudge @ <a href='&#109;&#97;&#105;&#108;t&#111;&#58;%7&#57;&#105;eld&#116;%68%65do%67&#64;gmail&#37;2&#69;c&#37;6&#70;m'>y&#105;eldt&#104;&#101;dog&#64;&#103;mail&#46;&#99;&#111;m</a></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Interesting Thingys 39]]></title>
@@ -2567,434 +3051,6 @@ A Clojure implementation on top of C</li>
 <h2>Your link could be here</h2>
 
 <p>If we missed something special or you just want to promote a site, give us a nudge @ <a href='&#109;&#97;&#105;&#108;t&#111;&#58;%7&#57;&#105;eld&#116;%68%65do%67&#64;gmail&#37;2&#69;c&#37;6&#70;m'>y&#105;eldt&#104;&#101;dog&#64;&#103;mail&#46;&#99;&#111;m</a></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[command line gems]]></title>
-    <link href="http://yieldthedog.github.com/blog/2012/07/17/command-line-gems/"/>
-    <updated>2012-07-17T08:27:00+02:00</updated>
-    <id>http://yieldthedog.github.com/blog/2012/07/17/command-line-gems</id>
-    <content type="html"><![CDATA[<p>As a long time command line lover, I have gathered a lot of little tools that help me throughout the day (and night). This list represents an unordered and probably incomplete inventory of my command line swiss army knife.</p>
-
-<!-- more -->
-
-
-<ul>
-<li><p><a href="http://linux.die.net/man/1/ssh-copy-id">ssh-copy-id</a><br/>
-This is one of my favorites and seems to be rather unknown. <code>ssh-copy-id</code> helps you to distribute your public keys on remote servers. No more scp-ing, ssh-ing and chmod-ing and wondering what you have forgotten when passwordless ssh does not want to work. If you live on a Mac you have to <code>brew install ssh-copy-id</code>.</p></li>
-<li><p><a href="http://htop.sourceforge.net/">htop</a><br/>
-<code>htop</code> greatly improves the old <code>top</code> command with easy sorting and scrolling abilities and a much nicer <em>UI</em></p></li>
-<li><p><a href="http://linux.die.net/man/8/iftop">iftop</a><br/>
-<code>iftop</code> displays bandwidth usage on an interface. E.g. <code>sudo iftop -i eth0</code></p></li>
-<li><p><a href="https://github.com/robbyrussell/oh-my-zsh/">oh-my-zsh</a><br/>
-Oh-my-zsh lets you easily customize your <em>ZSH</em>. If you do not use <em>ZSH</em>, change your life with <code>chsh -s /bin/zsh</code></p></li>
-<li><p><a href="http://linux.die.net/man/1/ack">ack</a><br/>
-ack is a tool like grep, optimized for programmers, see <a href="http://betterthangrep.com">betterthangrep</a> for more information.</p></li>
-<li><p><a href="http://www.grymoire.com/Unix/Awk.html">awk</a><br/>
-The AWK utility is an interpreted programming language typically used as a data extraction and reporting tool.</p></li>
-<li><p><a href="http://linux.die.net/man/1/kill">kill -9</a><br/>
-Send <em>KILL</em> signal to process</p></li>
-<li><p>ctrl+r
-Lots of command line users do not know the <strong>reverse search</strong> with <kbd>CTRL</kbd> <kbd>r</kbd>. Even more do not know that you can hit it <strong>more than once</strong> if the first match is not the one you were looking for.</p></li>
-<li><p>!!<br/>
-repeat the last command. This is especially useful if you forgot to <code>sudo</code>.</p></li>
-<li><p>ssh -f user@host -L LOCAL_PORT:localhost:REMOTE_PORT -N –g<br/>
-create an ssh tunnel between host:REMOTE_PORT and localhost:LOCAL_PORT. especially useful, if the remote-port of the server is not accessible on the web (and if you want to secure the traffic, of course).
-The <em>-f</em> switch tells ssh to go into background mode, <em>-N</em> to not execute a command on the remote, and <em>-g</em> to allow remote hosts to connect to local forwarded ports.
-For a detailed explanation see <a href="http://www.revsys.com/writings/quicktips/ssh-tunnel.html">ssh tunneling made easy</a></p></li>
-<li><p><a href="http://sox.sourceforge.net/">sox</a><br/>
-the Swiss Army knife of sound processing programs. handle various sound formats, apply effects (chorus, delay, etc), adjust volume, tempo, noise-reduction and many more features.
-plus, if combined with a little ruby one-liner, you can do fun stuff like this: <a href="http://twitter.com/notyce/status/124221847595266048">tweet</a></p></li>
-<li><p><a href="http://linux.about.com/library/cmd/blcmdl1_disown.htm">disown -</a><br/>
-disown a process and let it run after you locked out of a session</p></li>
-<li><p><a href="http://linux.die.net/man/8/lsof">lsof</a><br/>
-list open file handles</p></li>
-<li><p>man ascii<br/>
-list <em>ASCII</em> table in octal, decimal and hexadecimal</p></li>
-<li><p><kdb>alt</kdb> <kdb>.</kbd> , $!, $*<br/>
-Get the last argument of the last command with <kdb>alt</kdb> <kdb>.</kbd> or $!. <kdb>alt</kdb> <kdb>.</kbd> can be pressed multiple times to skip through the history. If you want to get all arguments from the last command you can use <code>$*</code>.</p></li>
-<li><p>python -m SimpleHTTPServer 8080 - serves current dir<br/>
-creates a simple http server</p></li>
-<li><p><a href="http://linux.die.net/man/1/strace">strace</a><br/>
-strace is a powerful debugging utility for Linux and some other Unix-like systems, to monitor the system calls used by a program</p></li>
-<li><p><a href="http://www.mplayerhq.hu/design7/news.html">mplayer</a><br/>
-command line media player with a great feature set and minimal footprint</p></li>
-<li><p>units &#8212; man units<br/>
-convert units</p></li>
-<li><p><a href="http://www.thegeekstuff.com/2009/05/zcat-zless-zgrep-zdiff-zcmp-zmore-gzip-file-operations-on-the-compressed-files/">Zcat, Zless, Zgrep, Zdiff</a><br/>
-you do not have to extract an archive of a log if you want to take a short look, just use <code>zless</code>and <code>zgrep</code></p></li>
-<li><p>kill - pause and continue<br/>
-you do not have to always kill a process and restart it, kill can pause and start processes, too:<br/>
-<code>kill -STOP PID #to stop</code> <br/>
-<code>kill -CONT PID #to continue</code></p></li>
-<li><p><a href="http://linux.die.net/man/1/ipcalc">ipcalc</a><br/>
-perform simple manipulation of IP addresses</p></li>
-<li><p><a href="http://linux.die.net/man/1/watch">watch</a><br/>
-watch – execute a program periodically, showing output fullscreen<br/>
-e.g.: <code>watch -d -n 1 "netstat -an | grep :8080"</code></p></li>
-<li><p><a href="http://linux.die.net/man/1/multitail">multitail</a><br/>
-if one <code>tail -f</code> is not enough</p></li>
-<li><p><a href="https://github.com/rupa/z/">z</a><br/>
-tracks your most used directories, based on &#8216;frecency&#8217; and lets you jump by specifying a fragment.</p></li>
-<li><p><a href="http://tmux.sourceforge.net/">tmux</a><br/>
-A terminal multiplexer. get it (cause screen is dead)!</p></li>
-<li><p><a href="http://ffmpeg.org">ffmpeg</a><br/>
-The swiss army knife of video processing, video recording on the command line. The abilities of ffmpeg reach from capturing single images from a web cam (combine that with a GIT post commit hook and you have your self made <a href="https://github.com/mroth/lolcommits/">lolcommits</a>) over transcoding video files to recording screencasts (at least under X).</p></li>
-</ul>
-
-
-<p><strong>UPDATE</strong></p>
-
-<p>fixed the mixup between ack and awk.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Interesing Thingys 23]]></title>
-    <link href="http://yieldthedog.github.com/blog/2012/07/06/interesting-thingys-23/"/>
-    <updated>2012-07-06T08:17:00+02:00</updated>
-    <id>http://yieldthedog.github.com/blog/2012/07/06/interesting-thingys-23</id>
-    <content type="html"><![CDATA[<p>This week again with tons of new exciting links form the web and programming front…</p>
-
-<!-- More -->
-
-
-<h3>JavaScript</h3>
-
-<ul>
-<li><a href="http://blog.jquery.com/2012/06/28/jquery-core-version-1-9-and-beyond/">jQuery Blog » jQuery Core: Version 1.9 and Beyond</a></li>
-<li><a href="http://blog.izs.me/post/25906678790/on-es-6-modules">blog.izs.me: On ES 6 Modules</a></li>
-<li><a href="http://developer.mozilla.org/en-US/demosdevderby">Mozilla&#8217;s Dev Derby Contest for July: Build Something Without JavaScript</a></li>
-<li><a href="http://coding.smashingmagazine.com/2012/06/12/javascript-profiling-chrome-developer-tools/">JavaScript Profiling With The Chrome Developer Tools</a></li>
-<li><a href="http://widgets.better2web.com/loader/">Percentage Loader: jQuery Plugin to Display Progress</a></li>
-<li><a href="http://radiapp.com/webgl">Radi 0.9 Adds Support for Realtime WebGL Visual Effects</a></li>
-<li><a href="http://blog.getplaycraft.com/gamecore-js/">Gamecore.js: increase javascript game performance by 1200% | Playcraft</a></li>
-</ul>
-
-
-<h3>CSS</h3>
-
-<ul>
-<li><a href="http://tympanus.net/codrops/2012/06/25/timed-notifications-with-css-animations/">How to Create Simple Timed Notifications with CSS Animations</a></li>
-<li><a href="http://tokokoo.github.com/pondasee/">Pondasee: A Front-End Starter Kit with SCSS and Compass</a></li>
-<li><a href="http://matthewlein.com/ceaser/">Ceaser - CSS Easing Animation Tool - Matthew Lein</a></li>
-</ul>
-
-
-<h3>HTML(5)</h3>
-
-<ul>
-<li><a href="http://www.truthabouthtml5.com/">New E-Book: The Truth About HTML5 (For Web Designers)</a></li>
-<li><a href="http://www.html5gamedevelopment.org/html5-news/2012-06-google-io-recap-from-a-html5-game-developer-perspect">Google I/O Recap from a HTML5 Game Development Perspective</a></li>
-<li><a href="http://webaudio-io2012.appspot.com/">Turning the Web Up to 11: The Web Audio API</a></li>
-<li><a href="http://lacquer.fi/pauli/blog/2012/06/crunching-megapixels-in-webgl/">Crunching Megapixels in WebGL</a></li>
-<li><a href="http://www.developerdrive.com/2012/07/creating-a-slider-control-with-the-html5-range-input/">Creating a Slider Control with the HTML5 Range Input</a></li>
-<li><a href="http://validator.keegan.st/">HTML5 Validator with Error Filters</a></li>
-<li><a href="http://dhgamache.github.com/Cinderblock/">Cinderblock: A Stripped Down HTML/CSS Boilerplate for Starting Any Project</a></li>
-</ul>
-
-
-<h3>Web general</h3>
-
-<ul>
-<li><a href="http://www.youtube.com/watch?v=X_ek1wSe66o">The Web Can Do That!?</a></li>
-<li><a href="http://www.youtube.com/watch?v=Mk-tFn2Ix6g">Better Web App Development Through Tooling with Paul Irish</a></li>
-<li><a href="http://yeoman.io/">Yeoman: Google&#8217;s Opinionated Stack&#8217;o&#8217;Tools for Webapp Developers</a></li>
-<li><a href="http://tracelytics.github.com/pageguide/">Pageguide: Create Interactive Guides for Your Pages&#8217; Elements</a></li>
-</ul>
-
-
-<h3>Ruby</h3>
-
-<ul>
-<li><a href="http://rubyosc.com/">Ruby OpenSource Challenge</a></li>
-<li><a href="http://astonj.com/tech/vim-for-ruby-rails-and-a-sexy-theme/">Vim for Ruby on Rails (and a sexy theme!) - @AstonJ&#39;s Blog</a></li>
-<li><a href="https://github.com/EricR/image_sorcery">EricR/image_sorcery</a></li>
-<li><a href="https://github.com/augustl/ruby-openssl-cheat-sheet">augustl/ruby-openssl-cheat-sheet</a></li>
-</ul>
-
-
-<h3>Clojure</h3>
-
-<ul>
-<li><a href="http://www.andrewhjon.es/142343729">Shall we use Clojure - my presentation - Andrew Jones</a></li>
-</ul>
-
-
-<h3>Browsers</h3>
-
-<ul>
-<li><a href="http://paulirish.com/2012/the-skinny-on-ies-update-policy/">The Skinny on IE&#8217;s Automatic Updates Policy</a></li>
-</ul>
-
-
-<h3>Tools</h3>
-
-<ul>
-<li><a href="http://phonegap.com/2012/06/30/phonegap-1-9-0-released/">PhoneGap 1.9.0 Released</a></li>
-</ul>
-
-
-<h3>Databases</h3>
-
-<ul>
-<li><a href="http://wiki.postgresql.org/wiki/PGStrom">PGStrom - PostgreSQL wiki</a></li>
-<li><a href="https://www.youtube.com/watch?v=rRoy6I4gKWU">Google I/O 2012 - SQL vs NoSQL: Battle of the Backends - YouTube</a></li>
-<li><a href="http://www.youtube.com/watch?v=e9HLflRXMcA">From Zero to API Cache w Grape &amp; MongoDB in 10 minutes by Daniel Doubrovkine, - YouTube</a></li>
-</ul>
-
-
-<h3>Vim</h3>
-
-<ul>
-<li><a href="http://www.reddit.com/r/vim/comments/vqzqc/ignoring_files_in_vimgrep/">Ignoring files in vimgrep : vim</a></li>
-</ul>
-
-
-<h3>Miscellaneous</h3>
-
-<ul>
-<li><a href="http://getbarkeep.org/">Barkeep - the friendly code review system</a></li>
-<li><a href="http://blog.wpkg.org/2012/07/01/java-leap-second-bug-30-june-1-july-2012-fix/">java leap second bug – 30 June / 1 July 2012 – fix » WPKG Blog » Blog Archive</a></li>
-<li><a href="http://blogs.msdn.com/b/ie/archive/2012/06/29/test-the-web-forward.aspx">Microsoft on Test the Web Forward</a></li>
-<li><a href="http://benlakey.com/2012/07/01/hire-great-developers/">Why You Need To Hire Great Developers | benlakey.com</a></li>
-</ul>
-
-
-<h3>Fun</h3>
-
-<ul>
-<li><a href="http://www.getbridge.com/blog/ie6chatserver">Internet Explorer 6 as a Chat Server</a></li>
-<li><a href="http://www.p01.org/releases/MATRAKA/matraka.png.html?tc">Matraka: A Demo in 1005 Bytes</a></li>
-</ul>
-
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Interesing Thingys 22]]></title>
-    <link href="http://yieldthedog.github.com/blog/2012/06/29/interesting-thingys-22/"/>
-    <updated>2012-06-29T08:17:00+02:00</updated>
-    <id>http://yieldthedog.github.com/blog/2012/06/29/interesting-thingys-22</id>
-    <content type="html"><![CDATA[<p>This week with an uncountable number of various categories…</p>
-
-<!-- More -->
-
-
-<h3>Tools</h3>
-
-<ul>
-<li><a href="https://github.com/jkbr/httpie/">HTTPie</a> - a curl-like tool for humans.</li>
-<li><a href="http://www.geertvanderploeg.com/unicode-gen/">Unicode String Generator</a> - ever needed unicode test strings?</li>
-</ul>
-
-
-<h3>Mac</h3>
-
-<ul>
-<li><a href="http://satelliteeyes.tomtaylor.co.uk/">Satellite Eye</a> - automatically change your desktop wallpaper to the satellite view of where you are.</li>
-</ul>
-
-
-<h3>iOS</h3>
-
-<ul>
-<li><a href="http://www.telerik.com/automated-testing-tools/ios-testing.aspx">Test Studio</a> - a mobile testing solution for iOS. For native &amp; web apps, .. looks promising.</li>
-<li><a href="http://techcrunch.com/2012/06/28/google-chrome-ihone-ipad/">Google’s Chrome Browser Now Works On The iPhone And iPad</a></li>
-</ul>
-
-
-<h3>Android</h3>
-
-<ul>
-<li><a href="http://developer.android.com/about/versions/jelly-bean.html">Android 4.1 (Jelly Bean)</a></li>
-</ul>
-
-
-<h3>JavaScript</h3>
-
-<ul>
-<li><a href="http://blog.jquery.com/2012/06/22/jquery-1-8-beta-1-see-whats-coming-and-going/">jQuery Blog » jQuery 1.8 Beta 1: See What’s Coming (and Going!)</a></li>
-<li><a href="http://googledevelopers.blogspot.co.uk/2012/06/better-web-templating-with-angularjs-10.html">Better Web Templating with AngularJS 1.0 - Google Developers Blog</a></li>
-<li><a href="http://blog.nodejs.org/2012/06/25/node-v0-8-0/">Node v0.8.0</a></li>
-</ul>
-
-
-<h3>CSS</h3>
-
-<ul>
-<li><a href="http://hansmuller-webkit.blogspot.co.uk/2012/06/horizontal-box-polygon-intersection-for.html">Horizontal Box: Polygon Intersection for CSS Exclusions</a></li>
-<li><a href="http://updates.html5rocks.com/2012/06/The-amazing-powers-of-CSS">The amazing powers of CSS - HTML5Rocks Updates</a></li>
-<li><a href="http://css3ps.com/">css3ps - Photoshop plugin that can convert layer styles to CSS3</a></li>
-</ul>
-
-
-<h3>HTML(5)</h3>
-
-<ul>
-<li><a href="http://www.w3.org/Provider/Style/URI.html">Hypertext Style: Cool URIs don&#39;t change.</a></li>
-<li><a href="http://tinypng.org/">TinyPNG – Compress PNG images while preserving alpha transparency</a></li>
-<li><a href="http://www.html5rocks.com/en/tutorials/security/content-security-policy/">An Introduction to Content Security Policy - HTML5 Rocks</a></li>
-<li><a href="http://www.quirksmode.org/blog/archives/2012/06/devicepixelrati.html">devicePixelRatio - QuirksBlog</a></li>
-</ul>
-
-
-<h3>Ruby</h3>
-
-<ul>
-<li><a href="http://reefpoints.dockyard.com/ruby/2012/06/25/rails-4-sneak-peek-queueing.html">Rails 4.0 Sneak Peek: Queueing</a></li>
-<li><a href="http://reefpoints.dockyard.com/ruby/2012/06/26/rails-4-sneak-peek-async-actionmailer.html">Rails 4.0 Sneak Peek: Asynchronous ActionMailer</a></li>
-<li><a href="http://rubyrogues.com/rr-60-solid-with-jim-weirich/">RR 60 SOLID with Jim Weirich</a></li>
-<li><a href="http://thechangelog.com/post/25928209107/episode-0-8-2-ruby-motion-macruby-and-more-with-laurent">Changellog Episode 0.8.2 - Ruby Motion, MacRuby and more with Laurent Sansonetti</a></li>
-<li><a href="http://gopollgo.com/what-is-your-primary-text-editor-for-ruby-slash-rails">Poll: What is your primary Ruby editor</a></li>
-</ul>
-
-
-<h3>Clojure</h3>
-
-<ul>
-<li><a href="http://moxleystratton.com/clojure/clojure-tutorial-for-the-non-lisp-programmer">Clojure Tutorial For the Non-Lisp Programmer | Moxley Stratton</a></li>
-</ul>
-
-
-<h3>Java</h3>
-
-<ul>
-<li><a href="http://datumedge.blogspot.co.uk/2012/06/java-8-lambdas.html">Java 8 lambdas</a></li>
-</ul>
-
-
-<h3>Databases</h3>
-
-<ul>
-<li><a href="https://developer.mozilla.org/en/Mozilla/Redis_Tips">Redis Tips - MDN</a></li>
-<li><a href="http://www.infoq.com/articles/implementing-aggregation-functions-in-mongodb">Implementing Aggregation Functions in MongoDB</a></li>
-<li><a href="http://openmymind.net/Paging-And-Ranking-With-Large-Offsets-MongoDB-vs-Redis-vs-Postgresql/">Paging &amp; Ranking With Large Offsets: MongoDB vs Redis vs PostgreSQL</a></li>
-</ul>
-
-
-<h3>Git</h3>
-
-<ul>
-<li><a href="http://marklodato.github.com/visual-git-guide/index-en.html">A Visual Git Reference</a></li>
-</ul>
-
-
-<h3>Vim</h3>
-
-<ul>
-<li><a href="http://www.boche.net/blog/index.php/2012/06/21/using-vim-cmd-to-power-on-virtual-machines/">Using vim-cmd To Power On Virtual Machines</a></li>
-</ul>
-
-
-<h3>Editors and IDEs</h3>
-
-<ul>
-<li><a href="http://www.sublimetext.com/blog/articles/sublime-text-2-0-released">Sublime Blog » Sublime Text 2.0 Released</a></li>
-<li><a href="http://www.chris-granger.com/2012/06/24/its-playtime/">Chris Granger - It&#39;s playtime - Light Table Playground released</a></li>
-<li><a href="http://www.eclipse.org/">Eclipse Juno (4.2) Released</a></li>
-<li><a href="http://madlag.github.com/jarvis/">Jarvis - Python coding companion and Light Table clone</a></li>
-</ul>
-
-
-<h3>Various</h3>
-
-<ul>
-<li><a href="http://changelog.complete.org/archives/7562-i-introduced-my-5-year-old-and-2-year-old-to-startx-and-xmonad-theyre-delighted">I introduced my 5-year-old and 2-year-old to startx and xmonad. They’re DELIGHTED! | The Changelog</a> <a href="http://xmonad.org/">xmonad | the tiling window manager that rocks</a></li>
-<li><a href="http://en.wikipedia.org/wiki/Sexy_prime">Sexy prime - Wikipedia, the free encyclopedia</a></li>
-<li><a href="http://www.extremetech.com/extreme/131640-infinite-capacity-wireless-vortex-beams-carry-2-5-terabits-per-second">Infinite-capacity wireless vortex beams carry 2.5 terabits per second | ExtremeTech</a></li>
-<li><a href="http://lucumr.pocoo.org/2012/6/26/disconnects-are-good-for-you/">ZeroMQ: Disconnects are Good for You | Armin Ronacher&#39;s Thoughts and Writings</a></li>
-</ul>
-
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Interesing Thingys 21]]></title>
-    <link href="http://yieldthedog.github.com/blog/2012/06/22/interesting-thingys-21/"/>
-    <updated>2012-06-22T08:17:00+02:00</updated>
-    <id>http://yieldthedog.github.com/blog/2012/06/22/interesting-thingys-21</id>
-    <content type="html"><![CDATA[<p>This week some Interesting Thingys from CSS, JavaScript, Ruby, and much more.</p>
-
-<!-- More -->
-
-
-<h3>Vim</h3>
-
-<ul>
-<li><a href="https://github.com/alevchuk/vim-clutch">Vim Clutch</a><br/>
-Give Vim a pedal to speed up your typing</li>
-</ul>
-
-
-<h3>Programming</h3>
-
-<ul>
-<li><a href="http://www.yosefk.com/blog/i-cant-believe-im-praising-tcl.html?">I can’t believe I’m praising Tcl</a></li>
-<li><a href="http://www.noverse.com/blog/2012/06/how-to-write-a-good-bug-report/">How to write a good bug report - Noverse</a></li>
-<li><a href="http://www.codedevelopr.com/50-web-developer-documentation-manuals-you-need-to-know-about/">50 Web Developer Documentation Manuals You Need To Know About</a></li>
-<li><a href="http://infiniteundo.com/post/25326999628/falsehoods-programmers-believe-about-time">Falsehoods programmers believe about time: Noah Sussman: Infinite Undo</a><br/>
-This is kind of a fun one, at least as long as it does not happen to you.</li>
-</ul>
-
-
-<h3>HTML</h3>
-
-<ul>
-<li><a href="http://stackoverflow.com/questions/11093943/is-it-possible-to-make-a-div-50px-less-than-100-in-css?newsletter=1&amp;nlcode=28472%7c4563">html - Is it possible to make a div 50px less than 100% in CSS? - Stack Overflow</a></li>
-</ul>
-
-
-<h3>CSS</h3>
-
-<ul>
-<li><a href="http://meyerweb.com/eric/thoughts/2012/06/12/combining-nth-of-type-with-negation/">Eric&#39;s Archived Thoughts: Combining ‘nth-of-type()’ With Negation</a></li>
-<li><a href="http://photon.attasi.com/">Photon | CSS 3D Lighting Engine</a></li>
-<li><a href="http://tympanus.net/Tutorials/3DHoverEffects/index.html">3D Thumbnail Hover Effects</a></li>
-<li><a href="http://www.igvita.com/2012/06/14/debunking-responsive-css-performance-myths/">Debunking Responsive CSS Performance Myths - igvita.com</a></li>
-</ul>
-
-
-<h3>JavaScript</h3>
-
-<ul>
-<li><a href="https://github.com/jashkenas/coffee-script/pull/2370">Pull Request #2370: Allow dashes in identifiers, mangle them. by paulmillr · jashkenas/coffee-script</a></li>
-<li><a href="http://addyosmani.github.com/backbone-aura/">Backbone Aura by addyosmani</a></li>
-<li><a href="http://softwaremaniacs.org/soft/highlight/en/">highlight.js</a></li>
-<li><a href="http://seuratjs.com/">SeuratJS - A Raphaël plugin for creating beautiful pointilized animations.</a></li>
-<li><a href="http://perka.github.com/backbone-ui/">Backbone UI</a></li>
-<li><a href="http://stackoverflow.com/questions/11066050/why-are-my-balls-disappearing?newsletter=1&amp;nlcode=28472%7c4563">javascript - Why are my balls disappearing? - Stack Overflow</a></li>
-<li><a href="http://adamonio.us/wexcode/66/introduction-to-javascript/">Introduction to JavaScript | adamonio.us</a></li>
-</ul>
-
-
-<h3>C&#35;</h3>
-
-<ul>
-<li><a href="http://tomasp.net/blog/variance-explained.aspx">The theory behind covariance and contravariance in C# 4 | Blog | TomasP.Net</a></li>
-</ul>
-
-
-<h3>Ruby</h3>
-
-<ul>
-<li><a href="http://myronmars.to/n/dev-blog/2012/06/rspecs-new-expectation-syntax">Myron Marston » RSpec&#39;s New Expectation Syntax</a></li>
-<li><a href="http://tenderlovemaking.com/2012/06/18/removing-config-threadsafe.html">Removing config.threadsafe! | Tenderlovemaking</a></li>
-<li><a href="http://www.rubypluspl.us/2012/06/ubuntu-1204-ruby-on-rails-development.html">ruby++: Ubuntu 12.04 Ruby on Rails Development Environment</a></li>
-<li><a href="https://github.com/fredwu/api_taster">fredwu/api_taster</a><br/>
-A quick and easy way to visually test out your Rails application&#8217;s API.</li>
-<li><a href="https://github.com/ruby-talks/talks">ruby-talks/talks</a>  <br/>
-now your ruby and command-line tools can talk with you</li>
-</ul>
-
-
-<h3>GIT</h3>
-
-<ul>
-<li><a href="http://coderwall.com/p/euwpig?i=3&amp;p=1&amp;t=git">Filipe Kiss : A better git log</a></li>
-</ul>
-
 ]]></content>
   </entry>
   
