@@ -4,7 +4,7 @@
   <title><![CDATA[yield the dog]]></title>
   <link href="http://yieldthedog.github.com/atom.xml" rel="self"/>
   <link href="http://yieldthedog.github.com/"/>
-  <updated>2013-02-28T21:41:17+01:00</updated>
+  <updated>2013-02-28T23:50:15+01:00</updated>
   <id>http://yieldthedog.github.com/</id>
   <author>
     <name><![CDATA[yield the dog]]></name>
@@ -12,6 +12,47 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Invoke JS Beautify in Vim]]></title>
+    <link href="http://yieldthedog.github.com/blog/2013/03/01/invoke-js-beautify-in-vim/"/>
+    <updated>2013-03-01T08:00:00+01:00</updated>
+    <id>http://yieldthedog.github.com/blog/2013/03/01/invoke-js-beautify-in-vim</id>
+    <content type="html"><![CDATA[<p>Do you really need a plugin for vim to beautify your code?</p>
+
+<!-- More -->
+
+
+<p>1) Install js-beautify</p>
+
+<pre><code>npm install -g js-beautify
+</code></pre>
+
+<p>2) Map js-beautify to ,ff (if your leader is ,):</p>
+
+<pre><code>nnoremap &lt;leader&gt;ff :%!js-beautify -j -q -B -f -&lt;CR&gt;
+</code></pre>
+
+<p>3) Customize the options the way you want</p>
+
+<pre><code>js-beautify -h #will give you all options
+</code></pre>
+
+<p>The options above stand for</p>
+
+<ul>
+<li>-j  make jshint happy</li>
+<li>-q  silent, otherwise you get js beautify output in your file</li>
+<li>-B  Break chained method into seperate lines</li>
+<li>-f - use STDIN as file</li>
+</ul>
+
+
+<p>There is no need for a vim plugin to do this for you and this way you can easily customize it the way you want.</p>
+
+<p>Happy vimming!</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Interesting Thingys 44]]></title>
@@ -3239,114 +3280,6 @@ Writing for hackers</li>
 <ul>
 <li><a href="http://publicdomainreview.org/2012/06/30/france-in-the-year-2000-1899-1910/">France in the year 2000 | The Public Domain Review</a></li>
 <li><a href="http://the.codepoet.ch/what-you-should-know-about-solid/">What you should know about SOLID</a></li>
-</ul>
-
-
-<h2>Your link could be here</h2>
-
-<p>If we missed something special or you just want to promote a site, give us a nudge @ <a href='&#109;&#97;&#105;&#108;t&#111;&#58;%7&#57;&#105;eld&#116;%68%65do%67&#64;gmail&#37;2&#69;c&#37;6&#70;m'>y&#105;eldt&#104;&#101;dog&#64;&#103;mail&#46;&#99;&#111;m</a></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Interesing Thingys 25]]></title>
-    <link href="http://yieldthedog.github.com/blog/2012/07/27/interesting-thingys-25/"/>
-    <updated>2012-07-27T08:17:00+02:00</updated>
-    <id>http://yieldthedog.github.com/blog/2012/07/27/interesting-thingys-25</id>
-    <content type="html"><![CDATA[<p>This week we have a great potpourri of links for you. Check them out…</p>
-
-<!-- More -->
-
-
-<h3>CSS</h3>
-
-<ul>
-<li><a href="http://csswizardry.com/2012/07/shoot-to-kill-css-selector-intent/">Shoot to kill; CSS selector intent — CSS Wizardry—CSS, Web Standards, Typography, and Grids by Harry Roberts</a></li>
-<li><a href="http://meyerweb.com/eric/css/tests/circadients.html">Cicadients</a></li>
-</ul>
-
-
-<h3>HTML(5)</h3>
-
-<ul>
-<li><a href="http://coderwall.com/p/p0nvjw?i=5&amp;p=1&amp;q=">Euan Torano : Creating a semantic breadcrumb using HTML5 microdata</a></li>
-<li><a href="http://palantir.net/blog/responsive-design-s-dirty-little-secret">Responsive Design’s Dirty Little Secret | Palantir.net</a></li>
-<li><a href="http://joshondesign.com/2012/07/24/deepdivegithub">Canvas Deep Dive Source is Released</a></li>
-</ul>
-
-
-<h3>Mobile</h3>
-
-<ul>
-<li><a href="http://phonegap.com/2012/07/20/adobe-phonegap-2-0-released.md//">PhoneGap | Adobe PhoneGap 2.0 Released</a></li>
-</ul>
-
-
-<h3>WebDevelopment</h3>
-
-<ul>
-<li><a href="http://www.coderholic.com/invaluable-command-line-tools-for-web-developers/">Invaluable command line tools for web developers</a></li>
-<li><a href="http://www.spritecow.com/">www.spritecow.com</a></li>
-</ul>
-
-
-<h3>Ruby</h3>
-
-<ul>
-<li><a href="http://playbook.thoughtbot.com/">thoughtbot playbook</a></li>
-<li><a href="http://blog.phusion.nl/2012/07/24/roadmap-preview-1-phusion-passenger-4-0-and-phusion-passenger-enterprise/">Roadmap Preview 1 – Phusion Passenger 4.0 and Phusion Passenger Enterprise – Phusion Corporate Blog</a></li>
-<li><a href="http://robots.thoughtbot.com/post/27572137956/tell-dont-ask">Tell, Don&#39;t Ask</a></li>
-<li><a href="http://jordanhollinger.com/2012/07/23/introducing-graphene">Introducing Graphene / jhollinger</a></li>
-</ul>
-
-
-<h3>OS X</h3>
-
-<ul>
-<li><a href="https://gist.github.com/3181811">Fix Mountain Lion 10.8 Python IOError pyconfig.h Error — Gist</a></li>
-<li><a href="https://gist.github.com/3182604">Get Mountain Lion and Homebrew to Be Happy</a></li>
-</ul>
-
-
-<h3>Git</h3>
-
-<ul>
-<li><a href="https://github.com/erlang/otp/wiki/Writing-good-commit-messages">Writing good commit messages · erlang/otp Wiki</a></li>
-<li><a href="http://who-t.blogspot.co.at/2009/12/on-commit-messages.html">Who-T: On commit messages</a></li>
-</ul>
-
-
-<h3>Databases</h3>
-
-<ul>
-<li><a href="http://wekeroad.com/2012/07/19/postgresql-rising">PostgreSQL Rising</a></li>
-<li><a href="https://github.com/kumarnitin/RedisLive">kumarnitin/RedisLive</a></li>
-</ul>
-
-
-<h3>Editors</h3>
-
-<ul>
-<li><a href="http://stackoverflow.com/questions/3997078/how-to-paste-text-into-vim-command-line/3997110#3997110">How to paste text into Vim command line - Stack Overflow</a></li>
-<li><a href="http://robdodson.me/blog/2012/06/23/sublime-text-2-tips-and-shortcuts/">Sublime Text 2 Tips and Shortcuts</a></li>
-</ul>
-
-
-<h3>Miscellaneous</h3>
-
-<ul>
-<li><a href="http://www.ndcoslo.com/Article/News/2012video">Videos from NDC 2012 | NDC2012 - Norwegian Developers Conference</a></li>
-<li><a href="http://www.jasondavies.com/primos/">El Patrón de los Números Primos: Prime Number Patterns - Jason Davies</a></li>
-<li><a href="http://eranki.tumblr.com/post/27076431887/scaling-lessons-learned-at-dropbox-part-1">Rajiv&#39;s blog - Scaling lessons learned at Dropbox, part 1</a></li>
-<li><a href="http://www.happyprog.com/tdgotchi/">TDGotchi helps you practice TDD while you raise a pet - happyprog</a></li>
-</ul>
-
-
-<h3>Fun</h3>
-
-<ul>
-<li><a href="http://www.alexandrosmaragos.com/2012/07/lightning-captured-at-7207-frames-per.html">Momentum: Lightnings captured at 7,207 &amp; 9,000 frames per second</a></li>
-<li><a href="http://www.youtube.com/watch?v=6guXMfg88Z8&amp;feature=em-uploademail">Higgs Boson Part III: How to Discover a Particle - YouTube</a></li>
 </ul>
 
 
