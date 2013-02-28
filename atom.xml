@@ -4,7 +4,7 @@
   <title><![CDATA[yield the dog]]></title>
   <link href="http://yieldthedog.github.com/atom.xml" rel="self"/>
   <link href="http://yieldthedog.github.com/"/>
-  <updated>2012-12-07T06:31:04+01:00</updated>
+  <updated>2013-02-28T21:41:17+01:00</updated>
   <id>http://yieldthedog.github.com/</id>
   <author>
     <name><![CDATA[yield the dog]]></name>
@@ -12,6 +12,214 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Interesting Thingys 44]]></title>
+    <link href="http://yieldthedog.github.com/blog/2013/02/28/interesting-thingys-44/"/>
+    <updated>2013-02-28T22:00:00+01:00</updated>
+    <id>http://yieldthedog.github.com/blog/2013/02/28/interesting-thingys-44</id>
+    <content type="html"><![CDATA[<p>Long time no see. After a quite long pause we are back with a ton of links!</p>
+
+<!-- More -->
+
+
+<h2>JavaScript</h2>
+
+<ul>
+<li><strong><a href="https://github.com/iammerrick/Squire.js">iammerrick/Squire.js · GitHub</a></strong>
+  <small>Your friendly dependency injector for testing Require.js modules</small></li>
+<li><strong><a href="http://adamghill.com/2012/12/02/callbacks-considered-a-smell/">Callbacks considered a smell | adamghill.com</a></strong>
+  <small>How to get rid of callback hell</small></li>
+<li><strong><a href="http://www.unheap.com/">Unheap – A tidy collection of jQuery plugins</a></strong>
+  <small>useful jquery plugins</small></li>
+<li><strong><a href="https://github.com/thlorenz/browserify-ftw">thlorenz/browserify-ftw</a></strong>
+  <small>Converts an entire project that uses requirejs amd into on that uses nodejs common modules so it can be browserified.</small></li>
+<li><strong><a href="http://jquery.com/upgrade-guide/1.9/">jQuery Core 1.9 Upgrade Guide</a></strong>
+  <small>are you ready for the next major jQuery version?</small></li>
+<li><strong><a href="http://als.musings.it/">any list scroller - jQuery scrolling plugin by musings.it to scroll any list with any content - musings.it web design and development</a></strong>
+  <small>ALS - Any List Scroller is the jQuery plugin by musings.it to scroll any list, of any dimension, with any content. Try it! </small></li>
+<li><strong><a href="http://garlicjs.org/">Garlic.js</a></strong>
+  <small>Forms are independent. All text data is localy persisted thanks to localStorage if browser supports it. If you reload this page, quit and go back here, your data will still be there. On simple validation, if you press the submit button the presisted data will be destroyed, considering it has properly been submited</small></li>
+<li><strong><a href="http://www.mark-lundin.com/box/inception/">Inception Vetex Shader</a></strong>
+  <small>thiree js dmo</small></li>
+<li><strong><a href="https://github.com/twitter/typeahead.js">twitter/typeahead.js · GitHub</a></strong>
+  <small>autocomplete library</small></li>
+<li><strong><a href="https://github.com/fullscale/dangle">fullscale/dangle · GitHub</a></strong>
+  <small>A set of AngularJS directives that provide common visualizations for elasticsearch based on D3.</small></li>
+<li><strong><a href="http://github.hubspot.com/messenger/">Messenger - Alerts for the 21st Century</a></strong>
+  <small>Show transactional messages in your app Wrap AJAX requests with progress, success and error messages Add action links to your messages.</small></li>
+</ul>
+
+
+<h2>CSS</h2>
+
+<ul>
+<li><strong><a href="http://oliverash.me/2012/11/23/css-exceptions-object-modifiers-or-extensions.html">CSS Exceptions: Object Modifiers or Extensions?</a></strong>
+  <small>CSS Exceptions: Object Modifiers or Extensions?</small></li>
+<li><strong><a href="https://github.com/daneden/animate.css">daneden/animate.css · GitHub</a></strong>
+  <small>Cross-browser CSS3 animations. Plug and play. Do a little dance.</small></li>
+<li><strong><a href="http://tympanus.net/codrops/2012/11/29/simple-effects-for-drop-down-lists/">Simple Effects for Drop-Down Lists | Codrops</a></strong>
+  <small>Nice little effecgts on your dropdowns</small></li>
+<li><strong><a href="http://groundwork.sidereel.com/?url=home">Groundwork CSS</a></strong>
+  <small>A Responsive HTML5, CSS </small></li>
+</ul>
+
+
+<h2>HTML5</h2>
+
+<ul>
+<li><strong><a href="http://www.netmagazine.com/features/top-20-html5-sites-2012">The top 20 HTML5 sites of 2012 | Feature | .net magazine</a></strong>
+  <small>Some great examples of what HTML5 can do</small></li>
+<li><strong><a href="http://updates.html5rocks.com/2012/12/Canvas-driven-background-images">Canvas-driven background images - HTML5Rocks Updates</a></strong>
+  <small>PROGRAMMATICALLY ANIMATING BACKGROUND IMAGES</small></li>
+</ul>
+
+
+<h2>Web Development</h2>
+
+<ul>
+<li><strong><a href="http://www.netmagazine.com/features/top-25-responsive-sites-2012">The top 25 responsive sites of 2012 | Feature | .net magazine</a></strong>
+  <small>A great round up</small></li>
+<li><strong><a href="http://www.smashingmagazine.com/2012/12/11/seo-the-inconvenient-truth/">The Inconvenient Truth About SEO | Smashing Magazine</a></strong>
+  <small>Is it worth spending lots of time optimizing your site for SEO? Read on to find out..</small></li>
+<li><strong><a href="http://calendar.perfplanet.com/2012/deciphering-the-critical-rendering-path/">Performance Calendar » Deciphering the Critical Rendering Path</a></strong>
+  <small>Ilya Grigorik steps you through the critical path of a page</small></li>
+<li><strong><a href="http://www.zurb.com/responsive">Responsive from ZURB | Gallery of Responsive Sites</a></strong>
+  <small>Everything you need!</small></li>
+<li><strong><a href="http://csswizardry.com/2013/01/front-end-performance-for-web-designers-and-front-end-developers/#">Front-end performance for web designers and front-end developers – CSS Wizardry – CSS, OOCSS, front-end architecture, performance and more, by Harry Roberts</a></strong>
+  <small>a must-read for evry frontend developer!</small></li>
+<li><strong><a href="http://www.peterkroener.de/indexed-db-die-neue-html5-datenbank-im-browser-teil-1-ein-kurzer-ueberblick/">Indexed DB, die neue HTML5-Datenbank im Browser.</a></strong>
+  <small>Der erste Teil der Serie: ein kurzer Überblick</small></li>
+<li><strong><a href="http://trentwalton.com/2013/02/07/where-to-start/">Where to Start</a></strong>
+  <small>Nice reading about getting started with responsive design</small></li>
+</ul>
+
+
+<h2>Mobile Development</h2>
+
+<ul>
+<li><strong><a href="http://www.curious-creature.org/docs/android-performance-case-study-1.html">Android Performance Case Study, Falcon Pro</a></strong>
+  <small>How to get your Android app perform well</small></li>
+</ul>
+
+
+<h2>Ruby</h2>
+
+<ul>
+<li><strong><a href="https://github.com/slivu/1mc2">slivu/1mc2 · GitHub</a></strong>
+  <small>1 million concurrent connections in Ruby</small></li>
+</ul>
+
+
+<h2>Node.js</h2>
+
+<ul>
+<li><strong><a href="https://github.com/bcoe/routers-news">bcoe/routers-news · GitHub</a></strong>
+  <small>A crawler for various popular tech news sources. Read technology news from the comfort of your CLI. </small></li>
+<li><strong><a href="http://blog.nodejs.org/2013/02/07/peer-dependencies/">Peer Dependencies</a></strong>
+  <small>Makes the life of plugin developers easier</small></li>
+<li><strong><a href="http://pomelo.netease.com/">Pomelo home</a></strong>
+  <small>Fast, scalable, distributed game server framework for node.js</small></li>
+</ul>
+
+
+<h2>Java</h2>
+
+<ul>
+<li><strong><a href="http://stackoverflow.com/questions/13883166/uncatchable-chucknorrisexception?newsletter=1">Uncatchable ChuckNorrisException - Stack Overflow</a></strong>
+  <small>This is definitely a great question title.</small></li>
+</ul>
+
+
+<h2>Programming</h2>
+
+<ul>
+<li><strong><a href="http://blog.ninlabs.com/2013/01/programmer-interrupted/">Programmer Interrupted</a></strong>
+  <small>What happens if programmers get interrupted?</small></li>
+</ul>
+
+
+<h2>Databases</h2>
+
+<ul>
+<li><strong><a href="http://blog.serverdensity.com/mongodb-schema-design-pitfalls/">MongoDB schema design pitfalls - Server Density Blog</a></strong>
+  <small>Remember, &#8220;schemaless&#8221; doesn&#8217;t mean you don&#8217;t need to design your schema!</small></li>
+</ul>
+
+
+<h2>Git</h2>
+
+<ul>
+<li><strong><a href="http://blog.gitlabhq.com/gitlab-4-release/">GitLab 4.0 released - GITLAB Blog</a></strong>
+  <small>With lots of new features&#8230;</small></li>
+<li><strong><a href="https://github.com/pcottle/learnGitBranching">pcottle/learnGitBranching · GitHub</a></strong>
+  <small>An interactive git visualization to challenge and educate! </small></li>
+</ul>
+
+
+<h2>Security</h2>
+
+<ul>
+<li><strong><a href="http://www.html5rocks.com/en/tutorials/security/transport-layer-security/">Confound Malicious Middlemen with HTTPS and HTTP Strict Transport Security - HTML5 Rocks</a></strong>
+  <small>go secure!</small></li>
+</ul>
+
+
+<h2>Watching</h2>
+
+<ul>
+<li><strong><a href="http://www.youtube.com/watch?v=TqX-CqYYwEc">IOC Javascript - YouTube</a></strong>
+  <small>Thicker web clients and server-side JavaScript create complexity that must be managed through architectural patterns. </small></li>
+<li><strong><a href="http://www.youtube.com/watch?v=dkZFtimgAcM">Douglas Crockford: Monads and Gonads (YUIConf Evening Keynote) - YouTube</a></strong>
+  <small>In this evening keynote from YUIConf 2012, the legendary JavaScript architect Douglas Crockford discusses one of the most elusive of all programming concepts: the monads.</small></li>
+<li><strong><a href="http://www.youtube.com/watch?v=ACYZFkvq0Sk">Javascript Code Analysis with Esprima - YouTube</a></strong>
+  <small> As applications get more complex, the underlying systems will get harder and harder to maintain and manage. JavaScript&#8217;s tools aren&#8217;t keeping pace, and that&#8217;s a problem.</small></li>
+<li><strong><a href="http://www.youtube.com/user/W3Conf">W3Conf - YouTube</a></strong>
+  <small>15 Videos from w3c conf</small></li>
+<li><strong><a href="https://www.youtube.com/watch?v=vEAkChFGhVI">Master of the Internet - YouTube</a></strong>
+  <small>Internet advert from the 90ies</small></li>
+<li><strong><a href="http://www.youtube.com/watch?v=_d6KuiuteIA">Introducing the Leap Motion - YouTube</a></strong>
+  <small>Nice &#8220;demo&#8221; video of leap motion</small></li>
+</ul>
+
+
+<h2>Miscellaneous</h2>
+
+<ul>
+<li><strong><a href="http://sachagreif.com/flat-pixels/">Flat Pixels: The Battle Between Flat Design And Skeuomorphism</a></strong>
+  <small>what&#8217;s a flat pixel?</small></li>
+<li><strong><a href="https://github.com/blog/1345-introducing-boxen">Introducing Boxen</a></strong>
+  <small>automating osx setup</small></li>
+<li><strong><a href="http://nginx.com/news/nginx-websockets.html">NGINX Announces Support for WebSocket Protocol</a></strong>
+  <small>Finally!!!</small></li>
+<li><strong><a href="http://gigaom.com/2013/01/10/nokia-yes-we-decrypt-your-https-data-but-dont-worry-about-it/">Nokia: Yes, we decrypt your HTTPS data, but don’t worry about it — Tech News and Analysis</a></strong>
+  <small>Nokia&#8217;s trustworthyness just went down the drain</small></li>
+</ul>
+
+
+<h2>Fun</h2>
+
+<ul>
+<li><strong><a href="https://github.com/darwin/cmx.js">darwin/cmx.js · GitHub</a></strong>
+  <small>a library/markup for building xkcd-style comic strips</small></li>
+<li><strong><a href="http://bombermine.com/#/">Bombermine</a></strong>
+  <small>Massively Bomberman Online with up to 1000 players on the single map</small></li>
+</ul>
+
+
+<h2>Raspberry Pi</h2>
+
+<ul>
+<li><strong><a href="http://www.wired.com/design/2012/12/more-raspberry-pi-please/?pid=1634">10 More Mind-Blowing, Skill-Building Raspberry Pi Projects | Wired Design | Wired.com</a></strong>
+  <small>Don&#8217;t know, what to do with your RaspberryPi?</small></li>
+</ul>
+
+
+<h2>Your link could be here</h2>
+
+<p>If we missed something special or you just want to promote a site, give us a nudge @ <a href='&#109;&#97;&#105;&#108;t&#111;&#58;%7&#57;&#105;eld&#116;%68%65do%67&#64;gmail&#37;2&#69;c&#37;6&#70;m'>y&#105;eldt&#104;&#101;dog&#64;&#103;mail&#46;&#99;&#111;m</a></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Interesting Thingys 43]]></title>
@@ -126,6 +334,227 @@
   <small>Some nice Raspberry Pi Projects.</small></li>
 <li><strong><a href="http://thedigitallifestyle.com/w/index.php/2012/08/02/control-xmbc-on-a-raspberry-pi-via-the-tvs-remote-with-hdmi-cec/">XMBC Raspberry Pi remote control</a></strong>
   <small>Control XMBC on a Raspberry Pi via the TVs remote with HDMI-CEC</small></li>
+</ul>
+
+
+<h2>Your link could be here</h2>
+
+<hr />
+
+<p>layout: post
+title: &#8220;Interesting Thingys ISSUE_NO&#8221;
+date: 2013-03-01 8:17
+comments: false
+published: true</p>
+
+<h2>categories: &#8220;Interesting-Thingys&#8221; </h2>
+
+<p>ISSUE_DESCRIPTION</p>
+
+<!-- More -->
+
+
+<h2>JavaScript</h2>
+
+<ul>
+<li><strong><a href="https://github.com/iammerrick/Squire.js">iammerrick/Squire.js · GitHub</a></strong>
+  <small>Your friendly dependency injector for testing Require.js modules</small></li>
+<li><strong><a href="http://adamghill.com/2012/12/02/callbacks-considered-a-smell/">Callbacks considered a smell | adamghill.com</a></strong>
+  <small>How to get rid of callback hell</small></li>
+<li><strong><a href="http://www.unheap.com/">Unheap – A tidy collection of jQuery plugins</a></strong>
+  <small>useful jquery plugins</small></li>
+<li><strong><a href="https://github.com/thlorenz/browserify-ftw">thlorenz/browserify-ftw</a></strong>
+  <small>Converts an entire project that uses requirejs amd into on that uses nodejs common modules so it can be browserified.</small></li>
+<li><strong><a href="http://jquery.com/upgrade-guide/1.9/">jQuery Core 1.9 Upgrade Guide</a></strong>
+  <small>are you ready for the next major jQuery version?</small></li>
+<li><strong><a href="http://als.musings.it/">any list scroller - jQuery scrolling plugin by musings.it to scroll any list with any content - musings.it web design and development</a></strong>
+  <small>ALS - Any List Scroller is the jQuery plugin by musings.it to scroll any list, of any dimension, with any content. Try it! </small></li>
+<li><strong><a href="http://garlicjs.org/">Garlic.js</a></strong>
+  <small>Forms are independent. All text data is localy persisted thanks to localStorage if browser supports it. If you reload this page, quit and go back here, your data will still be there. On simple validation, if you press the submit button the presisted data will be destroyed, considering it has properly been submited</small></li>
+<li><strong><a href="http://www.mark-lundin.com/box/inception/">Inception Vetex Shader</a></strong>
+  <small>thiree js dmo</small></li>
+<li><strong><a href="https://github.com/twitter/typeahead.js">twitter/typeahead.js · GitHub</a></strong>
+  <small>autocomplete library</small></li>
+<li><strong><a href="https://github.com/fullscale/dangle">fullscale/dangle · GitHub</a></strong>
+  <small>A set of AngularJS directives that provide common visualizations for elasticsearch based on D3.</small></li>
+<li><strong><a href="http://github.hubspot.com/messenger/">Messenger - Alerts for the 21st Century</a></strong>
+  <small>Show transactional messages in your app Wrap AJAX requests with progress, success and error messages Add action links to your messages.</small></li>
+</ul>
+
+
+<h2>CSS</h2>
+
+<ul>
+<li><strong><a href="http://oliverash.me/2012/11/23/css-exceptions-object-modifiers-or-extensions.html">CSS Exceptions: Object Modifiers or Extensions?</a></strong>
+  <small>CSS Exceptions: Object Modifiers or Extensions?</small></li>
+<li><strong><a href="https://github.com/daneden/animate.css">daneden/animate.css · GitHub</a></strong>
+  <small>Cross-browser CSS3 animations. Plug and play. Do a little dance.</small></li>
+<li><strong><a href="http://tympanus.net/codrops/2012/11/29/simple-effects-for-drop-down-lists/">Simple Effects for Drop-Down Lists | Codrops</a></strong>
+  <small>Nice little effecgts on your dropdowns</small></li>
+<li><strong><a href="http://groundwork.sidereel.com/?url=home">Groundwork CSS</a></strong>
+  <small>A Responsive HTML5, CSS </small></li>
+</ul>
+
+
+<h2>HTML5</h2>
+
+<ul>
+<li><strong><a href="http://www.netmagazine.com/features/top-20-html5-sites-2012">The top 20 HTML5 sites of 2012 | Feature | .net magazine</a></strong>
+  <small>Some great examples of what HTML5 can do</small></li>
+<li><strong><a href="http://updates.html5rocks.com/2012/12/Canvas-driven-background-images">Canvas-driven background images - HTML5Rocks Updates</a></strong>
+  <small>PROGRAMMATICALLY ANIMATING BACKGROUND IMAGES</small></li>
+</ul>
+
+
+<h2>Web Development</h2>
+
+<ul>
+<li><strong><a href="http://www.netmagazine.com/features/top-25-responsive-sites-2012">The top 25 responsive sites of 2012 | Feature | .net magazine</a></strong>
+  <small>A great round up</small></li>
+<li><strong><a href="http://www.smashingmagazine.com/2012/12/11/seo-the-inconvenient-truth/">The Inconvenient Truth About SEO | Smashing Magazine</a></strong>
+  <small>Is it worth spending lots of time optimizing your site for SEO? Read on to find out..</small></li>
+<li><strong><a href="http://calendar.perfplanet.com/2012/deciphering-the-critical-rendering-path/">Performance Calendar » Deciphering the Critical Rendering Path</a></strong>
+  <small>Ilya Grigorik steps you through the critical path of a page</small></li>
+<li><strong><a href="http://www.zurb.com/responsive">Responsive from ZURB | Gallery of Responsive Sites</a></strong>
+  <small>Everything you need!</small></li>
+<li><strong><a href="http://csswizardry.com/2013/01/front-end-performance-for-web-designers-and-front-end-developers/#">Front-end performance for web designers and front-end developers – CSS Wizardry – CSS, OOCSS, front-end architecture, performance and more, by Harry Roberts</a></strong>
+  <small>a must-read for evry frontend developer!</small></li>
+<li><strong><a href="http://www.peterkroener.de/indexed-db-die-neue-html5-datenbank-im-browser-teil-1-ein-kurzer-ueberblick/">Indexed DB, die neue HTML5-Datenbank im Browser.</a></strong>
+  <small>Der erste Teil der Serie: ein kurzer Überblick</small></li>
+<li><strong><a href="http://trentwalton.com/2013/02/07/where-to-start/">Where to Start</a></strong>
+  <small>Nice reading about getting started with responsive design</small></li>
+</ul>
+
+
+<h2>Mobile Development</h2>
+
+<ul>
+<li><strong><a href="http://www.curious-creature.org/docs/android-performance-case-study-1.html">Android Performance Case Study, Falcon Pro</a></strong>
+  <small>How to get your Android app perform well</small></li>
+</ul>
+
+
+<h2>Ruby</h2>
+
+<ul>
+<li><strong><a href="https://github.com/slivu/1mc2">slivu/1mc2 · GitHub</a></strong>
+  <small>1 million concurrent connections in Ruby</small></li>
+</ul>
+
+
+<h2>Node.js</h2>
+
+<ul>
+<li><strong><a href="https://github.com/bcoe/routers-news">bcoe/routers-news · GitHub</a></strong>
+  <small>A crawler for various popular tech news sources. Read technology news from the comfort of your CLI. </small></li>
+<li><strong><a href="http://blog.nodejs.org/2013/02/07/peer-dependencies/">Peer Dependencies</a></strong>
+  <small>Makes the life of plugin developers easier</small></li>
+<li><strong><a href="http://pomelo.netease.com/">Pomelo home</a></strong>
+  <small>Fast, scalable, distributed game server framework for node.js</small></li>
+</ul>
+
+
+<h2>Java</h2>
+
+<ul>
+<li><strong><a href="http://stackoverflow.com/questions/13883166/uncatchable-chucknorrisexception?newsletter=1">Uncatchable ChuckNorrisException - Stack Overflow</a></strong>
+  <small>This is definitely a great question title.</small></li>
+</ul>
+
+
+<h2>Programming</h2>
+
+<ul>
+<li><strong><a href="http://blog.ninlabs.com/2013/01/programmer-interrupted/">Programmer Interrupted</a></strong>
+  <small>What happens if programmers get interrupted?</small></li>
+</ul>
+
+
+<h2>Databases</h2>
+
+<ul>
+<li><strong><a href="http://blog.serverdensity.com/mongodb-schema-design-pitfalls/">MongoDB schema design pitfalls - Server Density Blog</a></strong>
+  <small>Remember, &#8220;schemaless&#8221; doesn&#8217;t mean you don&#8217;t need to design your schema!</small></li>
+</ul>
+
+
+<h2>Git</h2>
+
+<ul>
+<li><strong><a href="http://blog.gitlabhq.com/gitlab-4-release/">GitLab 4.0 released - GITLAB Blog</a></strong>
+  <small>With lots of new features&#8230;</small></li>
+<li><strong><a href="https://github.com/pcottle/learnGitBranching">pcottle/learnGitBranching · GitHub</a></strong>
+  <small>An interactive git visualization to challenge and educate! </small></li>
+</ul>
+
+
+<h2>Security</h2>
+
+<ul>
+<li><strong><a href="http://www.html5rocks.com/en/tutorials/security/transport-layer-security/">Confound Malicious Middlemen with HTTPS and HTTP Strict Transport Security - HTML5 Rocks</a></strong>
+  <small>go secure!</small></li>
+</ul>
+
+
+<h2>Watching</h2>
+
+<ul>
+<li><strong><a href="http://www.youtube.com/watch?v=TqX-CqYYwEc">IOC Javascript - YouTube</a></strong>
+  <small>Thicker web clients and server-side JavaScript create complexity that must be managed through architectural patterns. </small></li>
+<li><strong><a href="http://www.youtube.com/watch?v=dkZFtimgAcM">Douglas Crockford: Monads and Gonads (YUIConf Evening Keynote) - YouTube</a></strong>
+  <small>In this evening keynote from YUIConf 2012, the legendary JavaScript architect Douglas Crockford discusses one of the most elusive of all programming concepts: the monads.</small></li>
+<li><strong><a href="http://www.youtube.com/watch?v=ACYZFkvq0Sk">Javascript Code Analysis with Esprima - YouTube</a></strong>
+  <small> As applications get more complex, the underlying systems will get harder and harder to maintain and manage. JavaScript&#8217;s tools aren&#8217;t keeping pace, and that&#8217;s a problem.</small></li>
+<li><strong><a href="http://www.youtube.com/user/W3Conf">W3Conf - YouTube</a></strong>
+  <small>15 Videos from w3c conf</small></li>
+</ul>
+
+
+<h2>Miscellaneous</h2>
+
+<ul>
+<li><strong><a href="http://sachagreif.com/flat-pixels/">Flat Pixels: The Battle Between Flat Design And Skeuomorphism</a></strong>
+  <small>what&#8217;s a flat pixel?</small></li>
+<li><strong><a href="https://github.com/blog/1345-introducing-boxen">Introducing Boxen</a></strong>
+  <small>automating osx setup</small></li>
+<li><strong><a href="http://nginx.com/news/nginx-websockets.html">NGINX Announces Support for WebSocket Protocol</a></strong>
+  <small>Finally!!!</small></li>
+</ul>
+
+
+<h2>Fun</h2>
+
+<ul>
+<li><strong><a href="https://github.com/darwin/cmx.js">darwin/cmx.js · GitHub</a></strong>
+  <small>a library/markup for building xkcd-style comic strips</small></li>
+<li><strong><a href="http://bombermine.com/#/">Bombermine</a></strong>
+  <small>Massively Bomberman Online with up to 1000 players on the single map</small></li>
+</ul>
+
+
+<h2>Raspberry Pi</h2>
+
+<ul>
+<li><strong><a href="http://www.wired.com/design/2012/12/more-raspberry-pi-please/?pid=1634">10 More Mind-Blowing, Skill-Building Raspberry Pi Projects | Wired Design | Wired.com</a></strong>
+  <small>Don&#8217;t know, what to do with your RaspberryPi?</small></li>
+</ul>
+
+
+<h2>Mobile</h2>
+
+<ul>
+<li><strong><a href="http://gigaom.com/2013/01/10/nokia-yes-we-decrypt-your-https-data-but-dont-worry-about-it/">Nokia: Yes, we decrypt your HTTPS data, but don’t worry about it — Tech News and Analysis</a></strong>
+  <small>Nokia&#8217;s trustworthyness just went down the drain</small></li>
+</ul>
+
+
+<h2>Video</h2>
+
+<ul>
+<li><strong><a href="https://www.youtube.com/watch?v=vEAkChFGhVI">Master of the Internet - YouTube</a></strong>
+  <small>Internet advert from the 90ies</small></li>
+<li><strong><a href="http://www.youtube.com/watch?v=_d6KuiuteIA">Introducing the Leap Motion - YouTube</a></strong>
+  <small>Nice &#8220;demo&#8221; video of leap motion</small></li>
 </ul>
 
 
@@ -2918,133 +3347,6 @@ Writing for hackers</li>
 <ul>
 <li><a href="http://www.alexandrosmaragos.com/2012/07/lightning-captured-at-7207-frames-per.html">Momentum: Lightnings captured at 7,207 &amp; 9,000 frames per second</a></li>
 <li><a href="http://www.youtube.com/watch?v=6guXMfg88Z8&amp;feature=em-uploademail">Higgs Boson Part III: How to Discover a Particle - YouTube</a></li>
-</ul>
-
-
-<h2>Your link could be here</h2>
-
-<p>If we missed something special or you just want to promote a site, give us a nudge @ <a href='&#109;&#97;&#105;&#108;t&#111;&#58;%7&#57;&#105;eld&#116;%68%65do%67&#64;gmail&#37;2&#69;c&#37;6&#70;m'>y&#105;eldt&#104;&#101;dog&#64;&#103;mail&#46;&#99;&#111;m</a></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Interesing Thingys 24]]></title>
-    <link href="http://yieldthedog.github.com/blog/2012/07/20/interesting-thingys-24/"/>
-    <updated>2012-07-20T08:17:00+02:00</updated>
-    <id>http://yieldthedog.github.com/blog/2012/07/20/interesting-thingys-24</id>
-    <content type="html"><![CDATA[<p>After a two weeks&#8217; absence of Interesting Thingys another issue of this beloved serie with tons of great links:</p>
-
-<!-- More -->
-
-
-<h3>JavaScript</h3>
-
-<ul>
-<li><a href="http://blog.jquery.com/2012/07/01/jquery-1-9-and-2-0-tldr-edition/">jQuery Blog » jQuery 1.9 and 2.0 — TL;DR Edition</a></li>
-<li><a href="http://www.twilio.com/blog/2012/06/build-a-phone-controlled-robot-using-node-js-arduino-rn-xv-wifly-arduinoand-twilio.html">Build a Phone-controlled Robot Using Arduino and Twilio</a></li>
-<li><a href="http://www.2ality.com/2012/06/continuation-passing-style.html">Asynchronous programming and continuation-passing style in JavaScript</a></li>
-<li><a href="http://blog.jquery.com/2012/07/04/the-new-sizzle/">jQuery Blog » The New Sizzle</a></li>
-<li><a href="http://wekeroad.com/2012/07/04/try-it-quiet">Try It Quiet</a><br/>
-A complete talk without a word. <a href="http://vimeo.com/43548699">Rob Conery - Real World NodeJS - Creating the Tekpub API on Vimeo</a></li>
-<li><a href="http://blog.argteam.com/coding/hardening-node-js-for-production-part-2-using-nginx-to-avoid-node-js-load/">Hardening node.js for production part 2: using nginx to avoid node.js load | Arg! Team Blog</a></li>
-<li><a href="https://github.com/cowboy/grunt">Grunt</a><br/>
-is a task-based command line build tool for JavaScript projects.</li>
-</ul>
-
-
-<h3>CSS</h3>
-
-<ul>
-<li><a href="http://css-tricks.com/beefing-up-dull-text-in-webkit/">Beefing Up Dull Text in WebKit | CSS-Tricks</a></li>
-<li><a href="http://csswizardry.com/2012/06/the-open-closed-principle-applied-to-css/">The open/closed principle applied to CSS — CSS Wizardry—CSS, Web Standards, Typography, and Grids by Harry Roberts</a></li>
-</ul>
-
-
-<h3>HTML(5)</h3>
-
-<ul>
-<li><a href="http://farhadi.ir/projects/html5sortable/">HTML5 Sortable</a></li>
-<li><a href="http://debeterevormgever.nl/en/articles/html5-elements-ie-without-javascript">HTML5 elements in Internet Explorer without Javascript - de Betere Vormgever</a></li>
-<li><a href="http://www.456bereastreet.com/archive/201206/an_alternative_to_select_elements_as_navigation_in_narrow_viewports/">An alternative to select elements as navigation in narrow viewports | 456 Berea Street</a></li>
-<li><a href="http://cssdeck.com/item/602/html5-canvas-particles-web-matrix">HTML5 Canvas Particles Web Matrix | CSSDeck</a></li>
-<li><a href="http://www.html5rocks.com/en/tutorials/indexeddb/uidatabinding/">Databinding UI Elements with IndexedDB - HTML5 Rocks</a></li>
-<li><a href="http://visual.ly/history-html5">The History of HTML5 | Visual.ly</a></li>
-</ul>
-
-
-<h3>Ruby</h3>
-
-<ul>
-<li><a href="http://www.alphasights.com/apply/ruby-developer-london">Ruby Quiz on Application Form: Ruby on Rails Developer, London</a></li>
-<li><a href="http://www.broadcastingadam.com/2012/07/advanced_caching_revised/">BroadcastingAdam - Advanced Caching in Rails: Revised</a></li>
-<li><a href="http://www.zendesk.com/blog/upgrade-the-road-to-1-9">Zendesk - The Road to 1.9 -</a></li>
-<li><a href="http://bostonrb.org/presentations/five-things-you-didnt-know-your-documentation-tool-could-do">Five Things You Didn&#39;t Know Your Documentation Tool Could Do</a></li>
-</ul>
-
-
-<h3>Clojure</h3>
-
-<ul>
-<li><a href="https://github.com/schani/clojurec">schani/clojurec</a><br/>
-A Clojure implementation on top of C</li>
-</ul>
-
-
-<h3>GO</h3>
-
-<ul>
-<li><a href="http://mikebeale.blogspot.co.at/2012/07/dumping-php-for-go.html">Personal Ramblings: Dumping PHP For Go</a></li>
-</ul>
-
-
-<h3>Browsers</h3>
-
-<ul>
-<li><a href="http://www.learningie8.com/">Learning IE8</a></li>
-</ul>
-
-
-<h3>Databases</h3>
-
-<ul>
-<li><a href="https://github.com/tblobaum/redis-stream">tblobaum/redis-stream</a></li>
-</ul>
-
-
-<h3>Editors</h3>
-
-<ul>
-<li><a href="http://www.chris-granger.com/2012/07/09/light-table-playgrounds-level-up/">Chris Granger - Light Table Playground Levels Up</a></li>
-<li><a href="http://robots.thoughtbot.com/post/27041742805/vim-you-complete-me">Vim, you complete me</a></li>
-<li><a href="http://identi.ca/notice/95457456">Emacs on Android tablet</a></li>
-<li><a href="https://chrome.google.com/webstore/detail/jjdndclgmfdgpiccmlamlicfjmkognne/related">Chrome Web Store - Ninja Authoring Tool</a></li>
-</ul>
-
-
-<h3>Productivity</h3>
-
-<ul>
-<li><a href="http://pivotallabs.com/users/joe/blog/articles/2199-how-we-use-tmux-for-remote-pair-programming">Moore Cowbell - How We Use tmux for Remote Pair Programming</a></li>
-</ul>
-
-
-<h3>Miscellaneous</h3>
-
-<ul>
-<li><a href="http://www.opine.me/a-better-way-to-store-password-hashes/">A better way to store password hashes?</a></li>
-<li><a href="http://www.quicklychat.com/">QuicklyChat</a></li>
-<li><a href="http://blog.asmartbear.com/color-wheels.html">Color Wheels are wrong? How color vision actually works by @ASmartBear</a></li>
-<li><a href="http://www.joelonsoftware.com/items/2012/07/09.html">Software Inventory - Joel on Software</a></li>
-<li><a href="http://blog.trello.com/trello-is-now-500000-strong/">Trello is now 500,000 strong | Trello Blog</a></li>
-<li><a href="http://www.codinghorror.com/blog/2012/07/coding-horror-the-book.html">Coding Horror: Coding Horror: The Book</a></li>
-<li><a href="http://www.tldrlegal.com/">TLDRLegal - Software Licenses Summarized in Plain English</a></li>
-</ul>
-
-
-<h3>Fun</h3>
-
-<ul>
-<li><a href="http://tympanus.net/Development/CassettePlayer/">Old School Cassette Player with HTML5 Audio</a></li>
 </ul>
 
 
