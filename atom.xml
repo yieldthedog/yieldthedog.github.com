@@ -4,7 +4,7 @@
   <title><![CDATA[yield the dog]]></title>
   <link href="http://yieldthedog.github.com/atom.xml" rel="self"/>
   <link href="http://yieldthedog.github.com/"/>
-  <updated>2013-02-28T23:50:15+01:00</updated>
+  <updated>2013-03-07T22:39:31+01:00</updated>
   <id>http://yieldthedog.github.com/</id>
   <author>
     <name><![CDATA[yield the dog]]></name>
@@ -12,6 +12,148 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Interesting Thingys 45]]></title>
+    <link href="http://yieldthedog.github.com/blog/2013/03/07/interesting-thingys-45/"/>
+    <updated>2013-03-07T22:17:00+01:00</updated>
+    <id>http://yieldthedog.github.com/blog/2013/03/07/interesting-thingys-45</id>
+    <content type="html"><![CDATA[<p>This week a compact collection of great links, read on…</p>
+
+<!-- More -->
+
+
+<h2>CSS</h2>
+
+<ul>
+<li><strong><a href="http://usablica.github.com/front-end-frameworks/compare.html">A collection of best front-end frameworks with comparison | By usabli.ca</a></strong>
+  <small>great listing</small></li>
+<li><strong><a href="http://aerotwist.com/blog/on-translate3d-and-layer-creation-hacks/">On translate3d and layer creation hacks | Aerotwist</a></strong>
+  <small>THE &#8220;GO FASTER&#8221; HACK!</small></li>
+<li><strong><a href="http://www.456bereastreet.com/archive/201303/how_to_shrinkwrap_and_center_elements_horizontally/">How to shrinkwrap and center elements horizontally | 456 Berea Street</a></strong>
+  <small>Much has to be done to achieve this cross browsers</small></li>
+</ul>
+
+
+<h2>HTML5</h2>
+
+<ul>
+<li><strong><a href="https://www.shadertoy.com/">Shadertoy BETA</a></strong>
+  <small>Build and Share your best shaders with the world and get Inspired!</small></li>
+</ul>
+
+
+<h2>Web Development</h2>
+
+<ul>
+<li><strong><a href="http://www.netmagazine.com/tutorials/build-responsive-emails">Build responsive emails | Tutorial | .net magazine</a></strong>
+  <small>A gude to responsive emails</small></li>
+<li><strong><a href="http://speckyboy.com/2013/02/04/myths-about-how-blind-people-use-the-internet/">Myths About How Blind People Use the Internet</a></strong>
+  <small>Do you know how blind people surf the web?</small></li>
+<li><strong><a href="http://designmodo.github.com/Flat-UI/">Flat UI</a></strong>
+  <small>Free Web User Interface Kit</small></li>
+<li><strong><a href="http://casperin.github.com/nod/">Nod!</a></strong>
+  <small>A frontend validation plugin for Twitter Bootstrap</small></li>
+</ul>
+
+
+<h2>Ruby</h2>
+
+<ul>
+<li><strong><a href="http://matt.aimonetti.net/posts/2013/03/05/inspecting-rails-4-request-dispatch-using-ruby-2-dot-0/">Inspecting Rails 4 using Ruby 2.0 - Matt Aimonetti</a></strong>
+  <small>Ruby 2.0 has a cool new feature that many people talk about: TracePoint.</small></li>
+<li><strong><a href="https://speakerdeck.com/peterc/ruby-2-dot-0-walkthrough-the-best-bits">Speaker Deck - Share Presentations without the Mess</a></strong>
+  <small>What&#8217;s hot and new in Ruby 2.0</small></li>
+</ul>
+
+
+<h2>Node.js</h2>
+
+<ul>
+<li><strong><a href="http://blog.izs.me/post/44149270867/why-no-directories-lib-in-node-the-less-snarky">blog.izs.me: Why No directories.lib in Node (the less snarky, too-long-for-twitter version)</a></strong>
+  <small>Node peoples… is there any way to specify a root directory for my npm package so that I don’t need require(“mypackage/lib/foo”)?</small></li>
+<li><strong><a href="https://github.com/bevry/docpad">bevry/docpad · GitHub</a></strong>
+  <small>Empower your website frontends with layouts, meta-data, pre-processors</small></li>
+<li><strong><a href="https://github.com/google/google-api-nodejs-client">google/google-api-nodejs-client · GitHub</a></strong>
+  <small>Google&#8217;s officially supported node.js client library for accessing Google APIs, it comes with OAuth 2.0 support.</small></li>
+</ul>
+
+
+<h2>Browsers</h2>
+
+<ul>
+<li><strong><a href="https://plus.google.com/100132233764003563318/posts/FDef51vZXWw">When you play too much with flags in Google Chrome, it&#8217;s…</a></strong>
+  <small>kinda painful to keep track of what is enabled by default or not. Now Chrome has reset to default</small></li>
+</ul>
+
+
+<h2>Databases</h2>
+
+<ul>
+<li><strong><a href="https://postgres-bits.herokuapp.com/#1">Postgres: The Bits You Haven&#8217;t Found</a></strong>
+  <small>12 Postgres features you might not already know</small></li>
+<li><strong><a href="http://www.slideshare.net/rick446/scaling-withmongodb">Scaling with MongoDB</a></strong>
+  <small>Slideshare presentation on scaling MongoDB</small></li>
+</ul>
+
+
+<h2>Editors</h2>
+
+<ul>
+<li><strong><a href="https://github.com/Bogdanp/browser-connect.vim">Bogdanp/browser-connect.vim · GitHub</a></strong>
+  <small>live coding in vim</small></li>
+<li><strong><a href="https://github.com/airblade/vim-gitgutter">airblade/vim-gitgutter · GitHub</a></strong>
+  <small> Vim plugin which shows a git diff in the &#8216;gutter&#8217; (sign column). It shows whether each line has been added, modified, and where lines have been removed.</small></li>
+<li><strong><a href="http://statico.github.com/vim2.html">Everything I Missed in &#8220;Vim After 11 Years&#8221; - Ian Langworth&#8217;s Things of Variable Interest</a></strong>
+  <small>A nice writeup about what standard Vim is missing</small></li>
+</ul>
+
+
+<h2>Watching</h2>
+
+<ul>
+<li><strong><a href="https://www.youtube.com/watch?v=Dt0f2XdvriQ">Kit Cambridge, &#8220;EcmaScript Next: The Subtleties of ES 6&#8221; at W3Conf 2013 - YouTube</a></strong>
+  <small>Good overview of some of the upcoming (and much needed) improvements in ES6!</small></li>
+</ul>
+
+
+<h2>Reading</h2>
+
+<ul>
+<li><strong><a href="http://pragprog.com/magazines/2013-03">The Pragmatic Bookshelf | PragPub, March 2013</a></strong>
+  <small>What If You Don’t Want to Pivot? Launching a Gonzo Engineering Project Finding the Geek Who Fits Being the Geek Who Fits Uncle Bob and Functional Programming</small></li>
+</ul>
+
+
+<h2>Miscellaneous</h2>
+
+<ul>
+<li><strong><a href="https://plus.google.com/%20LinusTorvalds/posts/dk1aiW4JjHd">Linus Torvalds - Toys, toys, toys..</a></strong>
+  <small>Linus on his new Chromebook</small></li>
+<li><strong><a href="http://www.bbc.co.uk/news/technology-21684329">BBC News - Microsoft fined by European Commission over web browser</a></strong>
+  <small>Microsoft has still problems with IE&#8217;s heavy binding to the OS</small></li>
+<li><strong><a href="http://plusbryan.com/my-first-5-minutes-on-a-server-or-essential-security-for-linux-servers">My First 5 Minutes On A Server</a></strong>
+  <small>What to do in your first 5 minutes on a fresh server</small></li>
+<li><strong><a href="http://devref.com/">devref</a></strong>
+  <small>The developer&#8217;s reference</small></li>
+<li><strong><a href="http://vanstee.me/unix-directories.html">Unix Directories</a></strong>
+  <small>Explanation of the Unix root directories</small></li>
+</ul>
+
+
+<h2>Mobile</h2>
+
+<ul>
+<li><strong><a href="https://developers.google.com/chrome/mobile/docs/data-compression">Data Compression Proxy - Google Chrome Mobile — Google Developers</a></strong>
+  <small>Faster, safer, and cheaper mobile web browsing with data compression in Chrome for Android</small></li>
+</ul>
+
+
+<h2>Your link could be here</h2>
+
+<p>If we missed something special or you just want to promote a site, give us a nudge @ <a href='&#109;&#97;&#105;&#108;t&#111;&#58;%7&#57;&#105;eld&#116;%68%65do%67&#64;gmail&#37;2&#69;c&#37;6&#70;m'>y&#105;eldt&#104;&#101;dog&#64;&#103;mail&#46;&#99;&#111;m</a></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Invoke JS Beautify in Vim]]></title>
@@ -3199,87 +3341,6 @@ Writing for hackers</li>
 <li><a href="http://www.impressivewebs.com/10-conference-videos-for-front-end-developers/">10 Conference Videos for Front-End Developers | Impressive Webs</a></li>
 <li><a href="http://www.youtube.com/watch?v=dsMCVMVTdn0">TED Talk - Michael Hansmeyer: Building unimaginable shapes</a></li>
 <li><a href="https://vimeo.com/44773888">Breaking Good Habits - Harry Roberts</a></li>
-</ul>
-
-
-<h2>Your link could be here</h2>
-
-<p>If we missed something special or you just want to promote a site, give us a nudge @ <a href='&#109;&#97;&#105;&#108;t&#111;&#58;%7&#57;&#105;eld&#116;%68%65do%67&#64;gmail&#37;2&#69;c&#37;6&#70;m'>y&#105;eldt&#104;&#101;dog&#64;&#103;mail&#46;&#99;&#111;m</a></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Interesing Thingys 26]]></title>
-    <link href="http://yieldthedog.github.com/blog/2012/08/03/interesting-thingys-26/"/>
-    <updated>2012-08-03T08:17:00+02:00</updated>
-    <id>http://yieldthedog.github.com/blog/2012/08/03/interesting-thingys-26</id>
-    <content type="html"><![CDATA[<p>This week a small list of links, it seem&#8217;s to be holiday season…</p>
-
-<!-- More -->
-
-
-<h3>JavaScript</h3>
-
-<ul>
-<li><a href="http://tjholowaychuk.com/post/27984551477/components">Components - TJ Holowaychuk</a></li>
-<li><a href="https://github.com/WebReflection/polpetta">WebReflection/polpetta</a></li>
-<li><a href="http://pragmaticly.github.com/smart-time-ago/">smart-time-ago by pragmaticly</a></li>
-<li><a href="http://net.tutsplus.com/tutorials/javascript-ajax/10-reasons-why-your-projects-should-use-the-dojo-toolkit/">10 Reasons Why Your Projects Should Use the Dojo Toolkit | Nettuts+</a></li>
-</ul>
-
-
-<h3>CSS</h3>
-
-<ul>
-<li><a href="http://css3test.com/">The CSS3 Test</a></li>
-<li><a href="http://demosthenes.info/blog/547/Make-Your-Web-Pages-More-Legible-With-CSS3-Ligatures-and-Kerning-Pairs">demosthenes.info – Make Your Web Pages More Legible With CSS3 Ligatures and Kerning Pairs</a></li>
-<li><a href="http://tympanus.net/codrops/2012/07/20/3d-flipping-circle-with-css3-and-jquery/">3D Flipping Circle with CSS3 and jQuery | Codrops</a></li>
-</ul>
-
-
-<h3>HTML(5)</h3>
-
-<ul>
-<li><a href="http://joshondesign.com/2012/07/24/deepdivegithub">Canvas Deep Dive Source is Released</a></li>
-</ul>
-
-
-<h3>WebDevelopment</h3>
-
-<ul>
-<li><a href="http://www.sitepoint.com/the-basics-of-the-shadow-dom/">The Basics of the Shadow DOM</a></li>
-<li><a href="http://www.campaignmonitor.com/guides/mobile/">Responsive Email Design | Campaign Monitor</a></li>
-<li><a href="http://coderwall.com/p/u7kzua">Alyssa Pohahau : Inconsistent Color Palettes</a></li>
-</ul>
-
-
-<h3>Ruby</h3>
-
-<ul>
-<li><a href="http://tenderlovemaking.com/2012/07/30/is-it-live.html">Is it live? | Tenderlovemaking</a></li>
-<li><a href="http://schneems.com/post/28125445535/active-record-deep-dive">Schneems • Active Record Deep Dive</a></li>
-</ul>
-
-
-<h3>Databases</h3>
-
-<ul>
-<li><a href="http://engineering.spreecast.com/spreecast-redis-failover/">Spreecast &amp; Redis Failover | Spreecast</a></li>
-</ul>
-
-
-<h3>Browsers</h3>
-
-<ul>
-<li><a href="http://code.google.com/p/chromium/issues/detail?can=2&amp;start=0&amp;num=100&amp;q=&amp;colspec=ID%20Pri%20Mstone%20ReleaseBlock%20OS%20Area%20Feature%20Status%20Owner%20Summary&amp;groupby=&amp;sort=&amp;id=136320">Issue 136320 - chromium - HTTP DELETE request loaded from Cache - An open-source browser project to help move the web forward. - Google Project Hosting</a></li>
-</ul>
-
-
-<h3>Miscellaneous</h3>
-
-<ul>
-<li><a href="http://publicdomainreview.org/2012/06/30/france-in-the-year-2000-1899-1910/">France in the year 2000 | The Public Domain Review</a></li>
-<li><a href="http://the.codepoet.ch/what-you-should-know-about-solid/">What you should know about SOLID</a></li>
 </ul>
 
 
