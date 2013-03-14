@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Interesting-Thingys | yield the dog]]></title>
   <link href="http://yieldthedog.github.com/blog/categories/interesting-thingys/atom.xml" rel="self"/>
   <link href="http://yieldthedog.github.com/"/>
-  <updated>2013-03-07T22:39:31+01:00</updated>
+  <updated>2013-03-14T22:22:35+01:00</updated>
   <id>http://yieldthedog.github.com/</id>
   <author>
     <name><![CDATA[yield the dog]]></name>
@@ -12,6 +12,176 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Interesting Thingys 46]]></title>
+    <link href="http://yieldthedog.github.com/blog/2013/03/14/interesting-thingys-46/"/>
+    <updated>2013-03-14T22:17:00+01:00</updated>
+    <id>http://yieldthedog.github.com/blog/2013/03/14/interesting-thingys-46</id>
+    <content type="html"><![CDATA[<p>Today's π-day and great things happened this week on the web. We got new releases (NodeJS, JSHint, Sinatra, Zepto) and lot's of other useful thingys, read on…</p>
+
+<!-- More -->
+
+
+<h2>JavaScript</h2>
+
+<ul>
+<li><strong><a href="https://github.com/marijnh/tern">marijnh/tern · GitHub</a></strong>
+  <small>A JavaScript code analyzer for deep, cross-editor language support</small></li>
+<li><strong><a href="http://mir.aculo.us/2013/03/04/zepto-1-0/">Zepto 1.0</a></strong>
+  <small>Congrats to Version 1.0</small></li>
+<li><strong><a href="http://ariya.ofilabs.com/2013/03/es6-and-rest-parameter.html">ECMAScript 6 and Rest Parameter</a></strong>
+  <small>Intro to ES6 Rest parameter</small></li>
+<li><strong><a href="http://www.jshint.com/blog/2013-03-05/1-1-0/">JSHint 1.1.0 is out</a></strong>
+  <small>with some new options that help you lint your code</small></li>
+<li><strong><a href="http://testacular.github.com/0.6.0/index.html">Testacular - Spectacular Test Runner for Javascript</a></strong>
+  <small>Version 0.6 is out. The angular team is worknig hard on improving their test environment</small></li>
+<li><strong><a href="http://toolness.github.com/slowmo-js/">SlowmoJS</a></strong>
+  <small>Javascript in Slow Motion.</small></li>
+<li><strong><a href="http://stoic.com/formula/">Formula.js</a></strong>
+  <small>JavaScript implementation of most formula functions supported by Microsoft Excel 2013 and Google Spreadsheets</small></li>
+<li><strong><a href="https://github.com/olivernn/lunr.js">olivernn/lunr.js · GitHub</a></strong>
+  <small>A bit like Solr, but much smaller and not as bright</small></li>
+</ul>
+
+
+<h2>CSS</h2>
+
+<ul>
+<li><strong><a href="http://coding.smashingmagazine.com/2013/03/08/tips-tricks-print-style-sheets/">Tips And Tricks For Print Style Sheets</a></strong>
+  <small>very helpful</small></li>
+</ul>
+
+
+<h2>HTML5</h2>
+
+<ul>
+<li><strong><a href="http://acko.net/blog/on-webgl/">On WebGL — Acko.net</a></strong>
+  <small>Interesting article on the state of WebGL paired with some shiny examples.</small></li>
+</ul>
+
+
+<h2>Web Development</h2>
+
+<ul>
+<li><strong><a href="https://github.com/igrigorik/webp-detect">igrigorik/webp-detect · GitHub</a></strong>
+  <small>WebP User-Agent detection</small></li>
+<li><strong><a href="http://www.html5rocks.com/en/tutorials/speed/layers/">Accelerated Rendering in Chrome: The Layer Model - HTML5 Rocks</a></strong>
+  <small>Know the in's and out's of accelerated rendering and Chrome's layer model for compositing.</small></li>
+<li><strong><a href="https://github.com/Huddle/PhantomCSS">Huddle/PhantomCSS · GitHub</a></strong>
+  <small>CSS regression testing. An integration of Resemble.js with PhantomJS and CasperJS for automating visual regression testing and test coverage of Website styling to support refactoring of CSS.</small></li>
+<li><strong><a href="http://www.html5rocks.com/en/mobile/touchandmouse/">Touch And Mouse: Together Again For The First Time - HTML5 Rocks</a></strong>
+  <small>New HTML5Rocks article on implementing Touch and Mouse user interface together by Chris Wilson and Paul Kinlan!</small></li>
+</ul>
+
+
+<h2>Ruby</h2>
+
+<ul>
+<li><strong><a href="http://alindeman.github.com/2013/03/05/gems-extracted-in-rails-4.html">Upgrading Rails: Gems Extracted in Rails 4 — Andy Lindeman</a></strong>
+  <small>Upgrade guide for extracted gems.</small></li>
+<li><strong><a href="http://rkh.im/sinatra-1.4">rkh.im | What's new in Sinatra 1.4?</a></strong>
+  <small>new http methods, more template languages, ...</small></li>
+<li><strong><a href="http://www.pogoapp.com/blog/posts/websockets-on-rails-4-and-ruby-2">WebSockets on Rails 4 and Ruby 2 - Pogoapp</a></strong>
+  <small>How to setup Rails and WebSockets</small></li>
+</ul>
+
+
+<h2>Node.js</h2>
+
+<ul>
+<li><strong><a href="https://github.com/visionmedia/n">visionmedia/n · GitHub</a></strong>
+  <small>Simple flavour of node binary management, no subshells, no profile setup, no convoluted api, just simple.</small></li>
+<li><strong><a href="http://cjihrig.com/blog/scaling-node-js-applications/">Scaling Node.js Applications | Colin J. Ihrig's Blog</a></strong>
+  <small>Possibilites to scale a node app</small></li>
+<li><strong><a href="https://hacks.mozilla.org/2013/03/taming-configurations-with-node-convict-a-node-js-holiday-season-part-7/">Taming Configurations with node-convict – A Node.JS Holiday Season, part 7 ✩ Mozilla Hacks – the Web developer blog</a></strong>
+  <small>a tool that helps manage the configuration of node.js applications</small></li>
+<li><strong><a href="https://github.com/Weltschmerz/Lactate">Weltschmerz/Lactate · GitHub</a></strong>
+  <small>Featureful static file server for Node</small></li>
+<li><strong><a href="https://github.com/substack/hyperquest">substack/hyperquest · GitHub</a></strong>
+  <small>treat http requests as a streaming transport</small></li>
+<li><strong><a href="http://blog.nodejs.org/2013/03/11/node-v0-10-0-stable/">Node v0.10.0 (Stable)</a></strong>
+  <small>Streams2, Domains and much more</small></li>
+</ul>
+
+
+<h2>Linux</h2>
+
+<ul>
+<li><strong><a href="http://mmb.pcb.ub.es/~carlesfe/unix/tricks.txt">Unix Tricks</a></strong>
+  <small>Some useful stuff here</small></li>
+</ul>
+
+
+<h2>Programming</h2>
+
+<ul>
+<li><strong><a href="http://www.reddit.com/r/readablecode">Reddit | Good readable code.</a></strong>
+  <small>A subreaddit deticated to readable code</small></li>
+<li><strong><a href="http://blog.samuellevy.com/post/41-php-is-the-right-tool-for-the-job-for-all-the-wrong-reasons.html">PHP is the right tool for the job (for all the wrong reasons) - Sam says you should read this</a></strong>
+  <small>Why PHP?</small></li>
+</ul>
+
+
+<h2>Databases</h2>
+
+<ul>
+<li><strong><a href="http://instagram-engineering.tumblr.com/post/40781627982/handling-growth-with-postgres-5-tips-from-instagram">Handling Growth with Postgres: 5 Tips From Instagram - Instagram Engineering</a></strong>
+  <small>What is Instagram using to scale PG</small></li>
+</ul>
+
+
+<h2>Editors</h2>
+
+<ul>
+<li><strong><a href="http://blog.jetbrains.com/webide/2013/03/webstorm-6-0-released-adds-typescript-debugging-with-source-maps-fresh-ui-and-much-more/">WebStorm 6.0 released: adds TypeScript, debugging with source maps, fresh UI and much more | WebStorm</a></strong>
+  <small>Happy Release to JetBrains!</small></li>
+<li><strong><a href="https://coderwall.com/p/tnopnw">Seth Messer : Clean vim draw/artifacts</a></strong>
+  <small>Fix draw artifacts in vim</small></li>
+</ul>
+
+
+<h2>Watching</h2>
+
+<ul>
+<li><strong><a href="http://www.infoq.com/presentations/MySQL-NoSQL-Data-Modeling">MySQL to NoSQL: Data Modeling Challenges in Supporting Scalability</a></strong>
+  <small>Kenneth M. Anderson shares some of the data modeling issues encountered while transitioning from a relational database to NoSQL. </small></li>
+</ul>
+
+
+<h2>Listening</h2>
+
+<ul>
+<li><strong><a href="http://thewebglpodcast.com/3/">WebGL Podcast - Episode 3</a></strong>
+  <small>Hear about how he got into 3D, why he loves helping people, and what he feels is needed to take 3D-based apps to the next level.</small></li>
+</ul>
+
+
+<h2>Miscellaneous</h2>
+
+<ul>
+<li><strong><a href="http://felixge.de/2013/03/07/open-source-and-responsibility.html">Open Source And Responsibility - Felix Geisendörfer</a></strong>
+  <small>What is the responsibility of an open source author? Some food for thought from Felix.</small></li>
+<li><strong><a href="http://www.coffitivity.com/">Coffitivity - Increase Your Creativity!</a></strong>
+  <small>with some ambient (beta)</small></li>
+<li><strong><a href="http://breakpoint.io/">Popular | Breakpoint</a></strong>
+  <small>Share your side projects and get feedback with Breakpoint.</small></li>
+</ul>
+
+
+<h2>Fun</h2>
+
+<ul>
+<li><strong><a href="http://www.sean-crist.com/personal/pages/eagles/index.html">Could the eagles have flown Frodo into Mordor?</a></strong>
+  <small>A question as old as the book...</small></li>
+</ul>
+
+
+<h2>Your link could be here</h2>
+
+<p>If we missed something special or you just want to promote a site, give us a nudge @ <a href='&#109;&#97;&#105;&#108;t&#111;&#58;%7&#57;&#105;eld&#116;%68%65do%67&#64;gmail&#37;2&#69;c&#37;6&#70;m'>y&#105;eldt&#104;&#101;dog&#64;&#103;mail&#46;&#99;&#111;m</a></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Interesting Thingys 45]]></title>
@@ -807,126 +977,6 @@ published: true</p>
 <ul>
 <li><strong><a href="http://1code.codeplex.com/Wikipage?ProjectName=1code">Microsoft All-In-One Code Framework - a centralized code sample library - Home</a></strong>
   <small>Code sample library</small></li>
-</ul>
-
-
-<h2>Your link could be here</h2>
-
-<p>If we missed something special or you just want to promote a site, give us a nudge @ <a href='&#109;&#97;&#105;&#108;t&#111;&#58;%7&#57;&#105;eld&#116;%68%65do%67&#64;gmail&#37;2&#69;c&#37;6&#70;m'>y&#105;eldt&#104;&#101;dog&#64;&#103;mail&#46;&#99;&#111;m</a></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Interesting Thingys 41]]></title>
-    <link href="http://yieldthedog.github.com/blog/2012/11/16/interesting-thingys-41/"/>
-    <updated>2012-11-16T08:17:00+01:00</updated>
-    <id>http://yieldthedog.github.com/blog/2012/11/16/interesting-thingys-41</id>
-    <content type="html"><![CDATA[<p>This week with an exciting collection of thingys</p>
-
-<!-- More -->
-
-
-<h2>JavaScript</h2>
-
-<ul>
-<li><strong><a href="https://github.com/guillaumepotier/Garlic.js">guillaumepotier/Garlic.js</a></strong>
-  <small>Garlic.js allows you to automatically persist your forms' text and select field values locally, until the form is submitted. This way, your users don't lose any precious data if they accidentally close their tab or browser.</small></li>
-<li><strong><a href="https://github.com/melanke/Watch.JS">melanke/Watch.JS</a></strong>
-  <small>watch the changes of any object or attribut</small></li>
-<li><strong><a href="http://ianww.com/blog/programming/optimizing-three-js-performance-simulating-tens-of-thousands-of-independent-moving-objects/">Optimizing Three.js Performance: Simulating Tens Of Thousands Of Independent Moving Objects</a></strong>
-  <small>explains how to make a star field in three.js that doesn't suck cpu as hell</small></li>
-</ul>
-
-
-<h2>HTML5</h2>
-
-<ul>
-<li><strong><a href="http://www.splio.com/responsive/">responsive design</a></strong>
-  <small>10 basics tips .. in an infographic</small></li>
-<li><strong><a href="http://www.html5rocks.com/en/tutorials/pagevisibility/intro/">Using the PageVisibility API - HTML5 Rocks</a></strong>
-  <small>Use visibility api to pause and resume scripts</small></li>
-</ul>
-
-
-<h2>Web Development</h2>
-
-<ul>
-<li><strong><a href="http://www.netmagazine.com/features/optimising-retina-10-essential-tools">Optimising for Retina: 10 essential tools | Feature | .net magazine</a></strong>
-  <small>how to get fit for the retina web</small></li>
-<li><strong><a href="http://laurakalbag.com/display-none/">display: none</a></strong>
-  <small>Or The things you think are common knowledge but really they aren’t.</small></li>
-<li><strong><a href="https://plus.google.com/u/0/115133653231679625609/posts/N1xsFBWMDA5">Addy Osmani - Google - Chrome: Easier Web App Debugging With Multi-User Profiles …</a></strong>
-  <small>Use Chrome's user profiles to easy testing</small></li>
-</ul>
-
-
-<h2>Mobile Development</h2>
-
-<ul>
-<li><strong><a href="https://github.com/mattt/TransformerKit">mattt/TransformerKit</a></strong>
-  <small>Transforming Ordinary Code into Awesomesauce </small></li>
-<li><strong><a href="https://github.com/luisobo/Nocilla">luisobo/Nocilla</a></strong>
-  <small>Stunning HTTP stubbing for iOS. Testing HTTP requests has never been easier. </small></li>
-</ul>
-
-
-<h2>Node.js</h2>
-
-<ul>
-<li><strong><a href="http://nodeknockout.com/">2012 — Node.js Knockout</a></strong>
-  <small>finished this week, check out the projects</small></li>
-<li><strong><a href="https://github.com/hughsk/colony">hughsk/colony</a></strong>
-  <small>In-browser network graphs representing the links between your Node.js code and its dependencies. </small></li>
-</ul>
-
-
-<h2>Programming</h2>
-
-<ul>
-<li><strong><a href="http://programmers.stackexchange.com/questions/173441/what-triggered-the-popularity-of-lambda-functions-in-modern-mainstream-programmi">history - What triggered the popularity of lambda functions in modern mainstream programming languages? - Programmers</a></strong>
-  <small>with interesting answers</small></li>
-<li><strong><a href="http://www.theserverside.de/singleton-pattern-in-java/">Singleton Pattern in Java</a></strong>
-  <small>About java singletons ...</small></li>
-</ul>
-
-
-<h2>Git</h2>
-
-<ul>
-<li><strong><a href="http://johnkary.net/git-add-p-the-most-powerful-git-feature-youre-not-using-yet/">git add -p: The most powerful git feature you’re not using yet | John Kary</a></strong>
-  <small>enter the realm of patch mode</small></li>
-</ul>
-
-
-<h2>Editors</h2>
-
-<ul>
-<li><strong><a href="http://www.chris-granger.com/2012/11/05/meet-the-new-light-table/">Chris Granger - Meet the new Light Table</a></strong>
-  <small>Chris Granger is heavily hacking on LightTable</small></li>
-</ul>
-
-
-<h2>Watching</h2>
-
-<ul>
-<li><strong><a href="http://vimeo.com/52996554">Wheatley</a></strong>
-  <small>Automated JavaScript refactoring</small></li>
-</ul>
-
-
-<h2>iOS</h2>
-
-<ul>
-<li><strong><a href="http://www.fastcompany.com/3002676/magical-tech-behind-paper-ipads-color-mixing-perfection">color-mixing in "paper" for ipad</a></strong>
-  <small>very interesting article about the new color-mixing functionality in the "paper" ipad application</small></li>
-</ul>
-
-
-<h2>IPhone</h2>
-
-<ul>
-<li><strong><a href="http://www.shervinemami.info/armAssembly.html#howto">ARM Assembly Code on the iPhone</a></strong>
-  <small>.. if you dare!</small></li>
 </ul>
 
 
