@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Interesting-Thingys | yield the dog]]></title>
   <link href="http://yieldthedog.github.com/blog/categories/interesting-thingys/atom.xml" rel="self"/>
   <link href="http://yieldthedog.github.com/"/>
-  <updated>2013-03-14T22:22:35+01:00</updated>
+  <updated>2013-03-21T22:31:04+01:00</updated>
   <id>http://yieldthedog.github.com/</id>
   <author>
     <name><![CDATA[yield the dog]]></name>
@@ -12,6 +12,150 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Interesting Thingys 47]]></title>
+    <link href="http://yieldthedog.github.com/blog/2013/03/21/interesting-thingys-47/"/>
+    <updated>2013-03-21T22:17:00+01:00</updated>
+    <id>http://yieldthedog.github.com/blog/2013/03/21/interesting-thingys-47</id>
+    <content type="html"><![CDATA[<p>We got some fun games and exiting new releases this week, read on …</p>
+
+<!-- More -->
+
+
+<h2>JavaScript</h2>
+
+<ul>
+<li><strong><a href="https://github.com/yields/k">yields/k · GitHub</a></strong>
+  <small>keyboard event dispatcher</small></li>
+<li><strong><a href="http://www.chartjs.org/">Chart.js | HTML5 Charts for your website.</a></strong>
+  <small>Easy, object orientated client side graphs for designers and developers</small></li>
+<li><strong><a href="https://github.com/shichuan/javascript-patterns">shichuan/javascript-patterns · GitHub</a></strong>
+  <small>repo with JavaScript Patterns</small></li>
+<li><strong><a href="http://superherojs.com/">Superhero.js</a></strong>
+  <small> This page is a collection of the best articles, videos and presentations we've found on the topic.</small></li>
+</ul>
+
+
+<h2>CSS</h2>
+
+<ul>
+<li><strong><a href="https://coderwall.com/p/3bvcdw">Tim Pietrusky : Use pseudo-elements on replaced elements</a></strong>
+  <small>Use after on empty elements</small></li>
+</ul>
+
+
+<h2>HTML5</h2>
+
+<ul>
+<li><strong><a href="http://paulstamatiou.com/responsive-retina-blog-development-part-2">Developing a responsive, Retina-friendly site (Part 2) — PaulStamatiou.com</a></strong>
+  <small>develop a site that looks good verywhere</small></li>
+<li><strong><a href="http://www.html5rocks.com/en/tutorials/webcomponents/shadowdom-301/">Shadow DOM 301: Advanced Concepts</a></strong>
+  <small>more on the shadow dom</small></li>
+</ul>
+
+
+<h2>Web Development</h2>
+
+<ul>
+<li><strong><a href="http://www.theverge.com/2013/3/13/4094824/inside-the-new-york-times-web-redesign">Inside the New York Times' web redesign | The Verge</a></strong>
+  <small>NO MORE PAGINATION OR CLICKING "SINGLE-PAGE VIEW" - ACTIVE AND PASSIVE PERSONALIZATION</small></li>
+<li><strong><a href="https://coderwall.com/p/lkcaag">Ian MacLeod : Pagination: You're (Probably) Doing It Wrong.</a></strong>
+  <small>Don't paginate on row offset. Find a stable value to paginate on, like an item's date. Always deduplicate list items on the client side. Never trust your server to know exactly what the user is looking at.</small></li>
+<li><strong><a href="http://dev.hubspot.com/blog/bulletproof-demos">Bulletproof Demos</a></strong>
+  <small>Record and playback a session in google chrome</small></li>
+<li><strong><a href="http://paulrouget.com/e/devtoolsnext/">Future of Firefox DevTools // by Paul Rouget</a></strong>
+  <small>10 days ago, I asked in various channels about what web developers would like to see in the Firefox DevTools. I was impressed by the amount of answers we got (especially from HackerNews and Twitter). We computed and prioritized all these inputs. Then the DevTools team met, and spent a week hacking on these different requests. </small></li>
+<li><strong><a href="https://github.com/InterNations/antwort">InterNations/antwort</a></strong>
+  <small>Beautiful responsive email templates with code as beautiful as email templates can be </small></li>
+<li><strong><a href="https://github.com/bradbirdsall/Swipe">bradbirdsall/Swipe · GitHub</a></strong>
+  <small>Swipe is the most accurate touch slider.</small></li>
+<li><strong><a href="http://coenraets.org/blog/2013/03/hardware-accelerated-page-transitions-for-mobile-web-apps-phonegap-apps/?utm_source=rss">Hardware-Accelerated Page Transitions for Mobile Web Apps</a></strong>
+  <small>How to speed up your mobile Web Apps</small></li>
+<li><strong><a href="https://shanetomlinson.com/2013/testing-javascript-frontend-part-1-anti-patterns-and-fixes/">Writing Testable Frontend Javascript Part 1 – Anti-patterns and their fixes | Shane Tomlinson</a></strong>
+  <small>How to get a testable frontend code base...</small></li>
+</ul>
+
+
+<h2>Mobile Webdevelopment</h2>
+
+<ul>
+<li><strong><a href="http://www.raymondcamden.com/index.cfm/2013/3/18/Building-Robust-PhoneGap-Applications">Building "Robust" PhoneGap Applications</a></strong>
+  <small>What's robust?</small></li>
+</ul>
+
+
+<h2>Ruby</h2>
+
+<ul>
+<li><strong><a href="http://tech.pro/tutorial/1149/understanding-method-lookup-in-ruby-20">Understanding method lookup in Ruby 2.0 - Tech.Pro</a></strong>
+  <small>To understand method lookup it is imperative to master the class hierarchy in Ruby.</small></li>
+</ul>
+
+
+<h2>Node.js</h2>
+
+<ul>
+<li><strong><a href="https://github.com/caolan/forms#readme">caolan/forms · GitHub</a></strong>
+  <small>An easy way to create, parse and validate forms in node.js</small></li>
+<li><strong><a href="https://github.com/hij1nx/levelweb">hij1nx/levelweb · GitHub</a></strong>
+  <small>A web based interface for leveldb, with some other neat stuff.</small></li>
+<li><strong><a href="https://github.com/3rd-Eden/versions">3rd-Eden/versions · GitHub</a></strong>
+  <small>Versions, A small module for creating a flexible CDN application</small></li>
+<li><strong><a href="http://blog.nodejs.org/2013/03/21/node-v0-10-1-stable/">Node v0.10.1 (Stable)</a></strong>
+  <small>First node bug fix release is here</small></li>
+</ul>
+
+
+<h2>Databases</h2>
+
+<ul>
+<li><strong><a href="http://blog.mongodb.org/post/45754637343/mongodb-2-4-released">MongoDB 2.4 Released</a></strong>
+  <small>Highlights of MongoDB 2.4 include: Hash-based Sharding Capped Arrays Text Search (Beta) Geospatial Enhancements Faster Counts Working Set Analyzer V8 JavaScript engine Security</small></li>
+<li><strong><a href="http://basho.com/riak-cs-is-now-open-source/">Riak CS is Now Open Source | Basho</a></strong>
+  <small>Riak CS features: Highly available, fault-tolerant storage Large object support S3-compatible API and authentication Multi-tenancy and per-user reporting Simple operational model for adding capacity Robust stats for monitoring and metrics</small></li>
+</ul>
+
+
+<h2>Git</h2>
+
+<ul>
+<li><strong><a href="https://coderwall.com/p/hh-4ea">Ben Simpson : git rebase --autosquash</a></strong>
+  <small>How to autosquash commits</small></li>
+</ul>
+
+
+<h2>Tools</h2>
+
+<ul>
+<li><strong><a href="https://github.com/airbnb/chronos">airbnb/chronos · GitHub</a></strong>
+  <small>Fault tolerant job scheduler that handles dependencies and iso8601 based schedules.</small></li>
+</ul>
+
+
+<h2>Reading</h2>
+
+<ul>
+<li><strong><a href="http://limi.net/checkboxes-that-kill">Checkboxes that kill your product</a></strong>
+  <small>interesting options can ruin your website</small></li>
+</ul>
+
+
+<h2>Fun</h2>
+
+<ul>
+<li><strong><a href="http://www.firstpersontetris.com/">First-Person Tetris</a></strong>
+  <small>Nice!</small></li>
+<li><strong><a href="http://chrome.com/maze/">Chrome World Wide Maze</a></strong>
+  <small>Any website can be a maze...</small></li>
+</ul>
+
+
+<h2>Your link could be here</h2>
+
+<p>If we missed something special or you just want to promote a site, give us a nudge @ <a href='&#109;&#97;&#105;&#108;t&#111;&#58;%7&#57;&#105;eld&#116;%68%65do%67&#64;gmail&#37;2&#69;c&#37;6&#70;m'>y&#105;eldt&#104;&#101;dog&#64;&#103;mail&#46;&#99;&#111;m</a></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Interesting Thingys 46]]></title>
@@ -867,116 +1011,6 @@ published: true</p>
   <small>Internet advert from the 90ies</small></li>
 <li><strong><a href="http://www.youtube.com/watch?v=_d6KuiuteIA">Introducing the Leap Motion - YouTube</a></strong>
   <small>Nice "demo" video of leap motion</small></li>
-</ul>
-
-
-<h2>Your link could be here</h2>
-
-<p>If we missed something special or you just want to promote a site, give us a nudge @ <a href='&#109;&#97;&#105;&#108;t&#111;&#58;%7&#57;&#105;eld&#116;%68%65do%67&#64;gmail&#37;2&#69;c&#37;6&#70;m'>y&#105;eldt&#104;&#101;dog&#64;&#103;mail&#46;&#99;&#111;m</a></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Interesting Thingys 42]]></title>
-    <link href="http://yieldthedog.github.com/blog/2012/11/30/interesting-thingys-42/"/>
-    <updated>2012-11-30T08:17:00+01:00</updated>
-    <id>http://yieldthedog.github.com/blog/2012/11/30/interesting-thingys-42</id>
-    <content type="html"><![CDATA[<p>After two weeks of no thingys we are back with another fine collection of links.</p>
-
-<!-- More -->
-
-
-<h2>JavaScript</h2>
-
-<ul>
-<li><strong><a href="http://weblog.raganwald.com/JQuery-Combinators/">jQuery Combinators by raganwald</a></strong>
-  <small>jQuery Combinators adds five very useful methods to every jQuery selection: tap, into, select, ergo and when. These allow you to use your own functions as if they were built-in jQuery methods, which makes your code cleaner and more "jQuery-like."</small></li>
-<li><strong><a href="https://github.com/raganwald/homoiconic/blob/master/2012/11/refactoring_to_jquery_combinators.md">homoiconic/2012/11/refactoring_to_jquery_combinators.md at master · raganwald/homoiconic</a></strong>
-  <small>jQuery is a general-purpose library that provides a number of browser-specific functions. Its core functionality manipulates selections of DOM entities in a fluent style. There are four fundamental operations on a selection:</small></li>
-<li><strong><a href="http://addyosmani.com/blog/a-few-new-things-coming-to-javascript/">A Few New Things Coming To JavaScript</a></strong>
-  <small>a compilation of what is coming next</small></li>
-<li><strong><a href="https://github.com/codrops/Calendario">codrops/Calendario</a></strong>
-  <small>A jQuery calendar plugin for creating flexible calendars.</small></li>
-<li><strong><a href="http://fabien-d.github.com/alertify.js/">alertifyjs - An unobtrusive customizable JavaScript notification system</a></strong>
-  <small>An unobtrusive customizable JavaScript notification system</small></li>
-</ul>
-
-
-<h2>CSS</h2>
-
-<ul>
-<li><strong><a href="http://www.impressivewebs.com/ie10-css-hacks/">IE10 CSS Hacks | Impressive Webs</a></strong>
-  <small>No conditional comments in IE 10. But there are still hacks.</small></li>
-</ul>
-
-
-<h2>Web Development</h2>
-
-<ul>
-<li><strong><a href="http://vimeo.com/53073654#at=0">Secrets of the Chrome Developer Tools on Vimeo</a></strong>
-  <small>The Developer Tools built into Google Chrome provide powerful ways to understand, debug, and profile web applications.</small></li>
-<li><strong><a href="http://fontcustom.com/">Font Custom</a></strong>
-  <small>Generate custom icon webfonts from the comfort of the command line. </small></li>
-<li><strong><a href="http://net.tutsplus.com/tutorials/chrome-dev-tools-networking-and-the-console/">Chrome Dev Tools</a></strong>
-  <small>Networking and the Console | Nettuts </small></li>
-</ul>
-
-
-<h2>Ruby</h2>
-
-<ul>
-<li><strong><a href="http://blog.wyeworks.com/2012/11/13/rails-4-compilation-links/">Rails 4 links compilation -</a></strong>
-  <small>compilation of interesting links where you will find information that is not very well known. There are pull requests, issues, commits, examples, posts, videos and more about Rails 4.</small></li>
-<li><strong><a href="http://blog.headius.com/2012/11/refining-ruby.html">Headius: Refining Ruby</a></strong>
-  <small>Charles Nutter on Ruby 2.0's refinements</small></li>
-<li><strong><a href="http://blog.steveklabnik.com/posts/2012-11-22-introducing-the-rails-api-project">Introducing the Rails API Project - Literate Programming</a></strong>
-  <small>That's why I'm happy to introduce Rails API: a set of tools to build excellent APIs for both heavy Javascript applications as well as non-Web API clients.</small></li>
-</ul>
-
-
-<h2>Node.js</h2>
-
-<ul>
-<li><strong><a href="https://github.com/maxogden/websocket-stream">maxogden/websocket-stream</a></strong>
-  <small>websockets with the node stream api </small></li>
-<li><strong><a href="http://blog.nodeknockout.com/post/36076501016/node-knockout-winners">node.js knockout, Node Knockout Winners!</a></strong>
-  <small>We’re excited to announce the winners of Node Knockout! Here are the champions among the 167 entries submitted this year.</small></li>
-<li><strong><a href="http://clock.co.uk/tech-blogs/how-to-create-a-private-npmjs-repository">How to create a private npm.js repository by Tom Gallacher</a></strong>
-  <small>npmjs.org never goes down Or so I thought.</small></li>
-<li><strong><a href="http://diy.github.com/wizardry/">Wizardry by diy</a></strong>
-  <small>Wizardry is a task-based library for GraphicsMagick / ImageMagick that focuses on simplicity and getting one thing done right: processing images.</small></li>
-</ul>
-
-
-<h2>Java</h2>
-
-<ul>
-<li><strong><a href="https://github.com/flatland/drip">flatland/drip · GitHub</a></strong>
-  <small>Fast JVM launching without the hassle of persistent JVMs.</small></li>
-</ul>
-
-
-<h2>Programming</h2>
-
-<ul>
-<li><strong><a href="http://www.recursivity.com/blog/2012/10/28/ides-are-a-language-smell/">IDEs Are a Language Smell</a></strong>
-  <small>A nice rant on IDEs</small></li>
-</ul>
-
-
-<h2>Databases</h2>
-
-<ul>
-<li><strong><a href="http://christiankvalheim.com/post/35293863731/the-wonderful-world-of-geo-spatial-indexes-in-mongodb">Software Ramblings, The wonderful world of GEO spatial indexes in MongoDB</a></strong>
-  <small>MongoDB has native support for geospatial indexes and extensions to the query language to support a lot of different ways of querying your geo spatial documents</small></li>
-</ul>
-
-
-<h2>DotNet</h2>
-
-<ul>
-<li><strong><a href="http://1code.codeplex.com/Wikipage?ProjectName=1code">Microsoft All-In-One Code Framework - a centralized code sample library - Home</a></strong>
-  <small>Code sample library</small></li>
 </ul>
 
 
