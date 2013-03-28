@@ -4,7 +4,7 @@
   <title><![CDATA[yield the dog]]></title>
   <link href="http://yieldthedog.github.com/atom.xml" rel="self"/>
   <link href="http://yieldthedog.github.com/"/>
-  <updated>2013-03-21T22:31:04+01:00</updated>
+  <updated>2013-03-28T20:35:36+01:00</updated>
   <id>http://yieldthedog.github.com/</id>
   <author>
     <name><![CDATA[yield the dog]]></name>
@@ -12,6 +12,148 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Interesting Thingys 48]]></title>
+    <link href="http://yieldthedog.github.com/blog/2013/03/28/interesting-thingys-48/"/>
+    <updated>2013-03-28T21:01:00+01:00</updated>
+    <id>http://yieldthedog.github.com/blog/2013/03/28/interesting-thingys-48</id>
+    <content type="html"><![CDATA[<p>Lot&#8217;s of frontend thingys this week with one of my favorite demos the &#8216;tearable cloth&#8217;.</p>
+
+<!-- More -->
+
+
+<h2>JavaScript</h2>
+
+<ul>
+<li><strong><a href="https://github.com/adamschwartz/chrome-inspector-detector">adamschwartz/chrome-inspector-detector · GitHub</a></strong>
+  <small>A simple utility for detecting whether or not the Chrome Inspector is open or docked.</small></li>
+<li><strong><a href="http://twistedoakstudios.com/blog/Post3138_mouse-path-smoothing-for-jack-lumber">Mouse Path Smoothing for Jack Lumber</a></strong>
+  <small>Twisted Oak Studios | Unity3D Consulting | Technical Magic</small></li>
+<li><strong><a href="https://github.com/bramp/js-sequence-diagrams">bramp/js-sequence-diagrams · GitHub</a></strong>
+  <small>Generates UML sequence diagrams from simple text</small></li>
+<li><strong><a href="http://alexsexton.com/blog/2013/03/deploying-javascript-applications/">Deploying JavaScript Applications - Alex Sexton</a></strong>
+  <small>Nothing new, but all in one place</small></li>
+<li><strong><a href="http://codepen.io/stuffit/pen/KrAwx">Tear-able Cloth - CodePen</a></strong>
+  <small>You can even tear it appart</small></li>
+<li><strong><a href="https://github.com/akrennmair/speech-to-server">akrennmair/speech-to-server · GitHub</a></strong>
+  <small>demo application for libmp3lame.js</small></li>
+<li><strong><a href="https://github.com/wagerfield/flat-surface-shader">wagerfield/flat-surface-shader · GitHub</a></strong>
+  <small>Simple, fast, Flat Surface Shader composed of Triangles assembled from Vertices lit by Lights.</small></li>
+</ul>
+
+
+<h2>CSS</h2>
+
+<ul>
+<li><strong><a href="http://updates.html5rocks.com/2013/03/Introduction-to-Custom-Filters-aka-CSS-Shaders">Introduction to Custom Filters (aka CSS Shaders) - HTML5Rocks Updates</a></strong>
+  <small>What you can do to your DOM with CSS&#8230;</small></li>
+<li><strong><a href="http://simurai.com/post/37075268994/steps-animation">Sprite sheet animation with steps(). There is an&#8230; | simurai</a></strong>
+  <small>step by step animation with css keyframes</small></li>
+<li><strong><a href="https://github.com/websymphony/almost-flat-ui">websymphony/almost-flat-ui · GitHub</a></strong>
+  <small>Almost Flat UI is licensed under a MIT License. It uses Foundation Framework and is heavily inspired from Flat UI Free by designmodo.</small></li>
+<li><strong><a href="http://www.adobe.com/devnet/html5/articles/working-with-flexbox-the-new-spec.html">Working with flexbox | Adobe Developer Connection</a></strong>
+  <small>Flexible layouts. Equal height columns. Presentation independence from your HTML source order. These things haven&#8217;t been so easy to achieve with CSS—until now. The flexible box layout, the new flexbox specification, makes creating any of these layouts easy, and much more.</small></li>
+<li><strong><a href="http://codepen.io/patrickkunka/pen/axEgL">Pure CSS Peeling Sticky - CodePen</a></strong>
+  <small>demo</small></li>
+<li><strong><a href="http://blogs.msdn.com/b/davrous/archive/2013/02/25/coding4fun-the-star-wars-intro-in-pure-css3-thanks-to-3dt-amp-animations.aspx">Coding4fun: the Star Wars intro in pure CSS3 thanks to 3D transform</a></strong>
+  <small>Star wars intro without a line of JavaScript</small></li>
+</ul>
+
+
+<h2>Web Development</h2>
+
+<ul>
+<li><strong><a href="http://davidwalsh.name/common-usability-mistakes">5 Common Usability Mistakes and Solutions For Avoiding Them</a></strong>
+  <small>David Walsh about five horrible usability mistakes.</small></li>
+</ul>
+
+
+<h2>Ruby</h2>
+
+<ul>
+<li><strong><a href="http://www.codinghorror.com/blog/2013/03/why-ruby.html">Coding Horror: Why Ruby?</a></strong>
+  <small>Stack Overflow co-founder Jeff Atwood shares his thoughts on why he switched to Ruby and Rails for building his latest &#8216;Discourse&#8217; forum software. One of the reasons is that &#8216;Ruby isn&#8217;t cool any more.&#8217;</small></li>
+</ul>
+
+
+<h2>Node.js</h2>
+
+<ul>
+<li><strong><a href="https://github.com/juliangruber/level-store">juliangruber/level-store · GitHub</a></strong>
+  <small>A streaming storage engine based on LevelDB</small></li>
+<li><strong><a href="https://github.com/rvagg/node-levelup">rvagg/node-levelup · GitHub</a></strong>
+  <small>LevelDB - Node.js style</small></li>
+<li><strong><a href="http://substack.net/how_I_write_modules">substack: how i write modules</a></strong>
+  <small>how the streams master does his modules</small></li>
+<li><strong><a href="https://github.com/maxogden/art-of-node#art-of-node">maxogden/art-of-node · GitHub</a></strong>
+  <small>a short introduction to node.js</small></li>
+</ul>
+
+
+<h2>Browsers</h2>
+
+<ul>
+<li><strong><a href="http://fremycompany.com/BG/2013/Internet-Explorer-11-rsquo-s-leaked-build-395/">Internet Explorer 11’s leaked build (new features)</a></strong>
+  <small>what to expect from IE11</small></li>
+</ul>
+
+
+<h2>Programming</h2>
+
+<ul>
+<li><strong><a href="http://substack.net/many_things">substack: many things</a></strong>
+  <small>Substack on small building blocks vs framworks</small></li>
+</ul>
+
+
+<h2>Databases</h2>
+
+<ul>
+<li><strong><a href="http://www.robomongo.org/">Robomongo — shell-centric MongoDB management tool</a></strong>
+  <small>Shell-centric MongoDB management tool</small></li>
+<li><strong><a href="https://www.braintreepayments.com/braintrust/scaling-postgresql-at-braintree-four-years-of-evolution">Scaling PostgreSQL at Braintree: Four Years of Evolution</a></strong>
+  <small>They highlight here their four year journey with Postgres which includes sharding their data and now running an automated failover setup.</small></li>
+</ul>
+
+
+<h2>Git</h2>
+
+<ul>
+<li><strong><a href="http://blog.gitlab.org/gitlab-5-dot-0-has-been-released/">GitLab 5.0 release, standing on its own two feet - GITLAB Blog</a></strong>
+  <small>great news</small></li>
+</ul>
+
+
+<h2>Editors</h2>
+
+<ul>
+<li><strong><a href="https://github.com/tpope/vim-tbone">tpope/vim-tbone · GitHub</a></strong>
+  <small>Basic tmux support for Vim.</small></li>
+</ul>
+
+
+<h2>Watching</h2>
+
+<ul>
+<li><strong><a href="https://www.youtube.com/watch?v=U_LNo_cSc70">Analyzing Millions of GitHub Commits</a></strong>
+  <small>What Makes Developers Happy, Angry, and Everything in Between?</small></li>
+</ul>
+
+
+<h2>Listening</h2>
+
+<ul>
+<li><strong><a href="http://www.hanselminutes.com/363/html5-javascript-chrome-and-the-web-platform-with-paul-irish">Hanselminutes Technology Podcast</a></strong>
+  <small>Scott sits down with Chrome Developer Advocate Paul Irish to talk HTML5, JavaScript, Chrome and the Web</small></li>
+</ul>
+
+
+<h2>Your link could be here</h2>
+
+<p>If we missed something special or you just want to promote a site, give us a nudge @ <a href='&#109;&#97;&#105;&#108;t&#111;&#58;%7&#57;&#105;eld&#116;%68%65do%67&#64;gmail&#37;2&#69;c&#37;6&#70;m'>y&#105;eldt&#104;&#101;dog&#64;&#103;mail&#46;&#99;&#111;m</a></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Interesting Thingys 47]]></title>
@@ -3125,177 +3267,6 @@ published: true</p>
 
 <ul>
 <li><strong><a href="http://www.concetto.co.in/">Concetto 2012</a></strong> <small>Play SuperMario to navigate this site</small></li>
-</ul>
-
-
-<h2>Your link could be here</h2>
-
-<p>If we missed something special or you just want to promote a site, give us a nudge @ <a href='&#109;&#97;&#105;&#108;t&#111;&#58;%7&#57;&#105;eld&#116;%68%65do%67&#64;gmail&#37;2&#69;c&#37;6&#70;m'>y&#105;eldt&#104;&#101;dog&#64;&#103;mail&#46;&#99;&#111;m</a></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Interesing Thingys 29]]></title>
-    <link href="http://yieldthedog.github.com/blog/2012/08/24/interesting-thingys-29/"/>
-    <updated>2012-08-24T00:00:00+02:00</updated>
-    <id>http://yieldthedog.github.com/blog/2012/08/24/interesting-thingys-29</id>
-    <content type="html"><![CDATA[<p>What a week! Lots of exciting new stuff went on in the web community, read on…</p>
-
-<!-- More -->
-
-
-<h3>JavaScript</h3>
-
-<ul>
-<li><a href="http://dojotoolkit.org/blog/dojo-1-8-released">Dojo 1.8 Released! | The Dojo Toolkit Blog</a></li>
-<li><a href="https://plus.google.com/u/0/106300407679257154689/posts/Hv6xvZsuBBF">Yehuda Katz on Ember.js&#39;s one-to-many associations</a></li>
-<li><a href="http://lab.hakim.se/avgrund/">Avgrund - A modal UI concept</a></li>
-<li><a href="http://coding.smashingmagazine.com/2012/08/17/javascript-events-responding-user/">JavaScript Events And Responding To The User | Smashing Coding</a></li>
-<li><a href="http://blog.jquery.com/2012/08/16/jquery-1-8-box-sizing-width-csswidth-and-outerwidth/">jQuery Blog » jQuery 1.8 box-sizing: width(), css(“width”), and outerWidth()</a></li>
-<li><a href="http://dannycroft.co.uk/front-end-unit-testing-with-javascript/">Front-end Unit Testing with JavaScript | Danny Croft - Web Developer made in Wales but working in London </a></li>
-<li><a href="http://net.tutsplus.com/tutorials/javascript-ajax/meet-crockford%E2%80%99s-jscheck/">Meet Crockford’s JSCheck | Nettuts+</a></li>
-<li><a href="http://www.adobe.com/devnet/html5/articles/javascript-architecture-requirejs-dependency-management.html">Dependency management with RequireJS | Adobe Developer Connection</a></li>
-<li><a href="http://www.raymondcamden.com/index.cfm/2012/8/23/Proof-of-Concept--Build-a-download-feature-for-IndexedDB">Proof of Concept - Build a download feature for IndexedDB</a></li>
-</ul>
-
-
-<h4>Libraries &amp;&amp; Tools</h4>
-
-<ul>
-<li><a href="http://socialitejs.com/">Socialite.js</a><br/>
-Socialite provides a very easy way to implement and activate a plethora of social sharing buttons</li>
-<li><a href="https://github.com/addyosmani/getUserMedia.js">addyosmani/getUserMedia.js</a><br/>
-shim with flash fallback</li>
-<li><a href="https://github.com/borismus/srcset-polyfill">borismus/srcset-polyfill</a><br/>
-A spec-compatible, unit-tested polyfill for <img srcset></li>
-<li><a href="https://github.com/antimatter15/whammy">antimatter15/whammy</a><br/>
-A real time javascript webm encoder based on a canvas hack</li>
-<li><a href="https://github.com/imsky/holder">imsky/holder</a><br/>
-Holder renders image placeholders entirely on the client side.</li>
-<li><a href="https://github.com/dfcb/BigVideo.js">dfcb/BigVideo.js</a><br/>
-play full screen video as web site background</li>
-</ul>
-
-
-<h3>CSS</h3>
-
-<ul>
-<li><a href="http://codepen.io/chriscoyier/pen/lzjqh">256 Classes Overrides One ID · CodePen</a></li>
-<li><a href="http://blog.getbootstrap.com/2012/08/20/bootstrap-2-1-0-released/">Bootstrap 2.1.0 released · Twitter Bootstrap Blog</a></li>
-<li><a href="http://css-tricks.com/dont-overthink-it-grids/">Don&#39;t Overthink It Grids | CSS-Tricks</a></li>
-<li><a href="http://blogs.msdn.com/b/ie/archive/2012/08/16/full-page-animations-using-css.aspx">Full-page Animations Using CSS - IEBlog - Site Home - MSDN Blogs</a></li>
-<li><a href="http://codepen.io/edge0703/pen/KkIcg">Container-relative floats · CodePen</a></li>
-</ul>
-
-
-<h3>HTML(5)</h3>
-
-<ul>
-<li><a href="http://coding.smashingmagazine.com/2012/08/20/towards-retina-web/">Towards A Retina Web | Smashing Coding</a></li>
-<li><a href="http://www.html5rocks.com/en/mobile/high-dpi/">High DPI Images for Variable Pixel Densities - HTML5 Rocks</a></li>
-<li><a href="https://mkw.st/p/cp12-a11y/#slide-0">HTML5 Accessibility - Tips and Tools &#8211; Slide #0</a></li>
-</ul>
-
-
-<h3>Mobile</h3>
-
-<ul>
-<li><a href="http://mobile.smashingmagazine.com/2012/08/22/separate-mobile-responsive-website-presidential-smackdown/">Separate Mobile Website Vs. Responsive Website | Smashing Mobile</a></li>
-</ul>
-
-
-<h3>WebDevelopment</h3>
-
-<ul>
-<li><a href="http://www.netmagazine.com/features/10-common-ux-mistakes-startups-make-and-how-avoid-them">10 common UX mistakes startups make &#8230; and how to avoid them! | Feature | .net magazine</a></li>
-<li><a href="http://www.brightsideofnews.com/news/2012/8/10/teamup-launches-fully-html5-3d-modeling-application-multi-optics.aspx">TeamUp Launches Fully HTML5 3D Modeling Application: Multi-Optics - Bright Side Of News*</a></li>
-<li><a href="http://www.nczonline.net/blog/2012/08/22/the-innovations-of-internet-explorer/">The innovations of Internet Explorer | NCZOnline</a></li>
-</ul>
-
-
-<h3>Ruby</h3>
-
-<ul>
-<li><a href="http://mikepackdev.com/blog_posts/35-dci-with-ruby-refinements">DCI with Ruby Refinements :: Mike Pack Development</a></li>
-<li><a href="https://github.com/twe4ked/rspec-nc">twe4ked/rspec-nc - rspec formatter for Mountain Lion</a></li>
-</ul>
-
-
-<h3>JVM</h3>
-
-<ul>
-<li><a href="http://www.vijaykiran.com/2012/01/11/web-application-development-with-clojure-part-1/">VijayKiran.com – Web Application Development with Clojure – Part 1</a></li>
-<li><a href="https://speakerdeck.com/u/heathermiller/p/futures-and-promises-in-scala-2-dot-10">Futures and Promises in Scala 2.10 // Speaker Deck</a></li>
-</ul>
-
-
-<h3>.Net</h3>
-
-<ul>
-<li><a href="http://blogs.msdn.com/b/jasonz/archive/2012/08/15/visual-studio-2012-and-net-framework-4-5-released-to-the-web.aspx">Visual Studio 2012 and .NET Framework 4.5 released to the web! - Jason Zander&#39;s blog - Site Home - MSDN Blogs</a></li>
-</ul>
-
-
-<h3>Databases</h3>
-
-<ul>
-<li><a href="http://www.datastax.com/events/cassandrasummit2012/presentations">Cassandra Summit 2012 Presentations | DataStax</a></li>
-</ul>
-
-
-<h3>Browsers</h3>
-
-<ul>
-<li><a href="https://chrome.google.com/webstore/detail/ajmanajbociflicbcbbcipelchclilpk">Chrome Web Store - Intents Debugger - Dev Tools Extension</a></li>
-<li><a href="https://bugzilla.mozilla.org/show_bug.cgi?id=341604">Firefox: 341604 – Implement HTML5 sandbox attribute for IFRAMEs</a></li>
-</ul>
-
-
-<h3>Editors</h3>
-
-<ul>
-<li><a href="http://www.chris-granger.com/2012/08/17/light-table-reaches-010/">Chris Granger - Light Table reaches 0.1.0</a></li>
-<li><a href="http://www.vim.org/scripts/script.php?script_id=4186">dwm.vim - Tiled Window Management for Vim : vim online</a></li>
-<li><a href="http://codingfearlessly.com/2012/08/21/vim-putting-arrows-to-use/">Vim - Putting arrows to use</a></li>
-</ul>
-
-
-<h3>Coding Practices</h3>
-
-<ul>
-<li><a href="http://howtonode.org/make-your-tests-deterministic">Make Your Tests Deterministic - How To Node - NodeJS</a></li>
-<li><a href="http://stackoverflow.com/questions/11969964/should-sorting-logic-be-placed-in-the-model-the-view-or-the-controller?newsletter=1&amp;nlcode=28472%7c4563">asp.net mvc - Should sorting logic be placed in the model, the view, or the controller? - Stack Overflow</a></li>
-<li><a href="http://www.netobjectives.com/blogs/if-you-think-you-need-go-agile-are-afraid-agile-mindset">If You Think You Need to Go Agile but Are Afraid of the Agile Mindset | Net Objectives</a></li>
-</ul>
-
-
-<h3>Miscellaneous</h3>
-
-<ul>
-<li><a href="http://www.deanclatworthy.com/imdb/">IMDB API, IMDB web service</a></li>
-<li><a href="http://newartisans.com/2012/08/monads-in-pictures/">Monads in Pictures » Lost in Technopolis | Lost in Technopolis</a></li>
-<li><a href="http://martinfowler.com/nosql.html">NoSQL Guide - Martin Fowler</a></li>
-<li><a href="http://swizec.com/blog/the-birth-of-lisp-a-summary-of-john-mccarthys-original-paper/swizec/5075">A geek with a hat » The birth of LISP – a summary of John McCarthy’s original paper</a></li>
-</ul>
-
-
-<h3>Watching</h3>
-
-<ul>
-<li><a href="http://vimeo.com/43659037">Ido Flatow - Debugging the Web with Fiddler on Vimeo</a></li>
-<li><a href="http://www.youtube.com/watch?v=cd7HHN6IkrU&amp;list=UUWnPjmqvljcafA0z2U1fwKQ&amp;index=4&amp;feature=plcp">Beyond the DOM: Sane Structure for JS Apps by Rebecca Murphey - YouTube</a></li>
-<li><a href="https://vimeo.com/45506445">Git Extras - Introduction on Vimeo</a></li>
-<li><a href="http://confreaks.com/videos/917-railsconf2012-testing-best-practices-or-the-five-habits-of-highly-effective-tests">Testing Best Practices, or The Five Habits of Highly Effective Tests - Noel Rappin - RailsConf 2012</a></li>
-<li><a href="http://bostonrb.org/presentations/refactoring-a-live-coding-odyssey">The Boston Ruby Group - Ruby and Ruby on Rails Meetings, Project Nights, and Community</a></li>
-</ul>
-
-
-<h3>Fun</h3>
-
-<ul>
-<li><a href="http://www.xda-developers.com/android/turn-your-phone-into-a-server-with-servers-ultimate/">Turn Your Phone Into a Server with Servers Ultimate – xda-developers</a></li>
-<li><a href="http://tllabs.io/asciistreetview/">Ascii Street View</a></li>
-<li><a href="https://plus.google.com/u/0/117882113521504063190/posts/FPbmx2jDWLA">Rey Bango - Google+ - Week in the life of a programmer</a></li>
 </ul>
 
 

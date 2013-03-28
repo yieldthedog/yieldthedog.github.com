@@ -9,7 +9,8 @@
   <meta name="author" content="yield the dog">
 
   
-  <meta name="description" content="Work places are equipped with more or less standardized workstations, mice and keyboards. Since developers are quite individual the desktops become &hellip;">
+  <meta name="description" content="Ever wondered what encodings node.js supports when reading files using the fs api?
+The documentation is quite sparse regarding that topic. Quite &hellip;">
   
 
   <!-- http://t.co/dKP3o1e -->
@@ -82,6 +83,143 @@
       ">
       <div class="blog-index">
   
+  
+  
+    <article>
+      
+  <header>
+    
+      <h1 class="entry-title"><a href="/blog/2012/04/24/node-dot-js-supported-encodings/">Node.js Supported Encodings</a></h1>
+    
+    
+      <p class="meta">
+        
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2012-04-24T09:21:00+02:00" pubdate data-updated="true">Apr 24<span>th</span>, 2012</time>
+        
+         | <a href="/blog/2012/04/24/node-dot-js-supported-encodings/#disqus_thread">Comments</a>
+        
+      </p>
+    
+  </header>
+
+
+  <div class="entry-content"><p>Ever wondered what encodings node.js supports when reading files using the <a href="http://nodejs.org/api/fs.html">fs api</a>?
+The documentation is quite sparse regarding that topic. Quite sparse is quite true, I could not find anything in the documentation telling me what encodings are supported by the node.js fs api.
+As code does not lie taking a look at the code will demystify the encodings. The information is hidden in the Buffer&#8217;s <a href="https://github.com/joyent/node/blob/master/lib/buffer.js#L157">toString function</a>.</p>
+
+<p>Encodings supported by node.js fs api/Buffer are:</p>
+
+<ul>
+<li>hex</li>
+<li>utf-8/utf8</li>
+<li>ascii</li>
+<li>binary</li>
+<li>base64</li>
+<li>ucs-2/ucs2</li>
+</ul>
+
+
+<p>If you wonder what the &#8216;ucs-2&#8217; encoding here&#8217;s the definition given by <a href="http://en.wikipedia.org/wiki/UTF-16">wikipedia</a></p>
+
+<blockquote><p>The older UCS-2 (2-byte Universal Character Set) is a similar character encoding that was superseded by UTF-16 in version 2.0 of the Unicode standard in July 1996. It produces a fixed-length format by simply using the code point as the 16-bit code unit and produces exactly the same result as UTF-16 for 96.9% of all the code points in the range 0-0xFFFF, including all characters that had been assigned a value at that time.</p></blockquote>
+</div>
+  
+  
+
+
+    </article>
+  
+  
+    <article>
+      
+  <header>
+    
+      <h1 class="entry-title"><a href="/blog/2012/04/20/practical-vim-book-review/">Practical Vim - Book Review</a></h1>
+    
+    
+      <p class="meta">
+        
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2012-04-20T23:54:00+02:00" pubdate data-updated="true">Apr 20<span>th</span>, 2012</time>
+        
+         | <a href="/blog/2012/04/20/practical-vim-book-review/#disqus_thread">Comments</a>
+        
+      </p>
+    
+  </header>
+
+
+  <div class="entry-content">
+</div>
+  
+  
+
+
+    </article>
+  
+  
+    <article>
+      
+  <header>
+    
+      <h1 class="entry-title"><a href="/blog/2012/04/20/interesting-thingys-13/">Interesting Thingys #13</a></h1>
+    
+    
+      <p class="meta">
+        
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2012-04-20T08:04:00+02:00" pubdate data-updated="true">Apr 20<span>th</span>, 2012</time>
+        
+         | <a href="/blog/2012/04/20/interesting-thingys-13/#disqus_thread">Comments</a>
+        
+      </p>
+    
+  </header>
+
+
+  <div class="entry-content"><p>This time with some hot topics in HTML5, JavaScript, NodeJS, …</p>
+
+</div>
+  
+  
+    <footer>
+      <a rel="full-article" href="/blog/2012/04/20/interesting-thingys-13/">Read on &rarr;</a>
+    </footer>
+  
+
+
+    </article>
   
   
     <article>
@@ -266,6 +404,90 @@
       
   <header>
     
+      <h1 class="entry-title"><a href="/blog/2012/03/30/dependency-management-in-ios-projects/">Dependency Management in iOS Projects</a></h1>
+    
+    
+      <p class="meta">
+        
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2012-03-30T11:16:00+02:00" pubdate data-updated="true">Mar 30<span>th</span>, 2012</time>
+        
+         | <a href="/blog/2012/03/30/dependency-management-in-ios-projects/#disqus_thread">Comments</a>
+        
+      </p>
+    
+  </header>
+
+
+  <div class="entry-content"><p>Writing an iOS application is not that hard, judging by the current N apps in the iTunes AppStore. Once you have basic understanding of object oriented programming, you look at some iOS tutorials (and Apple has a lot of them), get confused by all these brackets in the objective-c programming language, drag some Controller and Labels together in the interface builder, and after a couple of weeks you get a more or less expedient app (depending on your initial idea).</p>
+
+<p>The hard part is not writing an application, the hard part is writing a big, long-living and maintainable application. (This is actually true for every software product, app, website, etc .. but for the point of this article, we&#8217;ll focus on Mobile-Apps).</p>
+
+<h3>Architecture of an iOS Project</h3>
+
+<p>The maintainability of an application is based on a couple of prerequisites: Separation of Concern, Testibility and Readability .. thus: easy to refactor.
+When I start working on a new application, my initial tasks after creating a new XCode project are the following:</p>
+
+<ol>
+<li>Deleting all the groups &amp; folders XCode created for me</li>
+<li>Creating my own folder structure (which is basically very influenced by a RubyOnRails web application) (( screenshot !! ))</li>
+<li>Identifying and installing the dependent libraries for the application (more on this later).</li>
+</ol>
+
+
+<p>Step 2 gives me a basic folder structure, in which I&#8217;m comfortable working in. Since an iOS Application is basically following the MVC Design pattern, i create folders for my controller, model, view and helper-classes (a web-developer will notice the resemblance to a rails project).</p>
+
+<h3>Using Libraries / Frameworks (core libraries / 3rd party libraries)</h3>
+
+<p>Step 3 is more dependent on the type of application: identifying the dependencies. For most of the projects that means libraries to make web-requests, load images into a table-view, parse json or xml data and to save all that stuff into a database. And sometimes we have other types, more UI based libraries, like the typical &#8220;drag to refresh&#8221; widget in a table-view or some rotating controls, stuff like that.</p>
+
+<p>The hard part here for a long time was to actually manage these dependencies, like libraries, frameworks or own code snippets, and not just copy/drag them into your application, thus making your code base bigger and more difficult to maintain.</p>
+
+<h3>handling dependencies with git submodules</h3>
+
+<p>Since most of the 3rd party libraries for iOS programming are hosted on github.com, my initial approach was to use git submodules in my xcode project.</p>
+
+<h3>handline dependencies with cocoapods</h3>
+
+<h4>bundler vs pod</h4>
+
+<h4>cocoapods usage</h4>
+
+<h4>how to write a podspec</h4>
+
+<h3>using cocoapods to write your own libraries, re-usable code</h3>
+
+<h4>host podspec on your own git-server</h4>
+
+<h3>using cocoapods to write modules / features in a big ios project</h3>
+
+<h4>workflow</h4>
+
+<h4>benefits (clean code, interfaces, private/public methods, etc)</h4>
+
+<h4>caveats</h4>
+</div>
+  
+  
+
+
+    </article>
+  
+  
+    <article>
+      
+  <header>
+    
       <h1 class="entry-title"><a href="/blog/2012/03/30/keeping-a-design-log/">Keeping a Design Log</a></h1>
     
     
@@ -373,232 +595,6 @@
 
     </article>
   
-  
-    <article>
-      
-  <header>
-    
-      <h1 class="entry-title"><a href="/blog/2012/03/22/interesting-thingys-9/">Interesting Thingys #9</a></h1>
-    
-    
-      <p class="meta">
-        
-
-
-
-
-
-
-
-
-  
-
-
-<time datetime="2012-03-22T10:35:00+01:00" pubdate data-updated="true">Mar 22<span>nd</span>, 2012</time>
-        
-         | <a href="/blog/2012/03/22/interesting-thingys-9/#disqus_thread">Comments</a>
-        
-      </p>
-    
-  </header>
-
-
-  <div class="entry-content"><h3>HTML5</h3>
-
-<ul>
-<li><a href="http://www.hunterdavis.com/resume/tunerdemo/tuner.html">Strobe Tuner</a> - a <a href="http://en.wikipedia.org/wiki/Fast_Fourier_transform">FFT</a>/Pitch Detection demo using HTML5 Audio/webGL.</li>
-</ul>
-
-
-<h3>Javascript</h3>
-
-<ul>
-<li><a href="http://accidentaltechnologist.com/javascript/7-resources-every-javascript-developer-should-know/">Javascript Resources</a> - .. every javascript developer should know.</li>
-<li><a href="http://joelb.me/scrollpath/">jquery scroll path</a> - a jquery plugin to manipulate the scroll path.</li>
-<li><a href="http://jhollingworth.github.com/bootstrap-wysihtml5/">wysihtml5</a> - wysiwyg meets twitter bootstrap.</li>
-<li><a href="http://hsivaram.com/tech/2012/03/15/preview-impressionist-a-visual-editor-for-impress-js/">Impressionist</a> - a visual editor for impress.js</li>
-</ul>
-
-
-</div>
-  
-  
-    <footer>
-      <a rel="full-article" href="/blog/2012/03/22/interesting-thingys-9/">Read on &rarr;</a>
-    </footer>
-  
-
-
-    </article>
-  
-  
-    <article>
-      
-  <header>
-    
-      <h1 class="entry-title"><a href="/blog/2012/03/13/interesting-thingys-8/">Interesting Thingys #8</a></h1>
-    
-    
-      <p class="meta">
-        
-
-
-
-
-
-
-
-
-  
-
-
-<time datetime="2012-03-13T08:54:00+01:00" pubdate data-updated="true">Mar 13<span>th</span>, 2012</time>
-        
-         | <a href="/blog/2012/03/13/interesting-thingys-8/#disqus_thread">Comments</a>
-        
-      </p>
-    
-  </header>
-
-
-  <div class="entry-content"><blockquote><p><em>Interesting Thingys</em> is a gazette in the blog that summarizes a week of blog articles, links, specifications, demos, news or more general &#8220;thingys&#8221; that we stumble upon in our journey through the world wide web.</p></blockquote>
-
-<h3>Mobile Development</h3>
-
-<ul>
-<li><a href="http://www.sencha.com/blog/announcing-sencha-touch-2">Sencha Touch</a> - a HTML5 Mobile Application Framework, version 2.0 released.</li>
-</ul>
-
-
-<h3>CSS</h3>
-
-<ul>
-<li><a href="http://www.zeldman.com/2012/03/01/replacing-the-9999px-hack-new-image-replacement">Replacing the -9999px hack (aka new image replacement)</a></li>
-<li><a href="http://davidwalsh.name/css4-preview">CSS4 (!) Selectors</a></li>
-<li><a href="http://www.w3.org/TR/2011/WD-selectors4-20110929/">CSS 4 Selectors</a> - the non shortened version</li>
-</ul>
-
-
-</div>
-  
-  
-    <footer>
-      <a rel="full-article" href="/blog/2012/03/13/interesting-thingys-8/">Read on &rarr;</a>
-    </footer>
-  
-
-
-    </article>
-  
-  
-    <article>
-      
-  <header>
-    
-      <h1 class="entry-title"><a href="/blog/2012/03/12/configure-webstorm-to-run-and-debug-mocha-tests/">Configure WebStorm to Run and Debug Mocha Tests</a></h1>
-    
-    
-      <p class="meta">
-        
-
-
-
-
-
-
-
-
-  
-
-
-<time datetime="2012-03-12T13:05:00+01:00" pubdate data-updated="true">Mar 12<span>th</span>, 2012</time>
-        
-         | <a href="/blog/2012/03/12/configure-webstorm-to-run-and-debug-mocha-tests/#disqus_thread">Comments</a>
-        
-      </p>
-    
-  </header>
-
-
-  <div class="entry-content"><p>First of all I have to admit that I&#8217;m an IDE guy. I&#8217;m using command line tools, Vi , have gnu tools installed on my Windows box and so on. That brings me to the next thing I have to admit: I&#8217;m using Windows.</p>
-
-<p>I love using <a href="http://www.jetbrains.com/webstorm/">WebStorm</a> for tinkering with Node.js. I love WebStorm for two reasons:</p>
-
-<ul>
-<li>The JavaScript syntax completion is somehow crazy clever</li>
-<li>It allows me to stick with my Eclipse keyboard schema</li>
-</ul>
-
-
-</div>
-  
-  
-    <footer>
-      <a rel="full-article" href="/blog/2012/03/12/configure-webstorm-to-run-and-debug-mocha-tests/">Read on &rarr;</a>
-    </footer>
-  
-
-
-    </article>
-  
-  
-    <article>
-      
-  <header>
-    
-      <h1 class="entry-title"><a href="/blog/2012/03/05/interesting-thingys-7/">Interesting Thingys #7</a></h1>
-    
-    
-      <p class="meta">
-        
-
-
-
-
-
-
-
-
-  
-
-
-<time datetime="2012-03-05T08:54:00+01:00" pubdate data-updated="true">Mar 5<span>th</span>, 2012</time>
-        
-         | <a href="/blog/2012/03/05/interesting-thingys-7/#disqus_thread">Comments</a>
-        
-      </p>
-    
-  </header>
-
-
-  <div class="entry-content"><blockquote><p><em>Interesting Thingys</em> is a gazette in the blog that summarizes a week of blog articles, links, specifications, demos, news or more general &#8220;thingys&#8221; that we stumble upon in our journey through the world wide web.</p></blockquote>
-
-<h3>HTML5/CSS</h3>
-
-<ul>
-<li><a href="http://zoomzum.com/6-best-html5css3-presentation-frameworks/">presentation frameworks</a> -  using javascript + css3</li>
-<li><a href="http://cggallant.blogspot.com/2010/08/introduction-to-html-5-web-workers.html">web-worker in HTML5</a> - Old but still worthy to read:</li>
-</ul>
-
-
-<h3>Mobile</h3>
-
-<ul>
-<li><a href="http://johnkpaul.tumblr.com/post/18681089281/scale-to-mobile-browser-with-pictures">scale to mobile browser</a> - Short description of &#8220;viewport&#8221; meta tag und how mobile-browser scale</li>
-</ul>
-
-
-</div>
-  
-  
-    <footer>
-      <a rel="full-article" href="/blog/2012/03/05/interesting-thingys-7/">Read on &rarr;</a>
-    </footer>
-  
-
-
-    </article>
-  
   <div class="pagination">
     
       <a class="prev" href="/blog/page/6/">&larr; Older</a>
@@ -616,6 +612,10 @@
   <ul id="recent_posts">
     
       <li class="post">
+        <a href="/blog/2013/03/28/interesting-thingys-48/">Interesting Thingys 48</a>
+      </li>
+    
+      <li class="post">
         <a href="/blog/2013/03/21/interesting-thingys-47/">Interesting Thingys 47</a>
       </li>
     
@@ -629,10 +629,6 @@
     
       <li class="post">
         <a href="/blog/2013/03/01/invoke-js-beautify-in-vim/">Invoke JS Beautify in Vim</a>
-      </li>
-    
-      <li class="post">
-        <a href="/blog/2013/02/28/interesting-thingys-44/">Interesting Thingys 44</a>
       </li>
     
   </ul>

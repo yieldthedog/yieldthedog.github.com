@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: git | yield the dog]]></title>
+  <link href="http://yieldthedog.github.com/blog/categories/git/atom.xml" rel="self"/>
+  <link href="http://yieldthedog.github.com/"/>
+  <updated>2013-03-28T20:35:36+01:00</updated>
+  <id>http://yieldthedog.github.com/</id>
+  <author>
+    <name><![CDATA[yield the dog]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Git to SVN migration]]></title>
+    <link href="http://yieldthedog.github.com/blog/2012/01/19/git-to-svn-migration/"/>
+    <updated>2012-01-19T07:09:00+01:00</updated>
+    <id>http://yieldthedog.github.com/blog/2012/01/19/git-to-svn-migration</id>
+    <content type="html"><![CDATA[<h2>Starting point</h2>
+
+<pre><code>----------IDEAS-----------
+- migrate to what? DVCS for sure, but which?
+  -&gt; git, bazar, mercurial =&gt; why git
+- Statistics: How many projects, users
+- git knowledge of users
+- OS mix: windows / mac / Linux
+- user mix: command line geeks and gui freaks
+----------IDEAS-----------
+</code></pre>
+
+<h2>Git server setup</h2>
+
+<pre><code>----------IDEAS-----------
+- setups we considered
+  * gitosis
+  * gitolite
+  * gitorious
+- how to configure and adapt gitorious
+----------IDEAS-----------
+</code></pre>
+
+<h2>Migration process</h2>
+
+<pre><code>----------IDEAS-----------
+- not possible to do all at once, only incremental steps
+- why it's easier to include the history
+- what is possible to automate?
+- branches, tags?
+- different svn layouts (trunk, branches, tags vs multiple projects in one trunk)
+- scripts we used
+- svn:ignore -&gt; gitignore + github/gitignore
+  * different setup for .NET, PHP, Ruby, HTML
+----------IDEAS-----------
+----------Missing---------
+- downloadable shell scripts
+----------Missing---------
+</code></pre>
+
+<p>Because our code base is that large, a migration over the
+weekend was not possible. It had to be done in chunks. First
+we needed a list of all repos and persons, who where
+responsible for the repo. <code>svn ls --xml</code> was our friend,
+which gave as an easy to transform output of all repos with
+last committer names. That was good for a start.</p>
+
+<p>It soon became apparent that we have some clients with lot
+of projects and many clients with less than 5 projects. The
+latter was no a problem, but the former had no good
+structure and naming conventions in the Subversion
+repository. We knew for sure that we did not want to migrate
+and end up with the same mess as before. So way layed aside
+all clients with lots of projects for discussion and
+reorganization.</p>
+
+<p>Next we defined, which projects should be migrated with
+history and which not. This was a useless discussion,
+because it was easier to always migrate with history, as you
+will see later.</p>
+
+<p>Our first steps were trying to migrate by hand:</p>
+
+<p><div class='bogus-wrapper'><notextile><figure class='code'> <div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+<span class='line-number'>2</span>
+<span class='line-number'>3</span>
+<span class='line-number'>4</span>
+<span class='line-number'>5</span>
+<span class='line-number'>6</span>
+<span class='line-number'>7</span>
+</pre></td><td class='code'><pre><code class='bash'><span class='line'>git svn clone <span class="o">[</span>svn url<span class="o">]</span> <span class="o">[</span>repo name<span class="o">]</span>        <span class="c">#clone the svn repo to a git repo</span>
+</span><span class='line'>git remote add gitorious <span class="o">[</span>gitorious url<span class="o">]</span>   <span class="c">#add a remote to the git server</span>
+</span><span class='line'>git push gitorious master                  <span class="c">#push the repo to the server&lt;/p&gt;</span>
+</span><span class='line'>
+</span><span class='line'>&lt;h1&gt;done ... hurray ... no <span class="nb">wait</span> ....&lt;/h1&gt;
+</span><span class='line'>
+</span><span class='line'>&lt;p&gt;
+</span></code></pre></td></tr></table></div></figure></notextile></div></p>
+
+<p>BIG FAIL</p>
+
+<p>What had we missed?</p>
+
+<ul>
+<li>no users / usernames</li>
+<li>no ignores</li>
+<li>wrong file structure</li>
+</ul>
+
+
+<p>So lets fix this step by step.</p>
+
+<h3>Users</h3>
+
+<p>The users could be mapped rather easily from subversion to git in our case.
+Subversion got the users first and last name and Git uses the uses email
+address which in our case is the initial of the first name,
+a dot, the last name @ our domain. Some times the Subversion
+user had only a first name, but these were only rather old records, so they
+could be easily ignored. We ended up writing a small Ruby script, that did the work</p>
+
+<p><div class='bogus-wrapper'><notextile><figure class='code'> <div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+<span class='line-number'>2</span>
+<span class='line-number'>3</span>
+<span class='line-number'>4</span>
+<span class='line-number'>5</span>
+<span class='line-number'>6</span>
+<span class='line-number'>7</span>
+<span class='line-number'>8</span>
+<span class='line-number'>9</span>
+<span class='line-number'>10</span>
+<span class='line-number'>11</span>
+</pre></td><td class='code'><pre><code class='ruby'><span class='line'><span class="o">&lt;</span><span class="sr">/p&gt;</span>
+</span><span class='line'>
+</span><span class='line'><span class="sr">&lt;h1&gt;!/us</span><span class="n">r</span><span class="o">/</span><span class="n">bin</span><span class="o">/</span><span class="n">ruby</span><span class="o">&lt;</span><span class="sr">/h1&gt;</span>
+</span><span class='line'>
+</span><span class='line'><span class="sr">&lt;p&gt;name = ARGV[0].split(&#39;.&#39;)&lt;/</span><span class="nb">p</span><span class="o">&gt;</span>
+</span><span class='line'>
+</span><span class='line'><span class="o">&lt;</span><span class="nb">p</span><span class="o">&gt;</span><span class="k">if</span><span class="p">(</span><span class="nb">name</span><span class="o">.</span><span class="n">length</span> <span class="o">==</span> <span class="mi">1</span><span class="p">)</span>
+</span><span class='line'>  <span class="nb">puts</span> <span class="nb">name</span><span class="o">[</span><span class="mi">0</span><span class="o">]</span> <span class="o">+</span> <span class="s2">&quot; &amp;lt;&quot;</span><span class="o">+</span> <span class="nb">name</span><span class="o">[</span><span class="mi">0</span><span class="o">].</span><span class="n">downcase</span> <span class="o">+</span> <span class="s2">&quot;@DOMAIN&gt;&quot;</span>
+</span><span class='line'><span class="k">else</span>
+</span><span class='line'>  <span class="nb">puts</span> <span class="nb">name</span><span class="o">[</span><span class="mi">0</span><span class="o">]</span> <span class="o">+</span> <span class="s2">&quot; &quot;</span> <span class="o">+</span> <span class="nb">name</span><span class="o">[</span><span class="mi">1</span><span class="o">]</span> <span class="o">+</span> <span class="s2">&quot; &amp;lt;&quot;</span><span class="o">+</span> <span class="nb">name</span><span class="o">[</span><span class="mi">0</span><span class="o">][</span><span class="mi">0</span><span class="o">].</span><span class="n">chr</span><span class="o">.</span><span class="n">downcase</span> <span class="o">+</span> <span class="s1">&#39;.&#39;</span> <span class="o">+</span><span class="nb">name</span><span class="o">[</span><span class="mi">1</span><span class="o">].</span><span class="n">downcase</span><span class="o">+</span><span class="s2">&quot;@DOMAIN&gt;&quot;</span>
+</span><span class='line'><span class="k">end</span>
+</span></code></pre></td></tr></table></div></figure></notextile></div></p>
+
+<p>Now we can call <code>git svn clone</code> with this authors.rb file like this:</p>
+
+<p><div class='bogus-wrapper'><notextile><figure class='code'> <div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+</pre></td><td class='code'><pre><code class='bash'><span class='line'>git svn clone --authors-prog<span class="o">=</span>author.rb <span class="o">[</span>subversion url<span class="o">]</span>
+</span></code></pre></td></tr></table></div></figure></notextile></div></p>
+
+<h3>Ignores</h3>
+
+<p>Next step is to define standard git ignores for projects and
+to migrate the existing svn ignores over to git ignores. We
+got a lot of help from the <a href="https://github.com/github/gitignore">Github gitignore
+project</a>, which we
+disected, combined, stripped,… until we had a default
+gitignore file. With these two commands we added the
+defaults and extracted the subversion ignores into a
+gitignore file:</p>
+
+<p><div class='bogus-wrapper'><notextile><figure class='code'> <div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+<span class='line-number'>2</span>
+<span class='line-number'>3</span>
+<span class='line-number'>4</span>
+<span class='line-number'>5</span>
+<span class='line-number'>6</span>
+<span class='line-number'>7</span>
+<span class='line-number'>8</span>
+<span class='line-number'>9</span>
+<span class='line-number'>10</span>
+<span class='line-number'>11</span>
+</pre></td><td class='code'><pre><code class='bash'><span class='line'>&lt;/p&gt;
+</span><span class='line'>
+</span><span class='line'>&lt;h1&gt;generate gitignore file&lt;/h1&gt;
+</span><span class='line'>
+</span><span class='line'>&lt;p&gt;cat PATH_TO/default_gitignore.txt &gt; .gitignore
+</span><span class='line'>git svn show-ignore &gt;&gt; .gitignore&lt;/p&gt;
+</span><span class='line'>
+</span><span class='line'>&lt;h1&gt;add it to the repository&lt;/h1&gt;
+</span><span class='line'>
+</span><span class='line'>&lt;p&gt;git add .gitignore
+</span><span class='line'>git commit -m<span class="s1">&#39;added gitignores&#39;</span>
+</span></code></pre></td></tr></table></div></figure></notextile></div></p>
+
+<h3>Wrong file structure</h3>
+
+<p>The last point was not to be easily resolved. Some SVN
+Repositories had a standard layout (trunk, branches, tags),
+others just had all code in the root folder without the
+standard layout. In most cases we were not interested in
+migrating branches and tags, because those were seldom used.
+So it came down to having a trunk or not.</p>
+
+<p>If there is a trunk present you can tell git to use this as
+the root directory with <code>--trunk=trunk</code>.</p>
+
+<h3>Wrapping things up</h3>
+
+<p>Now that we had everything in place, we could start the
+migration. Communication paths were installed via email and
+a shared excel file, which tracked our progress. We created a shell script that automated most of the steps listed above. Still the migration had to be down partly manualy, which was tedious work.</p>
+
+<h2>Migrate your users</h2>
+
+<pre><code>----------IDEAS-----------
+- gui tools needed
+- small incremental steps
+- playgrounds suck
+----------IDEAS-----------
+</code></pre>
+
+<p>Parallel to the repositories migration we had to train our users on how to master the new tool chain. We knew that we had to provide both command line and gui tutorials, as most of our user base was used to TortoiseSVN. We knew that Git was fundamentally different to SVN, but to our users it was just another VCS. The knowledge base of the users was quite different, so we had to be careful to not leave anybody behind and to not bore others on the other hand.</p>
+
+<p>What we came up with were three training sessions:
+- Introduction to Git and it's environment
+- Branching and Merging
+- Git Workflows</p>
+
+<h2>Conclusion</h2>
+
+<pre><code>----------IDEAS-----------
+- same same but different or was it worth the effort?
+- are things better or worse?
+- what is missing now?
+- external collaboration
+- Stats
+  7 Jahre
+  14 GB Daten
+  83 User
+  86 Projekte
+  405 Repositories
+  30103 Commits
+  586756 Files
+  Viele viele LOCs
+----------IDEAS-----------
+</code></pre>
+
+<p>After everything was done, we had a little time to
+contemplate and dig for some statistics. We migrated 7 years
+of versioned code, 14 GB of data, 83 Users, 86 projects with
+a total of 86 repositories.  30103 Commits were moved to
+Git, 586756 files, and many many lines of code.</p>
+
+<h2>Was it worth the effort?</h2>
+
+<p>Hopefully time will prove us right. Surely we get some good feedback, but especially for non technical people the learning curve is a bit steep:</p>
+
+<blockquote><ul>
+<li>Did you push your changes?</li>
+<li>Sure. I pressed the commit button.</li>
+</ul>
+</blockquote>
+
+<p>On the other hand people were using feature branches from day one, the started exploring advanced features by them selfs. Of course they sometimes f***ed up. Who cares? Shit happens everyday and there are less unresolvable problems with Git, than there were with SVN.</p>
+]]></content>
+  </entry>
+  
+</feed>
