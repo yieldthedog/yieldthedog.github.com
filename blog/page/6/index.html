@@ -9,7 +9,7 @@
   <meta name="author" content="yield the dog">
 
   
-  <meta name="description" content="HTML5 Strobe Tuner - a FFT/Pitch Detection demo using HTML5 Audio/webGL. Javascript Javascript Resources - .. every javascript developer should know &hellip;">
+  <meta name="description" content="First of all I have to admit that I&#8217;m an IDE guy. I&#8217;m using command line tools, Vi , have gnu tools installed on my Windows box and so on &hellip;">
   
 
   <!-- http://t.co/dKP3o1e -->
@@ -82,321 +82,6 @@
       ">
       <div class="blog-index">
   
-  
-  
-    <article>
-      
-  <header>
-    
-      <h1 class="entry-title"><a href="/blog/2012/03/22/interesting-thingys-9/">Interesting Thingys #9</a></h1>
-    
-    
-      <p class="meta">
-        
-
-
-
-
-
-
-
-
-  
-
-
-<time datetime="2012-03-22T10:35:00+01:00" pubdate data-updated="true">Mar 22<span>nd</span>, 2012</time>
-        
-         | <a href="/blog/2012/03/22/interesting-thingys-9/#disqus_thread">Comments</a>
-        
-      </p>
-    
-  </header>
-
-
-  <div class="entry-content"><h3>HTML5</h3>
-
-<ul>
-<li><a href="http://www.hunterdavis.com/resume/tunerdemo/tuner.html">Strobe Tuner</a> - a <a href="http://en.wikipedia.org/wiki/Fast_Fourier_transform">FFT</a>/Pitch Detection demo using HTML5 Audio/webGL.</li>
-</ul>
-
-
-<h3>Javascript</h3>
-
-<ul>
-<li><a href="http://accidentaltechnologist.com/javascript/7-resources-every-javascript-developer-should-know/">Javascript Resources</a> - .. every javascript developer should know.</li>
-<li><a href="http://joelb.me/scrollpath/">jquery scroll path</a> - a jquery plugin to manipulate the scroll path.</li>
-<li><a href="http://jhollingworth.github.com/bootstrap-wysihtml5/">wysihtml5</a> - wysiwyg meets twitter bootstrap.</li>
-<li><a href="http://hsivaram.com/tech/2012/03/15/preview-impressionist-a-visual-editor-for-impress-js/">Impressionist</a> - a visual editor for impress.js</li>
-</ul>
-
-
-</div>
-  
-  
-    <footer>
-      <a rel="full-article" href="/blog/2012/03/22/interesting-thingys-9/">Read on &rarr;</a>
-    </footer>
-  
-
-
-    </article>
-  
-  
-    <article>
-      
-  <header>
-    
-      <h1 class="entry-title"><a href="/blog/2012/03/17/c-number-code-gems-number-2-abstractions-via-strings/">C# Code Gems #2 - Abstractions via Strings</a></h1>
-    
-    
-      <p class="meta">
-        
-
-
-
-
-
-
-
-
-  
-
-
-<time datetime="2012-03-17T10:06:00+01:00" pubdate data-updated="true">Mar 17<span>th</span>, 2012</time>
-        
-         | <a href="/blog/2012/03/17/c-number-code-gems-number-2-abstractions-via-strings/#disqus_thread">Comments</a>
-        
-      </p>
-    
-  </header>
-
-
-  <div class="entry-content"><p>In .NET we have the concept of connection strings which are some weird non consistent bunch of key value pairs, with colons mixed in highly dependent of the DB driver used. To get an overview how such connection strings may look like head over to <a href="http://connectionstrings.com">Connection Strings.com</a>.</p>
-
-<p>For example a MS SQL Server 2008 connection string looks somehow like this</p>
-
-<pre><code>Data Source=myServerAddress;Initial Catalog=myDataBase;User Id=myUsername;Password=myPassword;
-</code></pre>
-
-<p>A MySQL connection string may be similar to this</p>
-
-<pre><code>Server=myServerAddress;Database=myDataBase;Uid=myUsername;Pwd=myPassword;
-</code></pre>
-
-<p>So constructing a connection string is somehow a pain (thank you so much dear &#8220;Connection Strings.com&#8221;) but there&#8217;s a class that eases connection string creation in code for MS SQL Server, it&#8217;s &#8220;SqlConnectionStringBuilder&#8221;.</p>
-
-<p>Let&#8217;s look at a piece of code to construct a connection string similar to the MS SQL Server 2008 connection string given above.</p>
-
-<figure class='code'> <div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
-<span class='line-number'>2</span>
-<span class='line-number'>3</span>
-<span class='line-number'>4</span>
-<span class='line-number'>5</span>
-<span class='line-number'>6</span>
-<span class='line-number'>7</span>
-<span class='line-number'>8</span>
-<span class='line-number'>9</span>
-</pre></td><td class='code'><pre><code class='csharp'><span class='line'><span class="n">var</span> <span class="n">builder</span> <span class="p">=</span> <span class="k">new</span> <span class="n">SqlConnectionStringBuilder</span>
-</span><span class='line'>        <span class="p">{</span>
-</span><span class='line'>            <span class="n">DataSource</span> <span class="p">=</span> <span class="s">&quot;myServerAddress&quot;</span><span class="p">,</span>
-</span><span class='line'>            <span class="n">InitialCatalog</span> <span class="p">=</span> <span class="s">&quot;myDataBase&quot;</span><span class="p">,</span>
-</span><span class='line'>            <span class="n">UserID</span> <span class="p">=</span> <span class="s">&quot;myUsername&quot;</span><span class="p">,</span>
-</span><span class='line'>            <span class="n">Password</span> <span class="p">=</span> <span class="s">&quot;myPassword&quot;</span>
-</span><span class='line'>        <span class="p">};</span>
-</span><span class='line'>
-</span><span class='line'><span class="n">var</span> <span class="n">conn</span> <span class="p">=</span> <span class="k">new</span> <span class="n">SqlConnection</span><span class="p">(</span><span class="n">builder</span><span class="p">.</span><span class="n">ToString</span><span class="p">());</span>
-</span></code></pre></td></tr></table></div></figure>
-
-
-<p>So what builder does is to create a string that is then parsed by SqlConnection to connect to the DB. Does this abstract anything? Not really because you have to know what builder to use with what Connection class. With what interface do these classes communicate? The good old string :)</p>
-
-<p>Do I have a better idea to model this? No not really&#8230;</p>
-</div>
-  
-  
-
-
-    </article>
-  
-  
-    <article>
-      
-  <header>
-    
-      <h1 class="entry-title"><a href="/blog/2012/03/16/c-number-code-gems-number-1-static-and-generics/">C# Code Gems #1 - Static and Generics</a></h1>
-    
-    
-      <p class="meta">
-        
-
-
-
-
-
-
-
-
-  
-
-
-<time datetime="2012-03-16T17:52:00+01:00" pubdate data-updated="true">Mar 16<span>th</span>, 2012</time>
-        
-         | <a href="/blog/2012/03/16/c-number-code-gems-number-1-static-and-generics/#disqus_thread">Comments</a>
-        
-      </p>
-    
-  </header>
-
-
-  <div class="entry-content"><p>C# got it&#8217;s generics support in version 2.0. While first I thought generics would be some kind of syntax sugar, which they are, and not really important for the language; now some years later I would refuse to write C# code without the power of generics.</p>
-
-<p>When implementing generics in a strong typed language, the language designers have two options to implement generics. The first is a <strong>runtime</strong> approach, where all operations on generic types are checked by the compiler at compile time and the compiler inserts cast statements in the IL code/byte code. In pseudo code this code fragment</p>
-
-<figure class='code'> <div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
-<span class='line-number'>2</span>
-<span class='line-number'>3</span>
-</pre></td><td class='code'><pre><code class='csharp'><span class='line'>    <span class="n">List</span><span class="p">&lt;</span><span class="n">String</span><span class="p">&gt;</span> <span class="n">strings</span> <span class="p">=</span> <span class="k">new</span> <span class="n">List</span><span class="p">&lt;</span><span class="n">String</span><span class="p">&gt;();</span>
-</span><span class='line'>    <span class="n">strings</span><span class="p">.</span><span class="n">Add</span><span class="p">(</span><span class="s">&quot;SomeString&quot;</span><span class="p">);</span>
-</span><span class='line'>    <span class="n">String</span> <span class="n">someString</span> <span class="p">=</span> <span class="n">strings</span><span class="p">[</span><span class="m">0</span><span class="p">];</span>
-</span></code></pre></td></tr></table></div></figure>
-
-
-<p>Is translated to that code fragment by the compiler:</p>
-
-<figure class='code'> <div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
-<span class='line-number'>2</span>
-<span class='line-number'>3</span>
-</pre></td><td class='code'><pre><code class='csharp'><span class='line'>    <span class="n">List</span> <span class="n">strings</span> <span class="p">=</span> <span class="k">new</span> <span class="n">List</span><span class="p">();</span>
-</span><span class='line'>    <span class="n">strings</span><span class="p">.</span><span class="n">Add</span><span class="p">((</span><span class="n">String</span><span class="p">)</span><span class="s">&quot;SomeString&quot;</span><span class="p">);</span>
-</span><span class='line'>    <span class="n">String</span> <span class="n">someString</span> <span class="p">=</span> <span class="p">(</span><span class="n">String</span><span class="p">)</span><span class="n">strings</span><span class="p">[</span><span class="m">0</span><span class="p">]:</span>
-</span></code></pre></td></tr></table></div></figure>
-
-
-<p>The other approach to implement generics is a <strong>compile</strong> time approach where the compiler creates dedicated sub classes for each generic reference. That means the compiler would create a sub class of List for a <code>List&lt;String&gt;</code> and a <code>List&lt;int&gt;</code> and so on. The compiler created sub classes derive from <code>List&lt;T&gt;</code> but a <code>List&lt;int&gt;</code> cannot be assigned to a <code>List&lt;String&gt;</code>. More general even for class B that derives from A a <code>List&lt;B&gt;</code> could not be assigned to a <code>List&lt;A&gt;</code> reference!</p>
-
-<p>C# and C++ took the <strong>compile</strong> time approach, Java for example took the <strong>runtime</strong> approach. While the <strong>compile</strong> time approach has some performance benefits compared to the <strong>runtime</strong> approach, the runtime approach is more flexible and does not lead to the awkwardness that I want to demonstrate now.</p>
-
-<p>What would you expect the following code to output?</p>
-
-<figure class='code'> <div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
-<span class='line-number'>2</span>
-<span class='line-number'>3</span>
-<span class='line-number'>4</span>
-<span class='line-number'>5</span>
-<span class='line-number'>6</span>
-<span class='line-number'>7</span>
-<span class='line-number'>8</span>
-<span class='line-number'>9</span>
-<span class='line-number'>10</span>
-<span class='line-number'>11</span>
-<span class='line-number'>12</span>
-<span class='line-number'>13</span>
-<span class='line-number'>14</span>
-<span class='line-number'>15</span>
-<span class='line-number'>16</span>
-<span class='line-number'>17</span>
-<span class='line-number'>18</span>
-<span class='line-number'>19</span>
-<span class='line-number'>20</span>
-<span class='line-number'>21</span>
-<span class='line-number'>22</span>
-</pre></td><td class='code'><pre><code class='csharp'><span class='line'><span class="k">public</span> <span class="k">class</span> <span class="nc">Counter</span><span class="p">&lt;</span><span class="n">T</span><span class="p">&gt;</span>
-</span><span class='line'><span class="p">{</span>
-</span><span class='line'>    <span class="k">private</span> <span class="k">static</span> <span class="kt">int</span> <span class="n">Count</span><span class="p">;</span>
-</span><span class='line'>
-</span><span class='line'>    <span class="k">public</span> <span class="kt">int</span> <span class="nf">Increase</span><span class="p">()</span>
-</span><span class='line'>    <span class="p">{</span>
-</span><span class='line'>        <span class="n">Count</span><span class="p">+=</span><span class="m">1</span><span class="p">;</span>
-</span><span class='line'>        <span class="k">return</span> <span class="n">Count</span><span class="p">;</span>
-</span><span class='line'>    <span class="p">}</span>
-</span><span class='line'><span class="p">}</span>
-</span><span class='line'>
-</span><span class='line'><span class="k">private</span> <span class="k">static</span> <span class="k">void</span> <span class="nf">IncreaseCounters</span><span class="p">()</span>
-</span><span class='line'><span class="p">{</span>
-</span><span class='line'>    <span class="n">var</span> <span class="n">intCounter</span> <span class="p">=</span> <span class="k">new</span> <span class="n">Counter</span><span class="p">&lt;</span><span class="kt">int</span><span class="p">&gt;();</span>
-</span><span class='line'>    <span class="n">var</span> <span class="n">longCounter</span><span class="p">=</span> <span class="k">new</span> <span class="n">Counter</span><span class="p">&lt;</span><span class="kt">long</span><span class="p">&gt;();</span>
-</span><span class='line'>
-</span><span class='line'>    <span class="n">var</span> <span class="n">firstCount</span> <span class="p">=</span> <span class="n">intCounter</span><span class="p">.</span><span class="n">Increase</span><span class="p">();</span>
-</span><span class='line'>    <span class="n">Console</span><span class="p">.</span><span class="n">WriteLine</span><span class="p">(</span><span class="s">&quot;FirstCount {0}&quot;</span><span class="p">,</span> <span class="n">firstCount</span><span class="p">);</span>
-</span><span class='line'>
-</span><span class='line'>    <span class="n">var</span> <span class="n">secondCount</span> <span class="p">=</span> <span class="n">longCounter</span><span class="p">.</span><span class="n">Increase</span><span class="p">();</span>
-</span><span class='line'>    <span class="n">Console</span><span class="p">.</span><span class="n">WriteLine</span><span class="p">(</span><span class="s">&quot;SecondCount {0}&quot;</span><span class="p">,</span> <span class="n">secondCount</span><span class="p">);</span>
-</span><span class='line'><span class="p">}</span>
-</span></code></pre></td></tr></table></div></figure>
-
-
-<p>But the output is:</p>
-
-<pre><code>FirstCount 1
-SecondCount 1
-</code></pre>
-
-<p>As stated above, the C# compiler generates two classes for the <strong>Counter</strong> class, one class <strong>Counter<int></strong> and one <strong>Counter<long></strong> class. These two classes do not share the same static <strong>Count</strong> field and so the consequence is that you have one <strong>Count</strong> field in your code but get two static fields created by the compiler.</p>
-</div>
-  
-  
-
-
-    </article>
-  
-  
-    <article>
-      
-  <header>
-    
-      <h1 class="entry-title"><a href="/blog/2012/03/13/interesting-thingys-8/">Interesting Thingys #8</a></h1>
-    
-    
-      <p class="meta">
-        
-
-
-
-
-
-
-
-
-  
-
-
-<time datetime="2012-03-13T08:54:00+01:00" pubdate data-updated="true">Mar 13<span>th</span>, 2012</time>
-        
-         | <a href="/blog/2012/03/13/interesting-thingys-8/#disqus_thread">Comments</a>
-        
-      </p>
-    
-  </header>
-
-
-  <div class="entry-content"><blockquote><p><em>Interesting Thingys</em> is a gazette in the blog that summarizes a week of blog articles, links, specifications, demos, news or more general &#8220;thingys&#8221; that we stumble upon in our journey through the world wide web.</p></blockquote>
-
-<h3>Mobile Development</h3>
-
-<ul>
-<li><a href="http://www.sencha.com/blog/announcing-sencha-touch-2">Sencha Touch</a> - a HTML5 Mobile Application Framework, version 2.0 released.</li>
-</ul>
-
-
-<h3>CSS</h3>
-
-<ul>
-<li><a href="http://www.zeldman.com/2012/03/01/replacing-the-9999px-hack-new-image-replacement">Replacing the -9999px hack (aka new image replacement)</a></li>
-<li><a href="http://davidwalsh.name/css4-preview">CSS4 (!) Selectors</a></li>
-<li><a href="http://www.w3.org/TR/2011/WD-selectors4-20110929/">CSS 4 Selectors</a> - the non shortened version</li>
-</ul>
-
-
-</div>
-  
-  
-    <footer>
-      <a rel="full-article" href="/blog/2012/03/13/interesting-thingys-8/">Read on &rarr;</a>
-    </footer>
-  
-
-
-    </article>
   
   
     <article>
@@ -707,9 +392,161 @@ SecondCount 1
 
     </article>
   
-  <div class="pagination">
+  
+    <article>
+      
+  <header>
     
-      <a class="prev" href="/blog/page/7/">&larr; Older</a>
+      <h1 class="entry-title"><a href="/blog/2012/02/06/interesting-thingys-3/">Interesting Thingys #3</a></h1>
+    
+    
+      <p class="meta">
+        
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2012-02-06T08:54:00+01:00" pubdate data-updated="true">Feb 6<span>th</span>, 2012</time>
+        
+         | <a href="/blog/2012/02/06/interesting-thingys-3/#disqus_thread">Comments</a>
+        
+      </p>
+    
+  </header>
+
+
+  <div class="entry-content"><blockquote><p><em>Interesting Thingys</em> is a gazette in the blog that summarizes a week of blog articles, links, specifications, demos, news or more general &#8220;thingys&#8221; that we stumble upon in our journey through the world wide web.</p></blockquote>
+
+<h3>CSS</h3>
+
+<ul>
+<li><a href="http://css3test.com/">css3test</a> - Tests your browser for CSS3 compatibility.</li>
+<li><a href="http://upstatement.com/blog/2012/01/how-to-approach-a-responsive-design/">how to approach a responsive design</a> - Interesting Article about Responsive Design, example: the Boston Globe website.</li>
+</ul>
+
+
+</div>
+  
+  
+    <footer>
+      <a rel="full-article" href="/blog/2012/02/06/interesting-thingys-3/">Read on &rarr;</a>
+    </footer>
+  
+
+
+    </article>
+  
+  
+    <article>
+      
+  <header>
+    
+      <h1 class="entry-title"><a href="/blog/2012/01/23/interesting-thingys-2/">Interesting Thingys #2</a></h1>
+    
+    
+      <p class="meta">
+        
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2012-01-23T08:54:00+01:00" pubdate data-updated="true">Jan 23<span>rd</span>, 2012</time>
+        
+         | <a href="/blog/2012/01/23/interesting-thingys-2/#disqus_thread">Comments</a>
+        
+      </p>
+    
+  </header>
+
+
+  <div class="entry-content"><blockquote><p><em>Interesting Thingys</em> is a gazette in the blog that summarizes a week of blog articles, links, specifications, demos, news or more general &#8220;thingys&#8221; that we stumble upon in our journey through the world wide web.</p></blockquote>
+
+<h3>Server/WebStack</h3>
+
+<ul>
+<li><a href="http://www.igvita.com/2012/01/18/building-a-modern-web-stack-for-the-realtime-web/">WebSockets, SPDY Protocol, HTTP2.0</a> - .. &#8220;Tommorrows technology for todays web!&#8221;.</li>
+</ul>
+
+
+</div>
+  
+  
+    <footer>
+      <a rel="full-article" href="/blog/2012/01/23/interesting-thingys-2/">Read on &rarr;</a>
+    </footer>
+  
+
+
+    </article>
+  
+  
+    <article>
+      
+  <header>
+    
+      <h1 class="entry-title"><a href="/blog/2012/01/17/interesting-thingys-1/">Interesting Thingys #1</a></h1>
+    
+    
+      <p class="meta">
+        
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2012-01-17T08:54:00+01:00" pubdate data-updated="true">Jan 17<span>th</span>, 2012</time>
+        
+         | <a href="/blog/2012/01/17/interesting-thingys-1/#disqus_thread">Comments</a>
+        
+      </p>
+    
+  </header>
+
+
+  <div class="entry-content"><blockquote><p><em>Interesting Thingys</em> is a gazette in the blog that summarizes a week of blog articles, links, specifications, demos, news or more general &#8220;thingys&#8221; that we stumble upon in our journey through the world wide web.</p></blockquote>
+
+<h3>Boilerplates</h3>
+
+<ul>
+<li><a href="http://html5boilerplate.com">HTML5-Boilerplate</a> - everyone should know this one.</li>
+<li><a href="http://www.initializr.com">Initializr2</a> - makes HTML5 boilerplates &#8216;customizable&#8217;.</li>
+<li><a href="http://verekia.com/initializr/responsive-template">Responsive Template</a> - Article about &#8220;Responsive Template&#8221; using Initializr2 or a &#8220;Mobile First Approach&#8221; with media queries.</li>
+<li><a href="https://github.com/tbranyen/backbone-boilerplate">Backbone.js boilerplate</a> - Boilerplate for the backbone.js guys.</li>
+</ul>
+
+
+</div>
+  
+  
+    <footer>
+      <a rel="full-article" href="/blog/2012/01/17/interesting-thingys-1/">Read on &rarr;</a>
+    </footer>
+  
+
+
+    </article>
+  
+  <div class="pagination">
     
     <a href="/blog/archives">Blog Archives</a>
     
@@ -722,6 +559,10 @@ SecondCount 1
     <section>
   <h1>Recent Posts</h1>
   <ul id="recent_posts">
+    
+      <li class="post">
+        <a href="/blog/2013/04/05/interesting-thingys-49/">Interesting Thingys 49</a>
+      </li>
     
       <li class="post">
         <a href="/blog/2013/03/28/interesting-thingys-48/">Interesting Thingys 48</a>
@@ -737,10 +578,6 @@ SecondCount 1
     
       <li class="post">
         <a href="/blog/2013/03/07/interesting-thingys-45/">Interesting Thingys 45</a>
-      </li>
-    
-      <li class="post">
-        <a href="/blog/2013/03/01/invoke-js-beautify-in-vim/">Invoke JS Beautify in Vim</a>
       </li>
     
   </ul>
