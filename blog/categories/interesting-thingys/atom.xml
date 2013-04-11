@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Interesting-Thingys | yield the dog]]></title>
   <link href="http://yieldthedog.github.com/blog/categories/interesting-thingys/atom.xml" rel="self"/>
   <link href="http://yieldthedog.github.com/"/>
-  <updated>2013-04-05T22:06:20+02:00</updated>
+  <updated>2013-04-11T21:25:59+02:00</updated>
   <id>http://yieldthedog.github.com/</id>
   <author>
     <name><![CDATA[yield the dog]]></name>
@@ -12,6 +12,180 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Interesting Thingys 50]]></title>
+    <link href="http://yieldthedog.github.com/blog/2013/04/12/interesting-thingys-50/"/>
+    <updated>2013-04-12T22:16:00+02:00</updated>
+    <id>http://yieldthedog.github.com/blog/2013/04/12/interesting-thingys-50</id>
+    <content type="html"><![CDATA[<p>Woohooo, we reached issue no. 50.</p>
+
+<!-- More -->
+
+
+<h2>JavaScript</h2>
+
+<ul>
+<li><strong><a href="http://rmurphey.com/">Adventures in JavaScript Development</a></strong>
+  <small>setinterval is not especially apropriate if you are polling from a server. Read on, to see how to get rid of it</small></li>
+<li><strong><a href="https://github.com/sindresorhus/grunt-concurrent">sindresorhus/grunt-concurrent · GitHub</a></strong>
+  <small>Run grunt tasks concurrently </small></li>
+<li><strong><a href="http://jslinterrors.com/">JSLint Error Explanations - Making Your Feelings Better</a></strong>
+  <small>lookup what an error means</small></li>
+<li><strong><a href="https://www.youtube.com/watch?v=cF_JsA9KsDM">Bringing Angular Apps to Life with Animation by Miško Hevery - YouTube</a></strong>
+  <small>On April 3rd, AngularJS 1.1.4 will be released. The primary feature in this release is declarative support for animation in templates. </small></li>
+<li><strong><a href="https://github.com/btford/angular-dragon-drop">btford/angular-dragon-drop · GitHub</a></strong>
+  <small>"Drag and drop" directives for AngularJS. Work in progress.</small></li>
+</ul>
+
+
+<h2>CSS</h2>
+
+<ul>
+<li><strong><a href="http://www.html5rocks.com/en/tutorials/masking/adobe/">CSS Masking - HTML5 Rocks</a></strong>
+  <small>Some nice tricks with CSS masks</small></li>
+<li><strong><a href="http://zmoazeni.github.io/csscss/">csscss by zmoazeni</a></strong>
+  <small>csscss will parse any CSS files you give it and let you know which rulesets have duplicated declarations.</small></li>
+</ul>
+
+
+<h2>HTML5</h2>
+
+<ul>
+<li><strong><a href="http://codepen.io/cwolves/pen/gykbc">CodePen - A Pen by Mark Kahn</a></strong>
+  <small>nice demo</small></li>
+</ul>
+
+
+<h2>Web Development</h2>
+
+<ul>
+<li><strong><a href="https://github.com/jesusabdullah/know-your-http">jesusabdullah/know-your-http · GitHub</a></strong>
+  <small>A series of A0-sized posters about the HTTP protocol</small></li>
+<li><strong><a href="http://html5hacks.com/blog/2013/04/02/make-your-web-app-to-a-windows-8-app/">Turn Your Web App into a Windows 8 App - HTML5 Hacks</a></strong>
+  <small>a step by step tutorial</small></li>
+</ul>
+
+
+<h2>Mobile Development</h2>
+
+<ul>
+<li><strong><a href="https://github.com/xelvenone/M6ParallaxController">xelvenone/M6ParallaxController · GitHub</a></strong>
+  <small>Parallax controller for a parallaxed view and a table view</small></li>
+</ul>
+
+
+<h2>Ruby</h2>
+
+<ul>
+<li><strong><a href="http://confreaks.com/videos/2303-bigruby2013-how-shopify-scales-rails">How Shopify Scales Rails - John Duff - Big Ruby 2013</a></strong>
+  <small>How one of the oldest rails shops survived evolution</small></li>
+<li><strong><a href="http://patshaughnessy.net/2013/4/3/ruby-2-0-works-hard-so-you-can-be-lazy">Ruby 2.0 Works Hard So You Can Be Lazy - Pat Shaughnessy</a></strong>
+  <small>Pat Shaughnessy takes an in-depth look at Ruby 2.0's lazy enumeration feature and how it relates to regular enumerators.</small></li>
+<li><strong><a href="http://www.shopify.com/technology/7617983-identitycache-improving-performance-one-cached-model-at-a-time#axzz2PV7hpXfu">IdentityCache: Improving Performance one Cached Model at a Time — Ecommerce Blog by Shopify</a></strong>
+  <small>The caching layer from shopify - a deep dive</small></li>
+</ul>
+
+
+<h2>Node.js</h2>
+
+<ul>
+<li><strong><a href="http://dailyjs.com/2013/04/01/streams-streams-streams/">DailyJS: Five Minute Guide to Streams2</a></strong>
+  <small>A quick walk through of the new streams api</small></li>
+<li><strong><a href="http://blog.mixu.net/2011/02/01/understanding-the-node-js-event-loop/">Understanding the node.js event loop « Mixu's tech blog</a></strong>
+  <small>A brief and excellent introduction to node.js event loops</small></li>
+</ul>
+
+
+<h2>Browsers</h2>
+
+<ul>
+<li><strong><a href="https://docs.google.com/document/d/1JQZXrONw1RrjrdD_Z9jq1ZKsHguh8UVGHY_MZgE63II/preview?hl=en">Chrome PLT Improvements - Google Drive</a></strong>
+  <small>How Chrome is improving page load times again</small></li>
+<li><strong><a href="https://plus.google.com/108226521004258409305/posts/BvMgvdnBvaQ">What are those transparent bars in Chrome's profiler???</a></strong>
+  <small>Nat Duca answers this on G </small></li>
+<li><strong><a href="http://thenextweb.com/insider/2013/04/04/opera-confirms-it-will-follow-google-and-ditch-webkit-for-blink-as-part-of-its-commitment-to-chromium/">Opera confirms it will follow Google and ditch WebKit for Blink, as part of its commitment to Chromium - The Next Web</a></strong>
+  <small>so Google won't be alone working on Blinl</small></li>
+<li><strong><a href="http://generatedcontent.org/post/47216611856/ie11">IE11: what we know and what we can speculate - Generated Content by David Storey</a></strong>
+  <small>David Storey presents a handy roundup of the latest rumors, news, and experiments with regards to Internet Explorer 11, including its possible WebGL support, new user agent string, and ECMAScript 6 support.</small></li>
+</ul>
+
+
+<h2>Linux</h2>
+
+<ul>
+<li><strong><a href="http://mylinuxbook.com/linux-netcat-command/#">Linux Netcat command - The swiss army knife of networking - MyLinuxBook | MyLinuxBook</a></strong>
+  <small>Everything you wanted to know about netcat</small></li>
+</ul>
+
+
+<h2>Databases</h2>
+
+<ul>
+<li><strong><a href="http://www.tokutek.com/2013/04/mongodb-multi-statement-transactions-yes-we-can/">MongoDB Multi-Statement Transactions: Yes We Can | Tokutek</a></strong>
+  <small>Has anyone said that there are no transactions in mongodb?</small></li>
+<li><strong><a href="http://datachomp.com/archives/top-10-reasons-i-like-postgres-over-sql-server/">Top 10 Reasons I like Postgres Over SQL Server - DataChomp</a></strong>
+  <small>Theres a variety of reasons we choose the databases we do. Rob Sullivan, a former Microsoft SQL Server DBA, here lays out 10 very clear reasons why he prefers Postgres over SQL Server.</small></li>
+</ul>
+
+
+<h2>Git</h2>
+
+<ul>
+<li><strong><a href="http://code.joejag.com/2013/everyday-git-aliases/">Everyday Git Aliases | JoeJag :: Tech</a></strong>
+  <small>Some ideas for git aliases</small></li>
+<li><strong><a href="http://stevelosh.com/blog/2013/04/git-koans/">Git Koans / Steve Losh</a></strong>
+  <small>nice</small></li>
+</ul>
+
+
+<h2>Tools</h2>
+
+<ul>
+<li><strong><a href="https://github.com/blakeembrey/readable">blakeembrey/readable · GitHub</a></strong>
+  <small>Creates a plain text and readable version of any article on the internet by appending the url to the services domain. Has a extremely simple interface to use and plain CSS for some simple styles.</small></li>
+</ul>
+
+
+<h2>Watching</h2>
+
+<ul>
+<li><strong><a href="https://vimeo.com/62988591">Browserify V2 and You (nix) on Vimeo</a></strong>
+  <small>Presented by James Halliday at JSLA (js.la) March 28th, 2013</small></li>
+<li><strong><a href="http://christianheilmann.com/2013/04/02/setting-disruptors-to-stun-keynote-at-html5-devcon-in-san-francisco/">Setting disruptors to stun</a></strong>
+  <small>keynote at HTML5 Devcon in San Francisco | Christian Heilmann</small></li>
+</ul>
+
+
+<h2>Fun</h2>
+
+<ul>
+<li><strong><a href="http://wtfqrcodes.com/post/47244311353/absolutely-brilliant-via-cristinmcgrath">Absolutely brilliant. via @CristinMcGrath</a></strong>
+  <small>Should you use QR code</small></li>
+</ul>
+
+
+<h2>UX</h2>
+
+<ul>
+<li><strong><a href="https://medium.com/design-ux/926eb80d64e3?utm_source=feedburner">Transitional Interfaces</a></strong>
+  <small>Some ideas about Animation in the context of Interfaces</small></li>
+</ul>
+
+
+<h2>Raspberry Pi</h2>
+
+<ul>
+<li><strong><a href="http://www.raspberrypi.org/archives/3679">Raspberry Pi GSM gateway | Raspberry Pi</a></strong>
+  <small>GSM Gateway with two Raspberry Pi</small></li>
+</ul>
+
+
+<h2>Your link could be here</h2>
+
+<p>If we missed something special or you just want to promote a site, give us a nudge @ <a href='&#109;&#97;&#105;&#108;t&#111;&#58;%7&#57;&#105;eld&#116;%68%65do%67&#64;gmail&#37;2&#69;c&#37;6&#70;m'>y&#105;eldt&#104;&#101;dog&#64;&#103;mail&#46;&#99;&#111;m</a></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Interesting Thingys 49]]></title>
@@ -608,148 +782,6 @@
 <ul>
 <li><strong><a href="http://www.sean-crist.com/personal/pages/eagles/index.html">Could the eagles have flown Frodo into Mordor?</a></strong>
   <small>A question as old as the book...</small></li>
-</ul>
-
-
-<h2>Your link could be here</h2>
-
-<p>If we missed something special or you just want to promote a site, give us a nudge @ <a href='&#109;&#97;&#105;&#108;t&#111;&#58;%7&#57;&#105;eld&#116;%68%65do%67&#64;gmail&#37;2&#69;c&#37;6&#70;m'>y&#105;eldt&#104;&#101;dog&#64;&#103;mail&#46;&#99;&#111;m</a></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Interesting Thingys 45]]></title>
-    <link href="http://yieldthedog.github.com/blog/2013/03/07/interesting-thingys-45/"/>
-    <updated>2013-03-07T22:17:00+01:00</updated>
-    <id>http://yieldthedog.github.com/blog/2013/03/07/interesting-thingys-45</id>
-    <content type="html"><![CDATA[<p>This week a compact collection of great links, read on…</p>
-
-<!-- More -->
-
-
-<h2>CSS</h2>
-
-<ul>
-<li><strong><a href="http://usablica.github.com/front-end-frameworks/compare.html">A collection of best front-end frameworks with comparison | By usabli.ca</a></strong>
-  <small>great listing</small></li>
-<li><strong><a href="http://aerotwist.com/blog/on-translate3d-and-layer-creation-hacks/">On translate3d and layer creation hacks | Aerotwist</a></strong>
-  <small>THE "GO FASTER" HACK!</small></li>
-<li><strong><a href="http://www.456bereastreet.com/archive/201303/how_to_shrinkwrap_and_center_elements_horizontally/">How to shrinkwrap and center elements horizontally | 456 Berea Street</a></strong>
-  <small>Much has to be done to achieve this cross browsers</small></li>
-</ul>
-
-
-<h2>HTML5</h2>
-
-<ul>
-<li><strong><a href="https://www.shadertoy.com/">Shadertoy BETA</a></strong>
-  <small>Build and Share your best shaders with the world and get Inspired!</small></li>
-</ul>
-
-
-<h2>Web Development</h2>
-
-<ul>
-<li><strong><a href="http://www.netmagazine.com/tutorials/build-responsive-emails">Build responsive emails | Tutorial | .net magazine</a></strong>
-  <small>A gude to responsive emails</small></li>
-<li><strong><a href="http://speckyboy.com/2013/02/04/myths-about-how-blind-people-use-the-internet/">Myths About How Blind People Use the Internet</a></strong>
-  <small>Do you know how blind people surf the web?</small></li>
-<li><strong><a href="http://designmodo.github.com/Flat-UI/">Flat UI</a></strong>
-  <small>Free Web User Interface Kit</small></li>
-<li><strong><a href="http://casperin.github.com/nod/">Nod!</a></strong>
-  <small>A frontend validation plugin for Twitter Bootstrap</small></li>
-</ul>
-
-
-<h2>Ruby</h2>
-
-<ul>
-<li><strong><a href="http://matt.aimonetti.net/posts/2013/03/05/inspecting-rails-4-request-dispatch-using-ruby-2-dot-0/">Inspecting Rails 4 using Ruby 2.0 - Matt Aimonetti</a></strong>
-  <small>Ruby 2.0 has a cool new feature that many people talk about: TracePoint.</small></li>
-<li><strong><a href="https://speakerdeck.com/peterc/ruby-2-dot-0-walkthrough-the-best-bits">Speaker Deck - Share Presentations without the Mess</a></strong>
-  <small>What's hot and new in Ruby 2.0</small></li>
-</ul>
-
-
-<h2>Node.js</h2>
-
-<ul>
-<li><strong><a href="http://blog.izs.me/post/44149270867/why-no-directories-lib-in-node-the-less-snarky">blog.izs.me: Why No directories.lib in Node (the less snarky, too-long-for-twitter version)</a></strong>
-  <small>Node peoples… is there any way to specify a root directory for my npm package so that I don’t need require(“mypackage/lib/foo”)?</small></li>
-<li><strong><a href="https://github.com/bevry/docpad">bevry/docpad · GitHub</a></strong>
-  <small>Empower your website frontends with layouts, meta-data, pre-processors</small></li>
-<li><strong><a href="https://github.com/google/google-api-nodejs-client">google/google-api-nodejs-client · GitHub</a></strong>
-  <small>Google's officially supported node.js client library for accessing Google APIs, it comes with OAuth 2.0 support.</small></li>
-</ul>
-
-
-<h2>Browsers</h2>
-
-<ul>
-<li><strong><a href="https://plus.google.com/100132233764003563318/posts/FDef51vZXWw">When you play too much with flags in Google Chrome, it's…</a></strong>
-  <small>kinda painful to keep track of what is enabled by default or not. Now Chrome has reset to default</small></li>
-</ul>
-
-
-<h2>Databases</h2>
-
-<ul>
-<li><strong><a href="https://postgres-bits.herokuapp.com/#1">Postgres: The Bits You Haven't Found</a></strong>
-  <small>12 Postgres features you might not already know</small></li>
-<li><strong><a href="http://www.slideshare.net/rick446/scaling-withmongodb">Scaling with MongoDB</a></strong>
-  <small>Slideshare presentation on scaling MongoDB</small></li>
-</ul>
-
-
-<h2>Editors</h2>
-
-<ul>
-<li><strong><a href="https://github.com/Bogdanp/browser-connect.vim">Bogdanp/browser-connect.vim · GitHub</a></strong>
-  <small>live coding in vim</small></li>
-<li><strong><a href="https://github.com/airblade/vim-gitgutter">airblade/vim-gitgutter · GitHub</a></strong>
-  <small> Vim plugin which shows a git diff in the 'gutter' (sign column). It shows whether each line has been added, modified, and where lines have been removed.</small></li>
-<li><strong><a href="http://statico.github.com/vim2.html">Everything I Missed in "Vim After 11 Years" - Ian Langworth's Things of Variable Interest</a></strong>
-  <small>A nice writeup about what standard Vim is missing</small></li>
-</ul>
-
-
-<h2>Watching</h2>
-
-<ul>
-<li><strong><a href="https://www.youtube.com/watch?v=Dt0f2XdvriQ">Kit Cambridge, "EcmaScript Next: The Subtleties of ES 6" at W3Conf 2013 - YouTube</a></strong>
-  <small>Good overview of some of the upcoming (and much needed) improvements in ES6!</small></li>
-</ul>
-
-
-<h2>Reading</h2>
-
-<ul>
-<li><strong><a href="http://pragprog.com/magazines/2013-03">The Pragmatic Bookshelf | PragPub, March 2013</a></strong>
-  <small>What If You Don’t Want to Pivot? Launching a Gonzo Engineering Project Finding the Geek Who Fits Being the Geek Who Fits Uncle Bob and Functional Programming</small></li>
-</ul>
-
-
-<h2>Miscellaneous</h2>
-
-<ul>
-<li><strong><a href="https://plus.google.com/%20LinusTorvalds/posts/dk1aiW4JjHd">Linus Torvalds - Toys, toys, toys..</a></strong>
-  <small>Linus on his new Chromebook</small></li>
-<li><strong><a href="http://www.bbc.co.uk/news/technology-21684329">BBC News - Microsoft fined by European Commission over web browser</a></strong>
-  <small>Microsoft has still problems with IE's heavy binding to the OS</small></li>
-<li><strong><a href="http://plusbryan.com/my-first-5-minutes-on-a-server-or-essential-security-for-linux-servers">My First 5 Minutes On A Server</a></strong>
-  <small>What to do in your first 5 minutes on a fresh server</small></li>
-<li><strong><a href="http://devref.com/">devref</a></strong>
-  <small>The developer's reference</small></li>
-<li><strong><a href="http://vanstee.me/unix-directories.html">Unix Directories</a></strong>
-  <small>Explanation of the Unix root directories</small></li>
-</ul>
-
-
-<h2>Mobile</h2>
-
-<ul>
-<li><strong><a href="https://developers.google.com/chrome/mobile/docs/data-compression">Data Compression Proxy - Google Chrome Mobile — Google Developers</a></strong>
-  <small>Faster, safer, and cheaper mobile web browsing with data compression in Chrome for Android</small></li>
 </ul>
 
 
