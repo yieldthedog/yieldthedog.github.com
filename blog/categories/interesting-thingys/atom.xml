@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Interesting-Thingys | yield the dog]]></title>
   <link href="http://yieldthedog.github.com/blog/categories/interesting-thingys/atom.xml" rel="self"/>
   <link href="http://yieldthedog.github.com/"/>
-  <updated>2013-04-18T22:05:23+02:00</updated>
+  <updated>2013-04-25T22:54:16+02:00</updated>
   <id>http://yieldthedog.github.com/</id>
   <author>
     <name><![CDATA[yield the dog]]></name>
@@ -12,6 +12,182 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Interesting Thingys 52]]></title>
+    <link href="http://yieldthedog.github.com/blog/2013/04/25/interesting-thingys-52/"/>
+    <updated>2013-04-25T23:00:00+02:00</updated>
+    <id>http://yieldthedog.github.com/blog/2013/04/25/interesting-thingys-52</id>
+    <content type="html"><![CDATA[<p>Quite a variety of categories this week…</p>
+
+<!-- More -->
+
+
+<h2>JavaScript</h2>
+
+<ul>
+<li><strong><a href="http://blog.jquery.com/2013/04/18/jquery-2-0-released/">jQuery 2.0 Released | Official jQuery Blog</a></strong>
+  <small>The big 2.0 release</small></li>
+<li><strong><a href="http://binaryjs.com/">BinaryJS - Realtime binary streaming for the web using websockets</a></strong>
+  <small>Realtime binary streaming for the web using websockets</small></li>
+<li><strong><a href="http://subprotocol.com/">Welcome - Sub Protocol</a></strong>
+  <small>An open source physics engine made for constructing 2D dynamic body simulations.</small></li>
+<li><strong><a href="https://github.com/tmcw/englewood.js">tmcw/englewood.js · GitHub</a></strong>
+  <small>dot-density maps in javascript</small></li>
+<li><strong><a href="http://thenittygritty.co/angularjs-pitfalls-using-scopes">AngularJS: 6 Common Pitfalls Using Scopes – TNG - The Nitty Gritty</a></strong>
+  <small>A very interesting read, if you develop SPAs with Angulat.js</small></li>
+<li><strong><a href="http://briantford.com/blog/huuuuuge-angular-apps.html">Building Huuuuuge Apps with AngularJS</a></strong>
+  <small>A very helpful read, if you plan to build bigger Apps with Angular.js</small></li>
+<li><strong><a href="http://www.yearofmoo.com/2013/04/animation-in-angularjs.html">Animation in AngularJS</a></strong>
+  <small>If you miss Animations in Angular.js, you should read this!</small></li>
+</ul>
+
+
+<h2>CSS</h2>
+
+<ul>
+<li><strong><a href="http://www.456bereastreet.com/archive/201304/responsive_drop_shadows/">Responsive drop shadows | 456 Berea Street</a></strong>
+  <small>Examples of responsive drop shadows</small></li>
+<li><strong><a href="http://www.w3.org/TR/css-overflow-3/">CSS Overflow Module Level 3</a></strong>
+  <small>First Public Working Draft</small></li>
+</ul>
+
+
+<h2>Web Development</h2>
+
+<ul>
+<li><strong><a href="http://speckyboy.com/2013/04/18/never-say-wordpress-when-selling-a-web-design-project/">Never Say WordPress When Selling a Web Design Project</a></strong>
+  <small>How to not debate over technology with your clients</small></li>
+<li><strong><a href="https://github.com/codrops/FullscreenLayoutPageTransitions">codrops/FullscreenLayoutPageTransitions · GitHub</a></strong>
+  <small>This responsive layout is based on an initial grid of four boxes. Once a box is clicked, it gets resized to fullscreen and the other boxes scale down and fade out. In the work section we experiment with another transition which is to show a panel by making it appear from the bottom while scaling the current one down. To see it in action, open the work section and click on one of the portfolio items and navigate through them.</small></li>
+</ul>
+
+
+<h2>Mobile Webdevelopment</h2>
+
+<ul>
+<li><strong><a href="http://venturebeat.com/2013/04/17/linkedin-mobile-web-breakup/">Why LinkedIn dumped HTML5</a></strong>
+  <small>Interesting LinkedIn changed their apps to native. Small part performance, bigger memory issues and the big problem tooling support</small></li>
+</ul>
+
+
+<h2>Ruby</h2>
+
+<ul>
+<li><strong><a href="https://github.com/chrismccord/sync">chrismccord/sync · GitHub</a></strong>
+  <small>Real-time Rails Partials</small></li>
+</ul>
+
+
+<h2>Node.js</h2>
+
+<ul>
+<li><strong><a href="http://blog.nodejitsu.com/announcing-opsmezzo">Announcing OpsMezzo — blog.nodejitsu.com</a></strong>
+  <small>After more than 18 months of work, Nodejitsu announced the release of OpsMezzo at TXJS this week, a complete solution to provisioning, orchestration and configuration management.</small></li>
+<li><strong><a href="http://blog.j0.hn/post/48591247017/using-json-in-postgres-and-node-js">Using JSON in Postgres and Node.js</a></strong>
+  <small>Postgres supports JSON natively and can be a good persistence layer for Node.js</small></li>
+</ul>
+
+
+<h2>Objective C</h2>
+
+<ul>
+<li><strong><a href="https://github.com/mneorr/Alcatraz">mneorr/Alcatraz · GitHub</a></strong>
+  <small>The most awesome (and only) Xcode package manager! </small></li>
+<li><strong><a href="https://github.com/tumblr/TMCache">tumblr/TMCache · GitHub</a></strong>
+  <small>Fast parallel object cache for iOS and OS X.</small></li>
+</ul>
+
+
+<h2>Browsers</h2>
+
+<ul>
+<li><strong><a href="http://1997.webhistory.org/www.lists/www-talk.1993q2/0128.html">WWW-Talk Apr-Jun 1993: NCSA Mosaic 1.0 released</a></strong>
+  <small>Mosaic is 20!!!</small></li>
+</ul>
+
+
+<h2>Shell</h2>
+
+<ul>
+<li><strong><a href="http://pempek.net/articles/2013/04/14/maximizing-tmux-pane-new-window/">Maximizing a Tmux Pane To a New Window | PEMPEK.NET</a></strong>
+  <small>A robust version of maximizing / minimizing a tmux pane. Works perfectly in tmux >= 1.6 </small></li>
+<li><strong><a href="http://pempek.net/articles/2013/04/24/vpn-less-persistent-ssh-sessions/">Vpn Less Persistent SSH Sessions</a></strong>
+  <small>Have you ever got tired of reconnecting all your remote sessions and restoring your workplace?</small></li>
+</ul>
+
+
+<h2>Programming</h2>
+
+<ul>
+<li><strong><a href="https://sites.google.com/site/yacoset/Home/signs-that-you-re-a-bad-programmer">Signs that you're a bad programmer - Software Engineering Tips</a></strong>
+  <small>very long read</small></li>
+<li><strong><a href="https://sites.google.com/site/yacoset/Home/signs-that-you-re-a-good-programmer">Signs that you're a good programmer - Software Engineering Tips</a></strong>
+  <small>the sequel</small></li>
+</ul>
+
+
+<h2>Databases</h2>
+
+<ul>
+<li><strong><a href="http://wiki.postgresql.org/wiki/PGStrom">PGStrom - PostgreSQL wiki</a></strong>
+  <small>Postgres on the GPU</small></li>
+</ul>
+
+
+<h2>Editors</h2>
+
+<ul>
+<li><strong><a href="http://robots.thoughtbot.com/post/48275867281/vim-splits-move-faster-and-more-naturally">Vim Splits - Move Faster and More Naturally</a></strong>
+  <small>some nice tricks for Vim spilts</small></li>
+<li><strong><a href="http://stackoverflow.com/questions/1737163/vim-traversing-text-in-insert-mode">Vim: Traversing text in Insert mode - Stack Overflow</a></strong>
+  <small>Another answer to a Vim question that starts with 'You are doing it wrong'</small></li>
+<li><strong><a href="http://vimcasts.org/episodes/supercharged-substitution-with-subvert/">Supercharged substitution with :Subvert</a></strong>
+  <small>crazy subsitution with a little help from abolish</small></li>
+</ul>
+
+
+<h2>Watching</h2>
+
+<ul>
+<li><strong><a href="https://vimeo.com/47515968">GeeCON 2012 - Sam Newman - Designing For Rapid Release on Vimeo</a></strong>
+  <small>This talk focuses on the kinds of constraints we should consider when evolving their architecture of our systems in order to enable rapid, frequent release.</small></li>
+<li><strong><a href="http://confreaks.com/videos/2291-larubyconf2013-impressive-ruby-productivity-with-vim-and-tmux">Impressive Ruby Productivity with Vim and Tmux - Chris Hunt - LA Ruby Conference 2013</a></strong>
+  <small>Two of my favorite tools united</small></li>
+<li><strong><a href="http://jumpstartlab.com/news/archives/2013/04/23/the-death-of-ifs">The Death of Ifs</a></strong>
+  <small>no more ifs and case statements</small></li>
+</ul>
+
+
+<h2>Reading</h2>
+
+<ul>
+<li><strong><a href="http://oreilly.com/openbook/">O'Reilly Open Books Project</a></strong>
+  <small>Free O'Reilly books</small></li>
+</ul>
+
+
+<h2>Miscellaneous</h2>
+
+<ul>
+<li><strong><a href="http://blog.netdna.com/developer/nginx-performance-tips-with-the-google-pagespeed-team/">Nginx performance tips using ngx_pagespeed | The NetDNA Blog</a></strong>
+  <small>some insights from maxcdn</small></li>
+</ul>
+
+
+<h2>C</h2>
+
+<ul>
+<li><strong><a href="https://github.com/SignalR/SignalR">SignalR/SignalR · GitHub</a></strong>
+  <small>Incredibly simple real-time web for .NET</small></li>
+</ul>
+
+
+<h2>Your link could be here</h2>
+
+<p>If we missed something special or you just want to promote a site, give us a nudge @ <a href='&#109;&#97;&#105;&#108;t&#111;&#58;%7&#57;&#105;eld&#116;%68%65do%67&#64;gmail&#37;2&#69;c&#37;6&#70;m'>y&#105;eldt&#104;&#101;dog&#64;&#103;mail&#46;&#99;&#111;m</a></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Interesting Thingys 51]]></title>
@@ -610,150 +786,6 @@
 <ul>
 <li><strong><a href="http://www.hanselminutes.com/363/html5-javascript-chrome-and-the-web-platform-with-paul-irish">Hanselminutes Technology Podcast</a></strong>
   <small>Scott sits down with Chrome Developer Advocate Paul Irish to talk HTML5, JavaScript, Chrome and the Web</small></li>
-</ul>
-
-
-<h2>Your link could be here</h2>
-
-<p>If we missed something special or you just want to promote a site, give us a nudge @ <a href='&#109;&#97;&#105;&#108;t&#111;&#58;%7&#57;&#105;eld&#116;%68%65do%67&#64;gmail&#37;2&#69;c&#37;6&#70;m'>y&#105;eldt&#104;&#101;dog&#64;&#103;mail&#46;&#99;&#111;m</a></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Interesting Thingys 47]]></title>
-    <link href="http://yieldthedog.github.com/blog/2013/03/21/interesting-thingys-47/"/>
-    <updated>2013-03-21T22:17:00+01:00</updated>
-    <id>http://yieldthedog.github.com/blog/2013/03/21/interesting-thingys-47</id>
-    <content type="html"><![CDATA[<p>We got some fun games and exiting new releases this week, read on …</p>
-
-<!-- More -->
-
-
-<h2>JavaScript</h2>
-
-<ul>
-<li><strong><a href="https://github.com/yields/k">yields/k · GitHub</a></strong>
-  <small>keyboard event dispatcher</small></li>
-<li><strong><a href="http://www.chartjs.org/">Chart.js | HTML5 Charts for your website.</a></strong>
-  <small>Easy, object orientated client side graphs for designers and developers</small></li>
-<li><strong><a href="https://github.com/shichuan/javascript-patterns">shichuan/javascript-patterns · GitHub</a></strong>
-  <small>repo with JavaScript Patterns</small></li>
-<li><strong><a href="http://superherojs.com/">Superhero.js</a></strong>
-  <small> This page is a collection of the best articles, videos and presentations we've found on the topic.</small></li>
-</ul>
-
-
-<h2>CSS</h2>
-
-<ul>
-<li><strong><a href="https://coderwall.com/p/3bvcdw">Tim Pietrusky : Use pseudo-elements on replaced elements</a></strong>
-  <small>Use after on empty elements</small></li>
-</ul>
-
-
-<h2>HTML5</h2>
-
-<ul>
-<li><strong><a href="http://paulstamatiou.com/responsive-retina-blog-development-part-2">Developing a responsive, Retina-friendly site (Part 2) — PaulStamatiou.com</a></strong>
-  <small>develop a site that looks good verywhere</small></li>
-<li><strong><a href="http://www.html5rocks.com/en/tutorials/webcomponents/shadowdom-301/">Shadow DOM 301: Advanced Concepts</a></strong>
-  <small>more on the shadow dom</small></li>
-</ul>
-
-
-<h2>Web Development</h2>
-
-<ul>
-<li><strong><a href="http://www.theverge.com/2013/3/13/4094824/inside-the-new-york-times-web-redesign">Inside the New York Times' web redesign | The Verge</a></strong>
-  <small>NO MORE PAGINATION OR CLICKING "SINGLE-PAGE VIEW" - ACTIVE AND PASSIVE PERSONALIZATION</small></li>
-<li><strong><a href="https://coderwall.com/p/lkcaag">Ian MacLeod : Pagination: You're (Probably) Doing It Wrong.</a></strong>
-  <small>Don't paginate on row offset. Find a stable value to paginate on, like an item's date. Always deduplicate list items on the client side. Never trust your server to know exactly what the user is looking at.</small></li>
-<li><strong><a href="http://dev.hubspot.com/blog/bulletproof-demos">Bulletproof Demos</a></strong>
-  <small>Record and playback a session in google chrome</small></li>
-<li><strong><a href="http://paulrouget.com/e/devtoolsnext/">Future of Firefox DevTools // by Paul Rouget</a></strong>
-  <small>10 days ago, I asked in various channels about what web developers would like to see in the Firefox DevTools. I was impressed by the amount of answers we got (especially from HackerNews and Twitter). We computed and prioritized all these inputs. Then the DevTools team met, and spent a week hacking on these different requests. </small></li>
-<li><strong><a href="https://github.com/InterNations/antwort">InterNations/antwort</a></strong>
-  <small>Beautiful responsive email templates with code as beautiful as email templates can be </small></li>
-<li><strong><a href="https://github.com/bradbirdsall/Swipe">bradbirdsall/Swipe · GitHub</a></strong>
-  <small>Swipe is the most accurate touch slider.</small></li>
-<li><strong><a href="http://coenraets.org/blog/2013/03/hardware-accelerated-page-transitions-for-mobile-web-apps-phonegap-apps/?utm_source=rss">Hardware-Accelerated Page Transitions for Mobile Web Apps</a></strong>
-  <small>How to speed up your mobile Web Apps</small></li>
-<li><strong><a href="https://shanetomlinson.com/2013/testing-javascript-frontend-part-1-anti-patterns-and-fixes/">Writing Testable Frontend Javascript Part 1 – Anti-patterns and their fixes | Shane Tomlinson</a></strong>
-  <small>How to get a testable frontend code base...</small></li>
-</ul>
-
-
-<h2>Mobile Webdevelopment</h2>
-
-<ul>
-<li><strong><a href="http://www.raymondcamden.com/index.cfm/2013/3/18/Building-Robust-PhoneGap-Applications">Building "Robust" PhoneGap Applications</a></strong>
-  <small>What's robust?</small></li>
-</ul>
-
-
-<h2>Ruby</h2>
-
-<ul>
-<li><strong><a href="http://tech.pro/tutorial/1149/understanding-method-lookup-in-ruby-20">Understanding method lookup in Ruby 2.0 - Tech.Pro</a></strong>
-  <small>To understand method lookup it is imperative to master the class hierarchy in Ruby.</small></li>
-</ul>
-
-
-<h2>Node.js</h2>
-
-<ul>
-<li><strong><a href="https://github.com/caolan/forms#readme">caolan/forms · GitHub</a></strong>
-  <small>An easy way to create, parse and validate forms in node.js</small></li>
-<li><strong><a href="https://github.com/hij1nx/levelweb">hij1nx/levelweb · GitHub</a></strong>
-  <small>A web based interface for leveldb, with some other neat stuff.</small></li>
-<li><strong><a href="https://github.com/3rd-Eden/versions">3rd-Eden/versions · GitHub</a></strong>
-  <small>Versions, A small module for creating a flexible CDN application</small></li>
-<li><strong><a href="http://blog.nodejs.org/2013/03/21/node-v0-10-1-stable/">Node v0.10.1 (Stable)</a></strong>
-  <small>First node bug fix release is here</small></li>
-</ul>
-
-
-<h2>Databases</h2>
-
-<ul>
-<li><strong><a href="http://blog.mongodb.org/post/45754637343/mongodb-2-4-released">MongoDB 2.4 Released</a></strong>
-  <small>Highlights of MongoDB 2.4 include: Hash-based Sharding Capped Arrays Text Search (Beta) Geospatial Enhancements Faster Counts Working Set Analyzer V8 JavaScript engine Security</small></li>
-<li><strong><a href="http://basho.com/riak-cs-is-now-open-source/">Riak CS is Now Open Source | Basho</a></strong>
-  <small>Riak CS features: Highly available, fault-tolerant storage Large object support S3-compatible API and authentication Multi-tenancy and per-user reporting Simple operational model for adding capacity Robust stats for monitoring and metrics</small></li>
-</ul>
-
-
-<h2>Git</h2>
-
-<ul>
-<li><strong><a href="https://coderwall.com/p/hh-4ea">Ben Simpson : git rebase --autosquash</a></strong>
-  <small>How to autosquash commits</small></li>
-</ul>
-
-
-<h2>Tools</h2>
-
-<ul>
-<li><strong><a href="https://github.com/airbnb/chronos">airbnb/chronos · GitHub</a></strong>
-  <small>Fault tolerant job scheduler that handles dependencies and iso8601 based schedules.</small></li>
-</ul>
-
-
-<h2>Reading</h2>
-
-<ul>
-<li><strong><a href="http://limi.net/checkboxes-that-kill">Checkboxes that kill your product</a></strong>
-  <small>interesting options can ruin your website</small></li>
-</ul>
-
-
-<h2>Fun</h2>
-
-<ul>
-<li><strong><a href="http://www.firstpersontetris.com/">First-Person Tetris</a></strong>
-  <small>Nice!</small></li>
-<li><strong><a href="http://chrome.com/maze/">Chrome World Wide Maze</a></strong>
-  <small>Any website can be a maze...</small></li>
 </ul>
 
 
