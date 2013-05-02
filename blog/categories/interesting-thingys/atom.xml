@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Interesting-Thingys | yield the dog]]></title>
   <link href="http://yieldthedog.github.com/blog/categories/interesting-thingys/atom.xml" rel="self"/>
   <link href="http://yieldthedog.github.com/"/>
-  <updated>2013-04-25T22:54:16+02:00</updated>
+  <updated>2013-05-02T22:41:18+02:00</updated>
   <id>http://yieldthedog.github.com/</id>
   <author>
     <name><![CDATA[yield the dog]]></name>
@@ -12,6 +12,138 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Interesting Thingys 53]]></title>
+    <link href="http://yieldthedog.github.com/blog/2013/05/03/interesting-thingys-53/"/>
+    <updated>2013-05-03T08:17:00+02:00</updated>
+    <id>http://yieldthedog.github.com/blog/2013/05/03/interesting-thingys-53</id>
+    <content type="html"><![CDATA[<p>Nginx 1.4 with WebSocket and SPDY support and LightTable 0.4 with lots of cool stuff are out. Just two of the great thingys worth checking this week…</p>
+
+<!-- More -->
+
+
+<h2>JavaScript</h2>
+
+<ul>
+<li><strong><a href="https://github.com/qiao/PathFinding.js">qiao/PathFinding.js · GitHub</a></strong>
+  <small>A comprehensive path-finding library for grid based games</small></li>
+<li><strong><a href="http://jkbr.github.io/rrule/">rrule.js demo</a></strong>
+  <small>This is a demo and test app for rrule.js, a JavaScript library for working with recurrence rules for calendar dates.</small></li>
+<li><strong><a href="http://jt.io/2013/git-pre-commit-js-lint-script/">Sgt Donowitz : Javascript lint pre-commit script- John Tregoning</a></strong>
+  <small>A precommit hook that runs jshint</small></li>
+</ul>
+
+
+<h2>CSS</h2>
+
+<ul>
+<li><strong><a href="http://stackoverflow.com/questions/13132864/creating-a-radial-menu-in-css/13137862#13137862">css3 - Creating a Radial Menu in CSS - Stack Overflow</a></strong>
+  <small>Answer with demo</small></li>
+</ul>
+
+
+<h2>HTML5</h2>
+
+<ul>
+<li><strong><a href="http://html5hacks.com/blog/2013/04/21/push-notifications-to-the-browser-with-server-sent-events/">Push Notifications to the Browser with Server Sent Events - HTML5 Hacks</a></strong>
+  <small>websockets' little brother</small></li>
+</ul>
+
+
+<h2>Node.js</h2>
+
+<ul>
+<li><strong><a href="http://dailyjs.com/2013/04/19/leveldb-and-node-1/">DailyJS: LevelDB and Node: What is LevelDB Anyway?</a></strong>
+  <small>This is the first article in a three-part series on LevelDB and how it can be used in Node.</small></li>
+<li><strong><a href="https://github.com/mcollina/node-levelgraph">mcollina/node-levelgraph · GitHub</a></strong>
+  <small>A graph database built on top of LevelUp</small></li>
+<li><strong><a href="http://blog.nodefly.com/post/48961128824/node-js-application-monitoring-with-the-nodefly">Node.js Application Monitoring with the NodeFly Dashboard, Part Two</a></strong>
+  <small>In Part One of this article, we started our tour of the NodeFly Agent Dashboard graphs with some ideas of how to utilize it effectively. </small></li>
+<li><strong><a href="https://github.com/MatthewMueller/cheerio">MatthewMueller/cheerio · GitHub</a></strong>
+  <small>Fast, flexible, and lean implementation of core jQuery designed specifically for the server.</small></li>
+<li><strong><a href="http://jugglingdb.co/">JugglingDB(3) - cross-database ORM for nodejs and browser</a></strong>
+  <small>JugglingDB is a cross-db ORM for nodejs, providing common interface to access most popular database formats. Currently supported db formats are: mysql, sqlite3, postgres, couchdb, mongodb, redis, neo4j and in-memory-storage.</small></li>
+</ul>
+
+
+<h2>Objective C</h2>
+
+<ul>
+<li><strong><a href="https://github.com/fjcaetano/NSStringMask">fjcaetano/NSStringMask · GitHub</a></strong>
+  <small>The NSStringMask enables you to apply masks or formats to NSStrings using NSRegularExpression to input your format. </small></li>
+</ul>
+
+
+<h2>Programming</h2>
+
+<ul>
+<li><strong><a href="http://arxiv.org/abs/1304.5257">What Makes Code Hard to Understand?</a></strong>
+  <small>What factors impact the comprehensibility of code? Previous research suggests that expectation-congruent programs should take less time to understand and be less prone to errors.</small></li>
+<li><strong><a href="http://en.ricbit.com/2012/06/most-difficult-bug.html">Brain Dump (english): The Most Difficult Bug</a></strong>
+  <small>a fun story</small></li>
+<li><strong><a href="http://www.semanticmerge.com/">Semantic Merge - Plastic SCM</a></strong>
+  <small>What it does? As programmers we always expected merge to be this way: first parse the code, then get the structure and finally merge based on that.</small></li>
+<li><strong><a href="http://en.wikipedia.org/wiki/Chaitin's_constant">Chaitin's constant - Wikipedia, the free encyclopedia</a></strong>
+  <small>n the computer science subfield of algorithmic information theory, a Chaitin constant (Chaitin omega number)[2] or halting probability is a real number that informally represents the probability that a randomly constructed program will halt</small></li>
+<li><strong><a href="http://qiao.github.io/PathFinding.js/visual/">PathFinding.js</a></strong>
+  <small>visual demo of pathfinding algorithms</small></li>
+</ul>
+
+
+<h2>Databases</h2>
+
+<ul>
+<li><strong><a href="https://github.com/cupcake/setdb">cupcake/setdb · GitHub</a></strong>
+  <small>SetDB is an implementation of the Redis protocol that persists to LevelDB on disk instead of memory. This allows the dataset size to grow beyond the bounds of memory.</small></li>
+</ul>
+
+
+<h2>Git</h2>
+
+<ul>
+<li><strong><a href="http://geekblog.oneandoneis2.org/index.php/2013/04/30/please-stay-away-from-rebase">Please, stay away from rebase</a></strong>
+  <small>On why it's wrong in git to always use git pull --rebase </small></li>
+</ul>
+
+
+<h2>Editors</h2>
+
+<ul>
+<li><strong><a href="http://www.chris-granger.com/2013/04/28/light-table-040/">Chris Granger - Light Table 0.4</a></strong>
+  <small>The next version with some cool features</small></li>
+</ul>
+
+
+<h2>Tools</h2>
+
+<ul>
+<li><strong><a href="http://nginx.org/en/CHANGES-1.4">Nginx 1.4 is out</a></strong>
+  <small>WebSockets and SPDY support</small></li>
+</ul>
+
+
+<h2>Security</h2>
+
+<ul>
+<li><strong><a href="http://blog.liftsecurity.io/post/42882005324/vulnerability-reports-via-pull-request-a-recent">^Lift Security blog, Vulnerability Reports via Pull Request</a></strong>
+  <small>A recent example with npm</small></li>
+</ul>
+
+
+<h2>Watching</h2>
+
+<ul>
+<li><strong><a href="http://aanandprasad.com/talks/frippery/">FRiPpery - Aanand Prasad</a></strong>
+  <small>functional reactive programming</small></li>
+</ul>
+
+
+<h2>Your link could be here</h2>
+
+<p>If we missed something special or you just want to promote a site, give us a nudge @ <a href='&#109;&#97;&#105;&#108;t&#111;&#58;%7&#57;&#105;eld&#116;%68%65do%67&#64;gmail&#37;2&#69;c&#37;6&#70;m'>y&#105;eldt&#104;&#101;dog&#64;&#103;mail&#46;&#99;&#111;m</a></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Interesting Thingys 52]]></title>
@@ -644,148 +776,6 @@
   <small>Turn a Kindle Paperwhite into a wireless Raspberry Pi Terminal</small></li>
 <li><strong><a href="http://www.raspbmc.com/2013/04/crack-for-mpeg2-vc1-dts-hardware-decoding/">Raspbmc: Crack for MPEG2, VC1, DTS hardware decoding!</a></strong>
   <small>DTS, VC1 and MPEG2 codecs are available for free now. All future installs of Raspbmc will automatically activate all codecs capable in firmware without any additional configuration.</small></li>
-</ul>
-
-
-<h2>Your link could be here</h2>
-
-<p>If we missed something special or you just want to promote a site, give us a nudge @ <a href='&#109;&#97;&#105;&#108;t&#111;&#58;%7&#57;&#105;eld&#116;%68%65do%67&#64;gmail&#37;2&#69;c&#37;6&#70;m'>y&#105;eldt&#104;&#101;dog&#64;&#103;mail&#46;&#99;&#111;m</a></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Interesting Thingys 48]]></title>
-    <link href="http://yieldthedog.github.com/blog/2013/03/28/interesting-thingys-48/"/>
-    <updated>2013-03-28T21:01:00+01:00</updated>
-    <id>http://yieldthedog.github.com/blog/2013/03/28/interesting-thingys-48</id>
-    <content type="html"><![CDATA[<p>Lot's of frontend thingys this week with one of my favorite demos the 'tearable cloth'.</p>
-
-<!-- More -->
-
-
-<h2>JavaScript</h2>
-
-<ul>
-<li><strong><a href="https://github.com/adamschwartz/chrome-inspector-detector">adamschwartz/chrome-inspector-detector · GitHub</a></strong>
-  <small>A simple utility for detecting whether or not the Chrome Inspector is open or docked.</small></li>
-<li><strong><a href="http://twistedoakstudios.com/blog/Post3138_mouse-path-smoothing-for-jack-lumber">Mouse Path Smoothing for Jack Lumber</a></strong>
-  <small>Twisted Oak Studios | Unity3D Consulting | Technical Magic</small></li>
-<li><strong><a href="https://github.com/bramp/js-sequence-diagrams">bramp/js-sequence-diagrams · GitHub</a></strong>
-  <small>Generates UML sequence diagrams from simple text</small></li>
-<li><strong><a href="http://alexsexton.com/blog/2013/03/deploying-javascript-applications/">Deploying JavaScript Applications - Alex Sexton</a></strong>
-  <small>Nothing new, but all in one place</small></li>
-<li><strong><a href="http://codepen.io/stuffit/pen/KrAwx">Tear-able Cloth - CodePen</a></strong>
-  <small>You can even tear it appart</small></li>
-<li><strong><a href="https://github.com/akrennmair/speech-to-server">akrennmair/speech-to-server · GitHub</a></strong>
-  <small>demo application for libmp3lame.js</small></li>
-<li><strong><a href="https://github.com/wagerfield/flat-surface-shader">wagerfield/flat-surface-shader · GitHub</a></strong>
-  <small>Simple, fast, Flat Surface Shader composed of Triangles assembled from Vertices lit by Lights.</small></li>
-</ul>
-
-
-<h2>CSS</h2>
-
-<ul>
-<li><strong><a href="http://updates.html5rocks.com/2013/03/Introduction-to-Custom-Filters-aka-CSS-Shaders">Introduction to Custom Filters (aka CSS Shaders) - HTML5Rocks Updates</a></strong>
-  <small>What you can do to your DOM with CSS...</small></li>
-<li><strong><a href="http://simurai.com/post/37075268994/steps-animation">Sprite sheet animation with steps(). There is an... | simurai</a></strong>
-  <small>step by step animation with css keyframes</small></li>
-<li><strong><a href="https://github.com/websymphony/almost-flat-ui">websymphony/almost-flat-ui · GitHub</a></strong>
-  <small>Almost Flat UI is licensed under a MIT License. It uses Foundation Framework and is heavily inspired from Flat UI Free by designmodo.</small></li>
-<li><strong><a href="http://www.adobe.com/devnet/html5/articles/working-with-flexbox-the-new-spec.html">Working with flexbox | Adobe Developer Connection</a></strong>
-  <small>Flexible layouts. Equal height columns. Presentation independence from your HTML source order. These things haven't been so easy to achieve with CSS—until now. The flexible box layout, the new flexbox specification, makes creating any of these layouts easy, and much more.</small></li>
-<li><strong><a href="http://codepen.io/patrickkunka/pen/axEgL">Pure CSS Peeling Sticky - CodePen</a></strong>
-  <small>demo</small></li>
-<li><strong><a href="http://blogs.msdn.com/b/davrous/archive/2013/02/25/coding4fun-the-star-wars-intro-in-pure-css3-thanks-to-3dt-amp-animations.aspx">Coding4fun: the Star Wars intro in pure CSS3 thanks to 3D transform</a></strong>
-  <small>Star wars intro without a line of JavaScript</small></li>
-</ul>
-
-
-<h2>Web Development</h2>
-
-<ul>
-<li><strong><a href="http://davidwalsh.name/common-usability-mistakes">5 Common Usability Mistakes and Solutions For Avoiding Them</a></strong>
-  <small>David Walsh about five horrible usability mistakes.</small></li>
-</ul>
-
-
-<h2>Ruby</h2>
-
-<ul>
-<li><strong><a href="http://www.codinghorror.com/blog/2013/03/why-ruby.html">Coding Horror: Why Ruby?</a></strong>
-  <small>Stack Overflow co-founder Jeff Atwood shares his thoughts on why he switched to Ruby and Rails for building his latest 'Discourse' forum software. One of the reasons is that 'Ruby isn't cool any more.'</small></li>
-</ul>
-
-
-<h2>Node.js</h2>
-
-<ul>
-<li><strong><a href="https://github.com/juliangruber/level-store">juliangruber/level-store · GitHub</a></strong>
-  <small>A streaming storage engine based on LevelDB</small></li>
-<li><strong><a href="https://github.com/rvagg/node-levelup">rvagg/node-levelup · GitHub</a></strong>
-  <small>LevelDB - Node.js style</small></li>
-<li><strong><a href="http://substack.net/how_I_write_modules">substack: how i write modules</a></strong>
-  <small>how the streams master does his modules</small></li>
-<li><strong><a href="https://github.com/maxogden/art-of-node#art-of-node">maxogden/art-of-node · GitHub</a></strong>
-  <small>a short introduction to node.js</small></li>
-</ul>
-
-
-<h2>Browsers</h2>
-
-<ul>
-<li><strong><a href="http://fremycompany.com/BG/2013/Internet-Explorer-11-rsquo-s-leaked-build-395/">Internet Explorer 11’s leaked build (new features)</a></strong>
-  <small>what to expect from IE11</small></li>
-</ul>
-
-
-<h2>Programming</h2>
-
-<ul>
-<li><strong><a href="http://substack.net/many_things">substack: many things</a></strong>
-  <small>Substack on small building blocks vs framworks</small></li>
-</ul>
-
-
-<h2>Databases</h2>
-
-<ul>
-<li><strong><a href="http://www.robomongo.org/">Robomongo — shell-centric MongoDB management tool</a></strong>
-  <small>Shell-centric MongoDB management tool</small></li>
-<li><strong><a href="https://www.braintreepayments.com/braintrust/scaling-postgresql-at-braintree-four-years-of-evolution">Scaling PostgreSQL at Braintree: Four Years of Evolution</a></strong>
-  <small>They highlight here their four year journey with Postgres which includes sharding their data and now running an automated failover setup.</small></li>
-</ul>
-
-
-<h2>Git</h2>
-
-<ul>
-<li><strong><a href="http://blog.gitlab.org/gitlab-5-dot-0-has-been-released/">GitLab 5.0 release, standing on its own two feet - GITLAB Blog</a></strong>
-  <small>great news</small></li>
-</ul>
-
-
-<h2>Editors</h2>
-
-<ul>
-<li><strong><a href="https://github.com/tpope/vim-tbone">tpope/vim-tbone · GitHub</a></strong>
-  <small>Basic tmux support for Vim.</small></li>
-</ul>
-
-
-<h2>Watching</h2>
-
-<ul>
-<li><strong><a href="https://www.youtube.com/watch?v=U_LNo_cSc70">Analyzing Millions of GitHub Commits</a></strong>
-  <small>What Makes Developers Happy, Angry, and Everything in Between?</small></li>
-</ul>
-
-
-<h2>Listening</h2>
-
-<ul>
-<li><strong><a href="http://www.hanselminutes.com/363/html5-javascript-chrome-and-the-web-platform-with-paul-irish">Hanselminutes Technology Podcast</a></strong>
-  <small>Scott sits down with Chrome Developer Advocate Paul Irish to talk HTML5, JavaScript, Chrome and the Web</small></li>
 </ul>
 
 
