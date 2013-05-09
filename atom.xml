@@ -4,7 +4,7 @@
   <title><![CDATA[yield the dog]]></title>
   <link href="http://yieldthedog.github.com/atom.xml" rel="self"/>
   <link href="http://yieldthedog.github.com/"/>
-  <updated>2013-05-02T22:41:18+02:00</updated>
+  <updated>2013-05-09T21:58:35+02:00</updated>
   <id>http://yieldthedog.github.com/</id>
   <author>
     <name><![CDATA[yield the dog]]></name>
@@ -12,6 +12,142 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Interesting Thingys 54]]></title>
+    <link href="http://yieldthedog.github.com/blog/2013/05/10/interesting-thingys-54/"/>
+    <updated>2013-05-10T22:01:00+02:00</updated>
+    <id>http://yieldthedog.github.com/blog/2013/05/10/interesting-thingys-54</id>
+    <content type="html"><![CDATA[<p>This week Mozilla showed that they are still fighting the performance race, by porting the Unreal engine to JavaScript using asm.js.</p>
+
+<!-- More -->
+
+
+<h2>JavaScript</h2>
+
+<ul>
+<li><strong><a href="http://theintern.io/">Intern: A next-generation JavaScript testing stack</a></strong>
+  <small>Run tests using the browser or node.js and seamlessly integrate with SauceLabs or Selenium. Write tests using object, TDD, or BDD styles and get full code coverage reporting with Istanbul. Continuous integration? Intern has you covered with Travis CI support out-of-the-box.</small></li>
+<li><strong><a href="http://marijnhaverbeke.nl/blog/tern.html">Tern</a></strong>
+  <small>How tern works</small></li>
+<li><strong><a href="http://gamua.com/blog/2013/05/a-bird-for-the-modern-web/">Starling.js</a></strong>
+  <small>JS game development</small></li>
+<li><strong><a href="http://jonobr1.github.io/two.js/">Two.js</a></strong>
+  <small>Two.js is a two-dimensional drawing api geared towards modern web browsers. It is renderer agnostic enabling the same api to draw in multiple contexts: svg, canvas, and webgl.</small></li>
+<li><strong><a href="http://js1k.com/2013-spring/">js1k.com - A jumpy js competition</a></strong>
+  <small>Winners are announced</small></li>
+<li><strong><a href="https://github.com/phoboslab/jsmpeg">phoboslab/jsmpeg · GitHub</a></strong>
+  <small>MPEG1 Video Decoder in JavaScript</small></li>
+</ul>
+
+
+<h2>HTML5</h2>
+
+<ul>
+<li><strong><a href="http://news.turbulenz.com/post/49430669886/turbulenz-engine-goes-open-source">Turbulenz Engine Goes Open Source</a></strong>
+  <small>The powerful and formerly commercial &#8216;Turbulenz&#8217; HTML5 game development engine is now open source. </small></li>
+<li><strong><a href="http://www.html5rocks.com/en/tutorials/speed/unnecessary-paints/">Avoiding Unnecessary Paints - HTML5 Rocks</a></strong>
+  <small>Painting the elements for a site or application can get be really expensive, and it can have a negative knock-on effect on our runtime performance.</small></li>
+</ul>
+
+
+<h2>Node.js</h2>
+
+<ul>
+<li><strong><a href="https://github.com/tlrobinson/long-stack-traces">tlrobinson/long-stack-traces · GitHub</a></strong>
+  <small>Long stacktraces for V8 implemented in user-land JavaScript. Supports Chrome/Chromium and Node.js.</small></li>
+<li><strong><a href="https://github.com/Colingo/continuable-hash">Colingo/continuable-hash · GitHub</a></strong>
+  <small>Turn a hash of continuables into a continuable containing a hash of values</small></li>
+<li><strong><a href="https://github.com/alexmic/mongoose-fakery#__sid=0">alexmic/mongoose-fakery · GitHub</a></strong>
+  <small>mongoose-fakery provides an easy fixture replacement method and random data generators.</small></li>
+</ul>
+
+
+<h2>Objective C</h2>
+
+<ul>
+<li><strong><a href="https://github.com/mysterioustrousers/MTAnimation">mysterioustrousers/MTAnimation · GitHub</a></strong>
+  <small>The animation library everyone&#8217;s been waiting for</small></li>
+</ul>
+
+
+<h2>Go</h2>
+
+<ul>
+<li><strong><a href="https://github.com/mozilla-services/heka">mozilla-services/heka · GitHub</a></strong>
+  <small>Data Acquisition and Processing Made Easy</small></li>
+</ul>
+
+
+<h2>Programming</h2>
+
+<ul>
+<li><strong><a href="http://bigocheatsheet.com/">Big-O Algorithm Complexity Cheat Sheet</a></strong>
+  <small> This webpage covers the space and time Big-O complexities of common algorithms used in Computer Science.</small></li>
+</ul>
+
+
+<h2>Git</h2>
+
+<ul>
+<li><strong><a href="http://blogs.atlassian.com/2013/05/git-tig/">git? tig! | Atlassian Blogs</a></strong>
+  <small>Enter tig. tig is a text-mode, ncurses-based UI for git. In short, it is the mutt to your Outlook, the Vim to your Emacs, the w3m to your Firefox.</small></li>
+</ul>
+
+
+<h2>Editors</h2>
+
+<ul>
+<li><strong><a href="https://github.com/AshleyF/VimSpeak">AshleyF/VimSpeak · GitHub</a></strong>
+  <small>VimSpeak lets you control Vim with your voice using speech recognition.</small></li>
+</ul>
+
+
+<h2>Tools</h2>
+
+<ul>
+<li><strong><a href="https://github.com/joeyh/etckeeper">joeyh/etckeeper · GitHub</a></strong>
+  <small>store /etc in git </small></li>
+</ul>
+
+
+<h2>Watching</h2>
+
+<ul>
+<li><strong><a href="http://www.youtube.com/watch?v=3TnVl97ZZL8">Postgres Demystified by Craig Kerstiens - YouTube</a></strong>
+  <small>@MountainWest RubyConf 2013</small></li>
+</ul>
+
+
+<h2>Miscellaneous</h2>
+
+<ul>
+<li><strong><a href="https://github.com/ChiperSoft/InterviewThis">ChiperSoft/InterviewThis · GitHub</a></strong>
+  <small>An open source list of developer questions to ask prospective employers</small></li>
+</ul>
+
+
+<h2>Games</h2>
+
+<ul>
+<li><strong><a href="http://www.unrealengine.com/html5/">Epic Citadel</a></strong>
+  <small>Unreal 3d Engine in FF Nightlies</small></li>
+</ul>
+
+
+<h2>Algorithm</h2>
+
+<ul>
+<li><strong><a href="http://weblog.jamisbuck.org/2011/2/7/maze-generation-algorithm-recap">the { buckblogs :here }: Maze Generation: Algorithm Recap</a></strong>
+  <small>Maze Generation</small></li>
+</ul>
+
+
+<h2>Your link could be here</h2>
+
+<p>If we missed something special or you just want to promote a site, give us a nudge @ <a href='&#109;&#97;&#105;&#108;t&#111;&#58;%7&#57;&#105;eld&#116;%68%65do%67&#64;gmail&#37;2&#69;c&#37;6&#70;m'>y&#105;eldt&#104;&#101;dog&#64;&#103;mail&#46;&#99;&#111;m</a></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Interesting Thingys 53]]></title>
@@ -2910,172 +3046,6 @@ published: true</p>
 <ul>
 <li><strong><a href="http://blog.webplatform.org/2012/10/building-web-platforms-infrastructure/">Building Web Platform’s Infrastructure</a></strong>
   <small>Some technical Details about the new webplattform.org</small></li>
-</ul>
-
-
-<h2>Your link could be here</h2>
-
-<p>If we missed something special or you just want to promote a site, give us a nudge @ <a href='&#109;&#97;&#105;&#108;t&#111;&#58;%7&#57;&#105;eld&#116;%68%65do%67&#64;gmail&#37;2&#69;c&#37;6&#70;m'>y&#105;eldt&#104;&#101;dog&#64;&#103;mail&#46;&#99;&#111;m</a></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Interesting Thingys 35]]></title>
-    <link href="http://yieldthedog.github.com/blog/2012/10/05/interesting-thingys-35/"/>
-    <updated>2012-10-05T08:17:00+02:00</updated>
-    <id>http://yieldthedog.github.com/blog/2012/10/05/interesting-thingys-35</id>
-    <content type="html"><![CDATA[<p>Another round of Interesting Thingys. This week&#8217;s new releases: rvn, underscorejs, inuit.css and Microsoft&#8217;s TypeScript.</p>
-
-<!-- More -->
-
-
-<h2>JavaScript</h2>
-
-<ul>
-<li><strong><a href="http://benalman.com/news/2012/09/partial-application-in-javascript/">Ben Alman » Partial Application in JavaScript</a></strong>
-  <small>Introduction to some functional programming concepts in JavaScirpt</small></li>
-<li><strong><a href="http://underscorejs.org/#changelog">Underscore.js</a></strong>
-  <small>Version 1.4.0 with tons of new features</small></li>
-</ul>
-
-
-<h2>CSS</h2>
-
-<ul>
-<li><strong><a href="https://github.com/necolas/suit-utils">necolas/suit-utils · GitHub</a></strong>
-  <small>Utility classes for common, reusable, low-level CSS traits</small></li>
-<li><strong><a href="http://csscomb.com/">The Greatest tool for sorting CSS properties in specific order</a></strong>
-  <small>sort css properties with support for various editors</small></li>
-<li><strong><a href="https://github.com/csswizardry/inuit.css">csswizardry/inuit.css</a></strong>
-  <small>Version 4.0 is out, now based on Sass</small></li>
-<li><strong><a href="http://alteredqualia.com/css-shaders/article/">Getting started with CSS custom filters (CSS shaders)</a></strong>
-  <small>CSS custom filters (formerly known as CSS shaders) are a new browser feature for applying user-created visual effects to elements of HTML document.</small></li>
-</ul>
-
-
-<h2>HTML (5)</h2>
-
-<ul>
-<li><strong><a href="http://www.hongkiat.com/blog/html5-loginpage/">HTML5 Tutorial: Login Page with HTML5 Forms</a></strong>
-  <small>shows which attributes can help to provide a solid login from</small></li>
-<li><strong><a href="http://caniuse.com/feed/136">CanIUse: Data contributions via GitHub</a></strong>
-  <small>Just make a puill request</small></li>
-</ul>
-
-
-<h2>Web Development</h2>
-
-<ul>
-<li><strong><a href="http://blogs.msdn.com/b/somasegar/archive/2012/10/01/typescript-javascript-development-at-application-scale.aspx">TypeScript: JavaScript Development at Application Scale - Somasegar&#8217;s blog - Site Home - MSDN Blogs</a></strong>
-  <small>MS introduces new language for the web</small></li>
-<li><strong><a href="http://pagespeed-velocity2011.appspot.com/#1">Web Site Acceleration with Page Speed Technologies</a></strong>
-  <small>combining scripts to one file does not seem to be the fastest solution</small></li>
-</ul>
-
-
-<h2>Mobile Development</h2>
-
-<ul>
-<li><strong><a href="https://github.com/mattt/shenzhen">mattt/shenzhen</a></strong>
-  <small>CLI for Building </small></li>
-<li><strong><a href="https://plus.google.com/u/0/115133653231679625609/posts/Px3bQdQ2HDu">Addy Osmani - Google - The Current State Of Remote Debugging For Mobile Remote…</a></strong>
-  <small>Addy lists some tools that help debugging mobile web apps</small></li>
-<li><strong><a href="http://cantina.co/2012/03/06/ios-5-native-scrolling-grins-and-gothcas/">iOS 5 Native Scrolling–Grins</a></strong>
-  <small>on -webkit-overflow-scrolling: touch and it&#8217;s friends</small></li>
-<li><strong><a href="https://github.com/ole/RemoteViewControllers">ole/RemoteViewControllers</a></strong>
-  <small>Introspection of the private and undocumented remote view controllers feature in iOS 6</small></li>
-</ul>
-
-
-<h2>Ruby</h2>
-
-<ul>
-<li><strong><a href="https://github.com/steveklabnik/turbolinks_test">steveklabnik/turbolinks_test</a></strong>
-  <small>Testing the turbolinks implementation</small></li>
-<li><strong><a href="http://www.engineyard.com/blog/2012/rvm-1-16/">RVM 1.16 - Engine Yard Blog | Engine Yard Blog</a></strong>
-  <small>The most exciting new addition is binary ruby installs. Precompiled on RVM&#8217;s servers</small></li>
-<li><strong><a href="http://blog.carbonfive.com/2012/10/02/enumerator-rubys-versatile-iterator/">Enumerator: Ruby’s Versatile Iterator | The Carbon Emitter</a></strong>
-  <small>A walkthrough of Ruby&#8217;s Enumerator</small></li>
-</ul>
-
-
-<h2>Node.js</h2>
-
-<ul>
-<li><strong><a href="https://github.com/dshaw/replify">dshaw/replify</a></strong>
-  <small>Easily add a REPL to your Node.js app</small></li>
-<li><strong><a href="https://github.com/cthackers/adm-zip">cthackers/adm-zip</a></strong>
-  <small>A Javascript implementation of zip for nodejs. Allows user to create or extract zip files both in memory or to/from disk </small></li>
-<li><strong><a href="https://github.com/substack/comandante">substack/comandante</a></strong>
-  <small>Spawn commands returning a duplex stream. Emit stderr when the command exits with a non-zero code. </small></li>
-<li><strong><a href="https://github.com/isaacs/readable-stream">isaacs/readable-stream</a></strong>
-  <small>Take a sneak peek into Node.js&#8217;s readable streams</small></li>
-</ul>
-
-
-<h2>Programming</h2>
-
-<ul>
-<li><strong><a href="http://programmers.stackexchange.com/questions/103659/how-can-one-manage-thousands-of-if-then-else-rules">design - How can one manage thousands of IF&#8230;THEN&#8230;ELSE rules? - Programmers</a></strong>
-  <small>With some interesting answers</small></li>
-</ul>
-
-
-<h2>Tools</h2>
-
-<ul>
-<li><strong><a href="http://ascii.io/">Share Your Terminal With No Fuss - ascii.io</a></strong>
-  <small>record your terminal and share it on ascii.io</small></li>
-</ul>
-
-
-<h2>Watching</h2>
-
-<ul>
-<li><strong><a href="http://vimeo.com/49484333">Readable code - and the long lost secret of how to achieve it on Vimeo</a></strong>
-  <small>Self explaining method names, fluent interfaces, DSLs, helpful frameworks&#8230; We are always looking for ways to make our code more readable. But in our quest, we seem to have forgotten something. The most effective way to make any code more readable. I wish to demonstrate this long lost secret.</small></li>
-<li><strong><a href="http://www.youtube.com/user/lxjs2012">lxjs2012</a></strong>
-  <small>all videos from Lisbon Javascript 2012</small></li>
-<li><strong><a href="http://www.youtube.com/watch?v=R-BX4N8egEc">Harry Roberts &#8211; Big CSS - YouTube</a></strong>
-  <small>Big CSS talk given at Canvas Conf</small></li>
-<li><strong><a href="http://channel9.msdn.com/posts/Anders-Hejlsberg-Introducing-TypeScript">Anders Hejlsberg: Introducing TypeScript | Channel 9</a></strong>
-  <small>Nice talk and overview of TypeScript by Anders Hejlsberg</small></li>
-<li><strong><a href="http://vimeo.com/47682405">RTCWeb Explained on Vimeo</a></strong>
-  <small>The video explains a bit about what is going on at IETF and W3C around standardization of interactive voice, video, and data in web browsers.</small></li>
-</ul>
-
-
-<h2>Listening</h2>
-
-<ul>
-<li><strong><a href="http://thisdeveloperslife.com/post/2-0-9-drama">This Developer&#8217;s Life - 2.0.9 Drama</a></strong>
-  <small>Where does drama come from? How do we react to it? How much drama can be created by simple semicolon? This week we explore The Great Semicolon Affair. </small></li>
-</ul>
-
-
-<h2>Reading</h2>
-
-<ul>
-<li><strong><a href="http://rainypixels.com/words/the-story-of-the-new-microsoft-com/">The Story of the New Microsoft.com</a></strong>
-  <small>Some words about the new and responsive Microsoft.com Homepage</small></li>
-<li><strong><a href="http://lifelibertytech.com/2012/10/02/the-lost-steve-jobs-speech-from-1983-foreshadowing-wireless-networking-the-ipad-and-the-app-store/">The “Lost” Steve Jobs Speech from 1983</a></strong>
-  <small>Great speech from Steve Jobs foreshadowing Wireless Networking, the iPad, and the App Store.</small></li>
-</ul>
-
-
-<h2>Miscellaneous</h2>
-
-<ul>
-<li><strong><a href="https://github.com/blog/1264-introducing-the-command-bar">Introducing the Command Bar</a></strong>
-  <small>A new way to interact with Github</small></li>
-</ul>
-
-
-<h2>Fun</h2>
-
-<ul>
-<li><strong><a href="http://stackoverflow.com/questions/12675147/xkcd-style-graphs-in-r?newsletter=1">ggplot2 - xkcd style graphs in R - Stack Overflow</a></strong>
-  <small>folk have figured out how to make xkcd style graphs in mathematica and LaTeX. Can we do it in R? Ggplot2-ers? A geom_xkcd and/or theme_xkcd?</small></li>
 </ul>
 
 
