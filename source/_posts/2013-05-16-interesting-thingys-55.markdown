@@ -60,7 +60,7 @@ Especially for @notyce I added two Ruby links this week…
 ## Browsers
 
 - **[Firefox Notes - Desktop](http://www.mozilla.org/en-US/firefox/21.0/releasenotes/)**
-    <small>Implemented scoped stylesheets, Added support for <main> element</small>
+    <small>Implemented scoped stylesheets, Added support for &tl;main&gt; element</small>
  
 ## Programming
 
