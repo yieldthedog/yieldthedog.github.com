@@ -4,7 +4,7 @@
   <title><![CDATA[yield the dog]]></title>
   <link href="http://yieldthedog.github.com/atom.xml" rel="self"/>
   <link href="http://yieldthedog.github.com/"/>
-  <updated>2013-05-30T23:21:13+02:00</updated>
+  <updated>2013-06-06T22:07:29+02:00</updated>
   <id>http://yieldthedog.github.com/</id>
   <author>
     <name><![CDATA[yield the dog]]></name>
@@ -12,6 +12,122 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Interesting Thingys 58]]></title>
+    <link href="http://yieldthedog.github.com/blog/2013/06/06/interesting-thingys-58/"/>
+    <updated>2013-06-06T22:01:00+02:00</updated>
+    <id>http://yieldthedog.github.com/blog/2013/06/06/interesting-thingys-58</id>
+    <content type="html"><![CDATA[<p>This week’s links feature again a wide variety of good articles and fabulous tools. Go check them out!</p>
+
+<!-- More -->
+
+
+<h2>JavaScript</h2>
+
+<ul>
+<li><strong><a href="http://www.html5rocks.com/en/tutorials/speed/script-loading/">Deep dive into the murky waters of script loading - HTML5 Rocks</a></strong>
+  <small>find out the culprits </small></li>
+</ul>
+
+
+<h2>CSS</h2>
+
+<ul>
+<li><strong><a href="https://github.com/codrops/IconHoverEffects">codrops/IconHoverEffects · GitHub</a></strong>
+  <small>A set of simple round icon hover effects with CSS transitions and animations for your inspiration.</small></li>
+<li><strong><a href="http://www.barrelny.com/blog/text-align-justify-and-rwd/">BARREL | Text-align: Justify and RWD</a></strong>
+  <small>Using text-align justify differently</small></li>
+<li><strong><a href="http://engineering.appfolio.com/2012/11/16/css-architecture/">CSS Architecture</a></strong>
+  <small>how to plan and maintain big css projects</small></li>
+</ul>
+
+
+<h2>HTML5</h2>
+
+<ul>
+<li><strong><a href="http://www.html5rocks.com/en/tutorials/casestudies/roll-it/">Creating Roll It - HTML5 Rocks</a></strong>
+  <small>Roll It is a Chrome Experiment that reimagines a classic boardwalk game using only the browser on your phone and computer.</small></li>
+<li><strong><a href="http://daker.me/2013/06/5-html5-javascript-apis-to-keep-an-eye-on.html">5 HTML5 Javascript APIs to keep an eye on — Adnane Belmadiaf&#8217;s Blog</a></strong>
+  <small>Battery status, gamepad api, &#8230;</small></li>
+<li><strong><a href="http://www.html5rocks.com/en/tutorials/casestudies/natgeo/">Next Generation Web Layout: National Geographic Forest Giant - HTML5 Rocks</a></strong>
+  <small>Take a look into the future</small></li>
+</ul>
+
+
+<h2>Mobile Webdevelopment</h2>
+
+<ul>
+<li><strong><a href="https://github.com/google/ios-webkit-debug-proxy">google/ios-webkit-debug-proxy · GitHub</a></strong>
+  <small>A DevTools proxy (WebKit Remote Debugging Protocol) for iOS devices (Safari Remote Web Inspector).</small></li>
+</ul>
+
+
+<h2>Ruby</h2>
+
+<ul>
+<li><strong><a href="https://github.com/ruby/www.ruby-lang.org">ruby/www.ruby-lang.org · GitHub</a></strong>
+  <small>Source of the www.ruby-lang.org site </small></li>
+</ul>
+
+
+<h2>Node.js</h2>
+
+<ul>
+<li><strong><a href="https://github.com/substack/watchify">substack/watchify · GitHub</a></strong>
+  <small>watch mode for browserify builds</small></li>
+<li><strong><a href="http://www.cs.ox.ac.uk/blogs/sss/2013/04/02/why-isnt-there-any-nodejs-malware/">Where is all the nodejs malware? | Systems Security</a></strong>
+  <small>Is it coming?</small></li>
+<li><strong><a href="https://github.com/dominictarr/tacodb">dominictarr/tacodb · GitHub</a></strong>
+  <small>tacodb wraps leveldbs in a server such that it would be possible to create a hosted service with it, that can be connected to via http and web sockets.</small></li>
+</ul>
+
+
+<h2>Objective C</h2>
+
+<ul>
+<li><strong><a href="https://github.com/ReactiveCocoa/ReactiveCocoa">ReactiveCocoa/ReactiveCocoa · GitHub</a></strong>
+  <small>A framework for composing and transforming streams of values </small></li>
+</ul>
+
+
+<h2>Programming</h2>
+
+<ul>
+<li><strong><a href="http://blog.8thcolor.com/2013/06/duplication-is-a-rampant-disease/">Duplication is a Rampant Disease | 8th color</a></strong>
+  <small>This post shows some ways to follow DRY</small></li>
+</ul>
+
+
+<h2>Databases</h2>
+
+<ul>
+<li><strong><a href="https://vimeo.com/67131462">NoSQL matters Cologne 2013 Day2 Track2 01 Eric Redmond on Vimeo</a></strong>
+  <small>Distributed Patterns You Should Know</small></li>
+</ul>
+
+
+<h2>Miscellaneous</h2>
+
+<ul>
+<li><strong><a href="http://badge.fury.io/">Version Badge for your RubyGems, PyPI packages, and NPM modules</a></strong>
+  <small>show the version on your readme with a nice badge</small></li>
+</ul>
+
+
+<h2>Raspberry Pi</h2>
+
+<ul>
+<li><strong><a href="http://blog.donaldderek.com/2013/06/build-your-own-google-tv-using-raspberrypi-nodejs-and-socket-io/">Build your own Google TV Using RaspberryPi, NodeJS and Socket.io | Donald&#8217;s Blog</a></strong>
+  <small>nice</small></li>
+</ul>
+
+
+<h2>Your link could be here</h2>
+
+<p>If we missed something special or you just want to promote a site, give us a nudge @ <a href='&#109;&#97;&#105;&#108;t&#111;&#58;%7&#57;&#105;eld&#116;%68%65do%67&#64;gmail&#37;2&#69;c&#37;6&#70;m'>y&#105;eldt&#104;&#101;dog&#64;&#103;mail&#46;&#99;&#111;m</a></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Interesting Thingys 57]]></title>
@@ -2952,140 +3068,6 @@ published: true</p>
 <ul>
 <li><strong><a href="http://coderwall.com/p/aoowpg">Prevent sensitive data</a></strong>
   <small>.. nice git-tip from ben tadiar.</small></li>
-</ul>
-
-
-<h2>Your link could be here</h2>
-
-<p>If we missed something special or you just want to promote a site, give us a nudge @ <a href='&#109;&#97;&#105;&#108;t&#111;&#58;%7&#57;&#105;eld&#116;%68%65do%67&#64;gmail&#37;2&#69;c&#37;6&#70;m'>y&#105;eldt&#104;&#101;dog&#64;&#103;mail&#46;&#99;&#111;m</a></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Interesting Thingys 39]]></title>
-    <link href="http://yieldthedog.github.com/blog/2012/11/02/interesting-thingys-39/"/>
-    <updated>2012-11-02T08:17:00+01:00</updated>
-    <id>http://yieldthedog.github.com/blog/2012/11/02/interesting-thingys-39</id>
-    <content type="html"><![CDATA[<p>This week is home cinema week, lots of new stuff to watch…</p>
-
-<!-- More -->
-
-
-<h2>JavaScript</h2>
-
-<ul>
-<li><strong><a href="http://doctrina.org/Javascript-Function-Invocation-Patterns.html">JavaScript: Function Invocation Patterns</a></strong>
-  <small>Method Invocation, Function Invocation, Constructor Invocation, Apply And Call Invocation</small></li>
-<li><strong><a href="https://github.com/latentflip/violin">latentflip/violin</a></strong>
-  <small>This is a very early stage project looking at instrumenting and visualizing JavaScript execution. </small></li>
-</ul>
-
-
-<h2>CSS</h2>
-
-<ul>
-<li><strong><a href="http://soulwire.github.com/Makisu/">Makisu ~ CSS 3D Dropdown Concept</a></strong>
-  <small>interesting dropdown</small></li>
-<li><strong><a href="http://trac.webkit.org/changeset/132321">CSS Reload - Changeset 132321 – WebKit</a></strong>
-  <small>CSS reload on Sass save</small></li>
-<li><strong><a href="http://tympanus.net/Development/Slicebox/index4.html">Slicebox - 3D Image Slider</a></strong>
-  <small>nice</small></li>
-<li><strong><a href="http://disruptive-innovations.com/zoo/customers/CSSWG/Priorities.html">CSS Priorities 2012-oct-17</a></strong>
-  <small>CSSWG voted on the next priorities</small></li>
-</ul>
-
-
-<h2>HTML5</h2>
-
-<ul>
-<li><strong><a href="http://enotionz.github.com/jscii/">Jscii</a></strong>
-  <small>Ascii art stream directly from your camera</small></li>
-<li><strong><a href="http://demo.agektmr.com/datalist/">datalist experiment</a></strong>
-  <small>By using <datalist>, you can define a list of suggestions you want the user to select from. Users can optionally select from your suggestions as well as typing it by themselves.</small></li>
-</ul>
-
-
-<h2>Web Development</h2>
-
-<ul>
-<li><strong><a href="https://github.com/codylindley/frontend-tools">codylindley/frontend-tools - Landscaping With Frontend Development Tools</a></strong>
-  <small>An opinionated list of tools for frontend (i.e. html, js, css) desktop/laptop (i.e. does not include tablet or phone yet) web development </small></li>
-<li><strong><a href="http://coding.smashingmagazine.com/2012/10/29/powerful-command-line-tools-developers/">Powerful Command Line Tools For Developers | Smashing Coding</a></strong>
-  <small>Tools to make your life easier</small></li>
-</ul>
-
-
-<h2>Node.js</h2>
-
-<ul>
-<li><strong><a href="https://github.com/vesln/r...e">vesln/r&#8230;e</a></strong>
-  <small>Powerful Range implementation. Node.js </small></li>
-<li><strong><a href="https://github.com/Gozala/reducers">Gozala/reducers</a></strong>
-  <small>A library for collection processing</small></li>
-<li><strong><a href="https://github.com/Reactive-Extensions/RxJS">Reactive-Extensions/RxJS</a></strong>
-  <small>The Reactive Extensions for JavaScript</small></li>
-<li><strong><a href="http://blog.nodeknockout.com/post/34710903021/restify">node.js knockout, Restify</a></strong>
-  <small>The count down to Node Knockout goes to the next round. This time with an in depth article on Restify</small></li>
-<li><strong><a href="https://github.com/arunoda/chrome-node">arunoda/chrome-node</a></strong>
-  <small>NodeJS Runtime for Chrome - To Use with Chrome&#8217;s Packaged apps.</small></li>
-</ul>
-
-
-<h2>Programming</h2>
-
-<ul>
-<li><strong><a href="http://www.kyleisom.net/blog/2012/10/17/syntax-off/">:syntax off - EDOOFUS</a></strong>
-  <small>on turning syntax highlighting off by default</small></li>
-<li><strong><a href="http://www.evanmiller.org/why-i-program-in-erlang.html">Why I Program In Erlang</a></strong>
-  <small>An Erlang programmer&#8217;s story</small></li>
-</ul>
-
-
-<h2>Git</h2>
-
-<ul>
-<li><strong><a href="http://git-htmldocs.googlecode.com/git/RelNotes/1.8.0.txt">GIt 1.8.0</a></strong>
-  <small>With lots of new features</small></li>
-</ul>
-
-
-<h2>Watching</h2>
-
-<ul>
-<li><strong><a href="http://www.youtube.com/watch?feature=player_embedded">Pumpktris - YouTube</a></strong>
-  <small>Geeky Halloween Idea, Tetris Pumpkin</small></li>
-<li><strong><a href="https://www.youtube.com/watch?v=Lsg84NtJbmI">So, You Want to be a Front-End Engineer - YouTube</a></strong>
-  <small>David Mosher digs into &#8216;the most volatile programming platform the world has ever known</small></li>
-<li><strong><a href="https://hacks.mozilla.org/2012/10/leave-no-one-behind-with-html5-presentation-at-ffwd-pro-in-zagreb-croatia/">Leave No One Behind with HTML5 – presentation at FFWD.PRO in Zagreb, Croatia ✩ Mozilla Hacks – the Web developer blog</a></strong>
-  <small>This talk will cover a number of the new possibilities of HTML5, but with the perspective of making sure you can reach as many users as possible without just building for the latest web browsers and devices.</small></li>
-<li><strong><a href="http://simurai.com/post/34144004589/flexbox-web-apps">My short talk how CSS Flexbox will help creating&#8230; | simurai</a></strong>
-  <small>how CSS Flexbox will help creating “flexible” Web Apps</small></li>
-<li><strong><a href="http://confreaks.com/videos/1229-aloharuby2012-git-and-github-secrets">Git and GitHub Secrets</a></strong>
-  <small>Zach Holman reveals some Git Secrets at Aloha Conf</small></li>
-</ul>
-
-
-<h2>Miscellaneous</h2>
-
-<ul>
-<li><strong><a href="http://tirania.org/blog/archive/2012/Oct-22.html">Mono 3.0 is out - Miguel de Icaza</a></strong>
-  <small>open source .NET takes a leap forward</small></li>
-<li><strong><a href="http://yuzhikov.com/articles/BlurredImagesRestoration1.htm">Restoration of defocused and blurred images. Yuzhikov.com</a></strong>
-  <small>Intreseting writup on how to unblur images</small></li>
-<li><strong><a href="http://www.kitchensoap.com/2012/10/25/on-being-a-senior-engineer/">On Being A Senior Engineer</a></strong>
-  <small>Etsy&#8217;s SVP of Technical Operations shares a lot of insights about what it is to be a senior engineer.</small></li>
-<li><strong><a href="https://github.com/blog/1303-github-game-off">GitHub Game Off</a></strong>
-  <small>You have the entire month of November to create a web-based game loosely built around one or more of the following themes: forking (or forks) branching (or branches) cloning (or clones) pushing pulling</small></li>
-<li><strong><a href="http://www.igvita.com/2012/10/31/simple-spdy-and-npn-negotiation-with-haproxy/">Simple SPDY and NPN Negotiation with HAProxy - igvita.com</a></strong>
-  <small>How to use SPDY behind HAProxy with Next Protocol Negotiation</small></li>
-</ul>
-
-
-<h2>Fun</h2>
-
-<ul>
-<li><strong><a href="http://sketchpad.io/sketch2.1/?server=test">Sketchpad—Draw online</a></strong>
-  <small>Nice drawing tool</small></li>
 </ul>
 
 

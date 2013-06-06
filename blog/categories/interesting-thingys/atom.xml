@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Interesting-Thingys | yield the dog]]></title>
   <link href="http://yieldthedog.github.com/blog/categories/interesting-thingys/atom.xml" rel="self"/>
   <link href="http://yieldthedog.github.com/"/>
-  <updated>2013-05-30T23:21:13+02:00</updated>
+  <updated>2013-06-06T22:07:29+02:00</updated>
   <id>http://yieldthedog.github.com/</id>
   <author>
     <name><![CDATA[yield the dog]]></name>
@@ -12,6 +12,122 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Interesting Thingys 58]]></title>
+    <link href="http://yieldthedog.github.com/blog/2013/06/06/interesting-thingys-58/"/>
+    <updated>2013-06-06T22:01:00+02:00</updated>
+    <id>http://yieldthedog.github.com/blog/2013/06/06/interesting-thingys-58</id>
+    <content type="html"><![CDATA[<p>This week’s links feature again a wide variety of good articles and fabulous tools. Go check them out!</p>
+
+<!-- More -->
+
+
+<h2>JavaScript</h2>
+
+<ul>
+<li><strong><a href="http://www.html5rocks.com/en/tutorials/speed/script-loading/">Deep dive into the murky waters of script loading - HTML5 Rocks</a></strong>
+  <small>find out the culprits </small></li>
+</ul>
+
+
+<h2>CSS</h2>
+
+<ul>
+<li><strong><a href="https://github.com/codrops/IconHoverEffects">codrops/IconHoverEffects · GitHub</a></strong>
+  <small>A set of simple round icon hover effects with CSS transitions and animations for your inspiration.</small></li>
+<li><strong><a href="http://www.barrelny.com/blog/text-align-justify-and-rwd/">BARREL | Text-align: Justify and RWD</a></strong>
+  <small>Using text-align justify differently</small></li>
+<li><strong><a href="http://engineering.appfolio.com/2012/11/16/css-architecture/">CSS Architecture</a></strong>
+  <small>how to plan and maintain big css projects</small></li>
+</ul>
+
+
+<h2>HTML5</h2>
+
+<ul>
+<li><strong><a href="http://www.html5rocks.com/en/tutorials/casestudies/roll-it/">Creating Roll It - HTML5 Rocks</a></strong>
+  <small>Roll It is a Chrome Experiment that reimagines a classic boardwalk game using only the browser on your phone and computer.</small></li>
+<li><strong><a href="http://daker.me/2013/06/5-html5-javascript-apis-to-keep-an-eye-on.html">5 HTML5 Javascript APIs to keep an eye on — Adnane Belmadiaf's Blog</a></strong>
+  <small>Battery status, gamepad api, ...</small></li>
+<li><strong><a href="http://www.html5rocks.com/en/tutorials/casestudies/natgeo/">Next Generation Web Layout: National Geographic Forest Giant - HTML5 Rocks</a></strong>
+  <small>Take a look into the future</small></li>
+</ul>
+
+
+<h2>Mobile Webdevelopment</h2>
+
+<ul>
+<li><strong><a href="https://github.com/google/ios-webkit-debug-proxy">google/ios-webkit-debug-proxy · GitHub</a></strong>
+  <small>A DevTools proxy (WebKit Remote Debugging Protocol) for iOS devices (Safari Remote Web Inspector).</small></li>
+</ul>
+
+
+<h2>Ruby</h2>
+
+<ul>
+<li><strong><a href="https://github.com/ruby/www.ruby-lang.org">ruby/www.ruby-lang.org · GitHub</a></strong>
+  <small>Source of the www.ruby-lang.org site </small></li>
+</ul>
+
+
+<h2>Node.js</h2>
+
+<ul>
+<li><strong><a href="https://github.com/substack/watchify">substack/watchify · GitHub</a></strong>
+  <small>watch mode for browserify builds</small></li>
+<li><strong><a href="http://www.cs.ox.ac.uk/blogs/sss/2013/04/02/why-isnt-there-any-nodejs-malware/">Where is all the nodejs malware? | Systems Security</a></strong>
+  <small>Is it coming?</small></li>
+<li><strong><a href="https://github.com/dominictarr/tacodb">dominictarr/tacodb · GitHub</a></strong>
+  <small>tacodb wraps leveldbs in a server such that it would be possible to create a hosted service with it, that can be connected to via http and web sockets.</small></li>
+</ul>
+
+
+<h2>Objective C</h2>
+
+<ul>
+<li><strong><a href="https://github.com/ReactiveCocoa/ReactiveCocoa">ReactiveCocoa/ReactiveCocoa · GitHub</a></strong>
+  <small>A framework for composing and transforming streams of values </small></li>
+</ul>
+
+
+<h2>Programming</h2>
+
+<ul>
+<li><strong><a href="http://blog.8thcolor.com/2013/06/duplication-is-a-rampant-disease/">Duplication is a Rampant Disease | 8th color</a></strong>
+  <small>This post shows some ways to follow DRY</small></li>
+</ul>
+
+
+<h2>Databases</h2>
+
+<ul>
+<li><strong><a href="https://vimeo.com/67131462">NoSQL matters Cologne 2013 Day2 Track2 01 Eric Redmond on Vimeo</a></strong>
+  <small>Distributed Patterns You Should Know</small></li>
+</ul>
+
+
+<h2>Miscellaneous</h2>
+
+<ul>
+<li><strong><a href="http://badge.fury.io/">Version Badge for your RubyGems, PyPI packages, and NPM modules</a></strong>
+  <small>show the version on your readme with a nice badge</small></li>
+</ul>
+
+
+<h2>Raspberry Pi</h2>
+
+<ul>
+<li><strong><a href="http://blog.donaldderek.com/2013/06/build-your-own-google-tv-using-raspberrypi-nodejs-and-socket-io/">Build your own Google TV Using RaspberryPi, NodeJS and Socket.io | Donald's Blog</a></strong>
+  <small>nice</small></li>
+</ul>
+
+
+<h2>Your link could be here</h2>
+
+<p>If we missed something special or you just want to promote a site, give us a nudge @ <a href='&#109;&#97;&#105;&#108;t&#111;&#58;%7&#57;&#105;eld&#116;%68%65do%67&#64;gmail&#37;2&#69;c&#37;6&#70;m'>y&#105;eldt&#104;&#101;dog&#64;&#103;mail&#46;&#99;&#111;m</a></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Interesting Thingys 57]]></title>
@@ -628,138 +744,6 @@
 <ul>
 <li><strong><a href="http://weblog.jamisbuck.org/2011/2/7/maze-generation-algorithm-recap">the { buckblogs :here }: Maze Generation: Algorithm Recap</a></strong>
   <small>Maze Generation</small></li>
-</ul>
-
-
-<h2>Your link could be here</h2>
-
-<p>If we missed something special or you just want to promote a site, give us a nudge @ <a href='&#109;&#97;&#105;&#108;t&#111;&#58;%7&#57;&#105;eld&#116;%68%65do%67&#64;gmail&#37;2&#69;c&#37;6&#70;m'>y&#105;eldt&#104;&#101;dog&#64;&#103;mail&#46;&#99;&#111;m</a></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Interesting Thingys 53]]></title>
-    <link href="http://yieldthedog.github.com/blog/2013/05/03/interesting-thingys-53/"/>
-    <updated>2013-05-03T08:17:00+02:00</updated>
-    <id>http://yieldthedog.github.com/blog/2013/05/03/interesting-thingys-53</id>
-    <content type="html"><![CDATA[<p>Nginx 1.4 with WebSocket and SPDY support and LightTable 0.4 with lots of cool stuff are out. Just two of the great thingys worth checking this week…</p>
-
-<!-- More -->
-
-
-<h2>JavaScript</h2>
-
-<ul>
-<li><strong><a href="https://github.com/qiao/PathFinding.js">qiao/PathFinding.js · GitHub</a></strong>
-  <small>A comprehensive path-finding library for grid based games</small></li>
-<li><strong><a href="http://jkbr.github.io/rrule/">rrule.js demo</a></strong>
-  <small>This is a demo and test app for rrule.js, a JavaScript library for working with recurrence rules for calendar dates.</small></li>
-<li><strong><a href="http://jt.io/2013/git-pre-commit-js-lint-script/">Sgt Donowitz : Javascript lint pre-commit script- John Tregoning</a></strong>
-  <small>A precommit hook that runs jshint</small></li>
-</ul>
-
-
-<h2>CSS</h2>
-
-<ul>
-<li><strong><a href="http://stackoverflow.com/questions/13132864/creating-a-radial-menu-in-css/13137862#13137862">css3 - Creating a Radial Menu in CSS - Stack Overflow</a></strong>
-  <small>Answer with demo</small></li>
-</ul>
-
-
-<h2>HTML5</h2>
-
-<ul>
-<li><strong><a href="http://html5hacks.com/blog/2013/04/21/push-notifications-to-the-browser-with-server-sent-events/">Push Notifications to the Browser with Server Sent Events - HTML5 Hacks</a></strong>
-  <small>websockets' little brother</small></li>
-</ul>
-
-
-<h2>Node.js</h2>
-
-<ul>
-<li><strong><a href="http://dailyjs.com/2013/04/19/leveldb-and-node-1/">DailyJS: LevelDB and Node: What is LevelDB Anyway?</a></strong>
-  <small>This is the first article in a three-part series on LevelDB and how it can be used in Node.</small></li>
-<li><strong><a href="https://github.com/mcollina/node-levelgraph">mcollina/node-levelgraph · GitHub</a></strong>
-  <small>A graph database built on top of LevelUp</small></li>
-<li><strong><a href="http://blog.nodefly.com/post/48961128824/node-js-application-monitoring-with-the-nodefly">Node.js Application Monitoring with the NodeFly Dashboard, Part Two</a></strong>
-  <small>In Part One of this article, we started our tour of the NodeFly Agent Dashboard graphs with some ideas of how to utilize it effectively. </small></li>
-<li><strong><a href="https://github.com/MatthewMueller/cheerio">MatthewMueller/cheerio · GitHub</a></strong>
-  <small>Fast, flexible, and lean implementation of core jQuery designed specifically for the server.</small></li>
-<li><strong><a href="http://jugglingdb.co/">JugglingDB(3) - cross-database ORM for nodejs and browser</a></strong>
-  <small>JugglingDB is a cross-db ORM for nodejs, providing common interface to access most popular database formats. Currently supported db formats are: mysql, sqlite3, postgres, couchdb, mongodb, redis, neo4j and in-memory-storage.</small></li>
-</ul>
-
-
-<h2>Objective C</h2>
-
-<ul>
-<li><strong><a href="https://github.com/fjcaetano/NSStringMask">fjcaetano/NSStringMask · GitHub</a></strong>
-  <small>The NSStringMask enables you to apply masks or formats to NSStrings using NSRegularExpression to input your format. </small></li>
-</ul>
-
-
-<h2>Programming</h2>
-
-<ul>
-<li><strong><a href="http://arxiv.org/abs/1304.5257">What Makes Code Hard to Understand?</a></strong>
-  <small>What factors impact the comprehensibility of code? Previous research suggests that expectation-congruent programs should take less time to understand and be less prone to errors.</small></li>
-<li><strong><a href="http://en.ricbit.com/2012/06/most-difficult-bug.html">Brain Dump (english): The Most Difficult Bug</a></strong>
-  <small>a fun story</small></li>
-<li><strong><a href="http://www.semanticmerge.com/">Semantic Merge - Plastic SCM</a></strong>
-  <small>What it does? As programmers we always expected merge to be this way: first parse the code, then get the structure and finally merge based on that.</small></li>
-<li><strong><a href="http://en.wikipedia.org/wiki/Chaitin's_constant">Chaitin's constant - Wikipedia, the free encyclopedia</a></strong>
-  <small>n the computer science subfield of algorithmic information theory, a Chaitin constant (Chaitin omega number)[2] or halting probability is a real number that informally represents the probability that a randomly constructed program will halt</small></li>
-<li><strong><a href="http://qiao.github.io/PathFinding.js/visual/">PathFinding.js</a></strong>
-  <small>visual demo of pathfinding algorithms</small></li>
-</ul>
-
-
-<h2>Databases</h2>
-
-<ul>
-<li><strong><a href="https://github.com/cupcake/setdb">cupcake/setdb · GitHub</a></strong>
-  <small>SetDB is an implementation of the Redis protocol that persists to LevelDB on disk instead of memory. This allows the dataset size to grow beyond the bounds of memory.</small></li>
-</ul>
-
-
-<h2>Git</h2>
-
-<ul>
-<li><strong><a href="http://geekblog.oneandoneis2.org/index.php/2013/04/30/please-stay-away-from-rebase">Please, stay away from rebase</a></strong>
-  <small>On why it's wrong in git to always use git pull --rebase </small></li>
-</ul>
-
-
-<h2>Editors</h2>
-
-<ul>
-<li><strong><a href="http://www.chris-granger.com/2013/04/28/light-table-040/">Chris Granger - Light Table 0.4</a></strong>
-  <small>The next version with some cool features</small></li>
-</ul>
-
-
-<h2>Tools</h2>
-
-<ul>
-<li><strong><a href="http://nginx.org/en/CHANGES-1.4">Nginx 1.4 is out</a></strong>
-  <small>WebSockets and SPDY support</small></li>
-</ul>
-
-
-<h2>Security</h2>
-
-<ul>
-<li><strong><a href="http://blog.liftsecurity.io/post/42882005324/vulnerability-reports-via-pull-request-a-recent">^Lift Security blog, Vulnerability Reports via Pull Request</a></strong>
-  <small>A recent example with npm</small></li>
-</ul>
-
-
-<h2>Watching</h2>
-
-<ul>
-<li><strong><a href="http://aanandprasad.com/talks/frippery/">FRiPpery - Aanand Prasad</a></strong>
-  <small>functional reactive programming</small></li>
 </ul>
 
 
