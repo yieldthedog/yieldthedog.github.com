@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Interesting-Thingys | yield the dog]]></title>
   <link href="http://yieldthedog.github.com/blog/categories/interesting-thingys/atom.xml" rel="self"/>
   <link href="http://yieldthedog.github.com/"/>
-  <updated>2013-06-06T22:07:29+02:00</updated>
+  <updated>2013-06-13T21:55:37+02:00</updated>
   <id>http://yieldthedog.github.com/</id>
   <author>
     <name><![CDATA[yield the dog]]></name>
@@ -12,6 +12,158 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Interesting Thingys 59]]></title>
+    <link href="http://yieldthedog.github.com/blog/2013/06/13/interesting-thingys-59/"/>
+    <updated>2013-06-13T22:01:00+02:00</updated>
+    <id>http://yieldthedog.github.com/blog/2013/06/13/interesting-thingys-59</id>
+    <content type="html"><![CDATA[<p>After quite a long time we have a Clojure link in this weeks thingys.</p>
+
+<!-- More -->
+
+
+<h2>JavaScript</h2>
+
+<ul>
+<li><strong><a href="https://github.com/jmcunningham/AngularJS-Learning">jmcunningham/AngularJS-Learning · GitHub</a></strong>
+  <small>A bunch of links to blog posts, articles, videos, etc for learning AngularJS</small></li>
+<li><strong><a href="http://infrequently.org/2013/06/sfuturepromiseg/">s/Future/Promise/g | Infrequently Noted</a></strong>
+  <small>Alex Russel on the tufture of promises</small></li>
+<li><strong><a href="http://dailyjs.com/2013/06/07/angular-svg/">DailyJS: AngularJS and SVG</a></strong>
+  <small>Nice idea. Use data binding to change svg</small></li>
+</ul>
+
+
+<h2>CSS</h2>
+
+<ul>
+<li><strong><a href="http://www.smashingmagazine.com/2013/06/10/pinterest-paint-performance-case-study/">Gone In 60 Frames Per Second: A Pinterest Paint Performance Case Study</a></strong>
+  <small>How to improve the paint performance of your websites and Web apps</small></li>
+<li><strong><a href="http://css-tricks.com/sass-style-guide/">Sass Style Guide</a></strong>
+  <small>Some ideas from Chris Coyier</small></li>
+</ul>
+
+
+<h2>HTML5</h2>
+
+<ul>
+<li><strong><a href="https://github.com/codepo8/irregular-shape-rollover">codepo8/irregular-shape-rollover · GitHub</a></strong>
+  <small>Creating irregular shape rollovers with Canvas</small></li>
+</ul>
+
+
+<h2>Web Development</h2>
+
+<ul>
+<li><strong><a href="http://www.meteor.com/blog/2013/06/10/meteor-064-new-oauth-packages-and-recommended-updates">Meteor 0.6.4</a></strong>
+  <small>new OAuth package and security fixes</small></li>
+<li><strong><a href="http://ink.sapo.pt/">InK - Interface Kit</a></strong>
+  <small>an alternative to bootstrap</small></li>
+<li><strong><a href="http://updates.html5rocks.com/2013/06/sourceMappingURL-and-sourceURL-syntax-changed">sourceMappingURL and sourceURL syntax changed - HTML5Rocks Updates</a></strong>
+  <small>Some of you might already have seen the deprication warning. Paul Irish explains the spec change</small></li>
+</ul>
+
+
+<h2>Mobile Webdevelopment</h2>
+
+<ul>
+<li><strong><a href="https://plus.google.com/%20PaulIrish/posts/ccP98BTMd5Z">Paul Irish - Google - Developer Tools for Android WebView We have full remote…</a></strong>
+  <small>We have full remote debugging for Chrome on Android and Mobile Safari, but poor old Android WebView doesn't have a lot of help. Here are the tools I know about so far...</small></li>
+</ul>
+
+
+<h2>Ruby</h2>
+
+<ul>
+<li><strong><a href="http://blog.envylabs.com/post/52395695243/chaining-scopes-in-rails-4">Blog :: Envy Labs, Chaining scopes in Rails 4</a></strong>
+  <small>Coming up in Rails 4 are big changes in ActiveRecord and how scopes work when chained together into a single query.</small></li>
+</ul>
+
+
+<h2>Node.js</h2>
+
+<ul>
+<li><strong><a href="https://github.com/visionmedia/co">visionmedia/co · GitHub</a></strong>
+  <small>Generator based flow-control goodness for nodejs using thunks instead of promises</small></li>
+<li><strong><a href="https://github.com/arcturus/node-firefoxos-cli">arcturus/node-firefoxos-cli · GitHub</a></strong>
+  <small>Command line development tools for Firefox OS</small></li>
+<li><strong><a href="https://github.com/dominictarr/level-replicate">dominictarr/level-replicate · GitHub</a></strong>
+  <small>Implements scuttlebutt style handshake and then syncs data, then replicates real time changes.</small></li>
+<li><strong><a href="https://github.com/nharbour/decomponentify">nharbour/decomponentify · GitHub</a></strong>
+  <small>A node.js browserify transform to enable the use of component.js components in browserify client javascript projects</small></li>
+<li><strong><a href="https://github.com/eugeneware/debowerify">eugeneware/debowerify · GitHub</a></strong>
+  <small>A browserify transform to enable the easy use of bower components in browserify client javascript projects. This can be used in conjunction with deamdify to require AMD components from bower as well. </small></li>
+</ul>
+
+
+<h2>Clojure</h2>
+
+<ul>
+<li><strong><a href="https://github.com/clojure-cookbook/clojure-cookbook">clojure-cookbook/clojure-cookbook · GitHub</a></strong>
+  <small>This is the home of O'Reilly's Clojure Cookbook - Find us online at clojure-cookbook.com </small></li>
+</ul>
+
+
+<h2>Programming</h2>
+
+<ul>
+<li><strong><a href="https://github.com/blakeembrey/code-problems">blakeembrey/code-problems · GitHub</a></strong>
+  <small>Common code problems solved using JavaScript - add your own problems and solutions!</small></li>
+<li><strong><a href="http://michaelrbernste.in/2013/06/03/real-time-garbage-collection-is-real.html">mrb: Real-Time Garbage Collection Is Real</a></strong>
+  <small>Real-Time Garbage Collection (RTGC) tests the limits of what we typically think is possible in production software.</small></li>
+</ul>
+
+
+<h2>Git</h2>
+
+<ul>
+<li><strong><a href="https://coderwall.com/p/euwpig">Filipe Kiss : A better git log</a></strong>
+  <small>So, are you tired of this old and bored git log screen?</small></li>
+</ul>
+
+
+<h2>Watching</h2>
+
+<ul>
+<li><strong><a href="http://www.ted.com/talks/raffaello_d_andrea_the_astounding_athletic_power_of_quadcopters.html#">Raffaello D'Andrea: The astounding athletic power of quadcopters | Video on TED.com</a></strong>
+  <small>how to have fun with quadcopters</small></li>
+<li><strong><a href="https://www.youtube.com/watch?v=UMnZiTL0tUc">The Secret to Safe Continuous Deployment - YouTube</a></strong>
+  <small>On the Google Consumer Surveys team, 8 minutes after you commit code it's live in production.</small></li>
+</ul>
+
+
+<h2>Miscellaneous</h2>
+
+<ul>
+<li><strong><a href="http://andrewkelley.me/post/jamulator.html">Statically Recompiling NES Games into Native Executables with LLVM and Go - Andrew Kelley</a></strong>
+  <small>a very long post</small></li>
+<li><strong><a href="https://github.com/goshakkk/nsa_panel">goshakkk/nsa_panel · GitHub</a></strong>
+  <small>Easily add an NSA backdoor into your Rails app</small></li>
+</ul>
+
+
+<h2>Fun</h2>
+
+<ul>
+<li><strong><a href="https://www.cubeslam.com/dqxeyu">Cube Slam</a></strong>
+  <small>Pong, the WebRTC version</small></li>
+</ul>
+
+
+<h2>Scala</h2>
+
+<ul>
+<li><strong><a href="https://github.com/mandubian/play-autosource">mandubian/play-autosource · GitHub</a></strong>
+  <small>Play Autosource : 1mn REST/Crud/Async/Typesafe Datasource for Play Framework</small></li>
+</ul>
+
+
+<h2>Your link could be here</h2>
+
+<p>If we missed something special or you just want to promote a site, give us a nudge @ <a href='&#109;&#97;&#105;&#108;t&#111;&#58;%7&#57;&#105;eld&#116;%68%65do%67&#64;gmail&#37;2&#69;c&#37;6&#70;m'>y&#105;eldt&#104;&#101;dog&#64;&#103;mail&#46;&#99;&#111;m</a></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Interesting Thingys 58]]></title>
@@ -608,142 +760,6 @@
   <small>read on to find out why</small></li>
 <li><strong><a href="http://www.steamclock.com/blog/2013/05/apple-objective-c-javascript-bridge/">Steamclock Software - Apple’s new Objective-C to Javascript Bridge</a></strong>
   <small>will come at 10.9</small></li>
-</ul>
-
-
-<h2>Your link could be here</h2>
-
-<p>If we missed something special or you just want to promote a site, give us a nudge @ <a href='&#109;&#97;&#105;&#108;t&#111;&#58;%7&#57;&#105;eld&#116;%68%65do%67&#64;gmail&#37;2&#69;c&#37;6&#70;m'>y&#105;eldt&#104;&#101;dog&#64;&#103;mail&#46;&#99;&#111;m</a></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Interesting Thingys 54]]></title>
-    <link href="http://yieldthedog.github.com/blog/2013/05/10/interesting-thingys-54/"/>
-    <updated>2013-05-10T22:01:00+02:00</updated>
-    <id>http://yieldthedog.github.com/blog/2013/05/10/interesting-thingys-54</id>
-    <content type="html"><![CDATA[<p>This week Mozilla showed that they are still fighting the performance race, by porting the Unreal engine to JavaScript using asm.js.</p>
-
-<!-- More -->
-
-
-<h2>JavaScript</h2>
-
-<ul>
-<li><strong><a href="http://theintern.io/">Intern: A next-generation JavaScript testing stack</a></strong>
-  <small>Run tests using the browser or node.js and seamlessly integrate with SauceLabs or Selenium. Write tests using object, TDD, or BDD styles and get full code coverage reporting with Istanbul. Continuous integration? Intern has you covered with Travis CI support out-of-the-box.</small></li>
-<li><strong><a href="http://marijnhaverbeke.nl/blog/tern.html">Tern</a></strong>
-  <small>How tern works</small></li>
-<li><strong><a href="http://gamua.com/blog/2013/05/a-bird-for-the-modern-web/">Starling.js</a></strong>
-  <small>JS game development</small></li>
-<li><strong><a href="http://jonobr1.github.io/two.js/">Two.js</a></strong>
-  <small>Two.js is a two-dimensional drawing api geared towards modern web browsers. It is renderer agnostic enabling the same api to draw in multiple contexts: svg, canvas, and webgl.</small></li>
-<li><strong><a href="http://js1k.com/2013-spring/">js1k.com - A jumpy js competition</a></strong>
-  <small>Winners are announced</small></li>
-<li><strong><a href="https://github.com/phoboslab/jsmpeg">phoboslab/jsmpeg · GitHub</a></strong>
-  <small>MPEG1 Video Decoder in JavaScript</small></li>
-</ul>
-
-
-<h2>HTML5</h2>
-
-<ul>
-<li><strong><a href="http://news.turbulenz.com/post/49430669886/turbulenz-engine-goes-open-source">Turbulenz Engine Goes Open Source</a></strong>
-  <small>The powerful and formerly commercial 'Turbulenz' HTML5 game development engine is now open source. </small></li>
-<li><strong><a href="http://www.html5rocks.com/en/tutorials/speed/unnecessary-paints/">Avoiding Unnecessary Paints - HTML5 Rocks</a></strong>
-  <small>Painting the elements for a site or application can get be really expensive, and it can have a negative knock-on effect on our runtime performance.</small></li>
-</ul>
-
-
-<h2>Node.js</h2>
-
-<ul>
-<li><strong><a href="https://github.com/tlrobinson/long-stack-traces">tlrobinson/long-stack-traces · GitHub</a></strong>
-  <small>Long stacktraces for V8 implemented in user-land JavaScript. Supports Chrome/Chromium and Node.js.</small></li>
-<li><strong><a href="https://github.com/Colingo/continuable-hash">Colingo/continuable-hash · GitHub</a></strong>
-  <small>Turn a hash of continuables into a continuable containing a hash of values</small></li>
-<li><strong><a href="https://github.com/alexmic/mongoose-fakery#__sid=0">alexmic/mongoose-fakery · GitHub</a></strong>
-  <small>mongoose-fakery provides an easy fixture replacement method and random data generators.</small></li>
-</ul>
-
-
-<h2>Objective C</h2>
-
-<ul>
-<li><strong><a href="https://github.com/mysterioustrousers/MTAnimation">mysterioustrousers/MTAnimation · GitHub</a></strong>
-  <small>The animation library everyone's been waiting for</small></li>
-</ul>
-
-
-<h2>Go</h2>
-
-<ul>
-<li><strong><a href="https://github.com/mozilla-services/heka">mozilla-services/heka · GitHub</a></strong>
-  <small>Data Acquisition and Processing Made Easy</small></li>
-</ul>
-
-
-<h2>Programming</h2>
-
-<ul>
-<li><strong><a href="http://bigocheatsheet.com/">Big-O Algorithm Complexity Cheat Sheet</a></strong>
-  <small> This webpage covers the space and time Big-O complexities of common algorithms used in Computer Science.</small></li>
-</ul>
-
-
-<h2>Git</h2>
-
-<ul>
-<li><strong><a href="http://blogs.atlassian.com/2013/05/git-tig/">git? tig! | Atlassian Blogs</a></strong>
-  <small>Enter tig. tig is a text-mode, ncurses-based UI for git. In short, it is the mutt to your Outlook, the Vim to your Emacs, the w3m to your Firefox.</small></li>
-</ul>
-
-
-<h2>Editors</h2>
-
-<ul>
-<li><strong><a href="https://github.com/AshleyF/VimSpeak">AshleyF/VimSpeak · GitHub</a></strong>
-  <small>VimSpeak lets you control Vim with your voice using speech recognition.</small></li>
-</ul>
-
-
-<h2>Tools</h2>
-
-<ul>
-<li><strong><a href="https://github.com/joeyh/etckeeper">joeyh/etckeeper · GitHub</a></strong>
-  <small>store /etc in git </small></li>
-</ul>
-
-
-<h2>Watching</h2>
-
-<ul>
-<li><strong><a href="http://www.youtube.com/watch?v=3TnVl97ZZL8">Postgres Demystified by Craig Kerstiens - YouTube</a></strong>
-  <small>@MountainWest RubyConf 2013</small></li>
-</ul>
-
-
-<h2>Miscellaneous</h2>
-
-<ul>
-<li><strong><a href="https://github.com/ChiperSoft/InterviewThis">ChiperSoft/InterviewThis · GitHub</a></strong>
-  <small>An open source list of developer questions to ask prospective employers</small></li>
-</ul>
-
-
-<h2>Games</h2>
-
-<ul>
-<li><strong><a href="http://www.unrealengine.com/html5/">Epic Citadel</a></strong>
-  <small>Unreal 3d Engine in FF Nightlies</small></li>
-</ul>
-
-
-<h2>Algorithm</h2>
-
-<ul>
-<li><strong><a href="http://weblog.jamisbuck.org/2011/2/7/maze-generation-algorithm-recap">the { buckblogs :here }: Maze Generation: Algorithm Recap</a></strong>
-  <small>Maze Generation</small></li>
 </ul>
 
 
