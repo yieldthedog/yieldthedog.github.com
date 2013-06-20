@@ -4,7 +4,7 @@
   <title><![CDATA[yield the dog]]></title>
   <link href="http://yieldthedog.github.com/atom.xml" rel="self"/>
   <link href="http://yieldthedog.github.com/"/>
-  <updated>2013-06-13T21:55:37+02:00</updated>
+  <updated>2013-06-20T22:16:10+02:00</updated>
   <id>http://yieldthedog.github.com/</id>
   <author>
     <name><![CDATA[yield the dog]]></name>
@@ -12,6 +12,104 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Interesting Thingys 60]]></title>
+    <link href="http://yieldthedog.github.com/blog/2013/06/20/interesting-thingys-60/"/>
+    <updated>2013-06-20T22:12:00+02:00</updated>
+    <id>http://yieldthedog.github.com/blog/2013/06/20/interesting-thingys-60</id>
+    <content type="html"><![CDATA[<p>Lots of stories for web devs this week, read on…</p>
+
+<!-- More -->
+
+
+<h2>JavaScript</h2>
+
+<ul>
+<li><strong><a href="https://github.com/dzautner/jsPipe">dzautner/jsPipe · GitHub</a></strong>
+  <small>Implementing pipes in Javascript using psudo operator overloading </small></li>
+<li><strong><a href="http://www.2ality.com/2011/12/fake-operator-overloading.html?m=1">Fake operator overloading in JavaScript</a></strong>
+  <small>This post describes how to do a limited version of operator overloading in JavaScript. With the technique described here, you’ll be able to implement a type StringBuilder that can be used as follows:</small></li>
+<li><strong><a href="https://github.com/maxogden/doorknob">maxogden/doorknob · GitHub</a></strong>
+  <small>convenience module for adding Mozilla Persona user login LevelDB based session storage to node web apps</small></li>
+<li><strong><a href="https://github.com/mintchaos/flippant.js">mintchaos/flippant.js</a></strong>
+  <small>A mini dependancy-less UI lib for flipping over DOM nodes.</small></li>
+</ul>
+
+
+<h2>HTML5</h2>
+
+<ul>
+<li><strong><a href="http://www.inserthtml.com/2013/06/history-api/">Controlling History: the HTML5 History API and ‘Selective’ Loading | InsertHTML</a></strong>
+  <small>Today we’re going to look at a way to keep a sense of consistency on your website by maintaining the state of some elements even when the user navigates through history.</small></li>
+</ul>
+
+
+<h2>Web Development</h2>
+
+<ul>
+<li><strong><a href="http://googlewebmastercentral.blogspot.com.br/2013/06/changes-in-rankings-of-smartphone_11.html">Official Google Webmaster Central Blog: Changes in rankings of smartphone search results</a></strong>
+  <small>watch out for these changes</small></li>
+<li><strong><a href="http://www.modern.ie/en-us/virtualization-tools#downloads">Cross-browser testing simplified | Testing made easier in Internet Explorer | modern.IE</a></strong>
+  <small>Test versions of IE using Virtual Machines that you download and manage in your own development environment.</small></li>
+<li><strong><a href="http://dontkry.com/posts/code/browserify-and-the-universal-module-definition.html#.UbuUc6P4-dI.twitter">Browserify and the Universal Module Definition | dontkry.com</a></strong>
+  <small>HOW I LEARNED TO STOP WORRYING AND LOVE THE BROWSERIFY</small></li>
+<li><strong><a href="http://heydonworks.com/auticons-icon-font/">Auticons: An automatic icon font</a></strong>
+  <small>Auticons is an icon font and CSS set that harnesses the awesome power of attribute selectors.</small></li>
+<li><strong><a href="http://code.flickr.net/2013/06/04/adventures-in-jank-busting-parallax-performance-and-the-new-flickr-home-page/">Adventures in Jank Busting: Parallax, performance, and the new Flickr Home Page | code.flickr.com</a></strong>
+  <small>Great write-up on jank busting, parallax and performance from the engineering team at Flickr</small></li>
+<li><strong><a href="http://blog.chromium.org/search/label/Chrome%20Frame">Retiring Chrome Frame</a></strong>
+  <small>Interesting move.</small></li>
+<li><strong><a href="http://hochitom.at/brackets-from-design-comp-to-code/">Brackets: From Design Comp to Code » Hochitom.at</a></strong>
+  <small>review of brackets</small></li>
+<li><strong><a href="https://github.com/Prinzhorn/skrollr">Prinzhorn/skrollr</a></strong>
+  <small>Stand-alone parallax scrolling library for mobile (Android iOS) and desktop. No jQuery. Just plain JavaScript (and some love). http://prinzhorn.github.io/skrollr/</small></li>
+<li><strong><a href="http://www.peterkroener.de/50-kleine-tipps-und-tricks-zu-den-chrome-developer-tools/">50 kleine Tipps und Tricks zu den Chrome Developer Tools • Peter Kröner • Webtechnologie</a></strong>
+  <small>Das eigentlich Tolle den Devtools sind die vielen kleinen Dinge, die das Leben leichter machen.</small></li>
+<li><strong><a href="http://www.igvita.com/2013/06/12/innovating-with-http-2.0-server-push/">Innovating with HTTP 2.0 Server Push - igvita.com</a></strong>
+  <small>HTTP 2.0 enables the server to send multiple responses (in parallel) for a single client request - aka &#8220;server push.&#8221; Ilya Grigorik looks at how this can be used to avoid round trips.</small></li>
+</ul>
+
+
+<h2>Mobile Development</h2>
+
+<ul>
+<li><strong><a href="https://github.com/NickTitle/iOS7-Trans-Blur">NickTitle/iOS7-Trans-Blur</a></strong>
+  <small>Implementation of the new iOS7-style masking transparency blur, using StackBlur</small></li>
+</ul>
+
+
+<h2>Node.js</h2>
+
+<ul>
+<li><strong><a href="https://github.com/flatiron/nconf">flatiron/nconf · GitHub</a></strong>
+  <small>Hierarchical node.js configuration with files, environment variables, command-line arguments, and atomic object merging.</small></li>
+<li><strong><a href="https://github.com/substack/stream-adventure">substack/stream-adventure · GitHub</a></strong>
+  <small>go on an educational stream adventure! </small></li>
+</ul>
+
+
+<h2>Databases</h2>
+
+<ul>
+<li><strong><a href="http://blog.endpoint.com/2013/06/postgresql-functional-indexes.html">PostgreSQL Functional Indexes | End Point Blog</a></strong>
+  <small>a quick overview on functional indexes</small></li>
+</ul>
+
+
+<h2>Raspberry Pi</h2>
+
+<ul>
+<li><strong><a href="http://www.raspberrypi.org/archives/4204">Onion Pi: Foil the NSA and Prism with a Tor proxy | Raspberry Pi</a></strong>
+  <small>Tor proxy box based around a Pi</small></li>
+</ul>
+
+
+<h2>Your link could be here</h2>
+
+<p>If we missed something special or you just want to promote a site, give us a nudge @ <a href='&#109;&#97;&#105;&#108;t&#111;&#58;%7&#57;&#105;eld&#116;%68%65do%67&#64;gmail&#37;2&#69;c&#37;6&#70;m'>y&#105;eldt&#104;&#101;dog&#64;&#103;mail&#46;&#99;&#111;m</a></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Interesting Thingys 59]]></title>
@@ -2968,126 +3066,6 @@ published: true</p>
 <ul>
 <li><strong><a href="http://1code.codeplex.com/Wikipage?ProjectName=1code">Microsoft All-In-One Code Framework - a centralized code sample library - Home</a></strong>
   <small>Code sample library</small></li>
-</ul>
-
-
-<h2>Your link could be here</h2>
-
-<p>If we missed something special or you just want to promote a site, give us a nudge @ <a href='&#109;&#97;&#105;&#108;t&#111;&#58;%7&#57;&#105;eld&#116;%68%65do%67&#64;gmail&#37;2&#69;c&#37;6&#70;m'>y&#105;eldt&#104;&#101;dog&#64;&#103;mail&#46;&#99;&#111;m</a></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Interesting Thingys 41]]></title>
-    <link href="http://yieldthedog.github.com/blog/2012/11/16/interesting-thingys-41/"/>
-    <updated>2012-11-16T08:17:00+01:00</updated>
-    <id>http://yieldthedog.github.com/blog/2012/11/16/interesting-thingys-41</id>
-    <content type="html"><![CDATA[<p>This week with an exciting collection of thingys</p>
-
-<!-- More -->
-
-
-<h2>JavaScript</h2>
-
-<ul>
-<li><strong><a href="https://github.com/guillaumepotier/Garlic.js">guillaumepotier/Garlic.js</a></strong>
-  <small>Garlic.js allows you to automatically persist your forms&#8217; text and select field values locally, until the form is submitted. This way, your users don&#8217;t lose any precious data if they accidentally close their tab or browser.</small></li>
-<li><strong><a href="https://github.com/melanke/Watch.JS">melanke/Watch.JS</a></strong>
-  <small>watch the changes of any object or attribut</small></li>
-<li><strong><a href="http://ianww.com/blog/programming/optimizing-three-js-performance-simulating-tens-of-thousands-of-independent-moving-objects/">Optimizing Three.js Performance: Simulating Tens Of Thousands Of Independent Moving Objects</a></strong>
-  <small>explains how to make a star field in three.js that doesn&#8217;t suck cpu as hell</small></li>
-</ul>
-
-
-<h2>HTML5</h2>
-
-<ul>
-<li><strong><a href="http://www.splio.com/responsive/">responsive design</a></strong>
-  <small>10 basics tips .. in an infographic</small></li>
-<li><strong><a href="http://www.html5rocks.com/en/tutorials/pagevisibility/intro/">Using the PageVisibility API - HTML5 Rocks</a></strong>
-  <small>Use visibility api to pause and resume scripts</small></li>
-</ul>
-
-
-<h2>Web Development</h2>
-
-<ul>
-<li><strong><a href="http://www.netmagazine.com/features/optimising-retina-10-essential-tools">Optimising for Retina: 10 essential tools | Feature | .net magazine</a></strong>
-  <small>how to get fit for the retina web</small></li>
-<li><strong><a href="http://laurakalbag.com/display-none/">display: none</a></strong>
-  <small>Or The things you think are common knowledge but really they aren’t.</small></li>
-<li><strong><a href="https://plus.google.com/u/0/115133653231679625609/posts/N1xsFBWMDA5">Addy Osmani - Google - Chrome: Easier Web App Debugging With Multi-User Profiles …</a></strong>
-  <small>Use Chrome&#8217;s user profiles to easy testing</small></li>
-</ul>
-
-
-<h2>Mobile Development</h2>
-
-<ul>
-<li><strong><a href="https://github.com/mattt/TransformerKit">mattt/TransformerKit</a></strong>
-  <small>Transforming Ordinary Code into Awesomesauce </small></li>
-<li><strong><a href="https://github.com/luisobo/Nocilla">luisobo/Nocilla</a></strong>
-  <small>Stunning HTTP stubbing for iOS. Testing HTTP requests has never been easier. </small></li>
-</ul>
-
-
-<h2>Node.js</h2>
-
-<ul>
-<li><strong><a href="http://nodeknockout.com/">2012 — Node.js Knockout</a></strong>
-  <small>finished this week, check out the projects</small></li>
-<li><strong><a href="https://github.com/hughsk/colony">hughsk/colony</a></strong>
-  <small>In-browser network graphs representing the links between your Node.js code and its dependencies. </small></li>
-</ul>
-
-
-<h2>Programming</h2>
-
-<ul>
-<li><strong><a href="http://programmers.stackexchange.com/questions/173441/what-triggered-the-popularity-of-lambda-functions-in-modern-mainstream-programmi">history - What triggered the popularity of lambda functions in modern mainstream programming languages? - Programmers</a></strong>
-  <small>with interesting answers</small></li>
-<li><strong><a href="http://www.theserverside.de/singleton-pattern-in-java/">Singleton Pattern in Java</a></strong>
-  <small>About java singletons &#8230;</small></li>
-</ul>
-
-
-<h2>Git</h2>
-
-<ul>
-<li><strong><a href="http://johnkary.net/git-add-p-the-most-powerful-git-feature-youre-not-using-yet/">git add -p: The most powerful git feature you’re not using yet | John Kary</a></strong>
-  <small>enter the realm of patch mode</small></li>
-</ul>
-
-
-<h2>Editors</h2>
-
-<ul>
-<li><strong><a href="http://www.chris-granger.com/2012/11/05/meet-the-new-light-table/">Chris Granger - Meet the new Light Table</a></strong>
-  <small>Chris Granger is heavily hacking on LightTable</small></li>
-</ul>
-
-
-<h2>Watching</h2>
-
-<ul>
-<li><strong><a href="http://vimeo.com/52996554">Wheatley</a></strong>
-  <small>Automated JavaScript refactoring</small></li>
-</ul>
-
-
-<h2>iOS</h2>
-
-<ul>
-<li><strong><a href="http://www.fastcompany.com/3002676/magical-tech-behind-paper-ipads-color-mixing-perfection">color-mixing in &#8220;paper&#8221; for ipad</a></strong>
-  <small>very interesting article about the new color-mixing functionality in the &#8220;paper&#8221; ipad application</small></li>
-</ul>
-
-
-<h2>IPhone</h2>
-
-<ul>
-<li><strong><a href="http://www.shervinemami.info/armAssembly.html#howto">ARM Assembly Code on the iPhone</a></strong>
-  <small>.. if you dare!</small></li>
 </ul>
 
 

@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Interesting-Thingys | yield the dog]]></title>
   <link href="http://yieldthedog.github.com/blog/categories/interesting-thingys/atom.xml" rel="self"/>
   <link href="http://yieldthedog.github.com/"/>
-  <updated>2013-06-13T21:55:37+02:00</updated>
+  <updated>2013-06-20T22:16:10+02:00</updated>
   <id>http://yieldthedog.github.com/</id>
   <author>
     <name><![CDATA[yield the dog]]></name>
@@ -12,6 +12,104 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Interesting Thingys 60]]></title>
+    <link href="http://yieldthedog.github.com/blog/2013/06/20/interesting-thingys-60/"/>
+    <updated>2013-06-20T22:12:00+02:00</updated>
+    <id>http://yieldthedog.github.com/blog/2013/06/20/interesting-thingys-60</id>
+    <content type="html"><![CDATA[<p>Lots of stories for web devs this week, read on…</p>
+
+<!-- More -->
+
+
+<h2>JavaScript</h2>
+
+<ul>
+<li><strong><a href="https://github.com/dzautner/jsPipe">dzautner/jsPipe · GitHub</a></strong>
+  <small>Implementing pipes in Javascript using psudo operator overloading </small></li>
+<li><strong><a href="http://www.2ality.com/2011/12/fake-operator-overloading.html?m=1">Fake operator overloading in JavaScript</a></strong>
+  <small>This post describes how to do a limited version of operator overloading in JavaScript. With the technique described here, you’ll be able to implement a type StringBuilder that can be used as follows:</small></li>
+<li><strong><a href="https://github.com/maxogden/doorknob">maxogden/doorknob · GitHub</a></strong>
+  <small>convenience module for adding Mozilla Persona user login LevelDB based session storage to node web apps</small></li>
+<li><strong><a href="https://github.com/mintchaos/flippant.js">mintchaos/flippant.js</a></strong>
+  <small>A mini dependancy-less UI lib for flipping over DOM nodes.</small></li>
+</ul>
+
+
+<h2>HTML5</h2>
+
+<ul>
+<li><strong><a href="http://www.inserthtml.com/2013/06/history-api/">Controlling History: the HTML5 History API and ‘Selective’ Loading | InsertHTML</a></strong>
+  <small>Today we’re going to look at a way to keep a sense of consistency on your website by maintaining the state of some elements even when the user navigates through history.</small></li>
+</ul>
+
+
+<h2>Web Development</h2>
+
+<ul>
+<li><strong><a href="http://googlewebmastercentral.blogspot.com.br/2013/06/changes-in-rankings-of-smartphone_11.html">Official Google Webmaster Central Blog: Changes in rankings of smartphone search results</a></strong>
+  <small>watch out for these changes</small></li>
+<li><strong><a href="http://www.modern.ie/en-us/virtualization-tools#downloads">Cross-browser testing simplified | Testing made easier in Internet Explorer | modern.IE</a></strong>
+  <small>Test versions of IE using Virtual Machines that you download and manage in your own development environment.</small></li>
+<li><strong><a href="http://dontkry.com/posts/code/browserify-and-the-universal-module-definition.html#.UbuUc6P4-dI.twitter">Browserify and the Universal Module Definition | dontkry.com</a></strong>
+  <small>HOW I LEARNED TO STOP WORRYING AND LOVE THE BROWSERIFY</small></li>
+<li><strong><a href="http://heydonworks.com/auticons-icon-font/">Auticons: An automatic icon font</a></strong>
+  <small>Auticons is an icon font and CSS set that harnesses the awesome power of attribute selectors.</small></li>
+<li><strong><a href="http://code.flickr.net/2013/06/04/adventures-in-jank-busting-parallax-performance-and-the-new-flickr-home-page/">Adventures in Jank Busting: Parallax, performance, and the new Flickr Home Page | code.flickr.com</a></strong>
+  <small>Great write-up on jank busting, parallax and performance from the engineering team at Flickr</small></li>
+<li><strong><a href="http://blog.chromium.org/search/label/Chrome%20Frame">Retiring Chrome Frame</a></strong>
+  <small>Interesting move.</small></li>
+<li><strong><a href="http://hochitom.at/brackets-from-design-comp-to-code/">Brackets: From Design Comp to Code » Hochitom.at</a></strong>
+  <small>review of brackets</small></li>
+<li><strong><a href="https://github.com/Prinzhorn/skrollr">Prinzhorn/skrollr</a></strong>
+  <small>Stand-alone parallax scrolling library for mobile (Android iOS) and desktop. No jQuery. Just plain JavaScript (and some love). http://prinzhorn.github.io/skrollr/</small></li>
+<li><strong><a href="http://www.peterkroener.de/50-kleine-tipps-und-tricks-zu-den-chrome-developer-tools/">50 kleine Tipps und Tricks zu den Chrome Developer Tools • Peter Kröner • Webtechnologie</a></strong>
+  <small>Das eigentlich Tolle den Devtools sind die vielen kleinen Dinge, die das Leben leichter machen.</small></li>
+<li><strong><a href="http://www.igvita.com/2013/06/12/innovating-with-http-2.0-server-push/">Innovating with HTTP 2.0 Server Push - igvita.com</a></strong>
+  <small>HTTP 2.0 enables the server to send multiple responses (in parallel) for a single client request - aka "server push." Ilya Grigorik looks at how this can be used to avoid round trips.</small></li>
+</ul>
+
+
+<h2>Mobile Development</h2>
+
+<ul>
+<li><strong><a href="https://github.com/NickTitle/iOS7-Trans-Blur">NickTitle/iOS7-Trans-Blur</a></strong>
+  <small>Implementation of the new iOS7-style masking transparency blur, using StackBlur</small></li>
+</ul>
+
+
+<h2>Node.js</h2>
+
+<ul>
+<li><strong><a href="https://github.com/flatiron/nconf">flatiron/nconf · GitHub</a></strong>
+  <small>Hierarchical node.js configuration with files, environment variables, command-line arguments, and atomic object merging.</small></li>
+<li><strong><a href="https://github.com/substack/stream-adventure">substack/stream-adventure · GitHub</a></strong>
+  <small>go on an educational stream adventure! </small></li>
+</ul>
+
+
+<h2>Databases</h2>
+
+<ul>
+<li><strong><a href="http://blog.endpoint.com/2013/06/postgresql-functional-indexes.html">PostgreSQL Functional Indexes | End Point Blog</a></strong>
+  <small>a quick overview on functional indexes</small></li>
+</ul>
+
+
+<h2>Raspberry Pi</h2>
+
+<ul>
+<li><strong><a href="http://www.raspberrypi.org/archives/4204">Onion Pi: Foil the NSA and Prism with a Tor proxy | Raspberry Pi</a></strong>
+  <small>Tor proxy box based around a Pi</small></li>
+</ul>
+
+
+<h2>Your link could be here</h2>
+
+<p>If we missed something special or you just want to promote a site, give us a nudge @ <a href='&#109;&#97;&#105;&#108;t&#111;&#58;%7&#57;&#105;eld&#116;%68%65do%67&#64;gmail&#37;2&#69;c&#37;6&#70;m'>y&#105;eldt&#104;&#101;dog&#64;&#103;mail&#46;&#99;&#111;m</a></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Interesting Thingys 59]]></title>
@@ -616,150 +714,6 @@
   <small>no comment</small></li>
 <li><strong><a href="https://joindiaspora.com/posts/1653418">Two problems</a></strong>
   <small>All programmers have problems</small></li>
-</ul>
-
-
-<h2>Your link could be here</h2>
-
-<p>If we missed something special or you just want to promote a site, give us a nudge @ <a href='&#109;&#97;&#105;&#108;t&#111;&#58;%7&#57;&#105;eld&#116;%68%65do%67&#64;gmail&#37;2&#69;c&#37;6&#70;m'>y&#105;eldt&#104;&#101;dog&#64;&#103;mail&#46;&#99;&#111;m</a></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Interesting Thingys 55]]></title>
-    <link href="http://yieldthedog.github.com/blog/2013/05/16/interesting-thingys-55/"/>
-    <updated>2013-05-16T17:45:00+02:00</updated>
-    <id>http://yieldthedog.github.com/blog/2013/05/16/interesting-thingys-55</id>
-    <content type="html"><![CDATA[<p>Especially for @notyce I added two Ruby links this week…</p>
-
-<!-- More -->
-
-
-<h2>JavaScript</h2>
-
-<ul>
-<li><strong><a href="http://phrogz.net/js/d3-playground/#BlankDefault">D3.js Playground</a></strong>
-  <small>Playground similar to jsfiddle for d3</small></li>
-<li><strong><a href="https://github.com/component/component">component/component · GitHub</a></strong>
-  <small>component - client package management for building better web applications</small></li>
-<li><strong><a href="http://www.kickstarter.com/projects/getify/you-dont-know-js-book-series">"You Don't Know JS" (book series) by Kyle Simpson — Kickstarter</a></strong>
-  <small>A book series exploring the parts of JavaScript that we all think we understand but don't REALLY know.</small></li>
-<li><strong><a href="http://www.jshint.com/blog/2013-05-07/2-0-0/">JSHint - JSHint 2.0.0 is out</a></strong>
-  <small>with lots of new features</small></li>
-<li><strong><a href="https://github.com/mixu/minilog">mixu/minilog · GitHub</a></strong>
-  <small>Lightweight client </small></li>
-<li><strong><a href="https://github.com/substack/text-table">substack/text-table · GitHub</a></strong>
-  <small>generate borderless text table strings suitable for printing to stdout </small></li>
-<li><strong><a href="https://github.com/sergi/virtual-list">sergi/virtual-list · GitHub</a></strong>
-  <small>Scrollable list of DOM elements that can hold an unlimited amount of rows without breaking a sweat</small></li>
-<li><strong><a href="https://github.com/sindresorhus/esnext-showcase">sindresorhus/esnext-showcase · GitHub</a></strong>
-  <small>Showcasing real-world usage of ECMAScript 6 features in today's libraries/frameworks/projects/etc</small></li>
-<li><strong><a href="http://blogs.msdn.com/b/eternalcoding/archive/2012/09/20/using-web-workers-to-improve-performance-of-image-manipulation.aspx">Using Web Workers to improve performance of image manipulation - Eternal Coding - Site Home - MSDN Blogs</a></strong>
-  <small>WebWorkers are an underused tool, see how they can improve performance</small></li>
-</ul>
-
-
-<h2>HTML5</h2>
-
-<ul>
-<li><strong><a href="http://tympanus.net/codrops/2013/05/07/a-collection-of-page-transitions/">A Collection of Page Transitions | Codrops</a></strong>
-  <small>with a niv´ce demo page</small></li>
-<li><strong><a href="http://software.intel.com/en-us/appup/html5-playground">HTML5* Playground | Intel® Developer Zone</a></strong>
-  <small>Intel releases the HTML5 Playground</small></li>
-</ul>
-
-
-<h2>Web Development</h2>
-
-<ul>
-<li><strong><a href="http://nobackend.org/">noBackend – data driven apps without thinking backend.</a></strong>
-  <small>noBackend aims to kick off a discussion on how frontend developers wish to control backend tasks in a way that feels native. </small></li>
-<li><strong><a href="https://github.com/arunoda/meteor-cluster">arunoda/meteor-cluster · GitHub</a></strong>
-  <small>Showcasing real-world usage of ECMAScript 6 features in today's libraries/frameworks/projects/etc</small></li>
-</ul>
-
-
-<h2>Mobile Development</h2>
-
-<ul>
-<li><strong><a href="http://android-developers.blogspot.co.at/2013/05/android-studio-ide-built-for-android.html#__sid=0">Android Studio: An IDE built for Android | Android Developers Blog</a></strong>
-  <small>sounds good</small></li>
-</ul>
-
-
-<h2>Ruby</h2>
-
-<ul>
-<li><strong><a href="http://blog.rubymotion.com/post/49943751398/rubymotion-goes-2-0-and-gets-os-x-support-templates">RubyMotion Goes 2.0 And Gets OS X Support, Templates and Plugins - RubyMotion Blog</a></strong>
-  <small>with OSX support</small></li>
-<li><strong><a href="http://nicksda.apotomo.de/2013/05/reform-decouple-your-forms-from-your-models/">Reform – Decouple Your Forms From Your Models! ¶ Nicksda</a></strong>
-  <small>A look at a framework-agnostic, anti-database form object.</small></li>
-</ul>
-
-
-<h2>Browsers</h2>
-
-<ul>
-<li><strong><a href="http://www.mozilla.org/en-US/firefox/21.0/releasenotes/">Firefox Notes - Desktop</a></strong>
-  <small>Implemented scoped stylesheets, Added support for &tl;main&gt; element</small></li>
-</ul>
-
-
-<h2>Programming</h2>
-
-<ul>
-<li><strong><a href="https://segment.io/blog/tips-for-maintaining-an-open-source-library/">Tips for Maintaining an Open-Source Library</a></strong>
-  <small>6 Tips for a long living project</small></li>
-<li><strong><a href="http://stackoverflow.com/questions/16522111/python-syntax-for-if-a-or-b-or-c-but-not-all-of-them?newsletter=1">if statement - Python syntax for "if a or b or c but not all of them" - Stack Overflow</a></strong>
-  <small>Look up the answer on SO</small></li>
-<li><strong><a href="http://stackoverflow.com/questions/16451777/is-it-expensive-to-use-try-catch-blocks-even-if-an-exception-is-never-thrown?newsletter=1">java - Is it expensive to use try-catch blocks even if an exception is never thrown? - Stack Overflow</a></strong>
-  <small>Is it?</small></li>
-<li><strong><a href="http://exploringdata.github.io/vis/programming-languages-influence-network/">Programming Languages Influence Network | Exploring Data</a></strong>
-  <small>Programming languages visualization</small></li>
-</ul>
-
-
-<h2>Databases</h2>
-
-<ul>
-<li><strong><a href="http://blog.markofu.com/2013/05/mongodb-authoriszation.html">ufokram: MongoDB Authori(s|z)ation</a></strong>
-  <small>The new authorisation explained</small></li>
-</ul>
-
-
-<h2>Git</h2>
-
-<ul>
-<li><strong><a href="https://github.com/trishume/pro">trishume/pro · GitHub</a></strong>
-  <small>Quickly jump to git repositories, run commands in batch and get status overviews.</small></li>
-<li><strong><a href="https://github.com/visionmedia/git-extras">visionmedia/git-extras · GitHub</a></strong>
-  <small>GIT utilities -- repo summary, repl, changelog population, author commit percentages and more</small></li>
-</ul>
-
-
-<h2>Editors</h2>
-
-<ul>
-<li><strong><a href="https://groups.google.com/forum/#!msg/vim_announce/ZWWgK9aXQ2Y/IMObY8lBFm0J">Plans for Vim 7.4 - Google Groups</a></strong>
-  <small>7.4 is around the corner, so Brian wirtes up what to expect next</small></li>
-</ul>
-
-
-<h2>Watching</h2>
-
-<ul>
-<li><strong><a href="http://www.youtube.com/watch?v=bntNYzCrzvE">Grunt JavaScript Automation for the Lazy Developer - YouTube</a></strong>
-  <small>Google's Dirk Ginader thinks great developers are lazy, and there's nothing wrong with that. After all, would you rather spend your time working on the mundane stuff — like minification, linting, compilation, unit testing, etc — or actually developing your code?</small></li>
-</ul>
-
-
-<h2>Miscellaneous</h2>
-
-<ul>
-<li><strong><a href="http://www.npr.org/blogs/krulwich/2013/05/06/181613582/our-very-normal-solar-system-isn-t-normal-anymore">Our Very Normal Solar System Isn't Normal Anymore : Krulwich Wonders... : NPR</a></strong>
-  <small>read on to find out why</small></li>
-<li><strong><a href="http://www.steamclock.com/blog/2013/05/apple-objective-c-javascript-bridge/">Steamclock Software - Apple’s new Objective-C to Javascript Bridge</a></strong>
-  <small>will come at 10.9</small></li>
 </ul>
 
 
