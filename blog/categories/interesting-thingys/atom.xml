@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Interesting-Thingys | yield the dog]]></title>
   <link href="http://yieldthedog.github.com/blog/categories/interesting-thingys/atom.xml" rel="self"/>
   <link href="http://yieldthedog.github.com/"/>
-  <updated>2013-06-20T22:16:10+02:00</updated>
+  <updated>2013-06-27T22:28:17+02:00</updated>
   <id>http://yieldthedog.github.com/</id>
   <author>
     <name><![CDATA[yield the dog]]></name>
@@ -12,6 +12,128 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Interesting Thingys 61]]></title>
+    <link href="http://yieldthedog.github.com/blog/2013/06/27/interesting-thingys-61/"/>
+    <updated>2013-06-27T22:22:00+02:00</updated>
+    <id>http://yieldthedog.github.com/blog/2013/06/27/interesting-thingys-61</id>
+    <content type="html"><![CDATA[<p>Once again we collected the finest thingys of the last week for you.</p>
+
+<!-- More -->
+
+
+<h2>JavaScript</h2>
+
+<ul>
+<li><strong><a href="http://devsmash.com/blog/whats-the-big-deal-with-generators">What's the Big Deal with Generators?</a></strong>
+  <small>A thorough explanation of how this ECMAScript 6 feature works and why it is useful.</small></li>
+</ul>
+
+
+<h2>CSS</h2>
+
+<ul>
+<li><strong><a href="http://alexwolfe.github.io/Buttons/">Buttons - A CSS button library built with Sass and Compass</a></strong>
+  <small>A CSS button library built with Sass </small></li>
+<li><strong><a href="http://blogs.adobe.com/webplatform/2013/06/24/css-background-blend-modes-are-now-available-in-chrome-canary-and-webkit-nightly/">CSS Background Blend Modes are now available in Chrome Canary and WebKit Nightly | Web Platform Team Blog</a></strong>
+  <small>As part of the CSS Blending and Compositing specification, HTML background blending allows blending of images, gradients and background colors directly from CSS.</small></li>
+</ul>
+
+
+<h2>HTML5</h2>
+
+<ul>
+<li><strong><a href="http://codepen.io/rlemon/pen/vofKF">Metaball particle clock. - CodePen</a></strong>
+  <small>nice clock demo</small></li>
+<li><strong><a href="http://jonrimmer.github.io/are-we-componentized-yet/">Are We Componentized Yet?</a></strong>
+  <small>Tracking the progress of Web Components through standardisation, polyfillification1, and implementation.</small></li>
+<li><strong><a href="http://tympanus.net/codrops/2013/06/25/nifty-modal-window-effects/">Nifty Modal Window Effects | Codrops</a></strong>
+  <small>A set of experimental modal window appearance effects with CSS transitions and animations.</small></li>
+</ul>
+
+
+<h2>Web Development</h2>
+
+<ul>
+<li><strong><a href="http://net.tutsplus.com/tutorials/html-css-techniques/developing-with-sass-and-chrome-devtools/">Developing With Sass and Chrome DevTools | Nettuts</a></strong>
+  <small>frontend dev within the dev tools</small></li>
+<li><strong><a href="http://bradfrostweb.com/blog/post/atomic-web-design/">Atomic Design</a></strong>
+  <small>We’re not designing pages, we’re designing systems of components.—Stephen Hay</small></li>
+<li><strong><a href="https://gist.github.com/dypsilon/5819504">A badass list of frontend development resources I collected over time.</a></strong>
+  <small>A badass list of frontend development resources I collected over time.</small></li>
+<li><strong><a href="https://github.com/Kolyaj/Yaxy">Kolyaj/Yaxy</a></strong>
+  <small>Proxy server for a web developers.</small></li>
+</ul>
+
+
+<h2>Mobile Webdevelopment</h2>
+
+<ul>
+<li><strong><a href="http://phonegap.com/blog/2013/06/20/coming-soon-phonegap30/">PhoneGap | Coming soon! What to expect in PhoneGap 3.0</a></strong>
+  <small>the next release overview</small></li>
+</ul>
+
+
+<h2>Ruby</h2>
+
+<ul>
+<li><strong><a href="http://weblog.rubyonrails.org/2013/6/25/Rails-4-0-final/">Riding Rails: Rails 4.0</a></strong>
+  <small>Russion-Doll-Caching, Turbolinks, Declarative Etags, ...</small></li>
+</ul>
+
+
+<h2>Node.js</h2>
+
+<ul>
+<li><strong><a href="https://github.com/nodeapps/boilerplates">nodeapps/boilerplates</a></strong>
+  <small>a collection of one-line install node.js boilerplates for various popular libraries </small></li>
+<li><strong><a href="https://github.com/sindresorhus/sudo-block">sindresorhus/sudo-block · GitHub</a></strong>
+  <small>Block users from running your tool with root permissions - Node.js module</small></li>
+<li><strong><a href="https://github.com/mattinsler/longjohn">mattinsler/longjohn</a></strong>
+  <small>Long stack traces for node.js with configurable call trace length</small></li>
+<li><strong><a href="https://github.com/isaacs/st">isaacs/st</a></strong>
+  <small>A node module for serving static files. Does etags, caching, etc.</small></li>
+<li><strong><a href="http://blog.nodejs.org/2013/06/26/node-v0-11-3-unstable/">Node v0.11.3 (Unstable)</a></strong>
+  <small>New unstable version with tons of changes</small></li>
+<li><strong><a href="https://github.com/dominictarr/level-live-stream">dominictarr/level-live-stream</a></strong>
+  <small>Stream live changes from levelup.</small></li>
+</ul>
+
+
+<h2>Databases</h2>
+
+<ul>
+<li><strong><a href="https://speakerdeck.com/sritchie/summingbird-streaming-mapreduce-at-twitter">Summingbird: Streaming MapReduce at Twitter // Speaker Deck</a></strong>
+  <small>Summingbird is a platform for streaming map/reduce used at Twitter to build aggregations in real-time or on hadoop.</small></li>
+<li><strong><a href="http://emptysqua.re/blog/real-time-profiling-a-mongodb-cluster/">Real-time Profiling a MongoDB Sharded Cluster</a></strong>
+  <small>A walkthrough on profiling a cluster with python in real time</small></li>
+</ul>
+
+
+<h2>Git</h2>
+
+<ul>
+<li><strong><a href="https://github.com/ELLIOTTCABLE/.gitlabels">ELLIOTTCABLE/.gitlabels</a></strong>
+  <small>This describes a system for adding metadata to a project’s commit messages.</small></li>
+</ul>
+
+
+<h2>Raspberry Pi</h2>
+
+<ul>
+<li><strong><a href="http://www.raspberrypi.org/archives/4271">Ziphius, the Pi-powered aquatic drone</a></strong>
+  <small>An Pi-powered aquatic drone. Controlled with an iOS or Android Device.</small></li>
+<li><strong><a href="http://www.raspberrypi.org/archives/4274">Pi-Rex</a></strong>
+  <small>A bark-activated door opener for dogs</small></li>
+</ul>
+
+
+<h2>Your link could be here</h2>
+
+<p>If we missed something special or you just want to promote a site, give us a nudge @ <a href='&#109;&#97;&#105;&#108;t&#111;&#58;%7&#57;&#105;eld&#116;%68%65do%67&#64;gmail&#37;2&#69;c&#37;6&#70;m'>y&#105;eldt&#104;&#101;dog&#64;&#103;mail&#46;&#99;&#111;m</a></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Interesting Thingys 60]]></title>
@@ -534,186 +656,6 @@
 <ul>
 <li><strong><a href="https://github.com/gelstudios/gitfiti#readme">gelstudios/gitfiti · GitHub</a></strong>
   <small>abusing github commit history for the lulz</small></li>
-</ul>
-
-
-<h2>Your link could be here</h2>
-
-<p>If we missed something special or you just want to promote a site, give us a nudge @ <a href='&#109;&#97;&#105;&#108;t&#111;&#58;%7&#57;&#105;eld&#116;%68%65do%67&#64;gmail&#37;2&#69;c&#37;6&#70;m'>y&#105;eldt&#104;&#101;dog&#64;&#103;mail&#46;&#99;&#111;m</a></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Interesting Thingys 56]]></title>
-    <link href="http://yieldthedog.github.com/blog/2013/05/23/interesting-thingys-56/"/>
-    <updated>2013-05-23T21:27:00+02:00</updated>
-    <id>http://yieldthedog.github.com/blog/2013/05/23/interesting-thingys-56</id>
-    <content type="html"><![CDATA[<p>Exiting new thingys this week. Read on …</p>
-
-<!-- More -->
-
-
-<h2>JavaScript</h2>
-
-<ul>
-<li><strong><a href="http://www.yearofmoo.com/2012/11/angularjs-and-seo.html">AngularJS and SEO - yearofmoo.com</a></strong>
-  <small>How you can setup your Angular App for Searchengines</small></li>
-<li><strong><a href="http://thomasstreet.net/blog/spreadsheet.html">Building a Spreadsheet in 20 Minutes with Angular.js — Thomas Street</a></strong>
-  <small>nice tutorial</small></li>
-<li><strong><a href="http://garysieling.com/blog/building-a-full-text-index-in-javascript">Building A Full-Text Index In Javascript</a></strong>
-  <small>Things that were not possible a while ago</small></li>
-<li><strong><a href="http://meteor.com/blog/2013/05/15/meteor-063-websockets-mongodb-24-coffee-162-synthetic-tap-events">Meteor 0.6.3</a></strong>
-  <small>with new greatness</small></li>
-<li><strong><a href="http://listjs.com/">List.js - Add search, sort and flexibility to plain HTML lists or tables with cross-browser native JavaScript by @javve</a></strong>
-  <small>sort and filter lists</small></li>
-<li><strong><a href="https://github.com/geddski/grunt-release">geddski/grunt-release · GitHub</a></strong>
-  <small>Release a new version of your Node-based project </small></li>
-<li><strong><a href="https://github.com/enginous/angular-oauth">enginous/angular-oauth · GitHub</a></strong>
-  <small>An implementation of an client-side (implicit grant) OAuth 2.0 authorization flow for AngularJS.</small></li>
-</ul>
-
-
-<h2>CSS</h2>
-
-<ul>
-<li><strong><a href="http://codepen.io/neoberg/pen/istyp">CSS only 3d Macbook Air - CodePen</a></strong>
-  <small>very impressive!</small></li>
-<li><strong><a href="http://css-tricks.com/line-clampin/">Line Clampin' | CSS-Tricks</a></strong>
-  <small>You want X lines of text. Anything after that, gracefully cut off.</small></li>
-</ul>
-
-
-<h2>HTML5</h2>
-
-<ul>
-<li><strong><a href="http://motioncanvas.info/">Motion Canvas: The HTML5 Animation System</a></strong>
-  <small>Motion Canvas is a complete HTML5 Canvas animation system</small></li>
-</ul>
-
-
-<h2>Web Development</h2>
-
-<ul>
-<li><strong><a href="http://www.polymer-project.org/?repost">Welcome - Polymer</a></strong>
-  <small>Polymer is a new type of library for the web, built on top of Web Components, and designed to leverage the evolving web platform on modern browsers.</small></li>
-<li><strong><a href="http://www.mobify.com/blog/beginners-guide-to-http-cache-headers/">A Beginner's Guide to HTTP Cache Headers | Mobify</a></strong>
-  <small>This article offers an exploration into HTTP caching headers and associated CDN behaviour</small></li>
-</ul>
-
-
-<h2>Node.js</h2>
-
-<ul>
-<li><strong><a href="http://www.ebaytechblog.com/2013/05/17/how-we-built-ebays-first-node-js-application/">How We Built eBay’s First Node.js Application — eBay Tech Blog</a></strong>
-  <small>a tiny insight</small></li>
-</ul>
-
-
-<h2>Objective C</h2>
-
-<ul>
-<li><strong><a href="https://github.com/nicklockwood/LayerSprites">nicklockwood/LayerSprites · GitHub</a></strong>
-  <small>LayerSprites is a library designed to simplify the use of sprite sheets (image maps containing multiple sub-images) in UIKit applications without using OpenGL or 3rd-party game libraries.</small></li>
-</ul>
-
-
-<h2>C</h2>
-
-<ul>
-<li><strong><a href="http://stackoverflow.com/questions/16645267/why-recursive-constructor-calls-make-invalid-c-sharp-code-compile?newsletter=1">Why recursive constructor calls make invalid C# code compile? - Stack Overflow</a></strong>
-  <small>find out on SO</small></li>
-</ul>
-
-
-<h2>Browsers</h2>
-
-<ul>
-<li><strong><a href="https://hacks.mozilla.org/2013/05/firefox-developer-tool-features-for-firefox-23/">Firefox Developer Tool Features for Firefox 23 ✩ Mozilla Hacks – the Web developer blog</a></strong>
-  <small>A look at some cool new tools currently in Firefox's 'Aurora' pre-beta channel.</small></li>
-<li><strong><a href="http://techcrunch.com/2013/05/16/google-has-already-removed-8-8m-lines-of-webkit-code-from-blink/">Google Has Already Removed 8.8M Lines Of WebKit Code From Blink | TechCrunch</a></strong>
-  <small>Who thought that it would be that much</small></li>
-<li><strong><a href="http://blog.alexmaccaw.com/requestautocomplete">Chrome’s requestAutocomplete() | Mostly harmless by Alex MacCaw</a></strong>
-  <small>Things you are used to build your own....</small></li>
-</ul>
-
-
-<h2>Shell</h2>
-
-<ul>
-<li><strong><a href="https://github.com/emre/storm">emre/storm · GitHub</a></strong>
-  <small>storm is a command line tool to manage your ssh connections.</small></li>
-</ul>
-
-
-<h2>Programming</h2>
-
-<ul>
-<li><strong><a href="http://www.futurealoof.com/posts/no-builds.html">No Builds</a></strong>
-  <small>Is it possible to develop without builds?</small></li>
-</ul>
-
-
-<h2>Databases</h2>
-
-<ul>
-<li><strong><a href="http://blog.mongodb.org/post/50984169045/new-geo-features-in-mongodb-2-4">The MongoDB NoSQL Database Blog, New Geo Features in MongoDB 2.4</a></strong>
-  <small>the new geo features in depth</small></li>
-</ul>
-
-
-<h2>Git</h2>
-
-<ul>
-<li><strong><a href="https://github.com/blog/1508-repository-redirects-are-here">Repository redirects are here!</a></strong>
-  <small>It's a fact of life - sometimes repository names change.</small></li>
-</ul>
-
-
-<h2>Tools</h2>
-
-<ul>
-<li><strong><a href="https://towtruck.mozillalabs.com/">Mozilla Labs : TowTruck</a></strong>
-  <small>A service for your website that makes it surprisingly easy to collaborate in real-time.</small></li>
-</ul>
-
-
-<h2>Watching</h2>
-
-<ul>
-<li><strong><a href="https://vimeo.com/channels/txjs2013">Texas JavaScript | TXJS 2013 on Vimeo</a></strong>
-  <small>The first videos are out on vimeo</small></li>
-<li><strong><a href="https://vimeo.com/66052102"> NoSQL Distilled to an hour - Martin Fowler on Vimeo</a></strong>
-  <small>NoSQL matters Cologne 2013 - Key Note</small></li>
-<li><strong><a href="http://www.youtube.com/watch?v=p2HzZkd2A40">Real-time communication with WebRTC: Google I/O 2013 - YouTube</a></strong>
-  <small> In this session, we show you how to get started with building a WebRTC app: - what's a MediaStream (aka getUserMedia) and how can I use it? - resolution constraints - signalling: what is it and how can I set it up? - servers: what do I need? - RTCPeerConnection: WebRTCs most powerful API - RTCDataChannel: realtime communication of arbitrary data - integrating WebRTC with Web Audio - interoperability - security</small></li>
-</ul>
-
-
-<h2>Listening</h2>
-
-<ul>
-<li><strong><a href="http://episodes.gitminutes.com/2013/05/gitminutes-08-drew-neil-on-vim-and.html">GitMinutes: GitMinutes #08: Drew Neil on Vim and Workflow</a></strong>
-  <small>In this episode we talk to Drew Neil. He is the man behind Vimcasts, and the book Practical Vim. A couple of years back he did a whole bunch of screen-casts on how to use Git from inside of Vim, and this is what made me want to get him on the show.</small></li>
-</ul>
-
-
-<h2>Miscellaneous</h2>
-
-<ul>
-<li><strong><a href="https://github.com/dotcloud/docker/">dotcloud/docker · GitHub</a></strong>
-  <small>Docker is an open-source engine which automates the deployment of applications as highly portable, self-sufficient containers.</small></li>
-<li><strong><a href="http://osrc.dfm.io/">The Open Source Report Card</a></strong>
-  <small>enter a github user and see what he's doing</small></li>
-</ul>
-
-
-<h2>Fun</h2>
-
-<ul>
-<li><strong><a href="http://thejoysofcode.com/">The Joys of Code</a></strong>
-  <small>no comment</small></li>
-<li><strong><a href="https://joindiaspora.com/posts/1653418">Two problems</a></strong>
-  <small>All programmers have problems</small></li>
 </ul>
 
 

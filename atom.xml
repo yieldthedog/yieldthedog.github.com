@@ -4,7 +4,7 @@
   <title><![CDATA[yield the dog]]></title>
   <link href="http://yieldthedog.github.com/atom.xml" rel="self"/>
   <link href="http://yieldthedog.github.com/"/>
-  <updated>2013-06-20T22:16:10+02:00</updated>
+  <updated>2013-06-27T22:28:17+02:00</updated>
   <id>http://yieldthedog.github.com/</id>
   <author>
     <name><![CDATA[yield the dog]]></name>
@@ -12,6 +12,128 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Interesting Thingys 61]]></title>
+    <link href="http://yieldthedog.github.com/blog/2013/06/27/interesting-thingys-61/"/>
+    <updated>2013-06-27T22:22:00+02:00</updated>
+    <id>http://yieldthedog.github.com/blog/2013/06/27/interesting-thingys-61</id>
+    <content type="html"><![CDATA[<p>Once again we collected the finest thingys of the last week for you.</p>
+
+<!-- More -->
+
+
+<h2>JavaScript</h2>
+
+<ul>
+<li><strong><a href="http://devsmash.com/blog/whats-the-big-deal-with-generators">What&#8217;s the Big Deal with Generators?</a></strong>
+  <small>A thorough explanation of how this ECMAScript 6 feature works and why it is useful.</small></li>
+</ul>
+
+
+<h2>CSS</h2>
+
+<ul>
+<li><strong><a href="http://alexwolfe.github.io/Buttons/">Buttons - A CSS button library built with Sass and Compass</a></strong>
+  <small>A CSS button library built with Sass </small></li>
+<li><strong><a href="http://blogs.adobe.com/webplatform/2013/06/24/css-background-blend-modes-are-now-available-in-chrome-canary-and-webkit-nightly/">CSS Background Blend Modes are now available in Chrome Canary and WebKit Nightly | Web Platform Team Blog</a></strong>
+  <small>As part of the CSS Blending and Compositing specification, HTML background blending allows blending of images, gradients and background colors directly from CSS.</small></li>
+</ul>
+
+
+<h2>HTML5</h2>
+
+<ul>
+<li><strong><a href="http://codepen.io/rlemon/pen/vofKF">Metaball particle clock. - CodePen</a></strong>
+  <small>nice clock demo</small></li>
+<li><strong><a href="http://jonrimmer.github.io/are-we-componentized-yet/">Are We Componentized Yet?</a></strong>
+  <small>Tracking the progress of Web Components through standardisation, polyfillification1, and implementation.</small></li>
+<li><strong><a href="http://tympanus.net/codrops/2013/06/25/nifty-modal-window-effects/">Nifty Modal Window Effects | Codrops</a></strong>
+  <small>A set of experimental modal window appearance effects with CSS transitions and animations.</small></li>
+</ul>
+
+
+<h2>Web Development</h2>
+
+<ul>
+<li><strong><a href="http://net.tutsplus.com/tutorials/html-css-techniques/developing-with-sass-and-chrome-devtools/">Developing With Sass and Chrome DevTools | Nettuts</a></strong>
+  <small>frontend dev within the dev tools</small></li>
+<li><strong><a href="http://bradfrostweb.com/blog/post/atomic-web-design/">Atomic Design</a></strong>
+  <small>We’re not designing pages, we’re designing systems of components.—Stephen Hay</small></li>
+<li><strong><a href="https://gist.github.com/dypsilon/5819504">A badass list of frontend development resources I collected over time.</a></strong>
+  <small>A badass list of frontend development resources I collected over time.</small></li>
+<li><strong><a href="https://github.com/Kolyaj/Yaxy">Kolyaj/Yaxy</a></strong>
+  <small>Proxy server for a web developers.</small></li>
+</ul>
+
+
+<h2>Mobile Webdevelopment</h2>
+
+<ul>
+<li><strong><a href="http://phonegap.com/blog/2013/06/20/coming-soon-phonegap30/">PhoneGap | Coming soon! What to expect in PhoneGap 3.0</a></strong>
+  <small>the next release overview</small></li>
+</ul>
+
+
+<h2>Ruby</h2>
+
+<ul>
+<li><strong><a href="http://weblog.rubyonrails.org/2013/6/25/Rails-4-0-final/">Riding Rails: Rails 4.0</a></strong>
+  <small>Russion-Doll-Caching, Turbolinks, Declarative Etags, &#8230;</small></li>
+</ul>
+
+
+<h2>Node.js</h2>
+
+<ul>
+<li><strong><a href="https://github.com/nodeapps/boilerplates">nodeapps/boilerplates</a></strong>
+  <small>a collection of one-line install node.js boilerplates for various popular libraries </small></li>
+<li><strong><a href="https://github.com/sindresorhus/sudo-block">sindresorhus/sudo-block · GitHub</a></strong>
+  <small>Block users from running your tool with root permissions - Node.js module</small></li>
+<li><strong><a href="https://github.com/mattinsler/longjohn">mattinsler/longjohn</a></strong>
+  <small>Long stack traces for node.js with configurable call trace length</small></li>
+<li><strong><a href="https://github.com/isaacs/st">isaacs/st</a></strong>
+  <small>A node module for serving static files. Does etags, caching, etc.</small></li>
+<li><strong><a href="http://blog.nodejs.org/2013/06/26/node-v0-11-3-unstable/">Node v0.11.3 (Unstable)</a></strong>
+  <small>New unstable version with tons of changes</small></li>
+<li><strong><a href="https://github.com/dominictarr/level-live-stream">dominictarr/level-live-stream</a></strong>
+  <small>Stream live changes from levelup.</small></li>
+</ul>
+
+
+<h2>Databases</h2>
+
+<ul>
+<li><strong><a href="https://speakerdeck.com/sritchie/summingbird-streaming-mapreduce-at-twitter">Summingbird: Streaming MapReduce at Twitter // Speaker Deck</a></strong>
+  <small>Summingbird is a platform for streaming map/reduce used at Twitter to build aggregations in real-time or on hadoop.</small></li>
+<li><strong><a href="http://emptysqua.re/blog/real-time-profiling-a-mongodb-cluster/">Real-time Profiling a MongoDB Sharded Cluster</a></strong>
+  <small>A walkthrough on profiling a cluster with python in real time</small></li>
+</ul>
+
+
+<h2>Git</h2>
+
+<ul>
+<li><strong><a href="https://github.com/ELLIOTTCABLE/.gitlabels">ELLIOTTCABLE/.gitlabels</a></strong>
+  <small>This describes a system for adding metadata to a project’s commit messages.</small></li>
+</ul>
+
+
+<h2>Raspberry Pi</h2>
+
+<ul>
+<li><strong><a href="http://www.raspberrypi.org/archives/4271">Ziphius, the Pi-powered aquatic drone</a></strong>
+  <small>An Pi-powered aquatic drone. Controlled with an iOS or Android Device.</small></li>
+<li><strong><a href="http://www.raspberrypi.org/archives/4274">Pi-Rex</a></strong>
+  <small>A bark-activated door opener for dogs</small></li>
+</ul>
+
+
+<h2>Your link could be here</h2>
+
+<p>If we missed something special or you just want to promote a site, give us a nudge @ <a href='&#109;&#97;&#105;&#108;t&#111;&#58;%7&#57;&#105;eld&#116;%68%65do%67&#64;gmail&#37;2&#69;c&#37;6&#70;m'>y&#105;eldt&#104;&#101;dog&#64;&#103;mail&#46;&#99;&#111;m</a></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Interesting Thingys 60]]></title>
@@ -2956,116 +3078,6 @@ published: true</p>
   <small>Internet advert from the 90ies</small></li>
 <li><strong><a href="http://www.youtube.com/watch?v=_d6KuiuteIA">Introducing the Leap Motion - YouTube</a></strong>
   <small>Nice &#8220;demo&#8221; video of leap motion</small></li>
-</ul>
-
-
-<h2>Your link could be here</h2>
-
-<p>If we missed something special or you just want to promote a site, give us a nudge @ <a href='&#109;&#97;&#105;&#108;t&#111;&#58;%7&#57;&#105;eld&#116;%68%65do%67&#64;gmail&#37;2&#69;c&#37;6&#70;m'>y&#105;eldt&#104;&#101;dog&#64;&#103;mail&#46;&#99;&#111;m</a></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Interesting Thingys 42]]></title>
-    <link href="http://yieldthedog.github.com/blog/2012/11/30/interesting-thingys-42/"/>
-    <updated>2012-11-30T08:17:00+01:00</updated>
-    <id>http://yieldthedog.github.com/blog/2012/11/30/interesting-thingys-42</id>
-    <content type="html"><![CDATA[<p>After two weeks of no thingys we are back with another fine collection of links.</p>
-
-<!-- More -->
-
-
-<h2>JavaScript</h2>
-
-<ul>
-<li><strong><a href="http://weblog.raganwald.com/JQuery-Combinators/">jQuery Combinators by raganwald</a></strong>
-  <small>jQuery Combinators adds five very useful methods to every jQuery selection: tap, into, select, ergo and when. These allow you to use your own functions as if they were built-in jQuery methods, which makes your code cleaner and more &#8220;jQuery-like.&#8221;</small></li>
-<li><strong><a href="https://github.com/raganwald/homoiconic/blob/master/2012/11/refactoring_to_jquery_combinators.md">homoiconic/2012/11/refactoring_to_jquery_combinators.md at master · raganwald/homoiconic</a></strong>
-  <small>jQuery is a general-purpose library that provides a number of browser-specific functions. Its core functionality manipulates selections of DOM entities in a fluent style. There are four fundamental operations on a selection:</small></li>
-<li><strong><a href="http://addyosmani.com/blog/a-few-new-things-coming-to-javascript/">A Few New Things Coming To JavaScript</a></strong>
-  <small>a compilation of what is coming next</small></li>
-<li><strong><a href="https://github.com/codrops/Calendario">codrops/Calendario</a></strong>
-  <small>A jQuery calendar plugin for creating flexible calendars.</small></li>
-<li><strong><a href="http://fabien-d.github.com/alertify.js/">alertifyjs - An unobtrusive customizable JavaScript notification system</a></strong>
-  <small>An unobtrusive customizable JavaScript notification system</small></li>
-</ul>
-
-
-<h2>CSS</h2>
-
-<ul>
-<li><strong><a href="http://www.impressivewebs.com/ie10-css-hacks/">IE10 CSS Hacks | Impressive Webs</a></strong>
-  <small>No conditional comments in IE 10. But there are still hacks.</small></li>
-</ul>
-
-
-<h2>Web Development</h2>
-
-<ul>
-<li><strong><a href="http://vimeo.com/53073654#at=0">Secrets of the Chrome Developer Tools on Vimeo</a></strong>
-  <small>The Developer Tools built into Google Chrome provide powerful ways to understand, debug, and profile web applications.</small></li>
-<li><strong><a href="http://fontcustom.com/">Font Custom</a></strong>
-  <small>Generate custom icon webfonts from the comfort of the command line. </small></li>
-<li><strong><a href="http://net.tutsplus.com/tutorials/chrome-dev-tools-networking-and-the-console/">Chrome Dev Tools</a></strong>
-  <small>Networking and the Console | Nettuts </small></li>
-</ul>
-
-
-<h2>Ruby</h2>
-
-<ul>
-<li><strong><a href="http://blog.wyeworks.com/2012/11/13/rails-4-compilation-links/">Rails 4 links compilation -</a></strong>
-  <small>compilation of interesting links where you will find information that is not very well known. There are pull requests, issues, commits, examples, posts, videos and more about Rails 4.</small></li>
-<li><strong><a href="http://blog.headius.com/2012/11/refining-ruby.html">Headius: Refining Ruby</a></strong>
-  <small>Charles Nutter on Ruby 2.0&#8217;s refinements</small></li>
-<li><strong><a href="http://blog.steveklabnik.com/posts/2012-11-22-introducing-the-rails-api-project">Introducing the Rails API Project - Literate Programming</a></strong>
-  <small>That&#8217;s why I&#8217;m happy to introduce Rails API: a set of tools to build excellent APIs for both heavy Javascript applications as well as non-Web API clients.</small></li>
-</ul>
-
-
-<h2>Node.js</h2>
-
-<ul>
-<li><strong><a href="https://github.com/maxogden/websocket-stream">maxogden/websocket-stream</a></strong>
-  <small>websockets with the node stream api </small></li>
-<li><strong><a href="http://blog.nodeknockout.com/post/36076501016/node-knockout-winners">node.js knockout, Node Knockout Winners!</a></strong>
-  <small>We’re excited to announce the winners of Node Knockout! Here are the champions among the 167 entries submitted this year.</small></li>
-<li><strong><a href="http://clock.co.uk/tech-blogs/how-to-create-a-private-npmjs-repository">How to create a private npm.js repository by Tom Gallacher</a></strong>
-  <small>npmjs.org never goes down Or so I thought.</small></li>
-<li><strong><a href="http://diy.github.com/wizardry/">Wizardry by diy</a></strong>
-  <small>Wizardry is a task-based library for GraphicsMagick / ImageMagick that focuses on simplicity and getting one thing done right: processing images.</small></li>
-</ul>
-
-
-<h2>Java</h2>
-
-<ul>
-<li><strong><a href="https://github.com/flatland/drip">flatland/drip · GitHub</a></strong>
-  <small>Fast JVM launching without the hassle of persistent JVMs.</small></li>
-</ul>
-
-
-<h2>Programming</h2>
-
-<ul>
-<li><strong><a href="http://www.recursivity.com/blog/2012/10/28/ides-are-a-language-smell/">IDEs Are a Language Smell</a></strong>
-  <small>A nice rant on IDEs</small></li>
-</ul>
-
-
-<h2>Databases</h2>
-
-<ul>
-<li><strong><a href="http://christiankvalheim.com/post/35293863731/the-wonderful-world-of-geo-spatial-indexes-in-mongodb">Software Ramblings, The wonderful world of GEO spatial indexes in MongoDB</a></strong>
-  <small>MongoDB has native support for geospatial indexes and extensions to the query language to support a lot of different ways of querying your geo spatial documents</small></li>
-</ul>
-
-
-<h2>DotNet</h2>
-
-<ul>
-<li><strong><a href="http://1code.codeplex.com/Wikipage?ProjectName=1code">Microsoft All-In-One Code Framework - a centralized code sample library - Home</a></strong>
-  <small>Code sample library</small></li>
 </ul>
 
 
