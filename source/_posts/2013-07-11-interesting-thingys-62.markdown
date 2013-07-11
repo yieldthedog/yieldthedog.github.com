@@ -95,11 +95,6 @@ Two weeks of thingys give a long list…
 - **[Internet Explorer 11: “Don’t call me IE” | NCZOnline](http://www.nczonline.net/blog/2013/07/02/internet-explorer-11-dont-call-me-ie/)**
     <small>@slicknet's review of IE 11 (preview). What's new, changed and removed</small>
  
-## Linux
-
-- **[Final Term](http://finalterm.org/)**
-    <small>a new terminal emulator for linux to "command your system!"</small>
- 
 ## Programming
 
 - **[Popular Conventions](http://sideeffect.kr/popularconvention/)**
