@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Interesting-Thingys | yield the dog]]></title>
   <link href="http://yieldthedog.github.com/blog/categories/interesting-thingys/atom.xml" rel="self"/>
   <link href="http://yieldthedog.github.com/"/>
-  <updated>2013-07-18T21:33:28+02:00</updated>
+  <updated>2013-07-25T22:53:30+02:00</updated>
   <id>http://yieldthedog.github.com/</id>
   <author>
     <name><![CDATA[yield the dog]]></name>
@@ -12,6 +12,112 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Interesting Thingys 64]]></title>
+    <link href="http://yieldthedog.github.com/blog/2013/07/26/interesting-thingys-64/"/>
+    <updated>2013-07-26T08:17:00+02:00</updated>
+    <id>http://yieldthedog.github.com/blog/2013/07/26/interesting-thingys-64</id>
+    <content type="html"><![CDATA[<p>Be sure to check out the 10 lifehacks from 100 years ago…</p>
+
+<!-- More -->
+
+
+<h2>JavaScript</h2>
+
+<ul>
+<li><strong><a href="http://net.tutsplus.com/tutorials/javascript-ajax/required-javascript-reading/">Required JavaScript Reading | Nettuts</a></strong>
+  <small>Rey Bango collected a list of Javascript books and blogs</small></li>
+<li><strong><a href="https://github.com/623HS/zen.js">623HS/zen.js</a></strong>
+  <small>Zen Coding style, declarative DOM tree generator</small></li>
+<li><strong><a href="http://www.2ality.com/2013/07/defending-constructors.html">In defense of JavaScript’s constructors</a></strong>
+  <small>Should you use constructors?</small></li>
+<li><strong><a href="http://net.tutsplus.com/tutorials/javascript-ajax/real-time-messaging-for-meteor-with-meteor-streams/">Real-Time Messaging for Meteor With Meteor Streams | Nettuts</a></strong>
+  <small>A complete example of streams</small></li>
+</ul>
+
+
+<h2>HTML5</h2>
+
+<ul>
+<li><strong><a href="http://coding.smashingmagazine.com/2013/05/23/building-the-new-financial-times-web-app/">Building The New Financial Times Web App (A Case Study) | Smashing Coding</a></strong>
+  <small>The challenges of building a site with new technologies</small></li>
+</ul>
+
+
+<h2>Web Development</h2>
+
+<ul>
+<li><strong><a href="https://github.com/jendewalt/jennifer_dewalt">jendewalt/jennifer_dewalt</a></strong>
+  <small>180 Websites in 180 days</small></li>
+</ul>
+
+
+<h2>Node.js</h2>
+
+<ul>
+<li><strong><a href="http://blog.safaribooksonline.com/2013/07/16/javascript-powered-arduino-with-johnny-five/">JavaScript Powered Arduino with Johnny-Five | Safari Books Online's Official Blog</a></strong>
+  <small>Guide on how to connect to your arduino with johnny five</small></li>
+</ul>
+
+
+<h2>Objective C</h2>
+
+<ul>
+<li><strong><a href="https://github.com/overcommitted/ParcelKit">overcommitted/ParcelKit</a></strong>
+  <small>ParcelKit seamlessly integrates Core Data with Dropbox using the Dropbox Datastore API</small></li>
+</ul>
+
+
+<h2>Browsers</h2>
+
+<ul>
+<li><strong><a href="https://github.com/bgrins/devtools-snippets">bgrins/devtools-snippets</a></strong>
+  <small>collection of helpful snippets to use inside of browser devtools</small></li>
+</ul>
+
+
+<h2>Programming</h2>
+
+<ul>
+<li><strong><a href="https://github.com/sorenmacbeth/streaming-papers">sorenmacbeth/streaming-papers</a></strong>
+  <small>A curated collection of papers on streaming algorithms</small></li>
+</ul>
+
+
+<h2>Watching</h2>
+
+<ul>
+<li><strong><a href="http://www.youtube.com/playlist?list=PLP6DbQBkn9ymGQh2qpk9ImLHdSH5T7yw7">Egghead.io - AngularJS - YouTube</a></strong>
+  <small>The AngularJS video tutorial course featured on Egghead.io</small></li>
+<li><strong><a href="http://www.youtube.com/watch?v=BPC_mClNSXk">Hadoop Tutorial: Analyzing Server Logs - YouTube</a></strong>
+  <small>This video explores how to use Hadoop and the Hortonworks Data Platform to analyze server log data and respond quickly to an enterprise security breach.</small></li>
+</ul>
+
+
+<h2>Fun</h2>
+
+<ul>
+<li><strong><a href="http://www.mentalfloss.com/article/51702/10-lifehacks-100-years-ago">10 Lifehacks from 100 Years Ago | Mental Floss</a></strong>
+  <small>some useful stuff</small></li>
+<li><strong><a href="https://github.com/mame/quine-relay">mame/quine-relay</a></strong>
+  <small>a quine through 50 programming languages .. yep.</small></li>
+</ul>
+
+
+<h2>Raspberry Pi</h2>
+
+<ul>
+<li><strong><a href="http://www.heise.de/newsticker/meldung/Raspberry-Pi-als-FM-Senderchen-1921154.html">Raspberry Pi als FM-Senderchen</a></strong>
+  <small>Raspberry Pi als kleine FM Sendestation</small></li>
+</ul>
+
+
+<h2>Your link could be here</h2>
+
+<p>If we missed something special or you just want to promote a site, give us a nudge @ <a href='&#109;&#97;&#105;&#108;t&#111;&#58;%7&#57;&#105;eld&#116;%68%65do%67&#64;gmail&#37;2&#69;c&#37;6&#70;m'>y&#105;eldt&#104;&#101;dog&#64;&#103;mail&#46;&#99;&#111;m</a></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Interesting Thingys 63]]></title>
@@ -632,158 +738,6 @@
 <ul>
 <li><strong><a href="http://www.raspberrypi.org/archives/4204">Onion Pi: Foil the NSA and Prism with a Tor proxy | Raspberry Pi</a></strong>
   <small>Tor proxy box based around a Pi</small></li>
-</ul>
-
-
-<h2>Your link could be here</h2>
-
-<p>If we missed something special or you just want to promote a site, give us a nudge @ <a href='&#109;&#97;&#105;&#108;t&#111;&#58;%7&#57;&#105;eld&#116;%68%65do%67&#64;gmail&#37;2&#69;c&#37;6&#70;m'>y&#105;eldt&#104;&#101;dog&#64;&#103;mail&#46;&#99;&#111;m</a></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Interesting Thingys 59]]></title>
-    <link href="http://yieldthedog.github.com/blog/2013/06/13/interesting-thingys-59/"/>
-    <updated>2013-06-13T22:01:00+02:00</updated>
-    <id>http://yieldthedog.github.com/blog/2013/06/13/interesting-thingys-59</id>
-    <content type="html"><![CDATA[<p>After quite a long time we have a Clojure link in this weeks thingys.</p>
-
-<!-- More -->
-
-
-<h2>JavaScript</h2>
-
-<ul>
-<li><strong><a href="https://github.com/jmcunningham/AngularJS-Learning">jmcunningham/AngularJS-Learning · GitHub</a></strong>
-  <small>A bunch of links to blog posts, articles, videos, etc for learning AngularJS</small></li>
-<li><strong><a href="http://infrequently.org/2013/06/sfuturepromiseg/">s/Future/Promise/g | Infrequently Noted</a></strong>
-  <small>Alex Russel on the tufture of promises</small></li>
-<li><strong><a href="http://dailyjs.com/2013/06/07/angular-svg/">DailyJS: AngularJS and SVG</a></strong>
-  <small>Nice idea. Use data binding to change svg</small></li>
-</ul>
-
-
-<h2>CSS</h2>
-
-<ul>
-<li><strong><a href="http://www.smashingmagazine.com/2013/06/10/pinterest-paint-performance-case-study/">Gone In 60 Frames Per Second: A Pinterest Paint Performance Case Study</a></strong>
-  <small>How to improve the paint performance of your websites and Web apps</small></li>
-<li><strong><a href="http://css-tricks.com/sass-style-guide/">Sass Style Guide</a></strong>
-  <small>Some ideas from Chris Coyier</small></li>
-</ul>
-
-
-<h2>HTML5</h2>
-
-<ul>
-<li><strong><a href="https://github.com/codepo8/irregular-shape-rollover">codepo8/irregular-shape-rollover · GitHub</a></strong>
-  <small>Creating irregular shape rollovers with Canvas</small></li>
-</ul>
-
-
-<h2>Web Development</h2>
-
-<ul>
-<li><strong><a href="http://www.meteor.com/blog/2013/06/10/meteor-064-new-oauth-packages-and-recommended-updates">Meteor 0.6.4</a></strong>
-  <small>new OAuth package and security fixes</small></li>
-<li><strong><a href="http://ink.sapo.pt/">InK - Interface Kit</a></strong>
-  <small>an alternative to bootstrap</small></li>
-<li><strong><a href="http://updates.html5rocks.com/2013/06/sourceMappingURL-and-sourceURL-syntax-changed">sourceMappingURL and sourceURL syntax changed - HTML5Rocks Updates</a></strong>
-  <small>Some of you might already have seen the deprication warning. Paul Irish explains the spec change</small></li>
-</ul>
-
-
-<h2>Mobile Webdevelopment</h2>
-
-<ul>
-<li><strong><a href="https://plus.google.com/%20PaulIrish/posts/ccP98BTMd5Z">Paul Irish - Google - Developer Tools for Android WebView We have full remote…</a></strong>
-  <small>We have full remote debugging for Chrome on Android and Mobile Safari, but poor old Android WebView doesn't have a lot of help. Here are the tools I know about so far...</small></li>
-</ul>
-
-
-<h2>Ruby</h2>
-
-<ul>
-<li><strong><a href="http://blog.envylabs.com/post/52395695243/chaining-scopes-in-rails-4">Blog :: Envy Labs, Chaining scopes in Rails 4</a></strong>
-  <small>Coming up in Rails 4 are big changes in ActiveRecord and how scopes work when chained together into a single query.</small></li>
-</ul>
-
-
-<h2>Node.js</h2>
-
-<ul>
-<li><strong><a href="https://github.com/visionmedia/co">visionmedia/co · GitHub</a></strong>
-  <small>Generator based flow-control goodness for nodejs using thunks instead of promises</small></li>
-<li><strong><a href="https://github.com/arcturus/node-firefoxos-cli">arcturus/node-firefoxos-cli · GitHub</a></strong>
-  <small>Command line development tools for Firefox OS</small></li>
-<li><strong><a href="https://github.com/dominictarr/level-replicate">dominictarr/level-replicate · GitHub</a></strong>
-  <small>Implements scuttlebutt style handshake and then syncs data, then replicates real time changes.</small></li>
-<li><strong><a href="https://github.com/nharbour/decomponentify">nharbour/decomponentify · GitHub</a></strong>
-  <small>A node.js browserify transform to enable the use of component.js components in browserify client javascript projects</small></li>
-<li><strong><a href="https://github.com/eugeneware/debowerify">eugeneware/debowerify · GitHub</a></strong>
-  <small>A browserify transform to enable the easy use of bower components in browserify client javascript projects. This can be used in conjunction with deamdify to require AMD components from bower as well. </small></li>
-</ul>
-
-
-<h2>Clojure</h2>
-
-<ul>
-<li><strong><a href="https://github.com/clojure-cookbook/clojure-cookbook">clojure-cookbook/clojure-cookbook · GitHub</a></strong>
-  <small>This is the home of O'Reilly's Clojure Cookbook - Find us online at clojure-cookbook.com </small></li>
-</ul>
-
-
-<h2>Programming</h2>
-
-<ul>
-<li><strong><a href="https://github.com/blakeembrey/code-problems">blakeembrey/code-problems · GitHub</a></strong>
-  <small>Common code problems solved using JavaScript - add your own problems and solutions!</small></li>
-<li><strong><a href="http://michaelrbernste.in/2013/06/03/real-time-garbage-collection-is-real.html">mrb: Real-Time Garbage Collection Is Real</a></strong>
-  <small>Real-Time Garbage Collection (RTGC) tests the limits of what we typically think is possible in production software.</small></li>
-</ul>
-
-
-<h2>Git</h2>
-
-<ul>
-<li><strong><a href="https://coderwall.com/p/euwpig">Filipe Kiss : A better git log</a></strong>
-  <small>So, are you tired of this old and bored git log screen?</small></li>
-</ul>
-
-
-<h2>Watching</h2>
-
-<ul>
-<li><strong><a href="http://www.ted.com/talks/raffaello_d_andrea_the_astounding_athletic_power_of_quadcopters.html#">Raffaello D'Andrea: The astounding athletic power of quadcopters | Video on TED.com</a></strong>
-  <small>how to have fun with quadcopters</small></li>
-<li><strong><a href="https://www.youtube.com/watch?v=UMnZiTL0tUc">The Secret to Safe Continuous Deployment - YouTube</a></strong>
-  <small>On the Google Consumer Surveys team, 8 minutes after you commit code it's live in production.</small></li>
-</ul>
-
-
-<h2>Miscellaneous</h2>
-
-<ul>
-<li><strong><a href="http://andrewkelley.me/post/jamulator.html">Statically Recompiling NES Games into Native Executables with LLVM and Go - Andrew Kelley</a></strong>
-  <small>a very long post</small></li>
-<li><strong><a href="https://github.com/goshakkk/nsa_panel">goshakkk/nsa_panel · GitHub</a></strong>
-  <small>Easily add an NSA backdoor into your Rails app</small></li>
-</ul>
-
-
-<h2>Fun</h2>
-
-<ul>
-<li><strong><a href="https://www.cubeslam.com/dqxeyu">Cube Slam</a></strong>
-  <small>Pong, the WebRTC version</small></li>
-</ul>
-
-
-<h2>Scala</h2>
-
-<ul>
-<li><strong><a href="https://github.com/mandubian/play-autosource">mandubian/play-autosource · GitHub</a></strong>
-  <small>Play Autosource : 1mn REST/Crud/Async/Typesafe Datasource for Play Framework</small></li>
 </ul>
 
 
