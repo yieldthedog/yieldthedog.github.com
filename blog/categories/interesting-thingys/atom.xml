@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Interesting-Thingys | yield the dog]]></title>
   <link href="http://yieldthedog.github.com/blog/categories/interesting-thingys/atom.xml" rel="self"/>
   <link href="http://yieldthedog.github.com/"/>
-  <updated>2013-07-25T22:53:30+02:00</updated>
+  <updated>2013-08-22T22:07:41+02:00</updated>
   <id>http://yieldthedog.github.com/</id>
   <author>
     <name><![CDATA[yield the dog]]></name>
@@ -12,6 +12,194 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Interesting Thingys 65]]></title>
+    <link href="http://yieldthedog.github.com/blog/2013/08/23/interesting-thingys-65/"/>
+    <updated>2013-08-23T08:17:00+02:00</updated>
+    <id>http://yieldthedog.github.com/blog/2013/08/23/interesting-thingys-65</id>
+    <content type="html"><![CDATA[<p>After a recreational pause we are back with lots of thingys that gathered over the summer.</p>
+
+<!-- More -->
+
+
+<h2>JavaScript</h2>
+
+<ul>
+<li><strong><a href="https://github.com/justindeguzman/locstor">justindeguzman/locstor</a></strong>
+  <small>JavaScript helper library for HTML5 localStorage</small></li>
+<li><strong><a href="http://technical.io/">Tessel</a></strong>
+  <small>Tessel is an Internet-connected microcontroller for software developers.</small></li>
+</ul>
+
+
+<h2>CSS</h2>
+
+<ul>
+<li><strong><a href="http://codepen.io/shshaw/full/gEiDt">Absolute Centering - CodePen</a></strong>
+  <small>an alternative approach</small></li>
+<li><strong><a href="https://github.com/codrops/CreativeLinkEffects">codrops/CreativeLinkEffects</a></strong>
+  <small>An inspirational collection of experimental link effects mostly using transitions on pseudo-elements.</small></li>
+<li><strong><a href="https://github.com/HugoGiraudel/Sass-snippets">HugoGiraudel/Sass-snippets</a></strong>
+  <small>A couple of Sass tricks</small></li>
+</ul>
+
+
+<h2>HTML5</h2>
+
+<ul>
+<li><strong><a href="http://updates.html5rocks.com/2013/07/Alpha-transparency-in-Chrome-video">Alpha transparency in Chrome video - HTML5Rocks Updates</a></strong>
+  <small>nice work</small></li>
+</ul>
+
+
+<h2>Web Development</h2>
+
+<ul>
+<li><strong><a href="http://sixrevisions.com/javascript/grunt-tutorial-01/">Speed Up Your Web Development Workflow with Grunt</a></strong>
+  <small>In a series of tutorials, I’m going to help you get started with Grunt, an open source JavaScript task runner that will automate some of your web development tasks.</small></li>
+<li><strong><a href="http://csswizardry.com/2013/01/front-end-performance-for-web-designers-and-front-end-developers/">Front-end performance for web designers and front-end developers – CSS Wizardry – CSS, OOCSS, front-end architecture, performance and more, by Harry Roberts</a></strong>
+  <small>It’s hard, if not impossible, to deny that performance is by far one of the most critical aspects of any decent web project, be it a small portfolio site, a mobile-first web app, right through to a full-scale ecommerce project.</small></li>
+<li><strong><a href="https://github.com/component/infinity">component/infinity</a></strong>
+  <small>infinite scrolling with loading and unloading.</small></li>
+<li><strong><a href="https://github.com/kenkeiter/skeuocard">kenkeiter/skeuocard</a></strong>
+  <small>Skeuocard progressively enhances credit card inputs to provide a skeuomorphic interface.</small></li>
+<li><strong><a href="http://www.brianpark.ca/projects/angular-hovercard/">Angular Hovercard Demo</a></strong>
+  <small>a small directive for a nice hover effect</small></li>
+<li><strong><a href="http://uxdesign.smashingmagazine.com/2013/08/13/guide-to-designing-touch-keyboards-with-cheat-sheet/">A Guide To Designing Touch Keyboards (With Cheat Sheet) | Smashing UX Design</a></strong>
+  <small>Users interact directly with touch interfaces, which narrows the gap between human act and software response.</small></li>
+<li><strong><a href="https://github.com/bower/bower/blob/master/CHANGELOG.md#100---2013-07-23">Bower 1.0.0</a></strong>
+  <small>completely rewritten</small></li>
+<li><strong><a href="https://bbinto.wordpress.com/2013/08/03/grunt-your-way-through-frontend-performance-optimization/">“Grunt” your way to frontend performance optimization | Be better and faster</a></strong>
+  <small>a nice compilation</small></li>
+<li><strong><a href="http://tympanus.net/codrops/2013/08/13/multi-level-push-menu/">Multi-Level Push Menu | Codrops</a></strong>
+  <small>An experimental push menu with multi-level functionality that allows endless nesting of navigation elements.</small></li>
+<li><strong><a href="https://github.com/lucb1e/cookielesscookies">lucb1e/cookielesscookies</a></strong>
+  <small>Demo of tracking using etags instead of cookies (or localstorage or anything else) </small></li>
+<li><strong><a href="https://github.com/operasoftware/ucss">operasoftware/ucss</a></strong>
+  <small>Find unused and duplicate CSS </small></li>
+<li><strong><a href="https://github.com/tsenart/vegeta">tsenart/vegeta</a></strong>
+  <small>HTTP load testing tool and library</small></li>
+<li><strong><a href="https://www.youtube.com/playlist?list=PLS3jzvALRSe6uP9gVfXLCG6nWo7M0hAJY#grigorik">Web Performance Crash Course - Fluent 2013 - YouTube</a></strong>
+  <small>From the ground up introduction to the field of web performance optimization: network bottlenecks, the document parsing and evaluation pipeline, visual layout, javascript, and more. We'll investigate each in order and then pull it all together through case studies and hands-on examples.</small></li>
+<li><strong><a href="https://github.com/VictorBjelkholm/ngProgress">VictorBjelkholm/ngProgress</a></strong>
+  <small>Angular provider for slim loading bar at the top of the page ( inspired by https://github.com/rstacruz/nprogress ) </small></li>
+<li><strong><a href="http://blog.hertzen.com/post/58941603216/click-heatmaps-with-google-analytics">Niklas von Hertzen - Click heatmaps with Google Analytics</a></strong>
+  <small>with demo</small></li>
+</ul>
+
+
+<h2>Python</h2>
+
+<ul>
+<li><strong><a href="https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers">CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers</a></strong>
+  <small>aka "Bayesian Methods for Hackers": An introduction to Bayesian methods probabilistic programming with a computation/understanding-first, mathematics-second point of view. All in pure Python </small></li>
+</ul>
+
+
+<h2>Node.js</h2>
+
+<ul>
+<li><strong><a href="http://bone.io/">Bone.io - Realtime HTML5 Framework</a></strong>
+  <small>Bone.io is a lightweight framework for building high performance Realtime Single Page HTML5 Apps</small></li>
+<li><strong><a href="https://github.com/substack/webworkify">substack/webworkify</a></strong>
+  <small>launch a web worker that can require() in the browser with browserify</small></li>
+<li><strong><a href="https://github.com/substack/level-assoc">substack/level-assoc</a></strong>
+  <small>relational foreign key associations (hasMany, belongsTo) for leveldb </small></li>
+</ul>
+
+
+<h2>Scala</h2>
+
+<ul>
+<li><strong><a href="https://github.com/davidpeklak/smt">davidpeklak/smt</a></strong>
+  <small>simple database migrations tool. Example @ https://github.com/davidpeklak/smt-usage</small></li>
+</ul>
+
+
+<h2>Clojure</h2>
+
+<ul>
+<li><strong><a href="https://github.com/ztellman/byte-transforms">ztellman/byte-transforms</a></strong>
+  <small>methods for hashing, compressing, and encoding bytes</small></li>
+<li><strong><a href="https://github.com/lynaghk/jetty7-websockets-async">lynaghk/jetty7-websockets-async</a></strong>
+  <small>Clojure core.async interface to Jetty7's websockets.</small></li>
+</ul>
+
+
+<h2>Programming</h2>
+
+<ul>
+<li><strong><a href="https://github.com/samsquire/ideas">samsquire/ideas</a></strong>
+  <small>a record of ideas</small></li>
+<li><strong><a href="http://radar.oreilly.com/2013/01/the-future-of-programming.html">The future of programming - O'Reilly Radar</a></strong>
+  <small>Unraveling what programming will need for the next 10 years. </small></li>
+</ul>
+
+
+<h2>Editors</h2>
+
+<ul>
+<li><strong><a href="http://sublimepackages.com/">Sublime Packages</a></strong>
+  <small>A searchable index of Sublime Text packages hosted on Github </small></li>
+<li><strong><a href="http://www.vim.org/">Vim 7.4 released</a></strong>
+  <small>With thouthands of patches</small></li>
+</ul>
+
+
+<h2>Security</h2>
+
+<ul>
+<li><strong><a href="https://blog.mozilla.org/security/2013/07/30/introducing-minion/">Introducing Minion | Mozilla Security Blog</a></strong>
+  <small>Minion is a platform developed by the Security Automation team at Mozilla to enable integration and adoption of automated security testing that has been under development for the past year.</small></li>
+</ul>
+
+
+<h2>Watching</h2>
+
+<ul>
+<li><strong><a href="https://vimeo.com/71278954">Bret Victor - The Future of Programming on Vimeo</a></strong>
+  <small>presented at dropbox conf</small></li>
+</ul>
+
+
+<h2>Reading</h2>
+
+<ul>
+<li><strong><a href="http://www.huffingtonpost.com/john-pavley/huffpost-content-management-system_b_3739572.html">Sneak Peek: HuffPost Brings Real Time Collaboration to the Newsroom | John Pavley</a></strong>
+  <small>nice "behind the scenes" of the new upcoming huffington post editor tools</small></li>
+</ul>
+
+
+<h2>Miscellaneous</h2>
+
+<ul>
+<li><strong><a href="http://lonesysadmin.net/2011/11/08/ssh-escape-sequences-aka-kill-dead-ssh-sessions/">SSH Escape Sequences (aka Kill Dead SSH Sessions) — The Lone Sysadmin</a></strong>
+  <small>what can you do with dead ssh sessions?</small></li>
+</ul>
+
+
+<h2>Fun</h2>
+
+<ul>
+<li><strong><a href="http://regexcrossword.com/">Regex Crossword</a></strong>
+  <small>A crossword with regexes</small></li>
+</ul>
+
+
+<h2>Raspberry Pi</h2>
+
+<ul>
+<li><strong><a href="http://www.raspberrypi.org/archives/4684">Wearables: Raspberry Pi Glass</a></strong>
+  <small>Domestic Hacks has made a 3d-printed, steampunk inspired, fabulous, wearable Pi.</small></li>
+</ul>
+
+
+<h2>Your link could be here</h2>
+
+<p>If we missed something special or you just want to promote a site, give us a nudge @ <a href='&#109;&#97;&#105;&#108;t&#111;&#58;%7&#57;&#105;eld&#116;%68%65do%67&#64;gmail&#37;2&#69;c&#37;6&#70;m'>y&#105;eldt&#104;&#101;dog&#64;&#103;mail&#46;&#99;&#111;m</a></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Interesting Thingys 64]]></title>
@@ -640,104 +828,6 @@
   <small>An Pi-powered aquatic drone. Controlled with an iOS or Android Device.</small></li>
 <li><strong><a href="http://www.raspberrypi.org/archives/4274">Pi-Rex</a></strong>
   <small>A bark-activated door opener for dogs</small></li>
-</ul>
-
-
-<h2>Your link could be here</h2>
-
-<p>If we missed something special or you just want to promote a site, give us a nudge @ <a href='&#109;&#97;&#105;&#108;t&#111;&#58;%7&#57;&#105;eld&#116;%68%65do%67&#64;gmail&#37;2&#69;c&#37;6&#70;m'>y&#105;eldt&#104;&#101;dog&#64;&#103;mail&#46;&#99;&#111;m</a></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Interesting Thingys 60]]></title>
-    <link href="http://yieldthedog.github.com/blog/2013/06/20/interesting-thingys-60/"/>
-    <updated>2013-06-20T22:12:00+02:00</updated>
-    <id>http://yieldthedog.github.com/blog/2013/06/20/interesting-thingys-60</id>
-    <content type="html"><![CDATA[<p>Lots of stories for web devs this week, read on…</p>
-
-<!-- More -->
-
-
-<h2>JavaScript</h2>
-
-<ul>
-<li><strong><a href="https://github.com/dzautner/jsPipe">dzautner/jsPipe · GitHub</a></strong>
-  <small>Implementing pipes in Javascript using psudo operator overloading </small></li>
-<li><strong><a href="http://www.2ality.com/2011/12/fake-operator-overloading.html?m=1">Fake operator overloading in JavaScript</a></strong>
-  <small>This post describes how to do a limited version of operator overloading in JavaScript. With the technique described here, you’ll be able to implement a type StringBuilder that can be used as follows:</small></li>
-<li><strong><a href="https://github.com/maxogden/doorknob">maxogden/doorknob · GitHub</a></strong>
-  <small>convenience module for adding Mozilla Persona user login LevelDB based session storage to node web apps</small></li>
-<li><strong><a href="https://github.com/mintchaos/flippant.js">mintchaos/flippant.js</a></strong>
-  <small>A mini dependancy-less UI lib for flipping over DOM nodes.</small></li>
-</ul>
-
-
-<h2>HTML5</h2>
-
-<ul>
-<li><strong><a href="http://www.inserthtml.com/2013/06/history-api/">Controlling History: the HTML5 History API and ‘Selective’ Loading | InsertHTML</a></strong>
-  <small>Today we’re going to look at a way to keep a sense of consistency on your website by maintaining the state of some elements even when the user navigates through history.</small></li>
-</ul>
-
-
-<h2>Web Development</h2>
-
-<ul>
-<li><strong><a href="http://googlewebmastercentral.blogspot.com.br/2013/06/changes-in-rankings-of-smartphone_11.html">Official Google Webmaster Central Blog: Changes in rankings of smartphone search results</a></strong>
-  <small>watch out for these changes</small></li>
-<li><strong><a href="http://www.modern.ie/en-us/virtualization-tools#downloads">Cross-browser testing simplified | Testing made easier in Internet Explorer | modern.IE</a></strong>
-  <small>Test versions of IE using Virtual Machines that you download and manage in your own development environment.</small></li>
-<li><strong><a href="http://dontkry.com/posts/code/browserify-and-the-universal-module-definition.html#.UbuUc6P4-dI.twitter">Browserify and the Universal Module Definition | dontkry.com</a></strong>
-  <small>HOW I LEARNED TO STOP WORRYING AND LOVE THE BROWSERIFY</small></li>
-<li><strong><a href="http://heydonworks.com/auticons-icon-font/">Auticons: An automatic icon font</a></strong>
-  <small>Auticons is an icon font and CSS set that harnesses the awesome power of attribute selectors.</small></li>
-<li><strong><a href="http://code.flickr.net/2013/06/04/adventures-in-jank-busting-parallax-performance-and-the-new-flickr-home-page/">Adventures in Jank Busting: Parallax, performance, and the new Flickr Home Page | code.flickr.com</a></strong>
-  <small>Great write-up on jank busting, parallax and performance from the engineering team at Flickr</small></li>
-<li><strong><a href="http://blog.chromium.org/search/label/Chrome%20Frame">Retiring Chrome Frame</a></strong>
-  <small>Interesting move.</small></li>
-<li><strong><a href="http://hochitom.at/brackets-from-design-comp-to-code/">Brackets: From Design Comp to Code » Hochitom.at</a></strong>
-  <small>review of brackets</small></li>
-<li><strong><a href="https://github.com/Prinzhorn/skrollr">Prinzhorn/skrollr</a></strong>
-  <small>Stand-alone parallax scrolling library for mobile (Android iOS) and desktop. No jQuery. Just plain JavaScript (and some love). http://prinzhorn.github.io/skrollr/</small></li>
-<li><strong><a href="http://www.peterkroener.de/50-kleine-tipps-und-tricks-zu-den-chrome-developer-tools/">50 kleine Tipps und Tricks zu den Chrome Developer Tools • Peter Kröner • Webtechnologie</a></strong>
-  <small>Das eigentlich Tolle den Devtools sind die vielen kleinen Dinge, die das Leben leichter machen.</small></li>
-<li><strong><a href="http://www.igvita.com/2013/06/12/innovating-with-http-2.0-server-push/">Innovating with HTTP 2.0 Server Push - igvita.com</a></strong>
-  <small>HTTP 2.0 enables the server to send multiple responses (in parallel) for a single client request - aka "server push." Ilya Grigorik looks at how this can be used to avoid round trips.</small></li>
-</ul>
-
-
-<h2>Mobile Development</h2>
-
-<ul>
-<li><strong><a href="https://github.com/NickTitle/iOS7-Trans-Blur">NickTitle/iOS7-Trans-Blur</a></strong>
-  <small>Implementation of the new iOS7-style masking transparency blur, using StackBlur</small></li>
-</ul>
-
-
-<h2>Node.js</h2>
-
-<ul>
-<li><strong><a href="https://github.com/flatiron/nconf">flatiron/nconf · GitHub</a></strong>
-  <small>Hierarchical node.js configuration with files, environment variables, command-line arguments, and atomic object merging.</small></li>
-<li><strong><a href="https://github.com/substack/stream-adventure">substack/stream-adventure · GitHub</a></strong>
-  <small>go on an educational stream adventure! </small></li>
-</ul>
-
-
-<h2>Databases</h2>
-
-<ul>
-<li><strong><a href="http://blog.endpoint.com/2013/06/postgresql-functional-indexes.html">PostgreSQL Functional Indexes | End Point Blog</a></strong>
-  <small>a quick overview on functional indexes</small></li>
-</ul>
-
-
-<h2>Raspberry Pi</h2>
-
-<ul>
-<li><strong><a href="http://www.raspberrypi.org/archives/4204">Onion Pi: Foil the NSA and Prism with a Tor proxy | Raspberry Pi</a></strong>
-  <small>Tor proxy box based around a Pi</small></li>
 </ul>
 
 
