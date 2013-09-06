@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Interesting-Thingys | yield the dog]]></title>
   <link href="http://yieldthedog.github.com/blog/categories/interesting-thingys/atom.xml" rel="self"/>
   <link href="http://yieldthedog.github.com/"/>
-  <updated>2013-08-22T22:07:41+02:00</updated>
+  <updated>2013-09-06T08:02:59+02:00</updated>
   <id>http://yieldthedog.github.com/</id>
   <author>
     <name><![CDATA[yield the dog]]></name>
@@ -12,6 +12,142 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Interesting Thingys 66]]></title>
+    <link href="http://yieldthedog.github.com/blog/2013/09/06/interesting-thingys-66/"/>
+    <updated>2013-09-06T08:17:00+02:00</updated>
+    <id>http://yieldthedog.github.com/blog/2013/09/06/interesting-thingys-66</id>
+    <content type="html"><![CDATA[<p>And another release of exciting Thingys</p>
+
+<!-- More -->
+
+
+<h2>JavaScript</h2>
+
+<ul>
+<li><strong><a href="http://joshdmiller.github.io/ng-boilerplate/#/home">Home | ngBoilerplate</a></strong>
+  <small> Everything you need to kickstart AngularJS projects: a best-practice directory structure, an intelligent build system, and the best web design libraries around. </small></li>
+<li><strong><a href="http://emberjs.com/blog/2013/08/31/ember-1-0-released.html">Ember.js - Ember 1.0 Released</a></strong>
+  <small>the big 1.0 for Ember is out</small></li>
+<li><strong><a href="https://chrome.google.com/webstore/detail/ember-inspector/bmdblncegkenkacieihfhpjfppoconhi">Ember Inspector</a></strong>
+  <small>Ember.js Inspector is now available on the Chrome Web Store</small></li>
+<li><strong><a href="https://github.com/adobe-research/theseus">adobe-research/theseus</a></strong>
+  <small>A pretty darn cool JavaScript debugger for Brackets</small></li>
+</ul>
+
+
+<h2>CSS</h2>
+
+<ul>
+<li><strong><a href="http://tympanus.net/codrops/2013/08/27/3d-shading-with-box-shadows/">3D Shading with Box-Shadows | Codrops</a></strong>
+  <small>A tutorial about a technique that uses box shadows for creating a realistic shading effect on simple objects.</small></li>
+<li><strong><a href="http://tympanus.net/codrops/2013/08/28/transitions-for-off-canvas-navigations/">Transitions for Off-Canvas Navigations | Codrops</a></strong>
+  <small>Some inspiration for transition effects for off-canvas navigations.</small></li>
+</ul>
+
+
+<h2>Web Development</h2>
+
+<ul>
+<li><strong><a href="https://github.com/andismith/grunt-responsive-images">andismith/grunt-responsive-images · GitHub</a></strong>
+  <small>Produce Responsive Images</small></li>
+<li><strong><a href="https://plus.google.com/114450218898660299759/posts/16Hc6VxL3hJ">CSS Sprites vs. Data URIs</a></strong>
+  <small>Eine weitere Untersuchung zeigt, dass man bei der Frontend-Entwicklung für Mobile Devices auf Data-URL verzichten sollte.</small></li>
+<li><strong><a href="http://www.html5rocks.com/en/tutorials/webcomponents/customelements/">Custom Elements: defining new elements in HTML - HTML5 Rocks</a></strong>
+  <small>webcomponents overview</small></li>
+</ul>
+
+
+<h2>Mobile Webdevelopment</h2>
+
+<ul>
+<li><strong><a href="http://mozilla.github.io/brick/">Brick</a></strong>
+  <small>UI Components for Modern Web Apps</small></li>
+</ul>
+
+
+<h2>Ruby</h2>
+
+<ul>
+<li><strong><a href="http://franck.verrot.fr/blog/2013/08/21/method-definitions-in-ruby-2-1-0-will-not-be-void-anymore/">Method definitions in Ruby 2.1.0 will not be void anymore - Franck Verrot</a></strong>
+  <small>they return the method symbol</small></li>
+</ul>
+
+
+<h2>Node.js</h2>
+
+<ul>
+<li><strong><a href="http://www.ibm.com/developerworks/java/library/mo-nodejs-1/index.html">Developing mobile apps with Node.js and MongoDB, Part 1: A team's methods and results</a></strong>
+  <small>Speeding time to value of systems of engagement</small></li>
+<li><strong><a href="http://www.ibm.com/developerworks/mobile/library/mo-nodejs-2/index.html">Developing mobile apps with Node.js and MongoDB, Part 2: Hints and tips</a></strong>
+  <small>Avoiding the pitfalls of using an alternative stack</small></li>
+<li><strong><a href="https://github.com/tpeden/express-resource-new">tpeden/express-resource-new</a></strong>
+  <small>Clean, rails-like, resourceful routing for Express</small></li>
+</ul>
+
+
+<h2>Scala</h2>
+
+<ul>
+<li><strong><a href="https://github.com/twitter/summingbird">twitter/summingbird</a></strong>
+  <small>Streaming MapReduce with Scalding and Storm https://twitter.com/summingbird</small></li>
+</ul>
+
+
+<h2>Clojure</h2>
+
+<ul>
+<li><strong><a href="https://github.com/Factual/skuld">Factual/skuld</a></strong>
+  <small>Distributed task tracking system.</small></li>
+</ul>
+
+
+<h2>Databases</h2>
+
+<ul>
+<li><strong><a href="http://blog.mongodb.org/post/59757486344/faceted-search-with-mongodb">The MongoDB Blog</a></strong>
+  <small>Faceted search, or faceted navigation, is a way of browsing and searching for items in a set of data by applying filters on various properties (facets) of the items in the collection.</small></li>
+</ul>
+
+
+<h2>Git</h2>
+
+<ul>
+<li><strong><a href="https://github.com/FredrikNoren/ungit">FredrikNoren/ungit</a></strong>
+  <small>The easiest way to use git. On any platform. Anywhere.</small></li>
+</ul>
+
+
+<h2>Watching</h2>
+
+<ul>
+<li><strong><a href="https://www.youtube.com/watch?v=b9HGzJIcfDE">▶ [CSSConfUS 2013] Lea Verou: The Humble Border-radius - YouTube</a></strong>
+  <small>Another great presentation by Lea Verou</small></li>
+</ul>
+
+
+<h2>Miscellaneous</h2>
+
+<ul>
+<li><strong><a href="http://dtrace.org/blogs/bmc/2013/09/03/happy-10th-birthday-dtrace/">The Observation Deck » Happy 10th Birthday, DTrace!</a></strong>
+  <small>Ten years ago this morning — at 10:27a local time, to be exact — DTrace was integrated. </small></li>
+</ul>
+
+
+<h2>Deployment</h2>
+
+<ul>
+<li><strong><a href="http://blog.scoutapp.com/articles/2013/08/28/docker-git-for-deployment">Docker: Git for deployment</a></strong>
+  <small>Finally, an efficient way to simulate our production environment</small></li>
+</ul>
+
+
+<h2>Your link could be here</h2>
+
+<p>If we missed something special or you just want to promote a site, give us a nudge @ <a href='&#109;&#97;&#105;&#108;t&#111;&#58;%7&#57;&#105;eld&#116;%68%65do%67&#64;gmail&#37;2&#69;c&#37;6&#70;m'>y&#105;eldt&#104;&#101;dog&#64;&#103;mail&#46;&#99;&#111;m</a></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Interesting Thingys 65]]></title>
@@ -706,128 +842,6 @@
 <ul>
 <li><strong><a href="http://thoughtworks.github.io/p2/issue02/continuous-design.html">Continuous Design</a></strong>
   <small>.. why you need an embedded designer.</small></li>
-</ul>
-
-
-<h2>Your link could be here</h2>
-
-<p>If we missed something special or you just want to promote a site, give us a nudge @ <a href='&#109;&#97;&#105;&#108;t&#111;&#58;%7&#57;&#105;eld&#116;%68%65do%67&#64;gmail&#37;2&#69;c&#37;6&#70;m'>y&#105;eldt&#104;&#101;dog&#64;&#103;mail&#46;&#99;&#111;m</a></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Interesting Thingys 61]]></title>
-    <link href="http://yieldthedog.github.com/blog/2013/06/27/interesting-thingys-61/"/>
-    <updated>2013-06-27T22:22:00+02:00</updated>
-    <id>http://yieldthedog.github.com/blog/2013/06/27/interesting-thingys-61</id>
-    <content type="html"><![CDATA[<p>Once again we collected the finest thingys of the last week for you.</p>
-
-<!-- More -->
-
-
-<h2>JavaScript</h2>
-
-<ul>
-<li><strong><a href="http://devsmash.com/blog/whats-the-big-deal-with-generators">What's the Big Deal with Generators?</a></strong>
-  <small>A thorough explanation of how this ECMAScript 6 feature works and why it is useful.</small></li>
-</ul>
-
-
-<h2>CSS</h2>
-
-<ul>
-<li><strong><a href="http://alexwolfe.github.io/Buttons/">Buttons - A CSS button library built with Sass and Compass</a></strong>
-  <small>A CSS button library built with Sass </small></li>
-<li><strong><a href="http://blogs.adobe.com/webplatform/2013/06/24/css-background-blend-modes-are-now-available-in-chrome-canary-and-webkit-nightly/">CSS Background Blend Modes are now available in Chrome Canary and WebKit Nightly | Web Platform Team Blog</a></strong>
-  <small>As part of the CSS Blending and Compositing specification, HTML background blending allows blending of images, gradients and background colors directly from CSS.</small></li>
-</ul>
-
-
-<h2>HTML5</h2>
-
-<ul>
-<li><strong><a href="http://codepen.io/rlemon/pen/vofKF">Metaball particle clock. - CodePen</a></strong>
-  <small>nice clock demo</small></li>
-<li><strong><a href="http://jonrimmer.github.io/are-we-componentized-yet/">Are We Componentized Yet?</a></strong>
-  <small>Tracking the progress of Web Components through standardisation, polyfillification1, and implementation.</small></li>
-<li><strong><a href="http://tympanus.net/codrops/2013/06/25/nifty-modal-window-effects/">Nifty Modal Window Effects | Codrops</a></strong>
-  <small>A set of experimental modal window appearance effects with CSS transitions and animations.</small></li>
-</ul>
-
-
-<h2>Web Development</h2>
-
-<ul>
-<li><strong><a href="http://net.tutsplus.com/tutorials/html-css-techniques/developing-with-sass-and-chrome-devtools/">Developing With Sass and Chrome DevTools | Nettuts</a></strong>
-  <small>frontend dev within the dev tools</small></li>
-<li><strong><a href="http://bradfrostweb.com/blog/post/atomic-web-design/">Atomic Design</a></strong>
-  <small>We’re not designing pages, we’re designing systems of components.—Stephen Hay</small></li>
-<li><strong><a href="https://gist.github.com/dypsilon/5819504">A badass list of frontend development resources I collected over time.</a></strong>
-  <small>A badass list of frontend development resources I collected over time.</small></li>
-<li><strong><a href="https://github.com/Kolyaj/Yaxy">Kolyaj/Yaxy</a></strong>
-  <small>Proxy server for a web developers.</small></li>
-</ul>
-
-
-<h2>Mobile Webdevelopment</h2>
-
-<ul>
-<li><strong><a href="http://phonegap.com/blog/2013/06/20/coming-soon-phonegap30/">PhoneGap | Coming soon! What to expect in PhoneGap 3.0</a></strong>
-  <small>the next release overview</small></li>
-</ul>
-
-
-<h2>Ruby</h2>
-
-<ul>
-<li><strong><a href="http://weblog.rubyonrails.org/2013/6/25/Rails-4-0-final/">Riding Rails: Rails 4.0</a></strong>
-  <small>Russion-Doll-Caching, Turbolinks, Declarative Etags, ...</small></li>
-</ul>
-
-
-<h2>Node.js</h2>
-
-<ul>
-<li><strong><a href="https://github.com/nodeapps/boilerplates">nodeapps/boilerplates</a></strong>
-  <small>a collection of one-line install node.js boilerplates for various popular libraries </small></li>
-<li><strong><a href="https://github.com/sindresorhus/sudo-block">sindresorhus/sudo-block · GitHub</a></strong>
-  <small>Block users from running your tool with root permissions - Node.js module</small></li>
-<li><strong><a href="https://github.com/mattinsler/longjohn">mattinsler/longjohn</a></strong>
-  <small>Long stack traces for node.js with configurable call trace length</small></li>
-<li><strong><a href="https://github.com/isaacs/st">isaacs/st</a></strong>
-  <small>A node module for serving static files. Does etags, caching, etc.</small></li>
-<li><strong><a href="http://blog.nodejs.org/2013/06/26/node-v0-11-3-unstable/">Node v0.11.3 (Unstable)</a></strong>
-  <small>New unstable version with tons of changes</small></li>
-<li><strong><a href="https://github.com/dominictarr/level-live-stream">dominictarr/level-live-stream</a></strong>
-  <small>Stream live changes from levelup.</small></li>
-</ul>
-
-
-<h2>Databases</h2>
-
-<ul>
-<li><strong><a href="https://speakerdeck.com/sritchie/summingbird-streaming-mapreduce-at-twitter">Summingbird: Streaming MapReduce at Twitter // Speaker Deck</a></strong>
-  <small>Summingbird is a platform for streaming map/reduce used at Twitter to build aggregations in real-time or on hadoop.</small></li>
-<li><strong><a href="http://emptysqua.re/blog/real-time-profiling-a-mongodb-cluster/">Real-time Profiling a MongoDB Sharded Cluster</a></strong>
-  <small>A walkthrough on profiling a cluster with python in real time</small></li>
-</ul>
-
-
-<h2>Git</h2>
-
-<ul>
-<li><strong><a href="https://github.com/ELLIOTTCABLE/.gitlabels">ELLIOTTCABLE/.gitlabels</a></strong>
-  <small>This describes a system for adding metadata to a project’s commit messages.</small></li>
-</ul>
-
-
-<h2>Raspberry Pi</h2>
-
-<ul>
-<li><strong><a href="http://www.raspberrypi.org/archives/4271">Ziphius, the Pi-powered aquatic drone</a></strong>
-  <small>An Pi-powered aquatic drone. Controlled with an iOS or Android Device.</small></li>
-<li><strong><a href="http://www.raspberrypi.org/archives/4274">Pi-Rex</a></strong>
-  <small>A bark-activated door opener for dogs</small></li>
 </ul>
 
 
