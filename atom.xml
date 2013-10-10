@@ -4,7 +4,7 @@
   <title><![CDATA[yield the dog]]></title>
   <link href="http://yieldthedog.github.com/atom.xml" rel="self"/>
   <link href="http://yieldthedog.github.com/"/>
-  <updated>2013-10-03T21:12:58+02:00</updated>
+  <updated>2013-10-10T20:58:06+02:00</updated>
   <id>http://yieldthedog.github.com/</id>
   <author>
     <name><![CDATA[yield the dog]]></name>
@@ -12,6 +12,110 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Interesting Thingys 68]]></title>
+    <link href="http://yieldthedog.github.com/blog/2013/10/10/interesting-thingys-68/"/>
+    <updated>2013-10-10T21:01:00+02:00</updated>
+    <id>http://yieldthedog.github.com/blog/2013/10/10/interesting-thingys-68</id>
+    <content type="html"><![CDATA[<p>A frontend centric Interesting Thingys edition.</p>
+
+<!-- More -->
+
+
+<h2>JavaScript</h2>
+
+<ul>
+<li><strong><a href="http://www.2ality.com/2013/10/console-api.html">The JavaScript console API</a></strong>
+  <small>cross browser consoles explained</small></li>
+<li><strong><a href="https://github.com/mgechev/angularjs-style-guide">mgechev/angularjs-style-guide</a></strong>
+  <small>Community-driven set of best practices for AngularJS application development </small></li>
+<li><strong><a href="http://www.youtube.com/watch?v=V2Q13hzTGmA">[JSConfUS 2013] Domenic Denicola: Boom, Promises/A Was Born - YouTube</a></strong>
+  <small>what they are and how they came about</small></li>
+</ul>
+
+
+<h2>CSS</h2>
+
+<ul>
+<li><strong><a href="http://blog.teamtreehouse.com/thinking-ahead-css-device-adaptation-with-viewport">CSS Device Adaptation with @viewport</a></strong>
+  <small>When we need to adjust a device’s browser viewport, the HTML <meta name="viewport"> tag is usually our go-to solution. But the viewport meta tag is surprisingly “non-normative”––it’s not a formal W3C spec, much less a web standard.</small></li>
+<li><strong><a href="http://www.planningforaliens.com/blog/2013/10/07/flexbox-first/">Flexbox First</a></strong>
+  <small>The Flexbox spec is finally stable, but browser support isn&#8217;t there yet.</small></li>
+<li><strong><a href="http://updates.html5rocks.com/2013/10/Flexbox-layout-isn-t-slow">Flexbox layout isn&#8217;t slow - HTML5Rocks Updates</a></strong>
+  <small>messures the performance of the old model versus the new model</small></li>
+</ul>
+
+
+<h2>HTML5</h2>
+
+<ul>
+<li><strong><a href="http://www.html5rocks.com/en/tutorials/webcomponents/yeoman/">Building Web Apps With Yeoman And Polymer - HTML5 Rocks</a></strong>
+  <small>Scaffold your webapps with modern tooling</small></li>
+</ul>
+
+
+<h2>Web Development</h2>
+
+<ul>
+<li><strong><a href="http://4waisenkinder.de/blog/2013/09/28/using-gradient-and-shadows-with-d3-dot-js/">Using SVG gradients and filters with d3.js | 4waisenkinder</a></strong>
+  <small>How to leverage the powers of gradients and filters to visualize stats</small></li>
+<li><strong><a href="https://github.com/collectiveip/prerender">collectiveip/prerender</a></strong>
+  <small>Node server that uses phantomjs to render a javascript-rendered page as HTML. To be used in conjunction with prerender middleware.</small></li>
+</ul>
+
+
+<h2>Ruby</h2>
+
+<ul>
+<li><strong><a href="https://medium.com/p/ba896a142ac">Capistrano Version 3 — Medium</a></strong>
+  <small>what&#8217;s new in the big 3.0 release&#8230;</small></li>
+</ul>
+
+
+<h2>Node.js</h2>
+
+<ul>
+<li><strong><a href="http://dtrace.org/blogs/dap/2013/10/03/node-js-in-production-runtime-log-snooping/">Dave Pacheco&#8217;s Blog » Node.js in production: runtime log snooping</a></strong>
+  <small>debug messages in production?</small></li>
+<li><strong><a href="http://strongloop.com/strongblog/how-to-heap-snapshots/">StrongLoop | How-to: Heap Snapshots and Handling Node.js Memory Leaks</a></strong>
+  <small>Taking dumps and analyzing them</small></li>
+<li><strong><a href="http://blog.ponyfoo.com/2013/09/26/continuous-development-in-nodejs">Continuous Development in Node.js - Pony Foo</a></strong>
+  <small>automate all the things</small></li>
+<li><strong><a href="https://github.com/hij1nx/level-channels">hij1nx/level-channels</a></strong>
+  <small>A simpler way to selectively stream future or historic changes.</small></li>
+</ul>
+
+
+<h2>Java</h2>
+
+<ul>
+<li><strong><a href="http://www.drdobbs.com/jvm/if-java-is-dying-it-sure-looks-awfully-h/240162390/">If Java Is Dying, It Sure Looks Awfully Healthy | Dr Dobb&#8217;s</a></strong>
+  <small>The odd, but popular, assertion that Java is dying can be made only in spite of the evidence, not because of it.</small></li>
+</ul>
+
+
+<h2>Reading</h2>
+
+<ul>
+<li><strong><a href="https://engineering.groupon.com/2013/node-js/geekon-i-tier/">I-Tier - Groupon Engineering Blog</a></strong>
+  <small>Groupon moved their whole App from RoR to Node.js</small></li>
+</ul>
+
+
+<h2>Miscellaneous</h2>
+
+<ul>
+<li><strong><a href="http://runnable.com/"> Runnable</a></strong>
+  <small>Full-stack code anyone can run from their browser</small></li>
+</ul>
+
+
+<h2>Your link could be here</h2>
+
+<p>If we missed something special or you just want to promote a site, give us a nudge @ <a href='&#109;&#97;&#105;&#108;t&#111;&#58;%7&#57;&#105;eld&#116;%68%65do%67&#64;gmail&#37;2&#69;c&#37;6&#70;m'>y&#105;eldt&#104;&#101;dog&#64;&#103;mail&#46;&#99;&#111;m</a></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Interesting Thingys 67]]></title>
@@ -2848,148 +2952,6 @@
   <small>Turn a Kindle Paperwhite into a wireless Raspberry Pi Terminal</small></li>
 <li><strong><a href="http://www.raspbmc.com/2013/04/crack-for-mpeg2-vc1-dts-hardware-decoding/">Raspbmc: Crack for MPEG2, VC1, DTS hardware decoding!</a></strong>
   <small>DTS, VC1 and MPEG2 codecs are available for free now. All future installs of Raspbmc will automatically activate all codecs capable in firmware without any additional configuration.</small></li>
-</ul>
-
-
-<h2>Your link could be here</h2>
-
-<p>If we missed something special or you just want to promote a site, give us a nudge @ <a href='&#109;&#97;&#105;&#108;t&#111;&#58;%7&#57;&#105;eld&#116;%68%65do%67&#64;gmail&#37;2&#69;c&#37;6&#70;m'>y&#105;eldt&#104;&#101;dog&#64;&#103;mail&#46;&#99;&#111;m</a></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Interesting Thingys 48]]></title>
-    <link href="http://yieldthedog.github.com/blog/2013/03/28/interesting-thingys-48/"/>
-    <updated>2013-03-28T21:01:00+01:00</updated>
-    <id>http://yieldthedog.github.com/blog/2013/03/28/interesting-thingys-48</id>
-    <content type="html"><![CDATA[<p>Lot&#8217;s of frontend thingys this week with one of my favorite demos the &#8216;tearable cloth&#8217;.</p>
-
-<!-- More -->
-
-
-<h2>JavaScript</h2>
-
-<ul>
-<li><strong><a href="https://github.com/adamschwartz/chrome-inspector-detector">adamschwartz/chrome-inspector-detector · GitHub</a></strong>
-  <small>A simple utility for detecting whether or not the Chrome Inspector is open or docked.</small></li>
-<li><strong><a href="http://twistedoakstudios.com/blog/Post3138_mouse-path-smoothing-for-jack-lumber">Mouse Path Smoothing for Jack Lumber</a></strong>
-  <small>Twisted Oak Studios | Unity3D Consulting | Technical Magic</small></li>
-<li><strong><a href="https://github.com/bramp/js-sequence-diagrams">bramp/js-sequence-diagrams · GitHub</a></strong>
-  <small>Generates UML sequence diagrams from simple text</small></li>
-<li><strong><a href="http://alexsexton.com/blog/2013/03/deploying-javascript-applications/">Deploying JavaScript Applications - Alex Sexton</a></strong>
-  <small>Nothing new, but all in one place</small></li>
-<li><strong><a href="http://codepen.io/stuffit/pen/KrAwx">Tear-able Cloth - CodePen</a></strong>
-  <small>You can even tear it appart</small></li>
-<li><strong><a href="https://github.com/akrennmair/speech-to-server">akrennmair/speech-to-server · GitHub</a></strong>
-  <small>demo application for libmp3lame.js</small></li>
-<li><strong><a href="https://github.com/wagerfield/flat-surface-shader">wagerfield/flat-surface-shader · GitHub</a></strong>
-  <small>Simple, fast, Flat Surface Shader composed of Triangles assembled from Vertices lit by Lights.</small></li>
-</ul>
-
-
-<h2>CSS</h2>
-
-<ul>
-<li><strong><a href="http://updates.html5rocks.com/2013/03/Introduction-to-Custom-Filters-aka-CSS-Shaders">Introduction to Custom Filters (aka CSS Shaders) - HTML5Rocks Updates</a></strong>
-  <small>What you can do to your DOM with CSS&#8230;</small></li>
-<li><strong><a href="http://simurai.com/post/37075268994/steps-animation">Sprite sheet animation with steps(). There is an&#8230; | simurai</a></strong>
-  <small>step by step animation with css keyframes</small></li>
-<li><strong><a href="https://github.com/websymphony/almost-flat-ui">websymphony/almost-flat-ui · GitHub</a></strong>
-  <small>Almost Flat UI is licensed under a MIT License. It uses Foundation Framework and is heavily inspired from Flat UI Free by designmodo.</small></li>
-<li><strong><a href="http://www.adobe.com/devnet/html5/articles/working-with-flexbox-the-new-spec.html">Working with flexbox | Adobe Developer Connection</a></strong>
-  <small>Flexible layouts. Equal height columns. Presentation independence from your HTML source order. These things haven&#8217;t been so easy to achieve with CSS—until now. The flexible box layout, the new flexbox specification, makes creating any of these layouts easy, and much more.</small></li>
-<li><strong><a href="http://codepen.io/patrickkunka/pen/axEgL">Pure CSS Peeling Sticky - CodePen</a></strong>
-  <small>demo</small></li>
-<li><strong><a href="http://blogs.msdn.com/b/davrous/archive/2013/02/25/coding4fun-the-star-wars-intro-in-pure-css3-thanks-to-3dt-amp-animations.aspx">Coding4fun: the Star Wars intro in pure CSS3 thanks to 3D transform</a></strong>
-  <small>Star wars intro without a line of JavaScript</small></li>
-</ul>
-
-
-<h2>Web Development</h2>
-
-<ul>
-<li><strong><a href="http://davidwalsh.name/common-usability-mistakes">5 Common Usability Mistakes and Solutions For Avoiding Them</a></strong>
-  <small>David Walsh about five horrible usability mistakes.</small></li>
-</ul>
-
-
-<h2>Ruby</h2>
-
-<ul>
-<li><strong><a href="http://www.codinghorror.com/blog/2013/03/why-ruby.html">Coding Horror: Why Ruby?</a></strong>
-  <small>Stack Overflow co-founder Jeff Atwood shares his thoughts on why he switched to Ruby and Rails for building his latest &#8216;Discourse&#8217; forum software. One of the reasons is that &#8216;Ruby isn&#8217;t cool any more.&#8217;</small></li>
-</ul>
-
-
-<h2>Node.js</h2>
-
-<ul>
-<li><strong><a href="https://github.com/juliangruber/level-store">juliangruber/level-store · GitHub</a></strong>
-  <small>A streaming storage engine based on LevelDB</small></li>
-<li><strong><a href="https://github.com/rvagg/node-levelup">rvagg/node-levelup · GitHub</a></strong>
-  <small>LevelDB - Node.js style</small></li>
-<li><strong><a href="http://substack.net/how_I_write_modules">substack: how i write modules</a></strong>
-  <small>how the streams master does his modules</small></li>
-<li><strong><a href="https://github.com/maxogden/art-of-node#art-of-node">maxogden/art-of-node · GitHub</a></strong>
-  <small>a short introduction to node.js</small></li>
-</ul>
-
-
-<h2>Browsers</h2>
-
-<ul>
-<li><strong><a href="http://fremycompany.com/BG/2013/Internet-Explorer-11-rsquo-s-leaked-build-395/">Internet Explorer 11’s leaked build (new features)</a></strong>
-  <small>what to expect from IE11</small></li>
-</ul>
-
-
-<h2>Programming</h2>
-
-<ul>
-<li><strong><a href="http://substack.net/many_things">substack: many things</a></strong>
-  <small>Substack on small building blocks vs framworks</small></li>
-</ul>
-
-
-<h2>Databases</h2>
-
-<ul>
-<li><strong><a href="http://www.robomongo.org/">Robomongo — shell-centric MongoDB management tool</a></strong>
-  <small>Shell-centric MongoDB management tool</small></li>
-<li><strong><a href="https://www.braintreepayments.com/braintrust/scaling-postgresql-at-braintree-four-years-of-evolution">Scaling PostgreSQL at Braintree: Four Years of Evolution</a></strong>
-  <small>They highlight here their four year journey with Postgres which includes sharding their data and now running an automated failover setup.</small></li>
-</ul>
-
-
-<h2>Git</h2>
-
-<ul>
-<li><strong><a href="http://blog.gitlab.org/gitlab-5-dot-0-has-been-released/">GitLab 5.0 release, standing on its own two feet - GITLAB Blog</a></strong>
-  <small>great news</small></li>
-</ul>
-
-
-<h2>Editors</h2>
-
-<ul>
-<li><strong><a href="https://github.com/tpope/vim-tbone">tpope/vim-tbone · GitHub</a></strong>
-  <small>Basic tmux support for Vim.</small></li>
-</ul>
-
-
-<h2>Watching</h2>
-
-<ul>
-<li><strong><a href="https://www.youtube.com/watch?v=U_LNo_cSc70">Analyzing Millions of GitHub Commits</a></strong>
-  <small>What Makes Developers Happy, Angry, and Everything in Between?</small></li>
-</ul>
-
-
-<h2>Listening</h2>
-
-<ul>
-<li><strong><a href="http://www.hanselminutes.com/363/html5-javascript-chrome-and-the-web-platform-with-paul-irish">Hanselminutes Technology Podcast</a></strong>
-  <small>Scott sits down with Chrome Developer Advocate Paul Irish to talk HTML5, JavaScript, Chrome and the Web</small></li>
 </ul>
 
 

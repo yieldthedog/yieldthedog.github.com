@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Interesting-Thingys | yield the dog]]></title>
   <link href="http://yieldthedog.github.com/blog/categories/interesting-thingys/atom.xml" rel="self"/>
   <link href="http://yieldthedog.github.com/"/>
-  <updated>2013-10-03T21:12:58+02:00</updated>
+  <updated>2013-10-10T20:58:06+02:00</updated>
   <id>http://yieldthedog.github.com/</id>
   <author>
     <name><![CDATA[yield the dog]]></name>
@@ -12,6 +12,110 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Interesting Thingys 68]]></title>
+    <link href="http://yieldthedog.github.com/blog/2013/10/10/interesting-thingys-68/"/>
+    <updated>2013-10-10T21:01:00+02:00</updated>
+    <id>http://yieldthedog.github.com/blog/2013/10/10/interesting-thingys-68</id>
+    <content type="html"><![CDATA[<p>A frontend centric Interesting Thingys edition.</p>
+
+<!-- More -->
+
+
+<h2>JavaScript</h2>
+
+<ul>
+<li><strong><a href="http://www.2ality.com/2013/10/console-api.html">The JavaScript console API</a></strong>
+  <small>cross browser consoles explained</small></li>
+<li><strong><a href="https://github.com/mgechev/angularjs-style-guide">mgechev/angularjs-style-guide</a></strong>
+  <small>Community-driven set of best practices for AngularJS application development </small></li>
+<li><strong><a href="http://www.youtube.com/watch?v=V2Q13hzTGmA">[JSConfUS 2013] Domenic Denicola: Boom, Promises/A Was Born - YouTube</a></strong>
+  <small>what they are and how they came about</small></li>
+</ul>
+
+
+<h2>CSS</h2>
+
+<ul>
+<li><strong><a href="http://blog.teamtreehouse.com/thinking-ahead-css-device-adaptation-with-viewport">CSS Device Adaptation with @viewport</a></strong>
+  <small>When we need to adjust a device’s browser viewport, the HTML <meta name="viewport"> tag is usually our go-to solution. But the viewport meta tag is surprisingly “non-normative”––it’s not a formal W3C spec, much less a web standard.</small></li>
+<li><strong><a href="http://www.planningforaliens.com/blog/2013/10/07/flexbox-first/">Flexbox First</a></strong>
+  <small>The Flexbox spec is finally stable, but browser support isn't there yet.</small></li>
+<li><strong><a href="http://updates.html5rocks.com/2013/10/Flexbox-layout-isn-t-slow">Flexbox layout isn't slow - HTML5Rocks Updates</a></strong>
+  <small>messures the performance of the old model versus the new model</small></li>
+</ul>
+
+
+<h2>HTML5</h2>
+
+<ul>
+<li><strong><a href="http://www.html5rocks.com/en/tutorials/webcomponents/yeoman/">Building Web Apps With Yeoman And Polymer - HTML5 Rocks</a></strong>
+  <small>Scaffold your webapps with modern tooling</small></li>
+</ul>
+
+
+<h2>Web Development</h2>
+
+<ul>
+<li><strong><a href="http://4waisenkinder.de/blog/2013/09/28/using-gradient-and-shadows-with-d3-dot-js/">Using SVG gradients and filters with d3.js | 4waisenkinder</a></strong>
+  <small>How to leverage the powers of gradients and filters to visualize stats</small></li>
+<li><strong><a href="https://github.com/collectiveip/prerender">collectiveip/prerender</a></strong>
+  <small>Node server that uses phantomjs to render a javascript-rendered page as HTML. To be used in conjunction with prerender middleware.</small></li>
+</ul>
+
+
+<h2>Ruby</h2>
+
+<ul>
+<li><strong><a href="https://medium.com/p/ba896a142ac">Capistrano Version 3 — Medium</a></strong>
+  <small>what's new in the big 3.0 release...</small></li>
+</ul>
+
+
+<h2>Node.js</h2>
+
+<ul>
+<li><strong><a href="http://dtrace.org/blogs/dap/2013/10/03/node-js-in-production-runtime-log-snooping/">Dave Pacheco's Blog » Node.js in production: runtime log snooping</a></strong>
+  <small>debug messages in production?</small></li>
+<li><strong><a href="http://strongloop.com/strongblog/how-to-heap-snapshots/">StrongLoop | How-to: Heap Snapshots and Handling Node.js Memory Leaks</a></strong>
+  <small>Taking dumps and analyzing them</small></li>
+<li><strong><a href="http://blog.ponyfoo.com/2013/09/26/continuous-development-in-nodejs">Continuous Development in Node.js - Pony Foo</a></strong>
+  <small>automate all the things</small></li>
+<li><strong><a href="https://github.com/hij1nx/level-channels">hij1nx/level-channels</a></strong>
+  <small>A simpler way to selectively stream future or historic changes.</small></li>
+</ul>
+
+
+<h2>Java</h2>
+
+<ul>
+<li><strong><a href="http://www.drdobbs.com/jvm/if-java-is-dying-it-sure-looks-awfully-h/240162390/">If Java Is Dying, It Sure Looks Awfully Healthy | Dr Dobb's</a></strong>
+  <small>The odd, but popular, assertion that Java is dying can be made only in spite of the evidence, not because of it.</small></li>
+</ul>
+
+
+<h2>Reading</h2>
+
+<ul>
+<li><strong><a href="https://engineering.groupon.com/2013/node-js/geekon-i-tier/">I-Tier - Groupon Engineering Blog</a></strong>
+  <small>Groupon moved their whole App from RoR to Node.js</small></li>
+</ul>
+
+
+<h2>Miscellaneous</h2>
+
+<ul>
+<li><strong><a href="http://runnable.com/"> Runnable</a></strong>
+  <small>Full-stack code anyone can run from their browser</small></li>
+</ul>
+
+
+<h2>Your link could be here</h2>
+
+<p>If we missed something special or you just want to promote a site, give us a nudge @ <a href='&#109;&#97;&#105;&#108;t&#111;&#58;%7&#57;&#105;eld&#116;%68%65do%67&#64;gmail&#37;2&#69;c&#37;6&#70;m'>y&#105;eldt&#104;&#101;dog&#64;&#103;mail&#46;&#99;&#111;m</a></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Interesting Thingys 67]]></title>
@@ -556,168 +660,6 @@
 <ul>
 <li><strong><a href="http://www.heise.de/newsticker/meldung/Raspberry-Pi-als-FM-Senderchen-1921154.html">Raspberry Pi als FM-Senderchen</a></strong>
   <small>Raspberry Pi als kleine FM Sendestation</small></li>
-</ul>
-
-
-<h2>Your link could be here</h2>
-
-<p>If we missed something special or you just want to promote a site, give us a nudge @ <a href='&#109;&#97;&#105;&#108;t&#111;&#58;%7&#57;&#105;eld&#116;%68%65do%67&#64;gmail&#37;2&#69;c&#37;6&#70;m'>y&#105;eldt&#104;&#101;dog&#64;&#103;mail&#46;&#99;&#111;m</a></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Interesting Thingys 63]]></title>
-    <link href="http://yieldthedog.github.com/blog/2013/07/19/interesting-thingys-63/"/>
-    <updated>2013-07-19T08:17:00+02:00</updated>
-    <id>http://yieldthedog.github.com/blog/2013/07/19/interesting-thingys-63</id>
-    <content type="html"><![CDATA[<p>Lot's of cool thingys this week mixed with some new releases…</p>
-
-<!-- More -->
-
-
-<h2>JavaScript</h2>
-
-<ul>
-<li><strong><a href="https://github.com/AnalogJ/dropstore-ng">AnalogJ/dropstore-ng</a></strong>
-  <small>angular meets dropbox</small></li>
-<li><strong><a href="http://seravo.fi/2013/javascript-the-winning-style">JavaScript, the winning style » Seravo</a></strong>
-  <small>a styleguide for javascript</small></li>
-</ul>
-
-
-<h2>CSS</h2>
-
-<ul>
-<li><strong><a href="http://codepen.io/billycrist/pen/CHmiE">Switches - CodePen</a></strong>
-  <small>nice on/off demos</small></li>
-</ul>
-
-
-<h2>HTML5</h2>
-
-<ul>
-<li><strong><a href="http://www.sitepoint.com/essential-audio-and-video-events-for-html5/">Essential Audio and Video Events for HTML5</a></strong>
-  <small>collection of events and detailed explanation of audio and video events</small></li>
-<li><strong><a href="http://davidwalsh.name/webgl-demos">9 Mind-Blowing WebGL Demos</a></strong>
-  <small>nice collection</small></li>
-</ul>
-
-
-<h2>Web Development</h2>
-
-<ul>
-<li><strong><a href="http://www.html5rocks.com/en/tutorials/developertools/revolutions2013/">Chrome DevTools Revolutions 2013 - HTML5 Rocks</a></strong>
-  <small>an extensive article on devtools (r)evolution</small></li>
-<li><strong><a href="https://plus.google.com/u/0/100132233764003563318/posts/RJFZSYDgpMm?e=-RedirectToSandbox">François Beaufort - Google - Raw USB debugging</a></strong>
-  <small>Chromium team is working on raw usb debugging - no more adb</small></li>
-<li><strong><a href="http://www.androidpolice.com/2013/07/15/the-new-web-play-store-is-insanely-fast-here-is-why-analysis/">The New Web Play Store Is Insanely Fast - Here Is Why [Analysis]</a></strong>
-  <small>Google just updated the web Play Store with a completely new UI that was teased back at I/O 2013, and it immediately caused a whirlwind of mixed reactions.</small></li>
-<li><strong><a href="http://devdocs.io/">DevDocs</a></strong>
-  <small>DevDocs is an all-in-one API documentation reader for developers. </small></li>
-<li><strong><a href="http://mircozeiss.com/sync-multiple-angularjs-apps-without-server-via-pouchdb/">Sync multiple AngularJS apps without server via PouchDB - Mirco Zeiss</a></strong>
-  <small>a screencast and lost of code</small></li>
-</ul>
-
-
-<h2>Mobile Development</h2>
-
-<ul>
-<li><strong><a href="https://hacks.mozilla.org/2013/07/firefox-os-simulator-4-0-released/">Firefox OS Simulator 4.0 released ✩ Mozilla Hacks – the Web developer blog</a></strong>
-  <small>with touch events</small></li>
-<li><strong><a href="http://www.codotablog.com/site/2013/07/16/augmented-code-snippets-in-web-pages/">Augmented android code snippets in StackOverflow | Codota blog</a></strong>
-  <small>A new extension for Chrome, livecode by Codota, augments android code snippets within StackOverflow.</small></li>
-<li><strong><a href="http://stackoverflow.com/questions/1554099/slow-android-emulator?newsletter=1">performance - Slow Android emulator - Stack Overflow</a></strong>
-  <small>Some good advices on speeding up the Android Simulator</small></li>
-</ul>
-
-
-<h2>Mobile Webdevelopment</h2>
-
-<ul>
-<li><strong><a href="https://github.com/paullewis/weight-tracker">paullewis/weight-tracker</a></strong>
-  <small>This is a web app that I built to see if it was actually possible to create an application that runs at 60fps on modern smartphones. For the most part it was successful. If you're interested, there's a blog post you can read.</small></li>
-</ul>
-
-
-<h2>Node.js</h2>
-
-<ul>
-<li><strong><a href="https://medium.com/i-m-h-o/433b55562cd5">Node.js - where we came from and where we are headed. — I.M.H.O. — Medium</a></strong>
-  <small>a recap and lookout</small></li>
-<li><strong><a href="https://github.com/axiomzen/Alike">axiomzen/Alike</a></strong>
-  <small>A simple-but-useful kNN library for NodeJS, comparing JSON Objects using Euclidean distances</small></li>
-<li><strong><a href="https://gist.github.com/dypsilon/5819528">Backend Engineering Bookmarks</a></strong>
-  <small>a comprehensive nodejs link list</small></li>
-<li><strong><a href="https://github.com/coopernurse/node-pool">coopernurse/node-pool</a></strong>
-  <small>Generic resource pool. Can be used to reuse or throttle expensive resources such as database connections.</small></li>
-<li><strong><a href="http://shtylman.com/post/expressjs-re-routing/">expressjs re-routing</a></strong>
-  <small>use the router for clean routes</small></li>
-<li><strong><a href="https://github.com/oOthkOo/supervizer">oOthkOo/supervizer</a></strong>
-  <small>NodeJS fancy process manager</small></li>
-<li><strong><a href="https://github.com/Fluidbyte/Node-FSAPI">Fluidbyte/Node-FSAPI</a></strong>
-  <small>A RESTful FileSystem API for NodeJS</small></li>
-<li><strong><a href="https://github.com/hughsk/stability-badges">hughsk/stability-badges</a></strong>
-  <small>A set of SVG badges to mark your modules with the Node stability index</small></li>
-</ul>
-
-
-<h2>C\</h2>
-
-<ul>
-<li><strong><a href="http://www.jetbrains.com/resharper/whatsnew/">ReSharper :: What's New in ReSharper 8.0</a></strong>
-  <small>Highlights of the new version include support for Visual Studio 2013 Preview, a new mechanism for batch-applying quick-fixes, a project dependency viewer and multifile templates.</small></li>
-</ul>
-
-
-<h2>Elixir</h2>
-
-<ul>
-<li><strong><a href="http://devblog.avdi.org/2013/07/10/study-notes-conways-game-of-life-in-elixer/">Study Notes: Conway’s Game of Life in Elixir | Virtuous Code</a></strong>
-  <small>This is a first take on Game of Life. It only exploits the most basic Elixir features like functions, lambdas, and pattern matching.</small></li>
-</ul>
-
-
-<h2>Databases</h2>
-
-<ul>
-<li><strong><a href="http://blog.comsysto.com/2012/09/19/the-mongodb-tool-belt/">The MongoDB tool belt | comSysto Blog</a></strong>
-  <small>Tools around MongoDB</small></li>
-<li><strong><a href="http://practiceovertheory.com/blog/2013/07/12/recursive-query-is-recursive/">RECURSIVE Query is Recursive - Practice Over Theory</a></strong>
-  <small>In Postgres you have the ability to write recursive queries that refer to themselves. This is a very powerful construct, and among other use cases can greatly simplify fetching any type of hierarchical data, such as any data where an attribute refers to another row on the same table.</small></li>
-</ul>
-
-
-<h2>Git</h2>
-
-<ul>
-<li><strong><a href="https://github.com/xiongchiamiov/git-t">xiongchiamiov/git-t</a></strong>
-  <small>Using tmux to make git better.</small></li>
-<li><strong><a href="http://urbanautomaton.com/blog/2011/07/28/git-grep-and-language-specific-diffs/">Urbanautomaton - 'git grep' and Language-Aware Diffs</a></strong>
-  <small>tell git what it is and benefit in diffs and greps</small></li>
-</ul>
-
-
-<h2>Performance</h2>
-
-<ul>
-<li><strong><a href="http://engineering.quora.com/Web-Server-Architecture-at-Quora">Web Server Architecture at Quora - Engineering at Quora - Quora</a></strong>
-  <small>As we last mentioned in Improving Site Speed, we flipped over to a new parallel architecture for rendering web pages in August 2012. This architecture allowed us to render pages up to 3-10x faster than we did before.</small></li>
-</ul>
-
-
-<h2>Watching</h2>
-
-<ul>
-<li><strong><a href="https://vimeo.com/69255635">Classical Inheritance is Obsolete - How to Think in Prototypal OO on Vimeo</a></strong>
-  <small>A talk given at O'Reilly's Fluent Conference: JavaScript and Beyond, 2013.</small></li>
-</ul>
-
-
-<h2>Miscellaneous</h2>
-
-<ul>
-<li><strong><a href="http://marc.info/?l=linux-kernel">'Re: [ 00/19] 3.10.1-stable review' - MARC - Linux kernel Mailinglist</a></strong>
-  <small>Linus on acting professional</small></li>
 </ul>
 
 
