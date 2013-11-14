@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Interesting-Thingys | yield the dog]]></title>
   <link href="http://yieldthedog.github.com/blog/categories/interesting-thingys/atom.xml" rel="self"/>
   <link href="http://yieldthedog.github.com/"/>
-  <updated>2013-11-07T20:59:41+01:00</updated>
+  <updated>2013-11-14T20:23:49+01:00</updated>
   <id>http://yieldthedog.github.com/</id>
   <author>
     <name><![CDATA[yield the dog]]></name>
@@ -12,6 +12,142 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Interesting Thingys 71]]></title>
+    <link href="http://yieldthedog.github.com/blog/2013/11/14/interesting-thingys-71/"/>
+    <updated>2013-11-14T22:01:00+01:00</updated>
+    <id>http://yieldthedog.github.com/blog/2013/11/14/interesting-thingys-71</id>
+    <content type="html"><![CDATA[<p>JavaScript is dominating again this issue, but there are other Interesting Thingys, too. Read on…</p>
+
+<!-- More -->
+
+
+<h2>JavaScript</h2>
+
+<ul>
+<li><strong><a href="https://github.com/airbnb/javascript">airbnb/javascript</a></strong>
+  <small>AirBnB's JavaScript Style Guide </small></li>
+<li><strong><a href="http://codetunes.com/2013/little-known-angular-directives/">Little-known directives of Angular.js</a></strong>
+  <small>a nice collection of valuable directives</small></li>
+<li><strong><a href="http://jshint.com/blog/new-in-jshint-oct-2013/">What's new in JSHint (October, 2013)</a></strong>
+  <small>and a lookout for v 2.3</small></li>
+<li><strong><a href="http://christianheilmann.com/2013/10/31/perpetuating-terrible-javascript-practices/">Perpetuating terrible JavaScript practices | Christian Heilmann</a></strong>
+  <small>the world is still a bad place</small></li>
+<li><strong><a href="https://github.com/wilsonpage/jquery-fastdom">wilsonpage/jquery-fastdom</a></strong>
+  <small>A jQuery plugin that wraps all DOM APIs with FastDom, preventing layout thrashing. </small></li>
+<li><strong><a href="https://www.youtube.com/watch?v=UqTlToUYK1E">▶ Patrick Dubroy: Parsing, Compiling, and Static Metaprogramming -- JSConf EU 2013 - YouTube</a></strong>
+  <small>Learn how to use compilers and parser generators to remove boilerplate, build DSLs, and generally do the impossible.</small></li>
+<li><strong><a href="http://addepar.github.io/#/ember-charts/overview">Addepar | Ember Charts</a></strong>
+  <small>A beautiful and easily extensible chart suite built with D3.js and Ember.js</small></li>
+<li><strong><a href="http://blog.angularjs.org/2013/11/angularjs-120-timely-delivery.html">AngularJS 1.2.0: timely-delivery | AngularJS</a></strong>
+  <small>finally released</small></li>
+<li><strong><a href="http://onehungrymind.com/build-sweet-angularjs-photo-slider-pt-2-ngtouch/">Build a Sweet AngularJS Photo Slider Pt 2 with ngTouch | One Hungry MindOne Hungry Mind</a></strong>
+  <small>nice tutorial</small></li>
+</ul>
+
+
+<h2>CSS</h2>
+
+<ul>
+<li><strong><a href="http://www.html5rocks.com/en/tutorials/speed/high-performance-animations/">High Performance Animations</a></strong>
+  <small>Modern browsers can animate four things really cheaply: position, scale, rotation and opacity. If you animate anything else, it’s at your own risk, and the chances are you’re not going to hit a silky smooth 60fps.</small></li>
+<li><strong><a href="https://github.com/pattle/simpsons-in-css">pattle/simpsons-in-css</a></strong>
+  <small>Simpsons characters in pure CSS</small></li>
+</ul>
+
+
+<h2>Web Development</h2>
+
+<ul>
+<li><strong><a href="https://github.com/w3c/webcomponents">w3c/webcomponents</a></strong>
+  <small>This is the repository in which W3C editor's drafts of the Web Components specs are maintained.</small></li>
+</ul>
+
+
+<h2>Mobile Development</h2>
+
+<ul>
+<li><strong><a href="http://aerogear.org/">AeroGear - Open Source Libraries for Mobile Connectivity</a></strong>
+  <small>Mobile Connectivity Framework</small></li>
+</ul>
+
+
+<h2>Node.js</h2>
+
+<ul>
+<li><strong><a href="https://github.com/visionmedia/node-actorify">visionmedia/node-actorify</a></strong>
+  <small>Turn any node.js duplex stream into an actor</small></li>
+<li><strong><a href="https://github.com/dominictarr/readme">dominictarr/readme</a></strong>
+  <small>Retrieve a node module's readme from the command line, and pipe it into less.</small></li>
+</ul>
+
+
+<h2>Programming</h2>
+
+<ul>
+<li><strong><a href="http://billmill.org/bloomfilter-tutorial/">Bloom Filters by Example</a></strong>
+  <small>A Bloom filter is a data structure designed to tell you, rapidly and memory-efficiently, whether an element is present in a set.</small></li>
+</ul>
+
+
+<h2>Databases</h2>
+
+<ul>
+<li><strong><a href="https://github.com/paterson/phosphorus">paterson/phosphorus</a></strong>
+  <small>Phosphorus is a key store system based on redis</small></li>
+</ul>
+
+
+<h2>Tools</h2>
+
+<ul>
+<li><strong><a href="http://www.eclipse.org/orion/">Orion</a></strong>
+  <small>Cloud based IDE</small></li>
+<li><strong><a href="https://github.com/DanMcInerney/LANs.py">DanMcInerney/LANs.py</a></strong>
+  <small>Capture and inject traffic on LAN</small></li>
+<li><strong><a href="https://github.com/progrium/dokku">progrium/dokku</a></strong>
+  <small>Docker powered mini-Heroku in around 100 lines of Bash</small></li>
+</ul>
+
+
+<h2>Miscellaneous</h2>
+
+<ul>
+<li><strong><a href="http://martinfowler.com/articles/enterpriseREST.html">Enterprise Integration Using REST</a></strong>
+  <small>Some insights of enterprise rest going beyond todo list REST examples</small></li>
+</ul>
+
+
+<h2>Fun</h2>
+
+<ul>
+<li><strong><a href="http://www.wired.com/design/2013/10/15-awesome-looking-viruses-from-the-ms-dos-era/#slideid-296071">Watch 15 Awesome MS-DOS Viruses in Action | Wired Design | Wired.com</a></strong>
+  <small>the good old days</small></li>
+</ul>
+
+
+<h2>Book</h2>
+
+<ul>
+<li><strong><a href="https://leanpub.com/messaging_as_a_programming_model">Messaging as a… by Ralf Westphal [Leanpub PDF/iPad/Kindle]</a></strong>
+  <small>Mainstream object-oriented programming (OOP) is lacking an essential aspect of the original definition. Messaging simply hasn't made it into the minds of developers. So this little book is trying to help put messaging back into the OOP picture. You'll see: Doing "OOP as if you meant it" isn't that hard. It helps writing cleaner coder and tackling legacy code.</small></li>
+</ul>
+
+
+<h2>.NET security</h2>
+
+<ul>
+<li><strong><a href="http://dotnetcodr.com/2013/02/11/introduction-to-claims-based-security-in-net4-5-with-c-part-1/">Introduction to Claims based security in .NET4.5 with C# Part 1: the absolute basics | Exercises in .NET</a></strong>
+  <small>Claims based security in .NET - well described</small></li>
+</ul>
+
+
+<h2>Your link could be here</h2>
+
+<p>If we missed something special or you just want to promote a site, give us a nudge @ <a href='&#109;&#97;&#105;&#108;t&#111;&#58;%7&#57;&#105;eld&#116;%68%65do%67&#64;gmail&#37;2&#69;c&#37;6&#70;m'>y&#105;eldt&#104;&#101;dog&#64;&#103;mail&#46;&#99;&#111;m</a></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Interesting Thingys 70]]></title>
@@ -554,142 +690,6 @@
   <small>you can now see diffs of 3d objects</small></li>
 <li><strong><a href="https://github.com/google/lmctfy/">google/lmctfy</a></strong>
   <small>lmctfy is the open source version of Google’s container stack, which provides Linux application containers.</small></li>
-</ul>
-
-
-<h2>Your link could be here</h2>
-
-<p>If we missed something special or you just want to promote a site, give us a nudge @ <a href='&#109;&#97;&#105;&#108;t&#111;&#58;%7&#57;&#105;eld&#116;%68%65do%67&#64;gmail&#37;2&#69;c&#37;6&#70;m'>y&#105;eldt&#104;&#101;dog&#64;&#103;mail&#46;&#99;&#111;m</a></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Interesting Thingys 66]]></title>
-    <link href="http://yieldthedog.github.com/blog/2013/09/06/interesting-thingys-66/"/>
-    <updated>2013-09-06T08:17:00+02:00</updated>
-    <id>http://yieldthedog.github.com/blog/2013/09/06/interesting-thingys-66</id>
-    <content type="html"><![CDATA[<p>And another release of exciting Thingys</p>
-
-<!-- More -->
-
-
-<h2>JavaScript</h2>
-
-<ul>
-<li><strong><a href="http://joshdmiller.github.io/ng-boilerplate/#/home">Home | ngBoilerplate</a></strong>
-  <small> Everything you need to kickstart AngularJS projects: a best-practice directory structure, an intelligent build system, and the best web design libraries around. </small></li>
-<li><strong><a href="http://emberjs.com/blog/2013/08/31/ember-1-0-released.html">Ember.js - Ember 1.0 Released</a></strong>
-  <small>the big 1.0 for Ember is out</small></li>
-<li><strong><a href="https://chrome.google.com/webstore/detail/ember-inspector/bmdblncegkenkacieihfhpjfppoconhi">Ember Inspector</a></strong>
-  <small>Ember.js Inspector is now available on the Chrome Web Store</small></li>
-<li><strong><a href="https://github.com/adobe-research/theseus">adobe-research/theseus</a></strong>
-  <small>A pretty darn cool JavaScript debugger for Brackets</small></li>
-</ul>
-
-
-<h2>CSS</h2>
-
-<ul>
-<li><strong><a href="http://tympanus.net/codrops/2013/08/27/3d-shading-with-box-shadows/">3D Shading with Box-Shadows | Codrops</a></strong>
-  <small>A tutorial about a technique that uses box shadows for creating a realistic shading effect on simple objects.</small></li>
-<li><strong><a href="http://tympanus.net/codrops/2013/08/28/transitions-for-off-canvas-navigations/">Transitions for Off-Canvas Navigations | Codrops</a></strong>
-  <small>Some inspiration for transition effects for off-canvas navigations.</small></li>
-</ul>
-
-
-<h2>Web Development</h2>
-
-<ul>
-<li><strong><a href="https://github.com/andismith/grunt-responsive-images">andismith/grunt-responsive-images · GitHub</a></strong>
-  <small>Produce Responsive Images</small></li>
-<li><strong><a href="https://plus.google.com/114450218898660299759/posts/16Hc6VxL3hJ">CSS Sprites vs. Data URIs</a></strong>
-  <small>Eine weitere Untersuchung zeigt, dass man bei der Frontend-Entwicklung für Mobile Devices auf Data-URL verzichten sollte.</small></li>
-<li><strong><a href="http://www.html5rocks.com/en/tutorials/webcomponents/customelements/">Custom Elements: defining new elements in HTML - HTML5 Rocks</a></strong>
-  <small>webcomponents overview</small></li>
-</ul>
-
-
-<h2>Mobile Webdevelopment</h2>
-
-<ul>
-<li><strong><a href="http://mozilla.github.io/brick/">Brick</a></strong>
-  <small>UI Components for Modern Web Apps</small></li>
-</ul>
-
-
-<h2>Ruby</h2>
-
-<ul>
-<li><strong><a href="http://franck.verrot.fr/blog/2013/08/21/method-definitions-in-ruby-2-1-0-will-not-be-void-anymore/">Method definitions in Ruby 2.1.0 will not be void anymore - Franck Verrot</a></strong>
-  <small>they return the method symbol</small></li>
-</ul>
-
-
-<h2>Node.js</h2>
-
-<ul>
-<li><strong><a href="http://www.ibm.com/developerworks/java/library/mo-nodejs-1/index.html">Developing mobile apps with Node.js and MongoDB, Part 1: A team's methods and results</a></strong>
-  <small>Speeding time to value of systems of engagement</small></li>
-<li><strong><a href="http://www.ibm.com/developerworks/mobile/library/mo-nodejs-2/index.html">Developing mobile apps with Node.js and MongoDB, Part 2: Hints and tips</a></strong>
-  <small>Avoiding the pitfalls of using an alternative stack</small></li>
-<li><strong><a href="https://github.com/tpeden/express-resource-new">tpeden/express-resource-new</a></strong>
-  <small>Clean, rails-like, resourceful routing for Express</small></li>
-</ul>
-
-
-<h2>Scala</h2>
-
-<ul>
-<li><strong><a href="https://github.com/twitter/summingbird">twitter/summingbird</a></strong>
-  <small>Streaming MapReduce with Scalding and Storm https://twitter.com/summingbird</small></li>
-</ul>
-
-
-<h2>Clojure</h2>
-
-<ul>
-<li><strong><a href="https://github.com/Factual/skuld">Factual/skuld</a></strong>
-  <small>Distributed task tracking system.</small></li>
-</ul>
-
-
-<h2>Databases</h2>
-
-<ul>
-<li><strong><a href="http://blog.mongodb.org/post/59757486344/faceted-search-with-mongodb">The MongoDB Blog</a></strong>
-  <small>Faceted search, or faceted navigation, is a way of browsing and searching for items in a set of data by applying filters on various properties (facets) of the items in the collection.</small></li>
-</ul>
-
-
-<h2>Git</h2>
-
-<ul>
-<li><strong><a href="https://github.com/FredrikNoren/ungit">FredrikNoren/ungit</a></strong>
-  <small>The easiest way to use git. On any platform. Anywhere.</small></li>
-</ul>
-
-
-<h2>Watching</h2>
-
-<ul>
-<li><strong><a href="https://www.youtube.com/watch?v=b9HGzJIcfDE">▶ [CSSConfUS 2013] Lea Verou: The Humble Border-radius - YouTube</a></strong>
-  <small>Another great presentation by Lea Verou</small></li>
-</ul>
-
-
-<h2>Miscellaneous</h2>
-
-<ul>
-<li><strong><a href="http://dtrace.org/blogs/bmc/2013/09/03/happy-10th-birthday-dtrace/">The Observation Deck » Happy 10th Birthday, DTrace!</a></strong>
-  <small>Ten years ago this morning — at 10:27a local time, to be exact — DTrace was integrated. </small></li>
-</ul>
-
-
-<h2>Deployment</h2>
-
-<ul>
-<li><strong><a href="http://blog.scoutapp.com/articles/2013/08/28/docker-git-for-deployment">Docker: Git for deployment</a></strong>
-  <small>Finally, an efficient way to simulate our production environment</small></li>
 </ul>
 
 
