@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Interesting-Thingys | yield the dog]]></title>
   <link href="http://yieldthedog.github.com/blog/categories/interesting-thingys/atom.xml" rel="self"/>
   <link href="http://yieldthedog.github.com/"/>
-  <updated>2013-11-14T20:23:49+01:00</updated>
+  <updated>2013-11-22T22:20:01+01:00</updated>
   <id>http://yieldthedog.github.com/</id>
   <author>
     <name><![CDATA[yield the dog]]></name>
@@ -12,6 +12,158 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Interesting Thingys 72]]></title>
+    <link href="http://yieldthedog.github.com/blog/2013/11/22/interesting-thingys-72/"/>
+    <updated>2013-11-22T22:31:00+01:00</updated>
+    <id>http://yieldthedog.github.com/blog/2013/11/22/interesting-thingys-72</id>
+    <content type="html"><![CDATA[<p>Again we have collected a fine collection of great thingys for you. Go check them out.</p>
+
+<!-- More -->
+
+
+<h2>FEATURED</h2>
+
+<ul>
+<li><strong><a href="https://github.com/thomaspeklak/orchestrator">Orchestrator</a></strong>
+  <small>My new pet project for last two weeks. Orchestrator can keep browser windows in sync by propagating scroll, location and interaction events to all connected browsers. Check out the video.</small></li>
+</ul>
+
+
+<h2>JavaScript</h2>
+
+<ul>
+<li><strong><a href="http://tobyho.com/2013/11/05/jsdiff-for-comparing-text/">JSDiff for Comparing Text</a></strong>
+  <small>JSDiff is an implementing of text comparison in Javascript, it is used in Mocha to implement colored diffs, and it's fairly easy to use.</small></li>
+<li><strong><a href="https://github.com/prettymuchbryce/easystarjs">prettymuchbryce/easystarjs</a></strong>
+  <small>easystar.js is an asynchronous A* pathfinding API written in Javascript for use in your HTML5 games and interactive projects. The goal of this project is to make it easy and fast to implement performance conscious pathfinding.</small></li>
+<li><strong><a href="http://bgrins.github.io/videoconverter.js/">videoconverter.js - Convert Videos In Your Web Browser</a></strong>
+  <small>FFMpeg in JavaScript</small></li>
+<li><strong><a href="http://scotch.io/tutorials/javascript/submitting-ajax-forms-the-angularjs-way">Submitting AJAX Forms: The AngularJS Way ♥ Scotch</a></strong>
+  <small>Comparison between jquery and angular form submit</small></li>
+<li><strong><a href="http://clojurescriptkoans.com/">ClojureScript Koans</a></strong>
+  <small>The ClojureScript koans walk you along the path of enlightenment to learning ClojureScript. You will explore the mysteries of the ClojureScript language through a series of interactive exercises in your web browser.</small></li>
+</ul>
+
+
+<h2>CSS</h2>
+
+<ul>
+<li><strong><a href="https://github.com/addyosmani/grunt-uncss">addyosmani/grunt-uncss</a></strong>
+  <small>A grunt task for removing unused CSS from your project builds</small></li>
+</ul>
+
+
+<h2>HTML5</h2>
+
+<ul>
+<li><strong><a href="http://www.html5rocks.com/en/tutorials/forms/html5forms/">Making Forms Fabulous with HTML5 - HTML5 Rocks</a></strong>
+  <small>Overview of the current state of forms</small></li>
+</ul>
+
+
+<h2>Web Development</h2>
+
+<ul>
+<li><strong><a href="http://substack.net/task_automation_with_npm_run">task automation with npm run</a></strong>
+  <small>as an alternative to grunt</small></li>
+</ul>
+
+
+<h2>Mobile Webdevelopment</h2>
+
+<ul>
+<li><strong><a href="https://github.com/DickvdBrink/jsHybugger">DickvdBrink/jsHybugger</a></strong>
+  <small>Javascript Debugger for Android http://www.jshybugger.org</small></li>
+</ul>
+
+
+<h2>Node.js</h2>
+
+<ul>
+<li><strong><a href="https://github.com/mcavage/node-fast">mcavage/node-fast</a></strong>
+  <small>Streaming JSON RPC over TCP</small></li>
+<li><strong><a href="https://github.com/visionmedia/node-ratelimiter">visionmedia/node-ratelimiter</a></strong>
+  <small>Abstract rate limiter for nodejs</small></li>
+<li><strong><a href="https://github.com/jeresig/node-stream-playground">jeresig/node-stream-playground</a></strong>
+  <small>Explore Node.js streams with an interactive playground. http://nodestreams.com/</small></li>
+<li><strong><a href="http://nodestreams.com/">Node.js Stream Playground</a></strong>
+  <small>Learn how to use node.js streams</small></li>
+<li><strong><a href="https://github.com/feross/native-buffer-browserify">feross/native-buffer-browserify</a></strong>
+  <small>The buffer module from node.js, but for browsers.</small></li>
+<li><strong><a href="https://github.com/sidorares/ni">sidorares/ni</a></strong>
+  <small>script to simplify node-inspector debugger workflow</small></li>
+<li><strong><a href="https://github.com/MatthewMueller/nom">MatthewMueller/nom</a></strong>
+  <small>Dead simple site scrapper for Node.js</small></li>
+<li><strong><a href="http://strongloop.com/strongblog/whats-new-in-node-js-v0-12-cluster-round-robin-load-balancing/">StrongLoop | What’s New in Node.js v0.12: Cluster Round-Robin Load Balancing</a></strong>
+  <small> Node core committers Ben Noordhuis and Bert Belder have started a series looking at the new features slated for inclusion in v0.12 of Node. </small></li>
+<li><strong><a href="http://npmjs.eu/">npmjs.eu - European npm mirror</a></strong>
+  <small>Hi! I'm the European npm mirror. I'm based in Hetzner's datacenter in Germany.</small></li>
+</ul>
+
+
+<h2>Go</h2>
+
+<ul>
+<li><strong><a href="https://github.com/codegangsta/martini">codegangsta/martini</a></strong>
+  <small>Martini is a powerful package for quickly writing modular web applications/services in Golang.</small></li>
+<li><strong><a href="https://github.com/codegangsta/cli">codegangsta/cli</a></strong>
+  <small>A small package for building command line apps in Go</small></li>
+<li><strong><a href="https://github.com/jinzhu/now">jinzhu/now</a></strong>
+  <small>Now is a time toolkit for golang</small></li>
+</ul>
+
+
+<h2>Browsers</h2>
+
+<ul>
+<li><strong><a href="http://blog.mariusschulz.com/2013/11/13/advanced-javascript-debugging-with-consoletable">Advanced JavaScript Debugging with console.table()</a></strong>
+  <small>An intro to console.table</small></li>
+</ul>
+
+
+<h2>Watching</h2>
+
+<ul>
+<li><strong><a href="http://2013.cascadiajs.com/videos">CascadiaJS Conference 2013</a></strong>
+  <small>Lots of videos from the conference are online</small></li>
+<li><strong><a href="https://www.youtube.com/watch?v=1aPR43fhIWk">Chrome Dev Summit Live Stream (Day 1) - YouTube</a></strong>
+  <small>Archive of the live stream</small></li>
+</ul>
+
+
+<h2>Reading</h2>
+
+<ul>
+<li><strong><a href="http://info.puppetlabs.com/download-free-continuous-delivery-ebook.html">Continuous Delivery Ebook</a></strong>
+  <small>Free ebook!</small></li>
+</ul>
+
+
+<h2>Miscellaneous</h2>
+
+<ul>
+<li><strong><a href="https://github.com/h5bp/server-configs-nginx">h5bp/server-configs-nginx</a></strong>
+  <small>nginx server config on github</small></li>
+<li><strong><a href="http://hubreports.yougeezer.co.uk/languages">Languages :: hubReports</a></strong>
+  <small>The top languages on Github</small></li>
+</ul>
+
+
+<h2>Raspberry Pi</h2>
+
+<ul>
+<li><strong><a href="http://resin.io/docker-on-raspberry-pi-in-4-simple-steps/">Docker on Raspberry Pi</a></strong>
+  <small>in just 4 simple steps</small></li>
+</ul>
+
+
+<h2>Your link could be here</h2>
+
+<p>If we missed something special or you just want to promote a site, give us a nudge @ <a href='&#109;&#97;&#105;&#108;t&#111;&#58;%7&#57;&#105;eld&#116;%68%65do%67&#64;gmail&#37;2&#69;c&#37;6&#70;m'>y&#105;eldt&#104;&#101;dog&#64;&#103;mail&#46;&#99;&#111;m</a></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Interesting Thingys 71]]></title>
@@ -568,128 +720,6 @@
 <ul>
 <li><strong><a href="http://runnable.com/"> Runnable</a></strong>
   <small>Full-stack code anyone can run from their browser</small></li>
-</ul>
-
-
-<h2>Your link could be here</h2>
-
-<p>If we missed something special or you just want to promote a site, give us a nudge @ <a href='&#109;&#97;&#105;&#108;t&#111;&#58;%7&#57;&#105;eld&#116;%68%65do%67&#64;gmail&#37;2&#69;c&#37;6&#70;m'>y&#105;eldt&#104;&#101;dog&#64;&#103;mail&#46;&#99;&#111;m</a></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Interesting Thingys 67]]></title>
-    <link href="http://yieldthedog.github.com/blog/2013/10/03/interesting-thingys-67/"/>
-    <updated>2013-10-03T10:00:00+02:00</updated>
-    <id>http://yieldthedog.github.com/blog/2013/10/03/interesting-thingys-67</id>
-    <content type="html"><![CDATA[<p>And another round of thingys</p>
-
-<!-- More -->
-
-
-<h2>JavaScript</h2>
-
-<ul>
-<li><strong><a href="http://remysharp.com/2013/09/11/how-i-fixed-an-anonymous-infinite-loop-in-jsbin/">How I fixed an anonymous infinite loop in jsbin</a></strong>
-  <small>Remy Sharp guides through his adventures</small></li>
-<li><strong><a href="http://www.jsdb.io/?sort=trending">JSDB.io - The Database of JavaScript Libraries</a></strong>
-  <small>The definitive source of the best JavaScript frameworks, plugins, and tools</small></li>
-<li><strong><a href="http://angular-gettext.rocketeer.be/">angular-gettext</a></strong>
-  <small>Super-simple translation support for Angular.JS </small></li>
-<li><strong><a href="https://github.com/juliangruber/validimir">juliangruber/validimir</a></strong>
-  <small>Create validation functions</small></li>
-<li><strong><a href="https://github.com/spy-js/spy-js">spy-js/spy-js</a></strong>
-  <small>spy-js: javascript tracing tool http://spy-js.com</small></li>
-</ul>
-
-
-<h2>CSS</h2>
-
-<ul>
-<li><strong><a href="http://philipwalton.github.io/solved-by-flexbox/">Solved By Flexbox</a></strong>
-  <small>I wish I could use it in my daily work</small></li>
-</ul>
-
-
-<h2>HTML5</h2>
-
-<ul>
-<li><strong><a href="http://blog.cloudparty.com/2013/09/19/stunning-procedural-skies-in-webgl-part-1/">Stunning Procedural Skies In WebGL – Part 1</a></strong>
-  <small>nice WebGL demo</small></li>
-</ul>
-
-
-<h2>Web Development</h2>
-
-<ul>
-<li><strong><a href="http://lab.ejci.net/favico.js">favico.js - Make a use of your favicon</a></strong>
-  <small>Make a use of your favicon</small></li>
-<li><strong><a href="https://github.com/teppeis/grunt-parallelize">teppeis/grunt-parallelize</a></strong>
-  <small>This plugin divides src files of your task and executes them in parallel.</small></li>
-<li><strong><a href="http://www.thomasboyt.com/2013/09/01/maintainable-grunt.html">More maintainable Gruntfiles</a></strong>
-  <small>A simple way to organize your tasks</small></li>
-<li><strong><a href="http://lodash.com/custom-builds">Lo-Dash 2.0</a></strong>
-  <small>modularized and custom builds (with grunt plugin)</small></li>
-<li><strong><a href="http://gorkamolero.com/work/thought/Web-performance-2.html">Web performance 2.0</a></strong>
-  <small>A thorough roundup on how responsive design implementations effect performance</small></li>
-<li><strong><a href="https://www.google.com/webdesigner/">Google Web Designer</a></strong>
-  <small>Create engaging, interactive HTML5-based designs and motion graphics that can run on any device. </small></li>
-<li><strong><a href="http://gemal.dk/blog/2013/10/02/html5_flash_player_shumway_landed/index.html">gemal.dk - HTML5 Flash Player (Shumway ) landed</a></strong>
-  <small>in Firefox. Plays swfs without flash</small></li>
-<li><strong><a href="http://www.html5rocks.com/en/tutorials/forms/requestautocomplete/">requestAutocomplete - take my money, not my time - HTML5 Rocks</a></strong>
-  <small>a deep dive into autocompletion the HTML5 way</small></li>
-<li><strong><a href="http://alistapart.com/column/performance-matters">Performance Matters</a></strong>
-  <small>An A List Apart's take on web performance</small></li>
-<li><strong><a href="http://2013.jsconf.eu/speakers/tom-wiltzius-and-nat-duca-advanced-jank-busting-in-chrome.html?1">Advanced Jank Busting in Chrome – Nat Duca</a></strong>
-  <small>A must see</small></li>
-</ul>
-
-
-<h2>Node.js</h2>
-
-<ul>
-<li><strong><a href="https://github.com/rvagg/through2">rvagg/through2</a></strong>
-  <small>Tiny wrapper around Node streams2 Transform to avoid explicit subclassing noise</small></li>
-<li><strong><a href="https://github.com/thlorenz/inspect-stream">thlorenz/inspect-stream</a></strong>
-  <small>Inspects a nodejs stream 2 and logs the data that's coming through.</small></li>
-<li><strong><a href="https://github.com/dominictarr/cyphernet">dominictarr/cyphernet</a></strong>
-  <small>secure replicatable tree database.</small></li>
-</ul>
-
-
-<h2>Programming</h2>
-
-<ul>
-<li><strong><a href="http://blog.8thlight.com/uncle-bob/2013/10/01/Dance-You-Imps.html">Dance you Imps! | 8th Light</a></strong>
-  <small>Uncle Bob on ORMs</small></li>
-</ul>
-
-
-<h2>Tools</h2>
-
-<ul>
-<li><strong><a href="http://apievangelist.com/2013/09/24/excel-and-csv-conversion-to-json-and-xml-in-javascript-that-runs-100-on-github/">Excel and CSV Conversion to JSON and XML in JavaScript</a></strong>
-  <small>nice online converter</small></li>
-</ul>
-
-
-<h2>Performance</h2>
-
-<ul>
-<li><strong><a href="http://www.wired.com/opinion/2013/09/designing-for-mobile-means-ditching-deeply-ingrained-pc-instincts/">An Insider's View of Mobile-First Design: Don't Make These Mistakes | Wired Opinion | Wired.com</a></strong>
-  <small>It’s no secret that mobile networks can be much slower than those connected to PCs, and nothing frustrates mobile users more than a long load time. As Instagram co-founder Mike Krieger put it, “Who wants to wait while they’re waiting?”</small></li>
-</ul>
-
-
-<h2>Miscellaneous</h2>
-
-<ul>
-<li><strong><a href="http://stackoverflow.com/questions/14415881/how-to-pair-socks-from-a-pile-efficiently?rq=1">algorithm - How to pair socks from a pile efficiently? - Stack Overflow</a></strong>
-  <small>Optimize your life</small></li>
-<li><strong><a href="https://github.com/blog/1633-3d-file-diffs">github - 3D File Diffs</a></strong>
-  <small>you can now see diffs of 3d objects</small></li>
-<li><strong><a href="https://github.com/google/lmctfy/">google/lmctfy</a></strong>
-  <small>lmctfy is the open source version of Google’s container stack, which provides Linux application containers.</small></li>
 </ul>
 
 

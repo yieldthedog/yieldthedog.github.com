@@ -4,7 +4,7 @@
   <title><![CDATA[yield the dog]]></title>
   <link href="http://yieldthedog.github.com/atom.xml" rel="self"/>
   <link href="http://yieldthedog.github.com/"/>
-  <updated>2013-11-14T20:23:49+01:00</updated>
+  <updated>2013-11-22T22:20:01+01:00</updated>
   <id>http://yieldthedog.github.com/</id>
   <author>
     <name><![CDATA[yield the dog]]></name>
@@ -12,6 +12,158 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Interesting Thingys 72]]></title>
+    <link href="http://yieldthedog.github.com/blog/2013/11/22/interesting-thingys-72/"/>
+    <updated>2013-11-22T22:31:00+01:00</updated>
+    <id>http://yieldthedog.github.com/blog/2013/11/22/interesting-thingys-72</id>
+    <content type="html"><![CDATA[<p>Again we have collected a fine collection of great thingys for you. Go check them out.</p>
+
+<!-- More -->
+
+
+<h2>FEATURED</h2>
+
+<ul>
+<li><strong><a href="https://github.com/thomaspeklak/orchestrator">Orchestrator</a></strong>
+  <small>My new pet project for last two weeks. Orchestrator can keep browser windows in sync by propagating scroll, location and interaction events to all connected browsers. Check out the video.</small></li>
+</ul>
+
+
+<h2>JavaScript</h2>
+
+<ul>
+<li><strong><a href="http://tobyho.com/2013/11/05/jsdiff-for-comparing-text/">JSDiff for Comparing Text</a></strong>
+  <small>JSDiff is an implementing of text comparison in Javascript, it is used in Mocha to implement colored diffs, and it&#8217;s fairly easy to use.</small></li>
+<li><strong><a href="https://github.com/prettymuchbryce/easystarjs">prettymuchbryce/easystarjs</a></strong>
+  <small>easystar.js is an asynchronous A* pathfinding API written in Javascript for use in your HTML5 games and interactive projects. The goal of this project is to make it easy and fast to implement performance conscious pathfinding.</small></li>
+<li><strong><a href="http://bgrins.github.io/videoconverter.js/">videoconverter.js - Convert Videos In Your Web Browser</a></strong>
+  <small>FFMpeg in JavaScript</small></li>
+<li><strong><a href="http://scotch.io/tutorials/javascript/submitting-ajax-forms-the-angularjs-way">Submitting AJAX Forms: The AngularJS Way ♥ Scotch</a></strong>
+  <small>Comparison between jquery and angular form submit</small></li>
+<li><strong><a href="http://clojurescriptkoans.com/">ClojureScript Koans</a></strong>
+  <small>The ClojureScript koans walk you along the path of enlightenment to learning ClojureScript. You will explore the mysteries of the ClojureScript language through a series of interactive exercises in your web browser.</small></li>
+</ul>
+
+
+<h2>CSS</h2>
+
+<ul>
+<li><strong><a href="https://github.com/addyosmani/grunt-uncss">addyosmani/grunt-uncss</a></strong>
+  <small>A grunt task for removing unused CSS from your project builds</small></li>
+</ul>
+
+
+<h2>HTML5</h2>
+
+<ul>
+<li><strong><a href="http://www.html5rocks.com/en/tutorials/forms/html5forms/">Making Forms Fabulous with HTML5 - HTML5 Rocks</a></strong>
+  <small>Overview of the current state of forms</small></li>
+</ul>
+
+
+<h2>Web Development</h2>
+
+<ul>
+<li><strong><a href="http://substack.net/task_automation_with_npm_run">task automation with npm run</a></strong>
+  <small>as an alternative to grunt</small></li>
+</ul>
+
+
+<h2>Mobile Webdevelopment</h2>
+
+<ul>
+<li><strong><a href="https://github.com/DickvdBrink/jsHybugger">DickvdBrink/jsHybugger</a></strong>
+  <small>Javascript Debugger for Android http://www.jshybugger.org</small></li>
+</ul>
+
+
+<h2>Node.js</h2>
+
+<ul>
+<li><strong><a href="https://github.com/mcavage/node-fast">mcavage/node-fast</a></strong>
+  <small>Streaming JSON RPC over TCP</small></li>
+<li><strong><a href="https://github.com/visionmedia/node-ratelimiter">visionmedia/node-ratelimiter</a></strong>
+  <small>Abstract rate limiter for nodejs</small></li>
+<li><strong><a href="https://github.com/jeresig/node-stream-playground">jeresig/node-stream-playground</a></strong>
+  <small>Explore Node.js streams with an interactive playground. http://nodestreams.com/</small></li>
+<li><strong><a href="http://nodestreams.com/">Node.js Stream Playground</a></strong>
+  <small>Learn how to use node.js streams</small></li>
+<li><strong><a href="https://github.com/feross/native-buffer-browserify">feross/native-buffer-browserify</a></strong>
+  <small>The buffer module from node.js, but for browsers.</small></li>
+<li><strong><a href="https://github.com/sidorares/ni">sidorares/ni</a></strong>
+  <small>script to simplify node-inspector debugger workflow</small></li>
+<li><strong><a href="https://github.com/MatthewMueller/nom">MatthewMueller/nom</a></strong>
+  <small>Dead simple site scrapper for Node.js</small></li>
+<li><strong><a href="http://strongloop.com/strongblog/whats-new-in-node-js-v0-12-cluster-round-robin-load-balancing/">StrongLoop | What’s New in Node.js v0.12: Cluster Round-Robin Load Balancing</a></strong>
+  <small> Node core committers Ben Noordhuis and Bert Belder have started a series looking at the new features slated for inclusion in v0.12 of Node. </small></li>
+<li><strong><a href="http://npmjs.eu/">npmjs.eu - European npm mirror</a></strong>
+  <small>Hi! I&#8217;m the European npm mirror. I&#8217;m based in Hetzner&#8217;s datacenter in Germany.</small></li>
+</ul>
+
+
+<h2>Go</h2>
+
+<ul>
+<li><strong><a href="https://github.com/codegangsta/martini">codegangsta/martini</a></strong>
+  <small>Martini is a powerful package for quickly writing modular web applications/services in Golang.</small></li>
+<li><strong><a href="https://github.com/codegangsta/cli">codegangsta/cli</a></strong>
+  <small>A small package for building command line apps in Go</small></li>
+<li><strong><a href="https://github.com/jinzhu/now">jinzhu/now</a></strong>
+  <small>Now is a time toolkit for golang</small></li>
+</ul>
+
+
+<h2>Browsers</h2>
+
+<ul>
+<li><strong><a href="http://blog.mariusschulz.com/2013/11/13/advanced-javascript-debugging-with-consoletable">Advanced JavaScript Debugging with console.table()</a></strong>
+  <small>An intro to console.table</small></li>
+</ul>
+
+
+<h2>Watching</h2>
+
+<ul>
+<li><strong><a href="http://2013.cascadiajs.com/videos">CascadiaJS Conference 2013</a></strong>
+  <small>Lots of videos from the conference are online</small></li>
+<li><strong><a href="https://www.youtube.com/watch?v=1aPR43fhIWk">Chrome Dev Summit Live Stream (Day 1) - YouTube</a></strong>
+  <small>Archive of the live stream</small></li>
+</ul>
+
+
+<h2>Reading</h2>
+
+<ul>
+<li><strong><a href="http://info.puppetlabs.com/download-free-continuous-delivery-ebook.html">Continuous Delivery Ebook</a></strong>
+  <small>Free ebook!</small></li>
+</ul>
+
+
+<h2>Miscellaneous</h2>
+
+<ul>
+<li><strong><a href="https://github.com/h5bp/server-configs-nginx">h5bp/server-configs-nginx</a></strong>
+  <small>nginx server config on github</small></li>
+<li><strong><a href="http://hubreports.yougeezer.co.uk/languages">Languages :: hubReports</a></strong>
+  <small>The top languages on Github</small></li>
+</ul>
+
+
+<h2>Raspberry Pi</h2>
+
+<ul>
+<li><strong><a href="http://resin.io/docker-on-raspberry-pi-in-4-simple-steps/">Docker on Raspberry Pi</a></strong>
+  <small>in just 4 simple steps</small></li>
+</ul>
+
+
+<h2>Your link could be here</h2>
+
+<p>If we missed something special or you just want to promote a site, give us a nudge @ <a href='&#109;&#97;&#105;&#108;t&#111;&#58;%7&#57;&#105;eld&#116;%68%65do%67&#64;gmail&#37;2&#69;c&#37;6&#70;m'>y&#105;eldt&#104;&#101;dog&#64;&#103;mail&#46;&#99;&#111;m</a></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Interesting Thingys 71]]></title>
@@ -2772,182 +2924,6 @@
 <ul>
 <li><strong><a href="http://aanandprasad.com/talks/frippery/">FRiPpery - Aanand Prasad</a></strong>
   <small>functional reactive programming</small></li>
-</ul>
-
-
-<h2>Your link could be here</h2>
-
-<p>If we missed something special or you just want to promote a site, give us a nudge @ <a href='&#109;&#97;&#105;&#108;t&#111;&#58;%7&#57;&#105;eld&#116;%68%65do%67&#64;gmail&#37;2&#69;c&#37;6&#70;m'>y&#105;eldt&#104;&#101;dog&#64;&#103;mail&#46;&#99;&#111;m</a></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Interesting Thingys 52]]></title>
-    <link href="http://yieldthedog.github.com/blog/2013/04/25/interesting-thingys-52/"/>
-    <updated>2013-04-25T23:00:00+02:00</updated>
-    <id>http://yieldthedog.github.com/blog/2013/04/25/interesting-thingys-52</id>
-    <content type="html"><![CDATA[<p>Quite a variety of categories this week…</p>
-
-<!-- More -->
-
-
-<h2>JavaScript</h2>
-
-<ul>
-<li><strong><a href="http://blog.jquery.com/2013/04/18/jquery-2-0-released/">jQuery 2.0 Released | Official jQuery Blog</a></strong>
-  <small>The big 2.0 release</small></li>
-<li><strong><a href="http://binaryjs.com/">BinaryJS - Realtime binary streaming for the web using websockets</a></strong>
-  <small>Realtime binary streaming for the web using websockets</small></li>
-<li><strong><a href="http://subprotocol.com/">Welcome - Sub Protocol</a></strong>
-  <small>An open source physics engine made for constructing 2D dynamic body simulations.</small></li>
-<li><strong><a href="https://github.com/tmcw/englewood.js">tmcw/englewood.js · GitHub</a></strong>
-  <small>dot-density maps in javascript</small></li>
-<li><strong><a href="http://thenittygritty.co/angularjs-pitfalls-using-scopes">AngularJS: 6 Common Pitfalls Using Scopes – TNG - The Nitty Gritty</a></strong>
-  <small>A very interesting read, if you develop SPAs with Angulat.js</small></li>
-<li><strong><a href="http://briantford.com/blog/huuuuuge-angular-apps.html">Building Huuuuuge Apps with AngularJS</a></strong>
-  <small>A very helpful read, if you plan to build bigger Apps with Angular.js</small></li>
-<li><strong><a href="http://www.yearofmoo.com/2013/04/animation-in-angularjs.html">Animation in AngularJS</a></strong>
-  <small>If you miss Animations in Angular.js, you should read this!</small></li>
-</ul>
-
-
-<h2>CSS</h2>
-
-<ul>
-<li><strong><a href="http://www.456bereastreet.com/archive/201304/responsive_drop_shadows/">Responsive drop shadows | 456 Berea Street</a></strong>
-  <small>Examples of responsive drop shadows</small></li>
-<li><strong><a href="http://www.w3.org/TR/css-overflow-3/">CSS Overflow Module Level 3</a></strong>
-  <small>First Public Working Draft</small></li>
-</ul>
-
-
-<h2>Web Development</h2>
-
-<ul>
-<li><strong><a href="http://speckyboy.com/2013/04/18/never-say-wordpress-when-selling-a-web-design-project/">Never Say WordPress When Selling a Web Design Project</a></strong>
-  <small>How to not debate over technology with your clients</small></li>
-<li><strong><a href="https://github.com/codrops/FullscreenLayoutPageTransitions">codrops/FullscreenLayoutPageTransitions · GitHub</a></strong>
-  <small>This responsive layout is based on an initial grid of four boxes. Once a box is clicked, it gets resized to fullscreen and the other boxes scale down and fade out. In the work section we experiment with another transition which is to show a panel by making it appear from the bottom while scaling the current one down. To see it in action, open the work section and click on one of the portfolio items and navigate through them.</small></li>
-</ul>
-
-
-<h2>Mobile Webdevelopment</h2>
-
-<ul>
-<li><strong><a href="http://venturebeat.com/2013/04/17/linkedin-mobile-web-breakup/">Why LinkedIn dumped HTML5</a></strong>
-  <small>Interesting LinkedIn changed their apps to native. Small part performance, bigger memory issues and the big problem tooling support</small></li>
-</ul>
-
-
-<h2>Ruby</h2>
-
-<ul>
-<li><strong><a href="https://github.com/chrismccord/sync">chrismccord/sync · GitHub</a></strong>
-  <small>Real-time Rails Partials</small></li>
-</ul>
-
-
-<h2>Node.js</h2>
-
-<ul>
-<li><strong><a href="http://blog.nodejitsu.com/announcing-opsmezzo">Announcing OpsMezzo — blog.nodejitsu.com</a></strong>
-  <small>After more than 18 months of work, Nodejitsu announced the release of OpsMezzo at TXJS this week, a complete solution to provisioning, orchestration and configuration management.</small></li>
-<li><strong><a href="http://blog.j0.hn/post/48591247017/using-json-in-postgres-and-node-js">Using JSON in Postgres and Node.js</a></strong>
-  <small>Postgres supports JSON natively and can be a good persistence layer for Node.js</small></li>
-</ul>
-
-
-<h2>Objective C</h2>
-
-<ul>
-<li><strong><a href="https://github.com/mneorr/Alcatraz">mneorr/Alcatraz · GitHub</a></strong>
-  <small>The most awesome (and only) Xcode package manager! </small></li>
-<li><strong><a href="https://github.com/tumblr/TMCache">tumblr/TMCache · GitHub</a></strong>
-  <small>Fast parallel object cache for iOS and OS X.</small></li>
-</ul>
-
-
-<h2>Browsers</h2>
-
-<ul>
-<li><strong><a href="http://1997.webhistory.org/www.lists/www-talk.1993q2/0128.html">WWW-Talk Apr-Jun 1993: NCSA Mosaic 1.0 released</a></strong>
-  <small>Mosaic is 20!!!</small></li>
-</ul>
-
-
-<h2>Shell</h2>
-
-<ul>
-<li><strong><a href="http://pempek.net/articles/2013/04/14/maximizing-tmux-pane-new-window/">Maximizing a Tmux Pane To a New Window | PEMPEK.NET</a></strong>
-  <small>A robust version of maximizing / minimizing a tmux pane. Works perfectly in tmux >= 1.6 </small></li>
-<li><strong><a href="http://pempek.net/articles/2013/04/24/vpn-less-persistent-ssh-sessions/">Vpn Less Persistent SSH Sessions</a></strong>
-  <small>Have you ever got tired of reconnecting all your remote sessions and restoring your workplace?</small></li>
-</ul>
-
-
-<h2>Programming</h2>
-
-<ul>
-<li><strong><a href="https://sites.google.com/site/yacoset/Home/signs-that-you-re-a-bad-programmer">Signs that you&#8217;re a bad programmer - Software Engineering Tips</a></strong>
-  <small>very long read</small></li>
-<li><strong><a href="https://sites.google.com/site/yacoset/Home/signs-that-you-re-a-good-programmer">Signs that you&#8217;re a good programmer - Software Engineering Tips</a></strong>
-  <small>the sequel</small></li>
-</ul>
-
-
-<h2>Databases</h2>
-
-<ul>
-<li><strong><a href="http://wiki.postgresql.org/wiki/PGStrom">PGStrom - PostgreSQL wiki</a></strong>
-  <small>Postgres on the GPU</small></li>
-</ul>
-
-
-<h2>Editors</h2>
-
-<ul>
-<li><strong><a href="http://robots.thoughtbot.com/post/48275867281/vim-splits-move-faster-and-more-naturally">Vim Splits - Move Faster and More Naturally</a></strong>
-  <small>some nice tricks for Vim spilts</small></li>
-<li><strong><a href="http://stackoverflow.com/questions/1737163/vim-traversing-text-in-insert-mode">Vim: Traversing text in Insert mode - Stack Overflow</a></strong>
-  <small>Another answer to a Vim question that starts with &#8216;You are doing it wrong&#8217;</small></li>
-<li><strong><a href="http://vimcasts.org/episodes/supercharged-substitution-with-subvert/">Supercharged substitution with :Subvert</a></strong>
-  <small>crazy subsitution with a little help from abolish</small></li>
-</ul>
-
-
-<h2>Watching</h2>
-
-<ul>
-<li><strong><a href="https://vimeo.com/47515968">GeeCON 2012 - Sam Newman - Designing For Rapid Release on Vimeo</a></strong>
-  <small>This talk focuses on the kinds of constraints we should consider when evolving their architecture of our systems in order to enable rapid, frequent release.</small></li>
-<li><strong><a href="http://confreaks.com/videos/2291-larubyconf2013-impressive-ruby-productivity-with-vim-and-tmux">Impressive Ruby Productivity with Vim and Tmux - Chris Hunt - LA Ruby Conference 2013</a></strong>
-  <small>Two of my favorite tools united</small></li>
-<li><strong><a href="http://jumpstartlab.com/news/archives/2013/04/23/the-death-of-ifs">The Death of Ifs</a></strong>
-  <small>no more ifs and case statements</small></li>
-</ul>
-
-
-<h2>Reading</h2>
-
-<ul>
-<li><strong><a href="http://oreilly.com/openbook/">O&#8217;Reilly Open Books Project</a></strong>
-  <small>Free O&#8217;Reilly books</small></li>
-</ul>
-
-
-<h2>Miscellaneous</h2>
-
-<ul>
-<li><strong><a href="http://blog.netdna.com/developer/nginx-performance-tips-with-the-google-pagespeed-team/">Nginx performance tips using ngx_pagespeed | The NetDNA Blog</a></strong>
-  <small>some insights from maxcdn</small></li>
-</ul>
-
-
-<h2>C</h2>
-
-<ul>
-<li><strong><a href="https://github.com/SignalR/SignalR">SignalR/SignalR · GitHub</a></strong>
-  <small>Incredibly simple real-time web for .NET</small></li>
 </ul>
 
 
