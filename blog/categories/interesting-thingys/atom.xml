@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Interesting-Thingys | yield the dog]]></title>
   <link href="http://yieldthedog.github.com/blog/categories/interesting-thingys/atom.xml" rel="self"/>
   <link href="http://yieldthedog.github.com/"/>
-  <updated>2013-11-22T22:20:01+01:00</updated>
+  <updated>2013-11-28T21:39:22+01:00</updated>
   <id>http://yieldthedog.github.com/</id>
   <author>
     <name><![CDATA[yield the dog]]></name>
@@ -12,6 +12,160 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Interesting Thingys 72]]></title>
+    <link href="http://yieldthedog.github.com/blog/2013/11/28/interesting-thingys-73/"/>
+    <updated>2013-11-28T21:45:00+01:00</updated>
+    <id>http://yieldthedog.github.com/blog/2013/11/28/interesting-thingys-73</id>
+    <content type="html"><![CDATA[<p>It's overwhelming how many thingys have gathered in just one week. Go on and dig through them…</p>
+
+<!-- More -->
+
+
+<h2>Featured</h2>
+
+<ul>
+<li><strong><a href="https://scalenpm.org/">Help scale the npm registry - donate | scalenpm.org</a></strong>
+  <small>Most webdevs are using npm in their daily life. Now it's time to give back</small></li>
+</ul>
+
+
+<h2>JavaScript</h2>
+
+<ul>
+<li><strong><a href="http://atmb4u.github.io/AutoJS/">AutoJS by atmb4u</a></strong>
+  <small>AutoJS is a library to continuously autocomplete textarea based on a standard dictionary.</small></li>
+<li><strong><a href="https://medium.com/p/f8ae57e2cec3">Minimizing initialization time in AngularJS — Medium</a></strong>
+  <small>Preloading templates and RESTful resources</small></li>
+<li><strong><a href="http://code.mendhak.com/angular-performance/">AngularJS - Perceived Performance by mendhak</a></strong>
+  <small>What you can do to enhance perceived performance on a single page app</small></li>
+<li><strong><a href="http://blog.mgechev.com/2013/10/01/angularjs-partials-lazy-prefetching-strategy-weighted-directed-graph/">Lazy prefetching of AngularJS partials | Minko Gechev's blog</a></strong>
+  <small>prefetch resources to enable fast apps</small></li>
+<li><strong><a href="https://github.com/timoxley/polyfill-webcomponents">timoxley/polyfill-webcomponents</a></strong>
+  <small>Browserify-compatible web-component polyfills, courtesy of Polymer</small></li>
+<li><strong><a href="https://github.com/mathiasbynens/tpyo">mathiasbynens/tpyo</a></strong>
+  <small>A small script that enables you to make typos in JavaScript property names. Powered by ES6 proxies Levenshtein string distance.</small></li>
+</ul>
+
+
+<h2>CSS</h2>
+
+<ul>
+<li><strong><a href="http://codepen.io/i0z/pen/mFLCw">Zero lines JS game - CodePen</a></strong>
+  <small>only css</small></li>
+</ul>
+
+
+<h2>HTML5</h2>
+
+<ul>
+<li><strong><a href="http://david.li/waves/">Ocean Wave Simulation</a></strong>
+  <small>in webgl</small></li>
+<li><strong><a href="https://hacks.mozilla.org/2013/11/introducing-the-whiteboard-drum-webrtc-and-web-audio-api-magic/">Introducing the Whiteboard Drum</a></strong>
+  <small>WebRTC and Web Audio API magic</small></li>
+<li><strong><a href="http://html5doctor.com/responsive-images-end-of-year-report/">Responsive images – end of year report | HTML5 Doctor</a></strong>
+  <small>Opera’s Bruce Lawson looks at some of the progress made and decisions yet to come in the world of responsive images.</small></li>
+</ul>
+
+
+<h2>Web Development</h2>
+
+<ul>
+<li><strong><a href="https://github.com/component/drop-anywhere">component/drop-anywhere</a></strong>
+  <small>Drag and drop a file anywhere to upload</small></li>
+<li><strong><a href="http://www.icenium.com/blog/icenium-team-blog/2013/11/21/what-exactly-is.....-the-300ms-click-delay">What Exactly Is..... The 300ms Click Delay</a></strong>
+  <small>Where it came from and what you can do about it</small></li>
+<li><strong><a href="http://bgrins.github.io/devtools-snippets/">DevTools Snippets</a></strong>
+  <small>A collection of helpful snippets to use inside of browser devtools</small></li>
+<li><strong><a href="http://www.thecssninja.com/javascript/pointer-events-60fps">60fps scrolling using pointer-events: none | The CSS Ninja - All things CSS, JavaScript</a></strong>
+  <small>just disable pointer events and scrolling gets better</small></li>
+<li><strong><a href="http://snazzymaps.com/">Snazzy Maps</a></strong>
+  <small>Free Styles for Google Maps</small></li>
+<li><strong><a href="http://browserify.org/articles">browserify articles</a></strong>
+  <small>new articles on browserify</small></li>
+<li><strong><a href="http://oreillynet.com/pub/e/2969?cmp=ex-prog-webcast-info-webcast_peter_newsletter">Fluent Online Conference: Beyond JavaScript and HTML5</a></strong>
+  <small>Free online webcast: Learn about front-end frameworks, designing for performance other emerging technologies of the Web Platform</small></li>
+</ul>
+
+
+<h2>Node.js</h2>
+
+<ul>
+<li><strong><a href="https://github.com/dominictarr/npmd">dominictarr/npmd</a></strong>
+  <small>distributed npm client. npmd is an alternative npm client that uses leveldb and local replication to improve performance by eliminating unnecessary network round-trips. </small></li>
+<li><strong><a href="https://github.com/Raynos/http-framework">Raynos/http-framework</a></strong>
+  <small>A web framework based purely on require('http')</small></li>
+<li><strong><a href="https://github.com/rvagg/dnt">rvagg/dnt</a></strong>
+  <small>Use Docker to test code against multiple versions of Node.js simultaneously</small></li>
+<li><strong><a href="https://github.com/nodejitsu/godot">nodejitsu/godot</a></strong>
+  <small>Godot is a streaming real-time event processor based on Riemann written in Node.js</small></li>
+<li><strong><a href="http://www.nearform.com/nodecrunch/how-node-js-has-revolutionized-the-mailonline#.UpehrtFDvUe">How nodejs has revolutionised the mailonline</a></strong>
+  <small>Clifton Cunningham, CTO talks about the stack @ mailonline</small></li>
+<li><strong><a href="http://www.youtube.com/watch?v=41oDDTRWjIQ">▶ Julian Gruber: Level Me up Scotty! - YouTube</a></strong>
+  <small>With all the innovation happening in the "Node.js" database land, and thanks to "npm", we can create a simple, realtime and persistent browser chat application in just a few lines of code, without using any frameworks. Watch Julian Gruber live code it!</small></li>
+<li><strong><a href="https://github.com/deoxxa/npmrc">deoxxa/npmrc</a></strong>
+  <small>Switch between different .npmrc files with ease and grace.</small></li>
+<li><strong><a href="https://github.com/goinstant/secure-filters">goinstant/secure-filters</a></strong>
+  <small>Anti-XSS Security Filters for EJS and More</small></li>
+</ul>
+
+
+<h2>Go</h2>
+
+<ul>
+<li><strong><a href="http://thechangelog.com/on-go-web-application-ecosystem/">On Go's Web Application Ecosystem - The Changelog</a></strong>
+  <small>What do you use when writing a webapp in Go</small></li>
+</ul>
+
+
+<h2>Tools</h2>
+
+<ul>
+<li><strong><a href="http://jagt.github.io/clumsy/">clumsy, an utility for simulating broken network for Windows Vista / Windows 7 and above</a></strong>
+  <small>clumsy makes your network condition on Windows significantly worse, but in a managed and interactive manner.</small></li>
+<li><strong><a href="http://blog.docker.io/2013/11/docker-0-7-docker-now-runs-on-any-linux-distribution/">Docker 0.7</a></strong>
+  <small>With a nice feature list: Feature 1: Standard Linux support Feature 2: Storage drivers Feature 3: Offline transfer Feature 4: Links Feature 5: Container naming Feature 6: Advanced port redirects Feature 7: Quality </small></li>
+</ul>
+
+
+<h2>Security</h2>
+
+<ul>
+<li><strong><a href="https://www.usenix.org/conference/lisa13/os-x-hardening-securing-large-global-mac-fleet">OS X Hardening: Securing a Large Global Mac Fleet | USENIX</a></strong>
+  <small>OS X security is evolving: defenses are improving with each OS release but the days of “Macs don’t get malware” are gone. </small></li>
+</ul>
+
+
+<h2>Watching</h2>
+
+<ul>
+<li><strong><a href="http://2013.cascadiajs.com/speakers/henrik-joreteg">CascadiaJS 2013 Talks - Making WebRTC awesome</a></strong>
+  <small>A 20 minute look at WebRTC’s promises, challenges, and future from Henrik Joreteg.</small></li>
+</ul>
+
+
+<h2>Miscellaneous</h2>
+
+<ul>
+<li><strong><a href="https://github.com/belluzj/cosmic-sans-neue">belluzj/cosmic-sans-neue</a></strong>
+  <small>A font family with a great monospaced variant for programmers.</small></li>
+</ul>
+
+
+<h2>R</h2>
+
+<ul>
+<li><strong><a href="http://adv-r.had.co.nz/">Welcome · Advanced R.</a></strong>
+  <small>This is the in-progress book site for "Advanced R development". The book is designed primarily for R users who want to improve their programming skills and understanding of the language.</small></li>
+</ul>
+
+
+<h2>Your link could be here</h2>
+
+<p>If we missed something special or you just want to promote a site, give us a nudge @ &lt;a href='&#109;&#97;&#105;&#108;t&#111;&#58;%7&#57;&#105;eld&#116;%68%65do%67&#64;gmail&#37;2&#69;c&#37;6&#70;m'&gt;y&#105;eldt&#104;&#101;dog&#64;&#103;mail&#46;&#99;&#111;m&lt;/a&gt;</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Interesting Thingys 72]]></title>
@@ -616,110 +770,6 @@
   <small>no comment</small></li>
 <li><strong><a href="http://mario.ign.com/">IGN presents Museum of Mario</a></strong>
   <small>An interactive experience exploring the many eras of Mario. Turn on the audio and click around to find hidden interactions!</small></li>
-</ul>
-
-
-<h2>Your link could be here</h2>
-
-<p>If we missed something special or you just want to promote a site, give us a nudge @ <a href='&#109;&#97;&#105;&#108;t&#111;&#58;%7&#57;&#105;eld&#116;%68%65do%67&#64;gmail&#37;2&#69;c&#37;6&#70;m'>y&#105;eldt&#104;&#101;dog&#64;&#103;mail&#46;&#99;&#111;m</a></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Interesting Thingys 68]]></title>
-    <link href="http://yieldthedog.github.com/blog/2013/10/10/interesting-thingys-68/"/>
-    <updated>2013-10-10T21:01:00+02:00</updated>
-    <id>http://yieldthedog.github.com/blog/2013/10/10/interesting-thingys-68</id>
-    <content type="html"><![CDATA[<p>A frontend centric Interesting Thingys edition.</p>
-
-<!-- More -->
-
-
-<h2>JavaScript</h2>
-
-<ul>
-<li><strong><a href="http://www.2ality.com/2013/10/console-api.html">The JavaScript console API</a></strong>
-  <small>cross browser consoles explained</small></li>
-<li><strong><a href="https://github.com/mgechev/angularjs-style-guide">mgechev/angularjs-style-guide</a></strong>
-  <small>Community-driven set of best practices for AngularJS application development </small></li>
-<li><strong><a href="http://www.youtube.com/watch?v=V2Q13hzTGmA">[JSConfUS 2013] Domenic Denicola: Boom, Promises/A Was Born - YouTube</a></strong>
-  <small>what they are and how they came about</small></li>
-</ul>
-
-
-<h2>CSS</h2>
-
-<ul>
-<li><strong><a href="http://blog.teamtreehouse.com/thinking-ahead-css-device-adaptation-with-viewport">CSS Device Adaptation with @viewport</a></strong>
-  <small>When we need to adjust a device’s browser viewport, the HTML <meta name="viewport"> tag is usually our go-to solution. But the viewport meta tag is surprisingly “non-normative”––it’s not a formal W3C spec, much less a web standard.</small></li>
-<li><strong><a href="http://www.planningforaliens.com/blog/2013/10/07/flexbox-first/">Flexbox First</a></strong>
-  <small>The Flexbox spec is finally stable, but browser support isn't there yet.</small></li>
-<li><strong><a href="http://updates.html5rocks.com/2013/10/Flexbox-layout-isn-t-slow">Flexbox layout isn't slow - HTML5Rocks Updates</a></strong>
-  <small>messures the performance of the old model versus the new model</small></li>
-</ul>
-
-
-<h2>HTML5</h2>
-
-<ul>
-<li><strong><a href="http://www.html5rocks.com/en/tutorials/webcomponents/yeoman/">Building Web Apps With Yeoman And Polymer - HTML5 Rocks</a></strong>
-  <small>Scaffold your webapps with modern tooling</small></li>
-</ul>
-
-
-<h2>Web Development</h2>
-
-<ul>
-<li><strong><a href="http://4waisenkinder.de/blog/2013/09/28/using-gradient-and-shadows-with-d3-dot-js/">Using SVG gradients and filters with d3.js | 4waisenkinder</a></strong>
-  <small>How to leverage the powers of gradients and filters to visualize stats</small></li>
-<li><strong><a href="https://github.com/collectiveip/prerender">collectiveip/prerender</a></strong>
-  <small>Node server that uses phantomjs to render a javascript-rendered page as HTML. To be used in conjunction with prerender middleware.</small></li>
-</ul>
-
-
-<h2>Ruby</h2>
-
-<ul>
-<li><strong><a href="https://medium.com/p/ba896a142ac">Capistrano Version 3 — Medium</a></strong>
-  <small>what's new in the big 3.0 release...</small></li>
-</ul>
-
-
-<h2>Node.js</h2>
-
-<ul>
-<li><strong><a href="http://dtrace.org/blogs/dap/2013/10/03/node-js-in-production-runtime-log-snooping/">Dave Pacheco's Blog » Node.js in production: runtime log snooping</a></strong>
-  <small>debug messages in production?</small></li>
-<li><strong><a href="http://strongloop.com/strongblog/how-to-heap-snapshots/">StrongLoop | How-to: Heap Snapshots and Handling Node.js Memory Leaks</a></strong>
-  <small>Taking dumps and analyzing them</small></li>
-<li><strong><a href="http://blog.ponyfoo.com/2013/09/26/continuous-development-in-nodejs">Continuous Development in Node.js - Pony Foo</a></strong>
-  <small>automate all the things</small></li>
-<li><strong><a href="https://github.com/hij1nx/level-channels">hij1nx/level-channels</a></strong>
-  <small>A simpler way to selectively stream future or historic changes.</small></li>
-</ul>
-
-
-<h2>Java</h2>
-
-<ul>
-<li><strong><a href="http://www.drdobbs.com/jvm/if-java-is-dying-it-sure-looks-awfully-h/240162390/">If Java Is Dying, It Sure Looks Awfully Healthy | Dr Dobb's</a></strong>
-  <small>The odd, but popular, assertion that Java is dying can be made only in spite of the evidence, not because of it.</small></li>
-</ul>
-
-
-<h2>Reading</h2>
-
-<ul>
-<li><strong><a href="https://engineering.groupon.com/2013/node-js/geekon-i-tier/">I-Tier - Groupon Engineering Blog</a></strong>
-  <small>Groupon moved their whole App from RoR to Node.js</small></li>
-</ul>
-
-
-<h2>Miscellaneous</h2>
-
-<ul>
-<li><strong><a href="http://runnable.com/"> Runnable</a></strong>
-  <small>Full-stack code anyone can run from their browser</small></li>
 </ul>
 
 
