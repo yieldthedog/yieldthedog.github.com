@@ -4,7 +4,7 @@
   <title><![CDATA[yield the dog]]></title>
   <link href="http://yieldthedog.github.com/atom.xml" rel="self"/>
   <link href="http://yieldthedog.github.com/"/>
-  <updated>2013-11-28T21:42:52+01:00</updated>
+  <updated>2013-12-05T22:47:09+01:00</updated>
   <id>http://yieldthedog.github.com/</id>
   <author>
     <name><![CDATA[yield the dog]]></name>
@@ -12,6 +12,94 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Interesting Thingys 74]]></title>
+    <link href="http://yieldthedog.github.com/blog/2013/12/05/interesting-thingys-74/"/>
+    <updated>2013-12-05T22:51:00+01:00</updated>
+    <id>http://yieldthedog.github.com/blog/2013/12/05/interesting-thingys-74</id>
+    <content type="html"><![CDATA[<p>This week we present you a small list of valuable thingys. Read on…</p>
+
+<!-- More -->
+
+
+<h2>JavaScript</h2>
+
+<ul>
+<li><strong><a href="https://github.com/yeoman/grunt-bower-requirejs">yeoman/grunt-bower-requirejs</a></strong>
+  <small>Grunt task - Automagically wire-up installed Bower components into your RequireJS config </small></li>
+<li><strong><a href="https://github.com/loadfive/Knwl.js">loadfive/Knwl.js</a></strong>
+  <small>Find dates, times, emails, phone numbers, links, reading time, even the emotion of the text, or check if it&#8217;s spam. Knwl.js makes it possible to scan through large amounts of text for data that may be of interest.</small></li>
+<li><strong><a href="http://namuol.github.io/cheet.js/">cheet.js - easy easter eggs (konami code, etc) for your site</a></strong>
+  <small>easy easter eggs (konami code, etc) for your site. </small></li>
+<li><strong><a href="https://github.com/wearefractal/wifi-location">wearefractal/wifi-location</a></strong>
+  <small>Triangulate your WiFi signal to guess geolocation</small></li>
+<li><strong><a href="http://resumablejs.com/">Resumable.js, JavaScript magic for simultaneous, stable and resumable uploads</a></strong>
+  <small>It’s a JavaScript library providing multiple simultaneous, stable and resumable uploads via the HTML5 File API.</small></li>
+</ul>
+
+
+<h2>HTML5</h2>
+
+<ul>
+<li><strong><a href="http://perfectionkills.com/exploring-canvas-drawing-techniques/">Perfection kills » Exploring canvas drawing techniques</a></strong>
+  <small>uncountable different techniques to draw lines on a canvas</small></li>
+</ul>
+
+
+<h2>Web Development</h2>
+
+<ul>
+<li><strong><a href="http://tympanus.net/codrops/2013/11/27/svg-icons-ftw/">SVG Icons FTW | Codrops</a></strong>
+  <small>Despite the growing popularity of SVG, its time around and excellent browser support, we have a lack of good vector icon approaches. It&#8217;s time to fill this gap and use SVG as icons in our web projects.</small></li>
+<li><strong><a href="http://www.html5rocks.com/en/tutorials/developertools/mobile/">Chrome DevTools for Mobile: Screencast and Emulation - HTML5 Rocks</a></strong>
+  <small>Developing for mobile should be just as easy as it is developing for desktop.</small></li>
+</ul>
+
+
+<h2>Mobile Development</h2>
+
+<ul>
+<li><strong><a href="https://github.com/MobileChromeApps/mobile-chrome-apps">MobileChromeApps/mobile-chrome-apps</a></strong>
+  <small>Chrome apps on Android and iOS</small></li>
+</ul>
+
+
+<h2>Node.js</h2>
+
+<ul>
+<li><strong><a href="http://pgre.st/">PgREST: Node.js in the Database</a></strong>
+  <small>JSON Document Store</small></li>
+<li><strong><a href="https://github.com/node-app/Nodelike">node-app/Nodelike</a></strong>
+  <small>Node.js-compatible Framework for iOS http://nodeapp.org</small></li>
+<li><strong><a href="https://github.com/substack/still-alive">substack/still-alive</a></strong>
+  <small>the &#8220;still alive&#8221; song from portal in honor of scalenpm.org reaching its goal</small></li>
+<li><strong><a href="https://github.com/Voxer/sse4_crc32">Voxer/sse4_crc32</a></strong>
+  <small>SSE4.2-based hardware accelerated CRC32 calculator</small></li>
+</ul>
+
+
+<h2>Linux</h2>
+
+<ul>
+<li><strong><a href="https://github.com/steeve/boot2docker">steeve/boot2docker</a></strong>
+  <small>boot2docker is a lightweight Linux distribution based on Tiny Core Linux made specifically to run Docker containers. It runs completely from RAM, weights ~38mb and boots in ~5-6s (YMMV).</small></li>
+</ul>
+
+
+<h2>Miscellaneous</h2>
+
+<ul>
+<li><strong><a href="https://github.com/execat/bookmarks">execat/bookmarks</a></strong>
+  <small>A list of interesting open source projects.</small></li>
+</ul>
+
+
+<h2>Your link could be here</h2>
+
+<p>If we missed something special or you just want to promote a site, give us a nudge @ &lt;a href=&#8217;&#109;&#97;&#105;&#108;t&#111;&#58;%7&#57;&#105;eld&#116;%68%65do%67&#64;gmail&#37;2&#69;c&#37;6&#70;m&#8217;&gt;y&#105;eldt&#104;&#101;dog&#64;&#103;mail&#46;&#99;&#111;m&lt;/a&gt;</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Interesting Thingys 73]]></title>
@@ -2810,142 +2898,6 @@
   <small>read on to find out why</small></li>
 <li><strong><a href="http://www.steamclock.com/blog/2013/05/apple-objective-c-javascript-bridge/">Steamclock Software - Apple’s new Objective-C to Javascript Bridge</a></strong>
   <small>will come at 10.9</small></li>
-</ul>
-
-
-<h2>Your link could be here</h2>
-
-<p>If we missed something special or you just want to promote a site, give us a nudge @ <a href='&#109;&#97;&#105;&#108;t&#111;&#58;%7&#57;&#105;eld&#116;%68%65do%67&#64;gmail&#37;2&#69;c&#37;6&#70;m'>y&#105;eldt&#104;&#101;dog&#64;&#103;mail&#46;&#99;&#111;m</a></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Interesting Thingys 54]]></title>
-    <link href="http://yieldthedog.github.com/blog/2013/05/10/interesting-thingys-54/"/>
-    <updated>2013-05-10T22:01:00+02:00</updated>
-    <id>http://yieldthedog.github.com/blog/2013/05/10/interesting-thingys-54</id>
-    <content type="html"><![CDATA[<p>This week Mozilla showed that they are still fighting the performance race, by porting the Unreal engine to JavaScript using asm.js.</p>
-
-<!-- More -->
-
-
-<h2>JavaScript</h2>
-
-<ul>
-<li><strong><a href="http://theintern.io/">Intern: A next-generation JavaScript testing stack</a></strong>
-  <small>Run tests using the browser or node.js and seamlessly integrate with SauceLabs or Selenium. Write tests using object, TDD, or BDD styles and get full code coverage reporting with Istanbul. Continuous integration? Intern has you covered with Travis CI support out-of-the-box.</small></li>
-<li><strong><a href="http://marijnhaverbeke.nl/blog/tern.html">Tern</a></strong>
-  <small>How tern works</small></li>
-<li><strong><a href="http://gamua.com/blog/2013/05/a-bird-for-the-modern-web/">Starling.js</a></strong>
-  <small>JS game development</small></li>
-<li><strong><a href="http://jonobr1.github.io/two.js/">Two.js</a></strong>
-  <small>Two.js is a two-dimensional drawing api geared towards modern web browsers. It is renderer agnostic enabling the same api to draw in multiple contexts: svg, canvas, and webgl.</small></li>
-<li><strong><a href="http://js1k.com/2013-spring/">js1k.com - A jumpy js competition</a></strong>
-  <small>Winners are announced</small></li>
-<li><strong><a href="https://github.com/phoboslab/jsmpeg">phoboslab/jsmpeg · GitHub</a></strong>
-  <small>MPEG1 Video Decoder in JavaScript</small></li>
-</ul>
-
-
-<h2>HTML5</h2>
-
-<ul>
-<li><strong><a href="http://news.turbulenz.com/post/49430669886/turbulenz-engine-goes-open-source">Turbulenz Engine Goes Open Source</a></strong>
-  <small>The powerful and formerly commercial &#8216;Turbulenz&#8217; HTML5 game development engine is now open source. </small></li>
-<li><strong><a href="http://www.html5rocks.com/en/tutorials/speed/unnecessary-paints/">Avoiding Unnecessary Paints - HTML5 Rocks</a></strong>
-  <small>Painting the elements for a site or application can get be really expensive, and it can have a negative knock-on effect on our runtime performance.</small></li>
-</ul>
-
-
-<h2>Node.js</h2>
-
-<ul>
-<li><strong><a href="https://github.com/tlrobinson/long-stack-traces">tlrobinson/long-stack-traces · GitHub</a></strong>
-  <small>Long stacktraces for V8 implemented in user-land JavaScript. Supports Chrome/Chromium and Node.js.</small></li>
-<li><strong><a href="https://github.com/Colingo/continuable-hash">Colingo/continuable-hash · GitHub</a></strong>
-  <small>Turn a hash of continuables into a continuable containing a hash of values</small></li>
-<li><strong><a href="https://github.com/alexmic/mongoose-fakery#__sid=0">alexmic/mongoose-fakery · GitHub</a></strong>
-  <small>mongoose-fakery provides an easy fixture replacement method and random data generators.</small></li>
-</ul>
-
-
-<h2>Objective C</h2>
-
-<ul>
-<li><strong><a href="https://github.com/mysterioustrousers/MTAnimation">mysterioustrousers/MTAnimation · GitHub</a></strong>
-  <small>The animation library everyone&#8217;s been waiting for</small></li>
-</ul>
-
-
-<h2>Go</h2>
-
-<ul>
-<li><strong><a href="https://github.com/mozilla-services/heka">mozilla-services/heka · GitHub</a></strong>
-  <small>Data Acquisition and Processing Made Easy</small></li>
-</ul>
-
-
-<h2>Programming</h2>
-
-<ul>
-<li><strong><a href="http://bigocheatsheet.com/">Big-O Algorithm Complexity Cheat Sheet</a></strong>
-  <small> This webpage covers the space and time Big-O complexities of common algorithms used in Computer Science.</small></li>
-</ul>
-
-
-<h2>Git</h2>
-
-<ul>
-<li><strong><a href="http://blogs.atlassian.com/2013/05/git-tig/">git? tig! | Atlassian Blogs</a></strong>
-  <small>Enter tig. tig is a text-mode, ncurses-based UI for git. In short, it is the mutt to your Outlook, the Vim to your Emacs, the w3m to your Firefox.</small></li>
-</ul>
-
-
-<h2>Editors</h2>
-
-<ul>
-<li><strong><a href="https://github.com/AshleyF/VimSpeak">AshleyF/VimSpeak · GitHub</a></strong>
-  <small>VimSpeak lets you control Vim with your voice using speech recognition.</small></li>
-</ul>
-
-
-<h2>Tools</h2>
-
-<ul>
-<li><strong><a href="https://github.com/joeyh/etckeeper">joeyh/etckeeper · GitHub</a></strong>
-  <small>store /etc in git </small></li>
-</ul>
-
-
-<h2>Watching</h2>
-
-<ul>
-<li><strong><a href="http://www.youtube.com/watch?v=3TnVl97ZZL8">Postgres Demystified by Craig Kerstiens - YouTube</a></strong>
-  <small>@MountainWest RubyConf 2013</small></li>
-</ul>
-
-
-<h2>Miscellaneous</h2>
-
-<ul>
-<li><strong><a href="https://github.com/ChiperSoft/InterviewThis">ChiperSoft/InterviewThis · GitHub</a></strong>
-  <small>An open source list of developer questions to ask prospective employers</small></li>
-</ul>
-
-
-<h2>Games</h2>
-
-<ul>
-<li><strong><a href="http://www.unrealengine.com/html5/">Epic Citadel</a></strong>
-  <small>Unreal 3d Engine in FF Nightlies</small></li>
-</ul>
-
-
-<h2>Algorithm</h2>
-
-<ul>
-<li><strong><a href="http://weblog.jamisbuck.org/2011/2/7/maze-generation-algorithm-recap">the { buckblogs :here }: Maze Generation: Algorithm Recap</a></strong>
-  <small>Maze Generation</small></li>
 </ul>
 
 
